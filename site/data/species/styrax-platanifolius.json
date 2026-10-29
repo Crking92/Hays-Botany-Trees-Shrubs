@@ -1,0 +1,17 @@
+{
+  "id": "styrax-platanifolius",
+  "family": "Styracaceae",
+  "genus": "Styrax",
+  "scientific_name": "Styrax platanifolius",
+  "common_name": "Sycamoreleaf snowbell",
+  "look_here_first": "Check large leaves and undersides, then look for pendant bell-like flowers and the persistent calyx around fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "37290137401576b1c2157e696aad98a291c8df94de3fa9ce3213158afcc7f85b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

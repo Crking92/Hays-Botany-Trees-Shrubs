@@ -1,0 +1,50 @@
+{
+  "id": "vitis-mustangensis",
+  "family": "Vitaceae",
+  "genus": "Vitis",
+  "scientific_name": "Vitis mustangensis",
+  "common_name": "mustang grape",
+  "look_here_first": "Flip the leaf first. Mustang grape has a dense white-to-rusty woolly tomentum on the lower surface that essentially hides the blade surface and veins. Then confirm broad heart- to kidney-shaped leaves and large dark berries usually 12 mm or more.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "vigorous high-climbing woody vine with shredding bark"
+    },
+    {
+      "label": "Identification",
+      "text": "young branchlets densely to sparsely tomentose"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves broad cordate to nearly reniform, usually unlobed or shallowly lobed but sometimes deeply 3–5-lobed on vigorous shoots"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf underside densely white to rusty tomentose, surface largely concealed by hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaf surface becomes green and much less hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "tendrils or inflorescences occur opposite leaves and at only two consecutive nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "berries usually black or dark red, slightly or not glaucous, commonly 12+ mm"
+    },
+    {
+      "label": "Identification",
+      "text": "berry skin separates from pulp"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Vitis berlandieri: Lower leaf surface is visible and only sparsely hairy to nearly glabrous in V. berlandieri; its fruit is more strongly glaucous and clusters are shorter/compact. Vitis cinerea: V. cinerea has a visible gray/green lower leaf surface with webby and short hairs rather than the solid white felt of V. mustangensis, and its berries are much smaller. Vitis palmata: V. palmata has uniformly red/purplish branchlets and usually deeply lobed glabrous leaves, not a white-felted underside."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "98b158fc4d54476aa870f595807c5a615d7762f43e549ad444490d99173db82c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

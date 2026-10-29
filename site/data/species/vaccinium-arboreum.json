@@ -1,0 +1,17 @@
+{
+  "id": "vaccinium-arboreum",
+  "family": "Ericaceae",
+  "genus": "Vaccinium",
+  "scientific_name": "Vaccinium arboreum",
+  "common_name": "Sparkleberry / farkleberry",
+  "look_here_first": "Look for a small tree or shrub with alternate simple leaves, small pale bell-shaped flowers and dark berries; inspect twig bark, leaf margins and fruit persistence.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3868d8595be7d4912820e8307fdfe324cc16e8cfc17d9fb019746bd2588a5fda",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

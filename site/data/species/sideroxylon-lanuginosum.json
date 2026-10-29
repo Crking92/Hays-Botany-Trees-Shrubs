@@ -1,0 +1,46 @@
+{
+  "id": "sideroxylon-lanuginosum",
+  "family": "Sapotaceae",
+  "genus": "Sideroxylon",
+  "scientific_name": "Sideroxylon lanuginosum",
+  "common_name": "Gum Bumelia / Chittamwood / Woolly Buckthorn",
+  "look_here_first": "FLIP A LEAF first: glossy green on top, woolly/felted gray-to-tawny beneath (often stronger on young leaves). Follow an entire smooth-edged leaf to the alternate stem; leaves can cluster on spur shoots and look whorled. Examine short shoots for rigid spine-like tips. Then seek tiny creamy flowers in fascicles or oblong blackish fleshy fruit. Do not demand thorns on every shoot.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "shrub to small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "some short shoots terminate in sharp spine-like tips"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate simple entire leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "young lower leaf surface woolly/tomentose, often tawny"
+    },
+    {
+      "label": "Identification",
+      "text": "older upper leaf surface glossier and less hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "small flowers in fascicles from short shoots"
+    },
+    {
+      "label": "Identification",
+      "text": "dark fleshy fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Look for woolly/tawny leaf undersides plus spine-like short shoots on an alternate-leaved woody plant."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "738cd0ec7aef306ee212f374e85f5c0937aa8b35347176e5882b3eff78002e43",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

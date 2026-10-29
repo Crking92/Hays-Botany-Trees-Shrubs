@@ -1,0 +1,50 @@
+{
+  "id": "ulmus-americana",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "scientific_name": "Ulmus americana",
+  "common_name": "American elm",
+  "look_here_first": "Start with the big asymmetric leaf and the spring samara: American elm has relatively large double-serrate leaves with a strongly uneven base, then a flat oval samara with a ciliate margin and a deep apical notch.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "large deciduous elm, often developing a vase-shaped crown"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves mostly >7 cm, ovate to elliptic with strongly oblique base"
+    },
+    {
+      "label": "Identification",
+      "text": "margins coarsely double-serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaf surface glabrous to pubescent, often with tufts in vein axils"
+    },
+    {
+      "label": "Identification",
+      "text": "branchlets normally not corky-winged"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers before leaf-out in spring on slender pedicels"
+    },
+    {
+      "label": "Identification",
+      "text": "oval spring samara with seed near center, ciliate margin, and a deep apical notch"
+    },
+    {
+      "label": "Elm training",
+      "text": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a55dd498923a92821900528c541ef8f6efa44456b07028d974d7f62624237780",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

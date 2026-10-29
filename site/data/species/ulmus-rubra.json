@@ -1,0 +1,50 @@
+{
+  "id": "ulmus-rubra",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "scientific_name": "Ulmus rubra",
+  "common_name": "Slippery elm",
+  "look_here_first": "Rub the leaf and inspect the bud: slippery elm has a thick, sandpaper-rough leaf plus reddish bud scales with red/tawny hairs; the inner bark is mucilaginous, but bark damage is not required for field ID.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous elm of rich streambanks and moist slopes near the western edge of its Texas range"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves large, thick, strongly asymmetric and double-serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaf surface extremely rough/scabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "lower surface pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "bud scales reddish with red-tomentose margins"
+    },
+    {
+      "label": "Identification",
+      "text": "inner bark mucilaginous/slippery"
+    },
+    {
+      "label": "Identification",
+      "text": "spring samara relatively large; margin not ciliate, body characteristically pubescent"
+    },
+    {
+      "label": "Elm training",
+      "text": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "698c6fc00745b6d0bc4ffcb093720851eecbd7269bf85a41dfa8f3cf0126b0e6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "toxicodendron-radicans",
+  "family": "Anacardiaceae",
+  "genus": "Toxicodendron",
+  "scientific_name": "Toxicodendron radicans",
+  "common_name": "Poison ivy",
+  "look_here_first": "Recognize the three leaflets, alternate compound leaves, and climbing or trailing stems; leaflets vary in teeth and lobing. Avoid direct contact: urushiol can cause severe contact dermatitis.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ed15a53654e4cf0164fe4ce5e6e8e30e1e4ede2183d44f0faeccd6f6be10f06a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ulmus-parvifolia",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "scientific_name": "Ulmus parvifolia",
+  "common_name": "Chinese elm",
+  "look_here_first": "Look at bark and leaf texture together: Chinese elm has distinctive exfoliating mottled tan/orange/gray bark and small glossy, mostly singly serrate leaves; it flowers and fruits in late summer-fall.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "introduced Asian elm, often planted and sometimes naturalized"
+    },
+    {
+      "label": "Identification",
+      "text": "mature bark exfoliates in irregular plates creating mottled tan, orange, gray and olive patches"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves small, dark, lustrous/glabrous above, mostly singly serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "twigs generally not corky-winged"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers in late summer to early fall"
+    },
+    {
+      "label": "Identification",
+      "text": "small glabrous samara; seed nearly fills samara"
+    },
+    {
+      "label": "Identification",
+      "text": "disturbed-site escape/naturalization makes it a useful field comparison"
+    },
+    {
+      "label": "Elm training",
+      "text": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2373760780d099d100b10928679a28c8a112f56f99627acef5357b7f7ee37b03",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

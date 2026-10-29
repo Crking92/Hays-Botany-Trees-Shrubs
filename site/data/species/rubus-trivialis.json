@@ -1,0 +1,70 @@
+{
+  "id": "rubus-trivialis",
+  "family": "Rosaceae",
+  "genus": "Rubus",
+  "scientific_name": "Rubus trivialis",
+  "common_name": "Southern dewberry",
+  "look_here_first": "Follow a trailing or arching cane and find the backward-curved prickles. Then inspect the alternate 3–5-foliolate leaves with stipules, the white 5-petaled flower with a shallow hypanthium and many stamens/pistils, and finally the black aggregate fruit made of many tiny drupelets.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "woody trailing/arching bramble forming low tangles or thickets"
+    },
+    {
+      "label": "Identification",
+      "text": "stems with backward-curved to straight prickles"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate, stipulate, usually 3–5 foliolate and appearing palmately compound"
+    },
+    {
+      "label": "Identification",
+      "text": "white radial flower with 5 petals and a shallow dish-like hypanthium"
+    },
+    {
+      "label": "Identification",
+      "text": "100+ free stamens in detailed local treatment"
+    },
+    {
+      "label": "Identification",
+      "text": "many free superior pistils on a conic receptacle"
+    },
+    {
+      "label": "Identification",
+      "text": "aggregate fruit composed of many fleshy one-stoned drupelets"
+    },
+    {
+      "label": "Identification",
+      "text": "ripe aggregate fruit black with dark red juicy pulp"
+    },
+    {
+      "label": "Stem",
+      "text": "Tough trailing/arching canes bear broad-based prickles; use this with leaf and fruit characters rather than calling every thorny vine a Rubus."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, stipulate, 3–5-foliolate leaves with serrate leaflets; prickles may occur on petiole/rachis as well as stems."
+    },
+    {
+      "label": "Flower",
+      "text": "Five white petals, five reflexed sepals, numerous free stamens, and many separate superior pistils sit on/inside a shallow hypanthium."
+    },
+    {
+      "label": "Fruit",
+      "text": "Each flower produces an aggregate of roughly a dozen to several dozen fleshy drupelets; each drupelet contains a hard stone."
+    },
+    {
+      "label": "Family training",
+      "text": "Excellent Rosaceae anchor because it shows stipules + hypanthium + many stamens + many free carpels + aggregate fruit in one local plant."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7cae10f20349ef2fd4ff605d5d29c72f78528e01ed78011d92424875e6cc1464",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

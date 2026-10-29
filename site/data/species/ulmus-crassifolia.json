@@ -1,0 +1,50 @@
+{
+  "id": "ulmus-crassifolia",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "scientific_name": "Ulmus crassifolia",
+  "common_name": "Cedar elm",
+  "look_here_first": "Look at the calendar and the twig before the leaf: cedar elm is a fall-flowering elm with very small rough leaves; corky twig wings, when present, can continue around the leaf node.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous Texas elm; often common on limestone and clay"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves small, generally under about 5 cm, often obovate/elliptic and bluntish"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaf surface dark and distinctly rough/scabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "lower surface and petiole hairy"
+    },
+    {
+      "label": "Identification",
+      "text": "young twigs may develop thin corky wings continuous around nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers in late summer to fall rather than spring"
+    },
+    {
+      "label": "Identification",
+      "text": "small oval samara hairy over the body/edge and deeply notched at apex"
+    },
+    {
+      "label": "Elm training",
+      "text": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c9f022acf4680f46af65757363cec06c2892f9ab52d032b41336a36836659084",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

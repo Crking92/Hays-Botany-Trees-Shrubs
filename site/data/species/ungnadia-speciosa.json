@@ -1,0 +1,62 @@
+{
+  "id": "ungnadia-speciosa",
+  "family": "Sapindaceae",
+  "genus": "Ungnadia",
+  "scientific_name": "Ungnadia speciosa",
+  "common_name": "Mexican buckeye",
+  "look_here_first": "Start with the leaves and fruit. Mexican buckeye has alternate odd-pinnately compound leaves, usually with several broad serrate leaflets, and a distinctive three-lobed woody capsule containing large glossy dark seeds. Pink spring flowers often appear before or with the new foliage.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate, odd-pinnately compound, without stipules"
+    },
+    {
+      "label": "Identification",
+      "text": "typically several broad serrate leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "showy pink to rose-purple spring flowers, often before full leaf-out"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit a conspicuous three-lobed/three-valved woody capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "large glossy dark-brown to black seeds held inside the capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "not a true Aesculus buckeye despite the common name"
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate odd-pinnately compound leaves with opposite leaflet pairs plus a terminal leaflet; petiole base has a pulvinus."
+    },
+    {
+      "label": "Flower",
+      "text": "Pink spring flowers are borne in clusters and are a useful seasonal cue, but fruit architecture is stronger for confirming the genus."
+    },
+    {
+      "label": "Fruit",
+      "text": "A woody, usually three-lobed capsule that splits to expose large shiny dark seeds."
+    },
+    {
+      "label": "Field tip",
+      "text": "Do not confuse 'Mexican buckeye' with Aesculus. Ungnadia has alternate pinnately compound leaves and a three-lobed capsule; Aesculus typically has opposite palmately compound leaves."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f8002ff21fb72089fc916538223839664aae5724a778aa86ed3933b5da2bff58",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

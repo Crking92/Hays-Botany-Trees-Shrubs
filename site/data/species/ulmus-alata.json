@@ -1,0 +1,46 @@
+{
+  "id": "ulmus-alata",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "scientific_name": "Ulmus alata",
+  "common_name": "Winged elm",
+  "look_here_first": "Start with the TWIG, not the leaf: regular corky wings on branches are the fastest clue. Then check whether those wings stop abruptly at a leaf node, look for pointed double-serrate leaves, and use SPRING flowers/samaras to separate winged elm from fall-fruiting cedar elm.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous small-to-medium elm"
+    },
+    {
+      "label": "Identification",
+      "text": "paired corky wings commonly develop on young and older branches"
+    },
+    {
+      "label": "Identification",
+      "text": "wings usually terminate abruptly at leaf nodes rather than flowing continuously around them"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves relatively small, pointed, and double-serrate with pinnate elm venation"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers before or around leaf-out in spring"
+    },
+    {
+      "label": "Identification",
+      "text": "small spring samaras with hairy/ciliate margins"
+    },
+    {
+      "label": "Elm training",
+      "text": "Winged elm vs cedar elm: twig wings overlap, so use the node plus season. Winged elm usually has regular wings that end at the node and reproduces in spring; cedar elm may carry corky ridges around nodes and reproduces in late summer-fall."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "45b54d783647a2c441e82b59353b6cde652b5172bbe7cec62ab7f4a5e9a862ec",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sambucus-nigra",
+  "family": "Viburnaceae",
+  "genus": "Sambucus",
+  "scientific_name": "Sambucus nigra",
+  "common_name": "European elder",
+  "look_here_first": "Inspect opposite compound leaves and broad flat-topped flowers or berry clusters; comparison species and geographic origin unresolved.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b51e4755204afe10e7973b905a9ef64dca8048ac5a2585a1ef10178b4ad6628a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

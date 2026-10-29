@@ -1,0 +1,17 @@
+{
+  "id": "schinus-terebinthifolia",
+  "family": "Anacardiaceae",
+  "genus": "Schinus",
+  "scientific_name": "Schinus terebinthifolia",
+  "common_name": "Brazilian peppertree",
+  "look_here_first": "Inspect pinnate leaves, aromatic leaflets, small flowers and clustered red fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "525ea605ddd9fdb85abac82971785514bbd5efe2f69ac289af47ffb296714622",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

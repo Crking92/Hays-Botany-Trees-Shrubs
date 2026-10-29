@@ -1,0 +1,17 @@
+{
+  "id": "thamnosma-texana",
+  "family": "Rutaceae",
+  "genus": "Thamnosma",
+  "scientific_name": "Thamnosma texana",
+  "common_name": "Texas desert rue",
+  "look_here_first": "Look for fine gland-dotted leaves and branchlets, then inspect flowers and dry fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0a9f465105a5c302bd22c1f0960ef0d955c4310083acc9db660273fd30b51e40",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

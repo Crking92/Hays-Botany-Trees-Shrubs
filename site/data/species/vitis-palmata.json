@@ -1,0 +1,50 @@
+{
+  "id": "vitis-palmata",
+  "family": "Vitaceae",
+  "genus": "Vitis",
+  "scientific_name": "Vitis palmata",
+  "common_name": "Catbird grape",
+  "look_here_first": "Check the stem before the fruit: branchlets are uniformly red to purplish-red or chestnut, while leaves are usually deeply 3–5-lobed with long-pointed lobes and nearly glabrous undersides.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "high-climbing woody vine"
+    },
+    {
+      "label": "Identification",
+      "text": "branchlets uniformly red, purplish-red, or chestnut"
+    },
+    {
+      "label": "Identification",
+      "text": "branchlets glabrous or only sparsely cobwebby"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves usually deeply 3–5-lobed with long-acuminate tips"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf undersides glabrous or nearly so"
+    },
+    {
+      "label": "Identification",
+      "text": "young tendrils often red-pigmented"
+    },
+    {
+      "label": "Identification",
+      "text": "berries blue-black to black, roughly 8–10 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "riverbank, slough, and alluvial floodplain habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The combination of red stems, deep lobing, and nearly glabrous lower leaf surfaces separates it from the hairier V. cinerea and more glaucous-fruited V. berlandieri."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8ee8c6a652847d55fd403df03093a82e096a646e5b6b8c2c6106c466bbeabd5c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

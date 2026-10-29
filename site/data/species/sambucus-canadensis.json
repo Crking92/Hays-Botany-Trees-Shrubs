@@ -1,0 +1,58 @@
+{
+  "id": "sambucus-canadensis",
+  "family": "Viburnaceae",
+  "genus": "Sambucus",
+  "scientific_name": "Sambucus canadensis",
+  "common_name": "American black elderberry",
+  "look_here_first": "Start at a stem node: opposite, pinnately compound leaves with serrate leaflets, then a broad terminal cluster of small flowers. Confirm the American elderberry concept from provenance; flower color and leaflet count alone do not separate it from European Sambucus nigra.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Opposite compound leaves, usually with 5–11 serrate leaflets; robust shoots can have twice-compound leaves."
+    },
+    {
+      "label": "Identification",
+      "text": "Broad terminal cymose panicle, typically with five primary rays."
+    },
+    {
+      "label": "Identification",
+      "text": "Small radially symmetric, usually five-part flowers; UT Austin local treatment also allows four-part flowers."
+    },
+    {
+      "label": "Identification",
+      "text": "Purple-black drupes contain 3–5 hard pyrenes (stones)."
+    },
+    {
+      "label": "Habit",
+      "text": "Many-stemmed deciduous shrub or small tree; local flowering specimens about 1.5–4+ m tall."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite and decussate, odd-pinnately compound; leaflet margins serrate."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Terminal, flat-topped to domed panicle of cymes, 75–384 mm across in the UT Austin local treatment; usually five primary rays."
+    },
+    {
+      "label": "Flower",
+      "text": "Flowers 5–6.3 mm across in the local treatment; shallow rotate corolla with 4–5 lobes and stamens; ovary described there as half-inferior."
+    },
+    {
+      "label": "Fruit",
+      "text": "Glossy black, not waxy, drupes about 4.3–5.2 × 5–6.2 mm, with 3–5 hard pyrenes."
+    },
+    {
+      "label": "Lookalike separators",
+      "text": "Viburnum: simple opposite leaves and usually one stone, versus compound elder leaves and multiple pyrenes. Sambucus nigra s.s.: overlapping heads, dark fruit, and leaflet counts; require documented origin or voucher, not a photo-only confident key. S. cerulea: often waxy blue fruit, but wax can rub off."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "846bfa75c82107480b2b5c60f95bf0a5e09e566c6eed5b2958647c3a2fe408f3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "sapindus-drummondii",
+  "family": "Sapindaceae",
+  "genus": "Sapindus",
+  "scientific_name": "Sapindus drummondii",
+  "common_name": "Western soapberry",
+  "look_here_first": "Start with the fruiting branch. Western soapberry has alternate pinnately compound leaves with strongly asymmetric leaflets and clusters of round translucent amber-yellow drupes that often persist into winter. Then confirm the small cream flowers and floral disk.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous small tree, often clonal and thicket-forming"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate, once-pinnately compound, without stipules"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets usually numerous and conspicuously asymmetric at the base"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal leaflet commonly absent"
+    },
+    {
+      "label": "Identification",
+      "text": "small cream to whitish flowers in branched terminal clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "floral disk present around the superior ovary"
+    },
+    {
+      "label": "Identification",
+      "text": "round fleshy one-seeded drupes ripening yellow to amber and becoming translucent"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit clusters often persist after leaf fall"
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate pinnate leaves usually carry many asymmetrical lanceolate leaflets; the missing terminal leaflet and unequal leaflet bases are useful field cues."
+    },
+    {
+      "label": "Flower",
+      "text": "Small pale flowers occur in branched clusters. A floral disk is part of the Sapindaceae reproductive plan."
+    },
+    {
+      "label": "Fruit",
+      "text": "Round one-seeded drupes become yellow to amber and translucent; the saponin-rich pericarp gives the tree its soapberry name."
+    },
+    {
+      "label": "Field tip",
+      "text": "Without fruit, compare the alternate pinnate leaves carefully against Rhus and Pistacia. With fruit, the translucent soapberry drupes are highly distinctive."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0ac3cd89050ddc3e615cc39048e07ece734137d556d54a837a7155ab34e1efe3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

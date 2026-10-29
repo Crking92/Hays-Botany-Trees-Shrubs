@@ -1,0 +1,42 @@
+{
+  "id": "vitis-cinerea",
+  "family": "Vitaceae",
+  "genus": "Vitis",
+  "scientific_name": "Vitis cinerea",
+  "common_name": "Graybark grape",
+  "look_here_first": "Treat this as a taxon-concept check. Strict V. cinerea has angled hairy/cobwebby branchlets, cordate usually shallowly lobed leaves with visible gray-green lower surfaces, and small black berries that are only slightly glaucous.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "high-climbing woody vine"
+    },
+    {
+      "label": "Identification",
+      "text": "branchlets slightly to distinctly angled"
+    },
+    {
+      "label": "Identification",
+      "text": "strict concept branchlets densely short-hairy and cobwebby"
+    },
+    {
+      "label": "Identification",
+      "text": "cordate leaves usually unlobed to shallowly 3-shouldered"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaf surface gray-green and visibly hairy rather than opaque white-felted"
+    },
+    {
+      "label": "Identification",
+      "text": "berries black, roughly 4–8 mm, slightly or not glaucous"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Central Texas Heller's grape should not be called V. cinerea simply because an app uses a broad concept; compare with V. berlandieri first."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5d107d03d14d359824d64b535453077a28d6d71c952e8ad2b41e03f7bb372eaf",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
