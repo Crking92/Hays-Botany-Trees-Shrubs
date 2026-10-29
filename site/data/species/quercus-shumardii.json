@@ -1,0 +1,62 @@
+{
+  "id": "quercus-shumardii",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus shumardii",
+  "common_name": "Shumard oak / Shumard red oak",
+  "look_here_first": "Start with the red-oak leaf architecture: large deciduous leaves with 5–9 deep bristle-tipped lobes and conspicuous tufts of hair in the vein axils beneath. Then confirm with the shallow saucer-shaped acorn cup covering only about one-quarter to one-third of the nut.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "large deciduous red-oak-group tree"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves broadly elliptic to obovate"
+    },
+    {
+      "label": "Identification",
+      "text": "5–9 deep lobes with bristle-tipped teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "upper surface glossy and glabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "lower surface mostly glabrous except for conspicuous hair tufts in vein axils"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal buds gray-brown and often noticeably 5-angled"
+    },
+    {
+      "label": "Identification",
+      "text": "acorns mature in the second year"
+    },
+    {
+      "label": "Identification",
+      "text": "acorn cup shallow saucer-shaped, covering about one-quarter to one-third of nut"
+    },
+    {
+      "label": "Identification",
+      "text": "FNA mature leaf blade usually 100–200 mm long; substantial overlap with other red oaks"
+    },
+    {
+      "label": "Identification",
+      "text": "ripe saucer/cup often 7–12 mm deep and 15–30 mm wide, generally enclosing 1/4–1/3 nut"
+    },
+    {
+      "label": "Oak training",
+      "text": "Separate Shumard oak from Texas red oak by using the whole character set rather than leaf shape alone: Shumard generally has larger leaves, more mesic habitat, prominent vein-axil hair tufts beneath, and a broad shallow cup."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1918e82bca4506530caea8298827e4b854095584f2ca014cd52a224d1ba25694",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

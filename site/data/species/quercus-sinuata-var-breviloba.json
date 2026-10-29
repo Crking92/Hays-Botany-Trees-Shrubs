@@ -1,0 +1,70 @@
+{
+  "id": "quercus-sinuata-var-breviloba",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus sinuata var. breviloba",
+  "common_name": "White Shin Oak",
+  "look_here_first": "Use the whole plant first: a dry-limestone shrub or small multi-stemmed tree, commonly a low thicket. Then inspect bud, mature leaf underside, and ripe acorn cup—the cup scales are flattened, NOT strongly tuberculate. Leaf outline alone is unreliable.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Shrub or small tree usually to about 3–5 m, often forming thickets with multiple trunks near ground level."
+    },
+    {
+      "label": "Bark",
+      "text": "Gray to light brown, flaky to papery and exfoliating."
+    },
+    {
+      "label": "Leaves",
+      "text": "Highly variable, from nearly entire to irregularly toothed or sinuately lobed; underside often has minute appressed stellate hairs."
+    },
+    {
+      "label": "Acorn",
+      "text": "Cup saucer-shaped to shallowly cup-shaped, generally enclosing only about 1/8–1/4 of the nut."
+    },
+    {
+      "label": "Identification",
+      "text": "low thicket-forming habit"
+    },
+    {
+      "label": "Identification",
+      "text": "papery/flaky bark"
+    },
+    {
+      "label": "Identification",
+      "text": "dry limestone setting"
+    },
+    {
+      "label": "Identification",
+      "text": "very shallow saucer cupule"
+    },
+    {
+      "label": "Identification",
+      "text": "FNA variety: commonly 0.5–3(–5) m and multi-stemmed; adult leaf blade typically 30–60 × 20–40 mm."
+    },
+    {
+      "label": "Identification",
+      "text": "Q. sinuata leaf undersides vary from silvery minute appressed stellate hairs to nearly hairless, especially in shade leaves. Do not use apparent hairlessness as a species exclusion."
+    },
+    {
+      "label": "Identification",
+      "text": "FNA species-level twigs about 1–2(–3) mm, mostly glabrous; buds ovoid, 2–3 mm."
+    },
+    {
+      "label": "Identification",
+      "text": "Acorn nut 7–12(–15) mm long; shallow saucer cup about 3–8 mm deep × 8–12 mm broad (varietal description), commonly enclosing around 1/4 nut or less; scales flat and closely appressed."
+    },
+    {
+      "label": "Identification",
+      "text": "Plants along streams can approach intermediates with Q. sinuata var. sinuata; require habit, environment, and multiple organs before assigning variety."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "59e64d7c8eaafdd00af35d4d2fb205a502a2ce9b77ebc5a1e9e59167248cd98f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

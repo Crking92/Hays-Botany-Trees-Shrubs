@@ -1,0 +1,17 @@
+{
+  "id": "morus-alba",
+  "family": "Moraceae",
+  "genus": "Morus",
+  "scientific_name": "Morus alba",
+  "common_name": "White mulberry (introduced)",
+  "look_here_first": "Recognize alternate serrated mulberry leaves, often smooth and variably lobed, with elongated multiple fruits; compare red mulberry using leaf hairs, surface texture and reproductive characteristics, noting hybrids.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e2499d9cf793ff62e43ac50abfbbeb6fbfeade3c1214e4a044c3acf721d01a3b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "rhus-aromatica",
+  "family": "Anacardiaceae",
+  "genus": "Rhus",
+  "scientific_name": "Rhus aromatica",
+  "common_name": "Fragrant sumac",
+  "look_here_first": "Count leaflets first: fragrant sumac has exactly 3. The leaflets are often fan-shaped, lobed or coarsely toothed on a low suckering deciduous shrub.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low winter-deciduous clump-forming or suckering shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves exactly 3-foliolate"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets often fan-shaped, lobed or coarsely toothed"
+    },
+    {
+      "label": "Identification",
+      "text": "compact yellowish flowers appear before or with new leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "female plants produce dark-red hairy drupes"
+    },
+    {
+      "label": "Habit",
+      "text": "Low deciduous suckering shrub."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate; exactly three leaflets."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Ovate to obovate/fan-shaped leaflets, often shallowly to deeply lobed and crenate/coarsely toothed."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Compact yellowish catkin-like clusters before or with leaf-out."
+    },
+    {
+      "label": "Fruit",
+      "text": "Dark-red hairy drupes."
+    },
+    {
+      "label": "Safety comparison",
+      "text": "The Anacardiaceae audit explicitly warns against 'leaves of three = poison ivy.' Use habit, leaflet shape/petiolules and fruit architecture; do not test by sap contact."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3c2b21886da9d40cdad688a8829adc2ceecafeb576b00997b68eac82544afa58",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

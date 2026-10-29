@@ -1,0 +1,34 @@
+{
+  "id": "quercus-phellos",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus phellos",
+  "common_name": "Willow oak",
+  "look_here_first": "Check the leaves first: willow oak has long, narrow, unlobed willow-like blades with smooth margins and a tiny terminal bristle. Then check the small acorns in shallow saucer-like cups.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "narrow linear-lanceolate unlobed leaves, willow-like in outline"
+    },
+    {
+      "label": "Identification",
+      "text": "entire margins with a minute bristle at the leaf tip"
+    },
+    {
+      "label": "Identification",
+      "text": "small acorns held in shallow saucer-shaped cups; mature in two seasons"
+    },
+    {
+      "label": "Identification",
+      "text": "deciduous bottomland red oak"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "be6888fa755ee53742ff461d1b1d61e53e5d3a0e1ca449371793bb3c67d07b24",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

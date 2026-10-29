@@ -1,0 +1,17 @@
+{
+  "id": "philadelphus-texensis",
+  "family": "Hydrangeaceae",
+  "genus": "Philadelphus",
+  "scientific_name": "Philadelphus texensis",
+  "common_name": "Texas mock orange",
+  "look_here_first": "Check opposite leaves, petal and stamen numbers, flower clusters and persistent calyx on fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6ef96e8c9aca9208a0a1abb4b5a09e942b65fa1570cfefe9d71b802f23a04ecb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "prunus-caroliniana",
+  "family": "Rosaceae",
+  "genus": "Prunus",
+  "scientific_name": "Prunus caroliniana",
+  "common_name": "Carolina laurelcherry",
+  "look_here_first": "Think evergreen cherry: a small evergreen tree with glossy leathery alternate leaves, short axillary racemes of small white flowers, black drupes, and a bitter-almond odor when fresh twigs are scratched.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "glossy leathery alternate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "finely serrate leaf margins"
+    },
+    {
+      "label": "Identification",
+      "text": "short axillary racemes of small white flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "black drupes"
+    },
+    {
+      "label": "Identification",
+      "text": "bitter-almond odor from scratched twigs"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Separate from P. serotina by evergreen glossy foliage and shorter axillary racemes; separate from P. mexicana by evergreen habit, glossy leaves, and cherry-like black fruit rather than larger plum-like drupes."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4f881beb106cc97230dfbac55b9cbf3e8c75a8901b2720dd8fb9bdefa0e9418c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

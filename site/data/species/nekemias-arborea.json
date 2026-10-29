@@ -1,0 +1,17 @@
+{
+  "id": "nekemias-arborea",
+  "family": "Vitaceae",
+  "genus": "Nekemias",
+  "scientific_name": "Nekemias arborea",
+  "common_name": "Peppervine",
+  "look_here_first": "Look for multiply compound leaves on a climbing woody vine, then inspect tendrils and fruit clusters.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "79340486edbb20fb999adeb3c5fdd350441a6d6b6876977ef4c110657999ab3a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

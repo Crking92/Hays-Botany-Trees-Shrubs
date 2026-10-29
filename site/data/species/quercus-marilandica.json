@@ -1,0 +1,70 @@
+{
+  "id": "quercus-marilandica",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus marilandica",
+  "common_name": "Blackjack oak",
+  "look_here_first": "Look at adult leaf tips with a loupe: 3–5 broad distal lobes should show small AWNS/bristles (red-oak-group trait). Then check the conspicuous tawny-hairy, often 5-angled terminal buds (5–10 mm), glossy mature upper leaves, and dark bark broken into blocks. Do not rely on a 'duck-foot' leaf alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous red-oak-group tree, often small to medium sized on poor uplands"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf strongly obovate/obtrullate, narrow below and broad toward tip"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 3–5 broad shallow lobes concentrated in distal half"
+    },
+    {
+      "label": "Identification",
+      "text": "lobe tips carry bristles/awns"
+    },
+    {
+      "label": "Identification",
+      "text": "upper surface dark glossy green; lower surface paler and often tawny-pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "mature bark nearly black to dark gray, breaking into thick squarish blocks"
+    },
+    {
+      "label": "Identification",
+      "text": "acorns mature in two seasons"
+    },
+    {
+      "label": "Identification",
+      "text": "Leaf blade typically 70–200 mm long and 70–200 mm wide, strongly broader toward the tip; 3–5 broad shallow lobes and 3–10 awns/bristles."
+    },
+    {
+      "label": "Identification",
+      "text": "Upper surface mature glossy/glabrous; lower surface scurfy to scattered pubescent, not the densely yellowish glandular + stellate combination typical of post oak."
+    },
+    {
+      "label": "Identification",
+      "text": "Terminal buds conic/narrowly ovoid, 5–10 mm long, noticeably 5-angled and tawny-pubescent; twigs about 2–4 mm wide, pubescent to tomentose."
+    },
+    {
+      "label": "Identification",
+      "text": "Acorns mature in second year (biennial); turbinate cup about 6–10 mm high × 13–18 mm broad, enclosing about one-third of nut; scales often free/loose at rim."
+    },
+    {
+      "label": "Identification",
+      "text": "Very dark mature bark in rectangular/irregular blocks; inner bark orangish (a nonessential feature and not a reason to damage a live tree)."
+    },
+    {
+      "label": "Oak training",
+      "text": "Use leaf architecture plus bark/twig/buds and mature acorn/cupule; never identify an oak from leaf silhouette alone."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f48ad87996dcfb8d424e9e2eefd9175ce769403c8a172b1d603067f912d55597",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

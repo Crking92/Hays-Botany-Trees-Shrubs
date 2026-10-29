@@ -1,0 +1,34 @@
+{
+  "id": "quercus-alba",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus alba",
+  "common_name": "White oak",
+  "look_here_first": "Rounded lobes, light gray scaly bark, shallow unfringed acorn cups.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Five to seven rounded bristleless leaf lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "Pale gray flaky bark"
+    },
+    {
+      "label": "Identification",
+      "text": "Shallow unfringed acorn cups"
+    },
+    {
+      "label": "Identification",
+      "text": "Acorns mature in one season"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3ff93d29c8891d30fadf000951b8e68265763b577fdecad05b3a068730078241",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

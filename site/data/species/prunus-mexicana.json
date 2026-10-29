@@ -1,0 +1,66 @@
+{
+  "id": "prunus-mexicana",
+  "family": "Rosaceae",
+  "genus": "Prunus",
+  "scientific_name": "Prunus mexicana",
+  "common_name": "Mexican plum",
+  "look_here_first": "Start with the bark and spur shoots. Mexican plum is a small deciduous tree with gray to orange-brown bark, alternate simple serrate leaves, and clusters of fragrant white flowers on short lateral spur shoots. Then confirm the Rosaceae hypanthium, many free stamens, single superior ovary, and a glaucous purple-gray drupe.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "winter-deciduous small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "bark gray with horizontal lenticels on typical stems, becoming orange-brown and fissured on larger trunks"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate, simple, serrate, stipulate, often short-hairy/velvety when young"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers in small umbel-like clusters on short lateral spur shoots"
+    },
+    {
+      "label": "Identification",
+      "text": "5 white petals arising from the rim of a bell-shaped hypanthium"
+    },
+    {
+      "label": "Identification",
+      "text": "about 30 free stamens in several series"
+    },
+    {
+      "label": "Identification",
+      "text": "single superior one-chambered ovary with one ovule"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit a round glaucous purple-gray drupe with a single stone"
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate simple leaves with early-deciduous stipules; blades broadly elliptic to ovate/obovate and serrate."
+    },
+    {
+      "label": "Flower",
+      "text": "Five petals and many stamens arise from a conspicuous hypanthium; the single pistil sits free inside rather than being fused to the hypanthium."
+    },
+    {
+      "label": "Fruit",
+      "text": "One superior ovary becomes one drupe with a single hard endocarp/stone."
+    },
+    {
+      "label": "Family training",
+      "text": "Excellent Rosaceae comparison against Rubus trivialis: both show a hypanthium and many stamens, but Prunus has one carpel becoming one drupe while Rubus has many free carpels becoming an aggregate of drupelets."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "06dc821e15360eb95427798f31dee6219f2c176b79c47f2d78a7291d0e16ecae",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

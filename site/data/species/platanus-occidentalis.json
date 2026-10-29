@@ -1,0 +1,46 @@
+{
+  "id": "platanus-occidentalis",
+  "family": "Platanaceae",
+  "genus": "Platanus",
+  "scientific_name": "Platanus occidentalis",
+  "common_name": "American Sycamore / Eastern Sycamore",
+  "look_here_first": "Start with the bark and fruiting heads. American sycamore has dramatically exfoliating mottled bark that exposes chalky white to pale tan patches, huge alternate palmately lobed leaves, and round hanging fruiting balls made of many achenes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "large winter-deciduous riparian tree"
+    },
+    {
+      "label": "Identification",
+      "text": "mottled exfoliating bark with white/tan upper trunk patches"
+    },
+    {
+      "label": "Identification",
+      "text": "very large alternate palmately lobed leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "petiole base encloses the axillary bud"
+    },
+    {
+      "label": "Identification",
+      "text": "encircling stipular scar at nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "spherical flower/fruit heads on long peduncles"
+    },
+    {
+      "label": "Identification",
+      "text": "achenes with basal hairs"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Mottled exfoliating bark + giant alternate lobed leaves + spherical hanging fruit heads is the core field package."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c9846da32f236243a4935b6d5e737f7ffcab6fc7be3faf3698e030dde42ac238",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mortonia-greggii",
+  "family": "Celastraceae",
+  "genus": "Mortonia",
+  "scientific_name": "Mortonia greggii",
+  "common_name": "Gregg's mortonia",
+  "look_here_first": "Examine the small leathery shrub leaves, twig arrangement and any capsule-like fruit; check flower structure when present.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "114bb60944ce5732337485747884006971413816c00a2bfcfd89e5ccf28a5cce",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

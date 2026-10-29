@@ -1,0 +1,17 @@
+{
+  "id": "phoradendron-leucarpum",
+  "family": "Santalaceae",
+  "genus": "Phoradendron",
+  "scientific_name": "Phoradendron leucarpum",
+  "common_name": "American mistletoe",
+  "look_here_first": "Evergreen hemiparasite growing on woody branches, with opposite leathery leaves and white berries; inspect nodes, flowers and fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b3ea9b8c2fe709ede8ac1e0bb3b11e03ba03be3273b9095116a1e19ba1e80c14",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

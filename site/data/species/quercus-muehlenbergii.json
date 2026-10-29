@@ -1,0 +1,70 @@
+{
+  "id": "quercus-muehlenbergii",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus muehlenbergii",
+  "common_name": "Chinkapin oak",
+  "look_here_first": "Start with several adult leaves: chinkapin oak has an elongated chestnut-like blade with many regularly spaced teeth, each served by a near-parallel lateral vein; its sharp/forward-pointing teeth have NO red-oak terminal bristle. Turn over the leaf for a pale, minute stellate-hairy surface, and confirm a moderately sized acorn in a NON-fringed cup. Compare bur oak's midleaf waist and shaggy cup.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous medium-to-large white-oak-group tree"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blade obovate to elliptic, usually unlobed to shallowly undulate"
+    },
+    {
+      "label": "Identification",
+      "text": "roughly 8–14 pairs of strong parallel secondary veins ending in regular marginal teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "teeth lack red-oak bristle tips"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaf surface pale/glaucous with minute stellate hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "bark light to medium gray, thin and flaky/scaly"
+    },
+    {
+      "label": "Identification",
+      "text": "acorn matures in one season; cup commonly encloses about one-quarter to one-half of nut"
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves usually 50–150 × 40–80 mm, leathery, obovate or sometimes narrower, margins regularly undulate/serrate, teeth often strongly antrorse (forward-pointing) but lack red-oak bristles."
+    },
+    {
+      "label": "Identification",
+      "text": "Secondary lateral veins usually 10–14 near-parallel pairs reaching evenly spaced marginal teeth; look at multiple mature leaves."
+    },
+    {
+      "label": "Identification",
+      "text": "Abaxial surface pale/glaucous and seemingly nearly glabrous, but minute appressed symmetric 6–10-rayed stellate hairs occur; adaxial mature blades often glossy."
+    },
+    {
+      "label": "Identification",
+      "text": "Acorns commonly 1–2, sessile or on stalk up to 8 mm; cup 4–12 mm deep × 8–22 mm broad, encloses 1/4–1/2 nut; cup scales tuberculate but NOT long-fringed."
+    },
+    {
+      "label": "Identification",
+      "text": "Acorn nut generally 15–20 mm long (range 13–28 mm), 1-year maturation; bur oak nuts often substantially larger."
+    },
+    {
+      "label": "Oak training",
+      "text": "Use leaf architecture plus bark/twig/buds and mature acorn/cupule; never identify an oak from leaf silhouette alone."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ff37339af425ee978c9f364e8d330d784fe1ac3688448ee39338b78daed1b900",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

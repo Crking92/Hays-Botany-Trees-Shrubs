@@ -1,0 +1,42 @@
+{
+  "id": "quercus-canbyi",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus canbyi",
+  "common_name": "Canby oak",
+  "look_here_first": "Think glossy narrow red-oak-type foliage: Canby oak has dark glossy evergreen to semi-evergreen leaves with serrated to bristle-tipped margins and a distinctly horticultural landscape presence in Texas.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen to semi-evergreen tree"
+    },
+    {
+      "label": "Identification",
+      "text": "dark glossy leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins serrated to bristle-tipped"
+    },
+    {
+      "label": "Identification",
+      "text": "often narrower-leaved than common Central Texas native red oaks"
+    },
+    {
+      "label": "Identification",
+      "text": "red-oak-group acorns maturing in the second season"
+    },
+    {
+      "label": "Identification",
+      "text": "commonly encountered as a landscape tree rather than wild native"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Retain only as a nursery/landscape comparison. It is not a project-native oak."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8d598b460da95140a1c4181ffaa7220763a845d704c680f809a8c03fd38abda6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

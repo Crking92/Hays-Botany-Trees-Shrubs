@@ -1,0 +1,17 @@
+{
+  "id": "morus-microphylla",
+  "family": "Moraceae",
+  "genus": "Morus",
+  "scientific_name": "Morus microphylla",
+  "common_name": "Texas mulberry",
+  "look_here_first": "Shrub or small tree with alternate, variable leaves and mulberry fruits; inspect leaf margins and fruit to distinguish other mulberries.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "458bb0c8078e746c0a30667d04f386ca5142d78cb1f2a7aacb12830035d9c3f4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pyrus-calleryana",
+  "family": "Rosaceae",
+  "genus": "Pyrus",
+  "scientific_name": "Pyrus calleryana",
+  "common_name": "Callery pear",
+  "look_here_first": "Glossy, alternate oval leaves with finely toothed edges; clusters of five-petaled white flowers and small rounded fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "785c5e8c7b140f8cc871eae5251cd4aa62264612a30e8a15b23a02195a68a482",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

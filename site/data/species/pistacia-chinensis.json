@@ -1,0 +1,17 @@
+{
+  "id": "pistacia-chinensis",
+  "family": "Anacardiaceae",
+  "genus": "Pistacia",
+  "scientific_name": "Pistacia chinensis",
+  "common_name": "Chinese pistache",
+  "look_here_first": "Look for alternate pinnate leaves bearing multiple pointed leaflets, red-to-blue small drupes in clusters and smooth gray bark on young trunks.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f56e204ead3a8ea6b14aa376181995a6d4b276f08282392d26a534826e38b0dd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

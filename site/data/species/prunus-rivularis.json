@@ -1,0 +1,58 @@
+{
+  "id": "prunus-rivularis",
+  "family": "Rosaceae",
+  "genus": "Prunus",
+  "scientific_name": "Prunus rivularis",
+  "common_name": "Creek plum",
+  "look_here_first": "Start with growth form and the short flowering shoots: creek plum is a clonal, thicket-forming shrub with alternate simple serrate leaves, small white flower clusters on short shoots, and rounded single-stoned plum fruits. Check leaf-margin glands when present, but do not require them on older leaves because they can be shed.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "clonal thicket-forming shrub with spreading shallow roots"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate simple leaves with toothed margins"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf-margin glands may be present but can be shed as leaves mature"
+    },
+    {
+      "label": "Identification",
+      "text": "small white flower clusters borne on short shoots"
+    },
+    {
+      "label": "Identification",
+      "text": "rounded drupe with a single hard stone"
+    },
+    {
+      "label": "Identification",
+      "text": "reviewed UT local treatment describes shoots as not spinescent; do not teach universal thorniness"
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, simple and serrate; glands may occur near the margin but absence on mature leaves is not decisive."
+    },
+    {
+      "label": "Flower",
+      "text": "Small white Prunus flowers clustered on short shoots; confirm the plum/cherry floral plan rather than relying on color."
+    },
+    {
+      "label": "Fruit",
+      "text": "Rounded plum-like drupe containing one stone."
+    },
+    {
+      "label": "Habit",
+      "text": "Usually a clonal thicket-forming shrub rather than the small-tree habit typical of Mexican plum."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f57c5d956910bbcf177f822b2508f164a9d45b44dea4067245cb118ac6e179fa",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

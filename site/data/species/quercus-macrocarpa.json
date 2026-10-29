@@ -1,0 +1,70 @@
+{
+  "id": "quercus-macrocarpa",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus macrocarpa",
+  "common_name": "Bur oak",
+  "look_here_first": "Inspect fruit first when present: bur oak has a large nut buried deeply in a broad mossy cup with soft projecting scale tips forming a shaggy fringe. Without fruit, look for a broad fiddle-shaped leaf with VERY deep middle/proximal sinuses (a narrow waist), then much shallower distal lobes or teeth. Corky wings on some older twigs provide a supporting character.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "large deciduous white-oak-group tree"
+    },
+    {
+      "label": "Identification",
+      "text": "large leaves often broadest toward tip with deep middle sinuses creating a waist"
+    },
+    {
+      "label": "Identification",
+      "text": "upper blade often shallowly lobed beyond the deep middle sinuses"
+    },
+    {
+      "label": "Identification",
+      "text": "twigs may develop corky wings/ridges"
+    },
+    {
+      "label": "Identification",
+      "text": "very large acorns"
+    },
+    {
+      "label": "Identification",
+      "text": "cupule commonly encloses one-half or more of nut and bears long soft fringe around rim"
+    },
+    {
+      "label": "Identification",
+      "text": "acorns mature in one season"
+    },
+    {
+      "label": "Identification",
+      "text": "Adult leaf often 70–150 × 50–130 mm but highly variable (occasionally 310 × 160 mm), deepest sinuses near middle or basal two-thirds, sometimes almost reaching midrib; distal portion broad and less deeply lobed."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaf underside pale to whitish with dense minute appressed stellate hairs; hairs alone may overlap with other white oaks."
+    },
+    {
+      "label": "Identification",
+      "text": "Twigs 2–4 mm, may bear flat radiating corky wings/ridges; buds 2–5(–6) mm, usually glabrous."
+    },
+    {
+      "label": "Identification",
+      "text": "Acorns large: nut generally 25–50 mm long, cup ~15–50 mm deep × 20–60 mm wide enclosing half to seven-eighths or more of nut."
+    },
+    {
+      "label": "Identification",
+      "text": "Cup scales near rim may project 5–10 mm or longer SOFT awns forming unmistakable mossy fringe (fringe reduced in some northern/western populations)."
+    },
+    {
+      "label": "Oak training",
+      "text": "Use leaf architecture plus bark/twig/buds and mature acorn/cupule; never identify an oak from leaf silhouette alone."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4090ff2259d619007a278789622ef1320f5091ec526240069704357dc083bcf2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

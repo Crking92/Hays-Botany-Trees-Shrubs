@@ -1,0 +1,17 @@
+{
+  "id": "photinia-serratifolia",
+  "family": "Rosaceae",
+  "genus": "Photinia",
+  "scientific_name": "Photinia serratifolia",
+  "common_name": "Chinese photinia",
+  "look_here_first": "Look for glossy, finely toothed evergreen leaves and branched clusters of white flowers; a planted introduced comparison.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2025ea2fc61afd26107a03d7cf1a939141b8da7ba464cf51c6e2d2a66cefcded",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "magnolia-grandiflora",
+  "family": "Magnoliaceae",
+  "genus": "Magnolia",
+  "scientific_name": "Magnolia grandiflora",
+  "common_name": "Southern magnolia",
+  "look_here_first": "Look for large glossy evergreen leaves with rusty pubescence underneath and oversized waxy cream flowers; inspect leaf undersides and cone-like aggregated follicles rather than assuming every magnolia is locally native.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3f216f8cc560c46ca1b861113b0199d022ceac7e34e6525a81a9ab30e810e748",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

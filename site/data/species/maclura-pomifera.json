@@ -1,0 +1,46 @@
+{
+  "id": "maclura-pomifera",
+  "family": "Moraceae",
+  "genus": "Maclura",
+  "scientific_name": "Maclura pomifera",
+  "common_name": "Osage orange / Bois d'arc / Bodark / Hedge apple",
+  "look_here_first": "Start at the TWIG, not the hedge apple: alternate simple glossy smooth-edged leaves, stout single sharp AXILLARY THORNS on many young shoots, and white sticky MILKY LATEX where a twig or leaf is already damaged. Only FEMALE trees may develop the giant knobbly green multiple fruit (which can be seedless without nearby male trees). MALE trees may look fruitless all year.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous spiny, often low-branching small to medium tree, often formerly planted in hedges; round/irregular crown; trunk with furrowed interlacing bark."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, simple ovate to elliptic blades, glossy dark green above, 5–13 cm or more, smooth (entire) margins, tapered tips, fine hair mainly beneath in young foliage; deciduous turning yellow in fall. Stipules can be present on young shoots."
+    },
+    {
+      "label": "Thorns",
+      "text": "Young fast-growing shoots often have stout rigid axillary thorns near leaf bases. Some older shoots and thornless ornamental forms lack visible thorns; absence alone does not rule it out."
+    },
+    {
+      "label": "Latex",
+      "text": "Broken petioles/twigs/fruits can release sticky white milky latex; observe existing damage instead of injuring trees for teaching."
+    },
+    {
+      "label": "Flower sex",
+      "text": "Usually dioecious with staminate and pistillate flowers on separate individuals. Staminate flowers in small pendulous greenish spherical/short clustered heads, pistillate flowers in round heads. Individual tiny flowers lack conspicuous petals."
+    },
+    {
+      "label": "Fruit",
+      "text": "The huge rough wrinkled yellow-green globose MULTIPLE FRUIT is formed from many flowers crowded in a female head (syncarp of small drupelets), typically about 8–15 cm across. Female trees may produce fruit without a male nearby, but these fruits will lack viable seeds; nearby male pollen is needed for seed set. Male trees do not bear the giant fruits."
+    },
+    {
+      "label": "Bark wood",
+      "text": "Mature bark irregular deeply fissured; cut heartwood yellow-orange and prized for durable posts and bow making; wood color in an old cut is not a primary non-destructive field key."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "645dfc8e471812241af89198a447bda72b12878f23dd50daa03685881376df93",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

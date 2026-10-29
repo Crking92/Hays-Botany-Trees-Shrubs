@@ -1,0 +1,34 @@
+{
+  "id": "quercus-michauxii",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus michauxii",
+  "common_name": "Swamp chestnut oak",
+  "look_here_first": "Inspect large oval leaves with rounded chestnut-like teeth and dense grayish pubescence beneath; then check the large acorn seated in a shallow cup.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "large oval leaves with coarse rounded teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "dense grayish hair beneath leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "large acorns in shallow bowl-like cups"
+    },
+    {
+      "label": "Identification",
+      "text": "bottomland or stream-bank tree"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f04dedff461f27863f7eb69684f132768a35dfac2cd75b9ca2c8cb194d841e06",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

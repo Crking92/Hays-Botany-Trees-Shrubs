@@ -1,0 +1,70 @@
+{
+  "id": "quercus-laceyi",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus laceyi",
+  "common_name": "Lacey Oak",
+  "look_here_first": "Start with several mature blue-green, glaucous leaves—not a single shade leaf. A broadly rounded or notched tip, pale papery/scaly bark, and a barrel-shaped nut whose ends can look flattened are the useful combination. If the plant is shrubby, compare the twig and cupule carefully with white shin oak.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Small deciduous tree, often on limestone hills, canyons, streamsides, and Edwards Plateau woodlands."
+    },
+    {
+      "label": "Bark",
+      "text": "Light colored, papery or scaly."
+    },
+    {
+      "label": "Leaves",
+      "text": "Blue-green/glaucous, obovate or elliptic; margin entire to shallowly lobed; underside whitish/glaucous with stellate hairs when young."
+    },
+    {
+      "label": "Acorn",
+      "text": "Cup shallow; nut oblong or barrel-shaped and often flattened at both ends."
+    },
+    {
+      "label": "Identification",
+      "text": "blue-green glaucous leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "light papery bark"
+    },
+    {
+      "label": "Identification",
+      "text": "rounded/retuse leaf apex"
+    },
+    {
+      "label": "Identification",
+      "text": "flattened barrel-like acorn"
+    },
+    {
+      "label": "Identification",
+      "text": "FNA: leaf blade typically 40–90 × 30–60 mm; elliptic to obovate, very blue-green and glaucous, usually rounded or retuse at the tip; shade leaves can be deeply lobed."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaf underside initially with erect stellate hairs that often shed as the leaf matures, leaving a pale glaucous surface; do not require permanent dense hairs."
+    },
+    {
+      "label": "Identification",
+      "text": "Twigs initially erect-stellate pubescent, later glabrous; mature buds 1.5–3 mm long."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature acorn typically oblong/barrel-like, 13–15 mm long (range 11–20 mm), often flattened at both ends; cup 4–7 mm deep, moderately tuberculate and enclosing at most about 1/3 nut."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's West Texas landscaping frame is an excellent field example of the blue-green/glaucous leaf surface and lobed foliage. Use that glaucous cast as an early cue, then confirm bark and acorn characters."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c4dd078470e5b3847fd2d301bbf48267a97e0dab3a84b91b4c87710805530efa",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

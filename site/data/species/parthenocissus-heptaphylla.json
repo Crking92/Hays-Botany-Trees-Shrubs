@@ -1,0 +1,17 @@
+{
+  "id": "parthenocissus-heptaphylla",
+  "family": "Vitaceae",
+  "genus": "Parthenocissus",
+  "scientific_name": "Parthenocissus heptaphylla",
+  "common_name": "Sevenleaf creeper",
+  "look_here_first": "Count the leaflets of palmately compound leaves and inspect tendril tips and fruit clusters; avoid assuming every leaf has seven.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b917e780bad5c01e2420396ba7a30a3055cf7c94466724fe3105043eb8d6abd4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

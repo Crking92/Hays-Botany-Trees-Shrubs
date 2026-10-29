@@ -1,0 +1,42 @@
+{
+  "id": "prunus-angustifolia",
+  "family": "Rosaceae",
+  "genus": "Prunus",
+  "scientific_name": "Prunus angustifolia",
+  "common_name": "Chickasaw plum",
+  "look_here_first": "Think thicket-forming plum: slender often thorny branchlets, narrow serrate leaves, white spring flowers before or with leaf-out, and red to yellow plum-like drupes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "thicket-forming shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "slender often thorny branchlets"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow serrate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "white spring flowers before or with leaf-out"
+    },
+    {
+      "label": "Identification",
+      "text": "red to yellow plum-like drupes"
+    },
+    {
+      "label": "Identification",
+      "text": "suckering colony-forming habit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with P. mexicana, Chickasaw plum is usually more thicket-forming and thorny with narrower leaves and a more shrubby/suckering habit."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a1ccc72ad23fd71d3c47665a0f68004a66b7d8c904c55b3b6be4ad4c913ffc68",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

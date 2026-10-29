@@ -1,0 +1,46 @@
+{
+  "id": "rhus-microphylla",
+  "family": "Anacardiaceae",
+  "genus": "Rhus",
+  "scientific_name": "Rhus microphylla",
+  "common_name": "Littleleaf sumac",
+  "look_here_first": "Start with the tiny compound leaves: a thornless densely branched shrub with odd-pinnate leaves made of several very small dull-green leaflets, sometimes on a narrowly winged rachis.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "densely branched thornless shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "odd-pinnate leaves with several very small leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "dull green often hairy leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "rachis sometimes narrowly winged"
+    },
+    {
+      "label": "Identification",
+      "text": "whitish flowers often before or with leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "red clustered drupes"
+    },
+    {
+      "label": "Identification",
+      "text": "dry western/southwestern habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Unlike R. aromatica, leaves are not merely three large fan-shaped leaflets; unlike thorny colima-type shrubs, R. microphylla lacks spines."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a2987b4a94b085ab8a0b7e2c0ad06f5476d77c83f1e9c9aff53b60e2a41c108a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

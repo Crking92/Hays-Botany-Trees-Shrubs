@@ -1,0 +1,34 @@
+{
+  "id": "quercus-nigra",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus nigra",
+  "common_name": "Water oak",
+  "look_here_first": "Inspect several mature leaves from one branch: water oak commonly has a narrow wedge-shaped base and a broader, often shallowly three-lobed bristle-tipped apex. Confirm small second-year acorns in shallow cups.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "variable small wedge- to spatula-shaped leaves, often widest near the tip"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf apex frequently shallowly three-lobed with minute bristle tips"
+    },
+    {
+      "label": "Identification",
+      "text": "small acorns with shallow scaly cups; acorns mature in two seasons"
+    },
+    {
+      "label": "Identification",
+      "text": "deciduous to tardily deciduous bottomland red oak"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "80dede90119621e91d50ae27ce828b01e544fb3a8ad9548bfc1d201ed0735602",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

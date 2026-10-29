@@ -1,0 +1,30 @@
+{
+  "id": "quercus-lyrata",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus lyrata",
+  "common_name": "Overcup oak",
+  "look_here_first": "Look at the deep acorn cup that almost encloses the nut; then examine rounded leaf lobes and pale hairy undersides.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deep enclosing acorn cup"
+    },
+    {
+      "label": "Identification",
+      "text": "rounded leaf lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "pale hairy leaf undersides"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f1d42abf0b47529b70b4a0d87a6ea2357edb03ac9dfc53fc7bbe8780c7d03810",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "quercus-buckleyi",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus buckleyi",
+  "common_name": "Texas Red Oak",
+  "look_here_first": "Start with several mature, NOT juvenile, bristle-tipped leaves. Then check terminal buds (small, scales distinctly ciliate toward tips) and the mature acorn: a relatively deep goblet/cup-shaped cup commonly enclosing 1/3–1/2 of the nut. Compare against Shumard oak's generally larger, shallower-cupped fruits.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous tree to roughly 15 m."
+    },
+    {
+      "label": "Bark",
+      "text": "Gray and smooth to black and furrowed."
+    },
+    {
+      "label": "Leaves",
+      "text": "Broadly elliptic to obovate/circular; usually 7–9 lobes; lobe tips acute to acuminate with numerous awns/bristles; surfaces mostly glabrous and often glossy."
+    },
+    {
+      "label": "Acorn",
+      "text": "Biennial; cup usually goblet- to cup-shaped and covers roughly one-third to one-half of the nut."
+    },
+    {
+      "label": "Identification",
+      "text": "deep bristle-tipped lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "glossy mostly glabrous leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "red-oak style awns"
+    },
+    {
+      "label": "Identification",
+      "text": "biennial acorn"
+    },
+    {
+      "label": "Identification",
+      "text": "FNA adult leaf blade usually 55–100 mm long; glabrous to small tufts beneath at vein axils"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal buds gray-brown/reddish-brown, scales ciliate toward apex"
+    },
+    {
+      "label": "Identification",
+      "text": "mature cup commonly 5–11.5 mm deep and 10–18 mm wide; shape/depth best read on attached ripe acorns"
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's landscaping video gives a direct crown-and-lobed-leaf field view of Texas red oak. A second Edwards Plateau frame shows a rock-wall/chasmophyte oak that Joey calls 'probably Quercus buckleyi'; retain that second frame only as tentative habitat context, not as a definitive species diagnostic."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "47544efd8b9f4b4bd501db711964b2e82e8da3e4dc7b8793d0c310520625733e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

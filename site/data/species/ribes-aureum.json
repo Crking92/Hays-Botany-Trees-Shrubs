@@ -1,0 +1,17 @@
+{
+  "id": "ribes-aureum",
+  "family": "Grossulariaceae",
+  "genus": "Ribes",
+  "scientific_name": "Ribes aureum",
+  "common_name": "Golden currant",
+  "look_here_first": "Recognize a woody shrub with palmately lobed leaves and drooping clusters of fragrant yellow tubular flowers; check smooth berries, leaf glands and thorn absence.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ed31d3a9b471e3c756086f560f8bd1fc54954ce35863eff36987196622b497d6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

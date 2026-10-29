@@ -1,0 +1,17 @@
+{
+  "id": "planera-aquatica",
+  "family": "Ulmaceae",
+  "genus": "Planera",
+  "scientific_name": "Planera aquatica",
+  "common_name": "Water elm",
+  "look_here_first": "Look for small alternate serrated leaves on a wetland tree related to elms; inspect leaf base asymmetry and unusual spiny nutlike fruit for species confirmation.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2529dcfa563ffb186207d65481de7836d376cec34a26967a6f53610107cde889",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

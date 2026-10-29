@@ -1,0 +1,70 @@
+{
+  "id": "quercus-vaseyana",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus vaseyana",
+  "common_name": "Vasey Oak",
+  "look_here_first": "Check leathery evergreen to subevergreen NARROW leaves with a few large teeth (or entire margins), then dark bark peeling in long strips. Confirm a tiny shallow cup with strongly, regularly BUMPY/tuberculate scales; this beats leaf shape by itself.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Evergreen or subevergreen shrub/small tree, commonly on dry limestone slopes and canyons."
+    },
+    {
+      "label": "Bark",
+      "text": "Dark brown, furrowed, exfoliating in long strips."
+    },
+    {
+      "label": "Leaves",
+      "text": "Narrowly lanceolate to oblong, leathery, usually with about 3–5 coarse teeth per side; teeth/lobes mucronate; underside densely stellate-hairy."
+    },
+    {
+      "label": "Acorn",
+      "text": "Cup shallow, with strongly and regularly tuberculate scales; nut small, ovoid to oblong/subcylindric."
+    },
+    {
+      "label": "Identification",
+      "text": "narrow leathery leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "few coarse mucronate teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "dark strip-exfoliating bark"
+    },
+    {
+      "label": "Identification",
+      "text": "strongly tuberculate cupule"
+    },
+    {
+      "label": "Identification",
+      "text": "FNA mature leaf 20–60(–90) × 10–20 mm; narrowly lanceolate/oblong, often 3–5 coarse mucronate-tipped teeth per side but sometimes entire."
+    },
+    {
+      "label": "Identification",
+      "text": "Only 4–6 lateral veins on each side (often branching); lower surface generally densely covered with minute appressed stellate hairs."
+    },
+    {
+      "label": "Identification",
+      "text": "Bud very small, about 1–1.5 mm; bark dark brown, furrowed, shedding in strips; twigs initially short-stellate hairy."
+    },
+    {
+      "label": "Identification",
+      "text": "Acorn cup shallow, approximately 3–4 mm deep by 10 mm wide; cup scales reddish brown, markedly and evenly tuberculate; nut up to roughly 12 mm."
+    },
+    {
+      "label": "Identification",
+      "text": "An old or shade leaf with an entire margin can resemble a live oak; examine bark, lateral veins, and the mature cup."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "611ea09b627a72ed5ef530c269fd66904177b0ee688d6c5a2cc562b539b97a53",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

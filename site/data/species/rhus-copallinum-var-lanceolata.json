@@ -1,0 +1,62 @@
+{
+  "id": "rhus-copallinum-var-lanceolata",
+  "family": "Anacardiaceae",
+  "genus": "Rhus",
+  "scientific_name": "Rhus copallinum var. lanceolata",
+  "common_name": "Flameleaf sumac / Prairie sumac",
+  "look_here_first": "Start with the compound leaf: many narrow lance-shaped leaflets sit along a conspicuously winged rachis. Then confirm the deciduous, clonal shrub/small-tree habit and vivid red fall color.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "many narrow lanceolate leaflets on an odd-pinnate leaf"
+    },
+    {
+      "label": "Identification",
+      "text": "rachis conspicuously winged between leaflet pairs"
+    },
+    {
+      "label": "Identification",
+      "text": "deciduous clonal shrub or small tree with vivid red/orange fall foliage"
+    },
+    {
+      "label": "Identification",
+      "text": "dense terminal panicles produce dark-red hairy flattened drupes"
+    },
+    {
+      "label": "Habit",
+      "text": "Deciduous, thicket-forming shrub or small tree."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate; odd-pinnately compound."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Usually about 13–21 narrow lanceolate leaflets; upper surface darker/glossier, lower surface paler to hairy."
+    },
+    {
+      "label": "Rachis",
+      "text": "Strongly winged between leaflet pairs — one of the fastest field characters."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Dense terminal branched panicles."
+    },
+    {
+      "label": "Fruit",
+      "text": "Dark-red hairy flattened drupes in dense pyramidal clusters."
+    },
+    {
+      "label": "Joey field observation",
+      "text": "Joey Santore video frame labeled Rhus lanceolata shows the compound-leaved small-tree habit; current project taxonomy reconciles that source name to Rhus copallinum var. lanceolata."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d7d2fec0192306c0ded3e73ee4f0f50b9397c659c2e29a65de75d79cde5600a9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

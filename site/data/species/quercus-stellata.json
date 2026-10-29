@@ -1,0 +1,70 @@
+{
+  "id": "quercus-stellata",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus stellata",
+  "common_name": "Post Oak",
+  "look_here_first": "Check multiple mature leaf lobe tips: usually rounded with NO terminal bristle. If the leaf lacks a clear cross-shaped outline, look at thick (2–5 mm), often yellowish, densely stellate-hairy twigs and the harsh/stippled LOWER leaf surface with crowded yellowish glandular hairs plus minute stellate hairs. Confirm small reddish-brown buds (usually ≤4 mm) and scaly light-gray bark.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous tree of dry uplands, ridges, prairies, clays, sands, and limestone hills."
+    },
+    {
+      "label": "Twigs",
+      "text": "Typically thick/yellowish with stellate pubescence; useful when leaf outline is atypical."
+    },
+    {
+      "label": "Leaves",
+      "text": "Frequently cruciform/cross-shaped with broad squarish middle lobes, but shape is variable; lower surface densely harsh with stellate hairs."
+    },
+    {
+      "label": "Acorn",
+      "text": "Cup deeply saucer-shaped and may enclose roughly one-quarter to two-thirds of the nut."
+    },
+    {
+      "label": "Identification",
+      "text": "cruciform leaf when expressed"
+    },
+    {
+      "label": "Identification",
+      "text": "thick yellowish hairy twigs"
+    },
+    {
+      "label": "Identification",
+      "text": "harsh stellate-hairy underside"
+    },
+    {
+      "label": "Identification",
+      "text": "white-oak rounded lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "Leaf blade typically 40–150 × 20–100 mm, lobes rounded or spatulate, distal two lobes often nearly perpendicular to midrib (cross shape variable)."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaf underside includes crowded yellowish glandular hairs and scattered minute 6–8-rayed appressed/semiappressed stellate hairs; often harsh, NOT densely velvety."
+    },
+    {
+      "label": "Identification",
+      "text": "Twigs usually 2–5 mm thick, densely stellate-pubescent, yellowish or grayish; terminal buds reddish brown, to 4 mm, sparsely pubescent."
+    },
+    {
+      "label": "Identification",
+      "text": "Acorn cup deeply saucer-shaped, about 7–12(–18) mm deep × 10–15(–25) mm wide, tightly appressed scales, 1/4–2/3 of nut; nut 10–20 mm long."
+    },
+    {
+      "label": "Identification",
+      "text": "White-oak-group acorns typically mature in the first growing season (annual), unlike blackjack oak's biennial fruit."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4c3c8b043ee530723b6dedb035156f679eb32a0aedb205cb8a181a246764d1ea",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

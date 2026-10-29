@@ -1,0 +1,54 @@
+{
+  "id": "quercus-fusiformis",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus fusiformis",
+  "common_name": "Escarpment Live Oak",
+  "look_here_first": "Start with mature acorn shape plus the scaly cup: Texas live oak often has a narrow, noticeably pointed/spindle-like nut ~20–30 mm long seated in a relatively deep funnel/goblet cup. Combine this with pale appressed-stellate leaf undersides and central Texas limestone habitat; leaf shape or evergreen habit alone is insufficient.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Tree or shrub; often subevergreen; shrubby plants may form large clonal stands."
+    },
+    {
+      "label": "Bark",
+      "text": "Dark brown to black and scaly."
+    },
+    {
+      "label": "Leaves",
+      "text": "Oblong-elliptic to narrowly ovate/lanceolate; margins entire or with a few teeth and often minutely revolute; lower surface pale/whitish from dense appressed stellate hairs."
+    },
+    {
+      "label": "Acorn",
+      "text": "Nut dark brown, often longitudinally striped, subfusiform and acute to narrowly barrel-shaped; cup funnel-, hemispheric-, or deeply goblet-shaped."
+    },
+    {
+      "label": "Identification",
+      "text": "spindle/acute acorn"
+    },
+    {
+      "label": "Identification",
+      "text": "deep cupule"
+    },
+    {
+      "label": "Identification",
+      "text": "subevergreen leathery leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "pale densely hairy leaf underside"
+    },
+    {
+      "label": "Identification",
+      "text": "clonal mottes"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ecd99244947bc5f3773d811167482eea6d17d61e4962471c50ade4bcf8d31186",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

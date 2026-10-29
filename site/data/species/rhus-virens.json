@@ -1,0 +1,62 @@
+{
+  "id": "rhus-virens",
+  "family": "Anacardiaceae",
+  "genus": "Rhus",
+  "scientific_name": "Rhus virens",
+  "common_name": "Evergreen sumac",
+  "look_here_first": "Look for leathery evergreen foliage: alternate compound leaves usually have only 5–9 thick, smooth-edged leaflets that are glossy dark green above.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen to semi-evergreen large shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "odd-pinnate leaves usually with only 5–9 thick leathery leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets entire and glossy dark green above"
+    },
+    {
+      "label": "Identification",
+      "text": "flattened red drupes are covered with red hairs"
+    },
+    {
+      "label": "Habit",
+      "text": "Evergreen to semi-evergreen shrub or small tree."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate; odd-pinnately compound."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Usually 5–9 thick leathery entire leaflets; glossy dark green above, duller beneath."
+    },
+    {
+      "label": "Stem",
+      "text": "Young rachises and stems often reddish."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Compact branched clusters of small creamy-white flowers."
+    },
+    {
+      "label": "Fruit",
+      "text": "Flattened red drupes with red hairs."
+    },
+    {
+      "label": "Joey field observation",
+      "text": "Joey Santore's West Texas pinyon-pine video includes an exact Rhus virens flowering branch frame showing inflorescence plus compound-leaf context."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "541dbb1e814ef63b8a4a5fdab896f421ca1807d899cc10ce986b03d4ed3015b5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

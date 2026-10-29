@@ -1,0 +1,17 @@
+{
+  "id": "rhaphiolepis-indica",
+  "family": "Rosaceae",
+  "genus": "Rhaphiolepis",
+  "scientific_name": "Rhaphiolepis indica",
+  "common_name": "Indian hawthorn",
+  "look_here_first": "Evergreen shrub with alternate leathery toothed leaves, terminal clusters of white-to-pink five-petaled flowers and small dark pomes.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3c1212ddd2b912184fbfb0feb8f72dcb29254f47d94806aa143ed722879d468e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

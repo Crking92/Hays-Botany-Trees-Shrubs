@@ -1,0 +1,42 @@
+{
+  "id": "quercus-virginiana",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus virginiana",
+  "common_name": "Southern live oak",
+  "look_here_first": "Compare leaf breadth, lower-surface pubescence, acorn shape, geography, and Q. fusiformis overlap. Ambiguous Central Texas live oaks should remain unresolved.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen to subevergreen white-oak-group tree"
+    },
+    {
+      "label": "Identification",
+      "text": "leathery simple leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "pale stellate-hairy lower leaf surface"
+    },
+    {
+      "label": "Identification",
+      "text": "one-season acorns"
+    },
+    {
+      "label": "Identification",
+      "text": "typical acorns broadly ovoid to barrel-shaped with blunt or rounded apex"
+    },
+    {
+      "label": "Identification",
+      "text": "hemispheric to goblet-shaped cupule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Q. fusiformis is the priority comparison; geography plus acorn and leaf morphology matters more than any one trait."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9b088d9de584b0f2d43c653f4ef7e9f04ebba797dcd87491f32978a67fe01c5a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "prunus-serotina",
+  "family": "Rosaceae",
+  "genus": "Prunus",
+  "scientific_name": "Prunus serotina",
+  "common_name": "Black Cherry / Escarpment Black Cherry",
+  "look_here_first": "Start with bark, racemes, and leaf glands. Black cherry has alternate finely serrate leaves, elongated racemes of white flowers followed by black drupes, and older bark breaking into dark scaly plates. Local Edwards Plateau plants are commonly the accepted var. eximia.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous tree"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate simple leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "finely serrate leaf margins"
+    },
+    {
+      "label": "Identification",
+      "text": "small petiole glands near blade base"
+    },
+    {
+      "label": "Identification",
+      "text": "elongated racemes of white flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "dark purple-black drupes"
+    },
+    {
+      "label": "Identification",
+      "text": "older bark dark and scaly"
+    },
+    {
+      "label": "Identification",
+      "text": "local Edwards Plateau form commonly var. eximia"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "P. mexicana flowers earlier in showier short clusters before leaf-out and has plum-like fruits. P. caroliniana is evergreen with glossy leaves and short axillary racemes. P. rivularis is a smaller thicket-forming plum."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3dce8090b0374a6c45f333f634b356ee075901cf2234571e470cc0b1f9ed343e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

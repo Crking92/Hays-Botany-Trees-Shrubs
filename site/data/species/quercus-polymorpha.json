@@ -1,0 +1,42 @@
+{
+  "id": "quercus-polymorpha",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus polymorpha",
+  "common_name": "Mexican white oak / Monterrey oak",
+  "look_here_first": "Look for the mostly unlobed to shallowly toothed, leathery evergreen to semi-evergreen leaves. The acorn cup is deeper than in Shumard oak and may enclose roughly half the nut.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen to semi-evergreen oak in cultivation"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves usually unlobed or shallowly toothed rather than deeply lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf shape highly variable"
+    },
+    {
+      "label": "Identification",
+      "text": "acorns borne 1–2 on a stalk"
+    },
+    {
+      "label": "Identification",
+      "text": "cup hemispheric to funnel-shaped and relatively deep"
+    },
+    {
+      "label": "Identification",
+      "text": "cup may enclose about half the nut"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use as a common landscape comparison against local native oaks; do not interpret planted Central Texas specimens as native occurrences."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1e03a18924302ca39857be307eaf2a78c5aa2560a27368f513c96a6fb25607fd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
