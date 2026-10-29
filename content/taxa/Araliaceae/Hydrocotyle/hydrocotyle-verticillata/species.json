@@ -1,0 +1,364 @@
+{
+  "id": "hydrocotyle-verticillata",
+  "family": "Araliaceae",
+  "genus": "Hydrocotyle",
+  "species": "verticillata",
+  "scientific_name": "Hydrocotyle verticillata",
+  "authority": "Thunb.",
+  "common_name": "Whorled pennywort",
+  "look_here_first": "START WITH THE WHOLE FLOWERING STALK, NOT A LEAF. Both dollarweed H. umbellata and H. verticillata have peltate (underside-attached) round scalloped leaves. H. verticillata generally carries SEPARATED SMALL WHORLS (VERTICILS) of tiny flowers or fruits along an elongated axis—like several spaced little rings—rather than the mostly crowded terminal manyflowered umbel of H. umbellata. The lower whorls can be closer together on a young stalk, so follow the ENTIRE stalk and a mature fruit if possible. Branching/long pedicels prompt comparison with H. bonariensis and the legacy triradiata name.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 565",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true
+  },
+  "images": [
+    {
+      "file": "images/hydrocotyle-verticillata-ton-rulkens-leaves.jpg",
+      "role": "peltate leaves and habit",
+      "creator": "Ton Rulkens",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hydrocotyle_verticillata_(14689448529).jpg",
+      "study_use": "private_educational",
+      "public_reuse": "cc_attribution_required_sharealike"
+    },
+    {
+      "file": "images/sam-731566770-habit-with-flowers.jpg",
+      "role": "Recognize it · low mat of peltate circular leaves plus slender flowering stalks, exact source ID research-grade; whole stalk detail may be limited.",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual source iNaturalist photo license_code=cc-by verified 2026-10-20; exact version was not independently confirmed from photo's media rights page.",
+      "source_platform": "iNaturalist Texas research-grade exact-name source",
+      "source_page": "https://www.inaturalist.org/photos/731566770",
+      "source_observation_page": "https://www.inaturalist.org/observations/398778921",
+      "source_photo_id": "731566770",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/731566770/original.jpg",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "original_image_sha256": "83cc7d2cc09ba17451e6549e6fe259782bb8142dfa1d56505398fa716598ed43",
+      "study_use": "Attributed botanical education subject to exact photo license",
+      "public_reuse": "Photo-specific CC license permits attributed public reuse with appropriate modification notice and ShareAlike if applicable",
+      "modifications": "Downscaled, JPEG reencoded, EXIF removed; no arrows added without source-specific final pixel verification",
+      "anatomy_arrows": "none, full-size organ-specific arrow pass still pending",
+      "photo_review": "Visually screened real contact sheet of Texas research-grade Hydrocotyle verticillata label. Potential H. bonariensis / var. triradiata taxonomic overlap not resolved; do not treat source name as verified expert voucher."
+    },
+    {
+      "file": "images/sam-694125616-full-whorled-axis.jpg",
+      "role": "Look closer · entire slender fertile axis with two visible separate flower/young-fruit WHORLS. Two yellow arrowheads indicate upper and lower tiers; green peltate-like leaf top and palmate veins also visible. This is source-identified H. verticillata; accepted species vs H. bonariensis/var. triradiata requires a taxonomic voucher.",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual source iNaturalist photo license_code=cc-by verified 2026-10-20; exact version was not independently confirmed from photo's media rights page.",
+      "source_platform": "iNaturalist Texas research-grade exact-name source",
+      "source_page": "https://www.inaturalist.org/photos/694125616",
+      "source_observation_page": "https://www.inaturalist.org/observations/379468465",
+      "source_photo_id": "694125616",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/694125616/original.jpg",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "original_image_sha256": "b43bff7c8f53928aebfc9b16d01b7542613b92b3354fbd69796a8d07654f9e99",
+      "study_use": "Attributed botanical education subject to exact photo license",
+      "public_reuse": "Photo-specific CC license permits attributed public reuse with appropriate modification notice and ShareAlike if applicable",
+      "modifications": "JPG resized/reencoded, EXIF removed; added 2 named whorl arrows as attributed adaptation.",
+      "anatomy_arrows": "Two separately visible tiers annotated from a SHA-matched upstream photograph: upper whorl at normalized (.748,.445); lower whorl at (.718,.640). No claims about unseen blade underside, ripe mericarps or accepted-name voucher proof.",
+      "photo_review": "Visually screened real contact sheet of Texas research-grade Hydrocotyle verticillata label. Potential H. bonariensis / var. triradiata taxonomic overlap not resolved; do not treat source name as verified expert voucher. SHA matched original, two whorl tiers manually selected after full-size image readback. Source taxon attribution still provisional due modern taxonomy.",
+      "manual_arrow_review": "2026-10-20-two-verified-whorls"
+    },
+    {
+      "file": "images/sam-713985492-reproductive-axis-macro.jpg",
+      "role": "Confirm the genus clue · close flowering or young-fruit stalk with small separate tiers; organ-level determination of var. triradiata vs bonariensis requires separate review.",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual source iNaturalist photo license_code=cc-by verified 2026-10-20; exact version was not independently confirmed from photo's media rights page.",
+      "source_platform": "iNaturalist Texas research-grade exact-name source",
+      "source_page": "https://www.inaturalist.org/photos/713985492",
+      "source_observation_page": "https://www.inaturalist.org/observations/389768910",
+      "source_photo_id": "713985492",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/713985492/original.jpg",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "original_image_sha256": "f8032c9804ba5ffb10d466b9be3522b2687d3c221071cef72aff343c5a454070",
+      "study_use": "Attributed botanical education subject to exact photo license",
+      "public_reuse": "Photo-specific CC license permits attributed public reuse with appropriate modification notice and ShareAlike if applicable",
+      "modifications": "Downscaled, JPEG reencoded, EXIF removed; no arrows added without source-specific final pixel verification",
+      "anatomy_arrows": "none, full-size organ-specific arrow pass still pending",
+      "photo_review": "Visually screened real contact sheet of Texas research-grade Hydrocotyle verticillata label. Potential H. bonariensis / var. triradiata taxonomic overlap not resolved; do not treat source name as verified expert voucher."
+    },
+    {
+      "file": "images/pufferchung-660004908-creeping-wet-patch.jpg",
+      "role": "Recognize it · moist ground patch with separate little white clusters and round peltate blades; partial stalks do not alone prove species.",
+      "creator": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual source iNaturalist photo license_code=cc-by verified 2026-10-20; exact version was not independently confirmed from photo's media rights page.",
+      "source_platform": "iNaturalist Texas research-grade exact-name source",
+      "source_page": "https://www.inaturalist.org/photos/660004908",
+      "source_observation_page": "https://www.inaturalist.org/observations/361633906",
+      "source_photo_id": "660004908",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/660004908/original.jpg",
+      "image_dimensions": [
+        1450,
+        964
+      ],
+      "original_image_sha256": "f516f5cfd5d84cb6eac0a997a92ed5aac05ded33b45dfb339c30709f1e60d767",
+      "study_use": "Attributed botanical education subject to exact photo license",
+      "public_reuse": "Photo-specific CC license permits attributed public reuse with appropriate modification notice and ShareAlike if applicable",
+      "modifications": "Downscaled, JPEG reencoded, EXIF removed; no arrows added without source-specific final pixel verification",
+      "anatomy_arrows": "none, full-size organ-specific arrow pass still pending",
+      "photo_review": "Visually screened real contact sheet of Texas research-grade Hydrocotyle verticillata label. Potential H. bonariensis / var. triradiata taxonomic overlap not resolved; do not treat source name as verified expert voucher."
+    },
+    {
+      "file": "images/ashleyrsteel-578671870-spaced-whorls.jpg",
+      "role": "Look closer · greenish developing whorls along short reproductive axis beside leaf blades; source accepted taxon is not independently verified from voucher.",
+      "creator": "(c) ashleyrsteel, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual source iNaturalist photo license_code=cc-by verified 2026-10-20; exact version was not independently confirmed from photo's media rights page.",
+      "source_platform": "iNaturalist Texas research-grade exact-name source",
+      "source_page": "https://www.inaturalist.org/photos/578671870",
+      "source_observation_page": "https://www.inaturalist.org/observations/320082208",
+      "source_photo_id": "578671870",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/578671870/original.jpg",
+      "image_dimensions": [
+        1450,
+        1088
+      ],
+      "original_image_sha256": "40812c23167d6e03c24a04e879aad14f25eeb8e941e1c30c6ae984ff0f598a44",
+      "study_use": "Attributed botanical education subject to exact photo license",
+      "public_reuse": "Photo-specific CC license permits attributed public reuse with appropriate modification notice and ShareAlike if applicable",
+      "modifications": "Downscaled, JPEG reencoded, EXIF removed; no arrows added without source-specific final pixel verification",
+      "anatomy_arrows": "none, full-size organ-specific arrow pass still pending",
+      "photo_review": "Visually screened real contact sheet of Texas research-grade Hydrocotyle verticillata label. Potential H. bonariensis / var. triradiata taxonomic overlap not resolved; do not treat source name as verified expert voucher."
+    }
+  ],
+  "diagnostic_image_needs": [
+    "leaf underside and petiole insertion",
+    "whorled inflorescence",
+    "whole plant habit"
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "lookalikes_reviewed": true,
+    "morphology_reviewed": true,
+    "field_id_text_reviewed": "2026-10-20",
+    "finished_field_id_pass": "PASS_IN_PROGRESS",
+    "taxonomic_exception": "Kew 2026 var triradiata = H. bonariensis; older Texas accounts H. verticillata var triradiata. Do not auto-resolve source determination or infer label identity.",
+    "required_to_finish": [
+      "Scientific voucher verification of accepted H. verticillata versus Kew-treated H. bonariensis / historical var. triradiata",
+      "Find properly licensed leaf underside showing peltate insertion and mature ribbed schizocarp mericarps with millimeter scale",
+      "Keep BONAP target-zone metrics excluded and document outstanding taxonomic uncertainty"
+    ],
+    "manual_diagnostic_photo_additions": "2026-10-20",
+    "anatomy_whorl_photo_annotated": "2026-10-20: full-size manually opened committed JPEG and inspected both arrowheads on visible upper/middle and lower fertile whorls. The highest whorl is also visible, unannotated. Source exact species remains research-grade, not an expert reproductive voucher.",
+    "field_training_status": "READY_FOR_GENUS_LEVEL_AND_WHORLED_AXIS_RECOGNITION; TAXONOMIC_VARIETY_HOLD"
+  },
+  "entry_type": "species",
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "species_detailed_text_six_real_photos_taxonomy_warning_reproductive_QA_pending",
+    "image_count": 6,
+    "filled_at": "2026-10-17",
+    "note": "6 actual licensed gallery photographs, including validated two-tier arrows on reproductive stalk; appropriate for crew recognition of whorled Hydrocotyle and compare with umbellata. Definitive species delimitation versus H. bonariensis remains taxonomic HOLD under conflicting old var. triradiata treatments."
+  },
+  "photo_note": "2026-10-20: Five additional original exact-name, photo-licensed Texas iNaturalist research-grade pictures installed after visual contact sheet. Prior Ton Rulkens CC BY-SA 2.0 picture retained. Photos represent habit, separated tiers and flower/fruit stages, but Kew/H. bonariensis triradiata taxonomic conflict remains explicitly unresolved; leaf and fruit ID confidence not upgraded. Anatomy: 2 arrows on image 694125616 label upper and lower visible tiers (original SHA verified), not an independently voucher-verified H. verticillata diagnostic species determination.",
+  "common_names": [
+    "Whorled marshpennywort",
+    "Whorled pennywort",
+    "Whorled waterpennywort"
+  ],
+  "taxonomy_source": "https://powo.science.kew.org/taxon/843759-1",
+  "taxonomic_note": "Kew POWO accepts Hydrocotyle verticillata Thunb. (Araliaceae) and lists Texas at STATE native-range level. IMPORTANT conflict: UT Williamson County and many legacy floras recognize H. verticillata var. triradiata, but CURRENT Kew POWO treats that varietal name as a synonym of H. bonariensis, not H. verticillata. The meaning of some older local specimen labels is therefore taxonomically discordant. Do not automatically assign locally tagged var. triradiata or visually similar photo specimens to accepted H. verticillata; flag for voucher/reproductive review. County-level BONAP decision remains UNRESOLVED.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "Low perennial wetland herb with creeping slender rhizomes, roots at nodes and separate erect long-petioled leaves.",
+      "Round, shield-like blades have several shallow scallops and radiating veins; long petiole fastens underneath the blade (PELTATE), not at the leaf edge.",
+      "Flowers are tiny, white, cream or greenish, with five petals and stamens (no distinct leafy calyx teeth), arranged in multiple spaced small VERTICILS along a usually slender flowering axis.",
+      "Under typical H. verticillata concept, whorls contain roughly 2–7 small flowers, though numbers and distance along stem vary; terminal upper whorls may be crowded when young.",
+      "Look for multiple flower/fruit tiers, NOT merely a rounded leaf: H. umbellata usually has a more crowded upper manyflowered cluster and H. bonariensis can develop multiply branched proliferous stalks.",
+      "Fruit dry and strongly flattened, two mericarps, with visible ribbing when mature. Typical H. verticillata fruit approximately 3–4 mm across and with a truncate/rounded base in classical treatments.",
+      "Taxonomic caveat: photo labeled var. triradiata cannot automatically prove this accepted species because Kew associates the name with H. bonariensis."
+    ],
+    "habit": "Perennial creeping wet-ground herb, rhizomes at or below surface, roots at nodes. Leaves often 5–20+ cm high on petioles depending site; wet soil and aquatic margins.",
+    "leaves": "Simple, alternate on creeping stem; round/orbicular to broadly kidney-like, shallowly lobed or crenate/scalloped around edge, usually palmate veins radiating from underside stalk junction. Broad treatment notes to ~6 cm diameter and commonly 8–14 shallow lobes.",
+    "peltate_attachment": "The petiole attaches to the blade's UNDERSIDE inside its outline (peltate). A centered surface vein hub is a useful recognition clue but confirmation requires leaf underside or a carefully angled image.",
+    "inflorescence": "Interrupted/verticillate flowering spike with 2 to several spaced little flowering whorls (each often about 2–7 flowers). The axis may be simple or once/multiply forked depending taxonomic treatment or plant; do not use unbranched axis as absolute. As fruits develop, the internodes between tiers generally become easier to see.",
+    "flowers": "Very small bisexual five-petaled star-like flowers, often cream/greenish or purplish-tinged in some flora treatments, with five stamens and inferior ovary; no obvious large separate sepals.",
+    "fruits": "Laterally compressed ribbed dry fruits that split into paired one-seeded mericarps; fruit often broader than long, typically around 3–4 mm wide in broad floristic treatments, with basal outline relatively truncate or rounded rather than strongly heart-notched.",
+    "habitat": "Moist soil, stream or pond edges, marsh and shallow-water margins; can form rooted wet ground mats and float into water.",
+    "phenology": "Flower/fruit availability often tied to moisture and warmer months; do not promise exact Hays County blooming dates from continent-wide descriptions.",
+    "field_sampling": "For certainty, photograph the whole flowering stalk from its base upward, a mid-axis tier, leaf underside, and a mature fruit with millimeter scale. Mark sterile patches Hydrocotyle sp. when appropriate."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Hydrocotyle umbellata",
+      "Hydrocotyle bonariensis",
+      "Hydrocotyle ranunculoides",
+      "Centella erecta",
+      "Dichondra carolinensis",
+      "Dichondra recurvata",
+      "Phyla nodiflora",
+      "Calyptocarpus vialis"
+    ],
+    "look_here_first": "First separate leaf petiole-central (Hydrocotyle) versus base-notched (Dichondra/Centella). Then separate umbellata's mostly terminal MANY-flowered head from verticillata's usually clearly SPACED small-flowered rings. Branching with proliferating rays and the legacy triradiata name requires closer bonariensis review.",
+    "field_comparison_matrix": [
+      {
+        "taxon": "Hydrocotyle verticillata",
+        "priority": "target",
+        "leaf": "Round peltate scalloped blade, similar to umbellata",
+        "flower_axis": "Interrupted spike, 2 to many whorls of a few (often 2–7) flowers each, spaced apart as stalk/fruit matures",
+        "caution": "Young upper whorls can crowd; branched morphologies and historical variety names need a taxonomic review"
+      },
+      {
+        "taxon": "Hydrocotyle umbellata",
+        "priority": "primary look-alike",
+        "leaf": "Also round peltate, scalloped",
+        "flower_axis": "Mostly one terminal dense manyflowered umbel-like group, often ~15–35+ flowers, additional tiers possible",
+        "caution": "Do not count just one top cluster; examine entire stalk"
+      },
+      {
+        "taxon": "Hydrocotyle bonariensis",
+        "priority": "critical concept/look-alike",
+        "leaf": "Peltate, often similar or larger, not sufficient",
+        "flower_axis": "More proliferous, compound branched umbels; rays may bear lines of whorled flowers/fruits",
+        "caution": "Kew lists historical H. verticillata var. triradiata as a synonym of bonariensis; seek specimen-level resolution, not label-only certainty"
+      },
+      {
+        "taxon": "Hydrocotyle ranunculoides",
+        "priority": "wetland edge comparison",
+        "leaf": "Round but deep open notch into base; petiole not truly peltate",
+        "flower_axis": "Small flower umbels, often floating/emergent",
+        "caution": "Check underside/insertion, not just roundness"
+      },
+      {
+        "taxon": "Centella erecta",
+        "priority": "groundcover/wetland",
+        "leaf": "Scalloped kidney leaf, petiole at basal notch, nonpeltate",
+        "flower_axis": "Few flowers in low small umbels",
+        "caution": "Can look similar before inflorescence"
+      },
+      {
+        "taxon": "Dichondra carolinensis",
+        "priority": "low lawn",
+        "leaf": "Kidney leaf, margin mostly smooth, petiole from basal notch not underside center",
+        "flower_axis": "Single tiny axillary 5-lobed flower, not several-whorled inflorescence",
+        "caution": "Exact Dichondra species requires pedicel/fruit check"
+      },
+      {
+        "taxon": "Dichondra recurvata",
+        "priority": "low lawn",
+        "leaf": "Same nonpeltate kidney outline, often tawny silky underside",
+        "flower_axis": "Small solitary flower; hooked pedicel in mature fruit",
+        "caution": "Petiole insertion differs strongly"
+      },
+      {
+        "taxon": "Phyla nodiflora",
+        "priority": "wet turf",
+        "leaf": "Opposite leaves, usually toothed near tip; not peltate",
+        "flower_axis": "Dense pale flower BUTTON on long bare stalk",
+        "caution": "Check opposite foliage and button versus sparse whorls"
+      },
+      {
+        "taxon": "Calyptocarpus vialis",
+        "priority": "thin lawns",
+        "leaf": "Opposite and toothed",
+        "flower_axis": "Tiny YELLOW composite heads, not individually small white flowers",
+        "caution": "Easy with flowering plant"
+      }
+    ],
+    "photo_warning": "Never teach a secure H. verticillata versus bonariensis ID from leaf-only photos or a label historically annotated var. triradiata. Preserve uncertain determinations until a complete fertile specimen can be reviewed."
+  },
+  "family_genus_teaching": {
+    "family": "Araliaceae (order Apiales), historically treated in Apiaceae/Umbelliferae in older floras. Tiny five-petaled flowers and paired compressed dry mericarps.",
+    "genus": "Hydrocotyle, creeping marsh pennyworts with round peltate leaves in the two local learner species. Fruit/spaced whorls and flower-axis architecture outperform leaf shape for species distinctions.",
+    "species": "H. verticillata sensu accepted species treatment: interrupted flowering axis with separated small rings of flowers/fruits; not merely a terminal crowded manyflowered head.",
+    "crew_question": "Can you show an entire flowering stalk with at least two distinct flower/fruit tiers, then flip a leaf to show true peltate insertion? If you can't, leave the species uncertain."
+  },
+  "ecological_notes": {
+    "ecology": "Wetland creeping perennial that helps cover damp soil margins; roots and rhizomes stabilize shallow soft substrates and shelter wetland microhabitats.",
+    "native_range": "POWO accepts species and includes Texas as native at state level; BONAP local county-area acceptance remains marked UNRESOLVED as in the original project card.",
+    "pollinator_and_larval_data": "Do not invent specialist bee or Lepidoptera host totals; connect only verified species-level dashboard numbers.",
+    "restoration_note": "Do not transplant unidentified pennywort from waterways or buy horticultural 'pennywort' under a common name without verifying accepted taxon and local provenance."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "existing",
+      "role": "Recognize it: peltate leaf mat",
+      "status": "Existing Ton Rulkens CC BY-SA 2.0 gallery photo manually inspected",
+      "needed": "Round leaves and radiating veins; this does not show flower whorls or fully prove petiole insertion"
+    },
+    {
+      "priority": "critical",
+      "role": "Confirm whorled flower/fruit axis",
+      "status": "SEARCHING licensed exact-species photos; verify multiple spaced tiers",
+      "needed": "Entire slender fertile flowering stalk with 2–7-flowered groups separated along axis, not only terminal group"
+    },
+    {
+      "priority": "critical",
+      "role": "Distinguish H. bonariensis",
+      "status": "MISSING SAME-SCALE PHOTO PAIR",
+      "needed": "Full flowering stalk branching architecture, mature fruit/rays; taxonomy caveat for old var. triradiata"
+    },
+    {
+      "priority": "high",
+      "role": "Look closer: flower whorl macro",
+      "status": "PENDING REAL PHOTO",
+      "needed": "At least one well resolved 5-petaled flower and nearby pair of whorls"
+    },
+    {
+      "priority": "high",
+      "role": "Peltate leaf underside",
+      "status": "PENDING REAL PHOTO",
+      "needed": "Stalk physically attaching on lower blade surface away from entire margin; distinguish Centella and Dichondra"
+    },
+    {
+      "priority": "high",
+      "role": "Mature two-mericarps fruit",
+      "status": "PENDING REAL PHOTO",
+      "needed": "Flattened ribbed fruit with 1 mm scale, stalk/whorl context"
+    },
+    {
+      "priority": "high",
+      "role": "Rooting runner and wet habitat",
+      "status": "Existing mat photo shows cover; root nodes not proven",
+      "needed": "Horizontal rhizome, rooted node and petiole clearly visible"
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Kew POWO accepted H. verticillata and Texas native range",
+      "url": "https://powo.science.kew.org/taxon/843759-1"
+    },
+    {
+      "source": "Kew POWO H. verticillata var. triradiata synonym of H. bonariensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1105522-2"
+    },
+    {
+      "source": "Kew POWO H. bonariensis morphology: proliferous umbels with secondary whorls",
+      "url": "https://powo.science.kew.org/taxon/125117-2"
+    },
+    {
+      "source": "Kew POWO H. verticillata species morphology",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:843759-1/general-information"
+    },
+    {
+      "source": "UT Austin Plant Resources Center local Williamson taxon historically labeled H. verticillata var. triradiata (taxonomy note mandatory)",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Hydrocotyle%20verticillata%20triradiata.html"
+    },
+    {
+      "source": "Gleason and Cronquist classic species concept hosted by NYBG",
+      "url": "https://sweetgum.nybg.org/science/world-flora/monographs-details/?irn=8190"
+    },
+    {
+      "source": "North Central Texas Flora accounts for multiple whorled-pennywort concepts",
+      "url": "https://fwbg.org/wp-content/uploads/2021/04/FNCT_0210-0617-Acanth-Euph.pdf"
+    }
+  ]
+}

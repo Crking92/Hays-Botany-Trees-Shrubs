@@ -1,0 +1,165 @@
+{
+  "id": "sapindus-drummondii",
+  "entry_type": "species",
+  "family": "Sapindaceae",
+  "genus": "Sapindus",
+  "species": "drummondii",
+  "scientific_name": "Sapindus drummondii",
+  "authority": "Hook. & Arn.",
+  "common_name": "Western soapberry",
+  "synonyms": [
+    "Sapindus saponaria var. drummondii (Hook. & Arn.) L.D.Benson",
+    "Sapindus saponaria subsp. drummondii (Hook. & Arn.) A.E.Murray"
+  ],
+  "taxonomic_note": "Current Kew/POWO accepts Sapindus drummondii Hook. & Arn. and treats Sapindus saponaria var. drummondii as a homotypic synonym. Older Texas references still commonly use the varietal name; those source rows are one learner concept, not separate species.",
+  "look_here_first": "Start with the fruiting branch. Western soapberry has alternate pinnately compound leaves with strongly asymmetric leaflets and clusters of round translucent amber-yellow drupes that often persist into winter. Then confirm the small cream flowers and floral disk.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr",
+    "Williamson",
+    "Val Verde"
+  ],
+  "target_zone_count": 5,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Current 25-county target-zone support: Hays — UT PRC Hays flora lists western soapberry as Sapindus saponaria var. drummondii; Travis — UT PRC Travis County Sapindaceae index lists the same concept; Kerr — herbarium specimen from near Ingram under Sapindus drummondii; Williamson — UT PRC Williamson County flora documents S. saponaria var. drummondii; Val Verde — Powell's Trees and Shrubs of the Trans-Pecos explicitly lists Val Verde for S. saponaria var. drummondii. Current Kew/POWO accepts the historical var./subsp. drummondii concept as Sapindus drummondii.",
+    "range_guardrail": "Project threshold is >=3 counties from workflow/target-zone-counties.json. Williamson and Val Verde are valid target-zone counties under the current 2026-09-30 definition. B160's earlier outside-zone statement was corrected the same day. Historical var./subsp. drummondii records map to current Sapindus drummondii, not Sapindus saponaria sensu stricto."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous small tree, often clonal and thicket-forming",
+      "leaves alternate, once-pinnately compound, without stipules",
+      "leaflets usually numerous and conspicuously asymmetric at the base",
+      "terminal leaflet commonly absent",
+      "small cream to whitish flowers in branched terminal clusters",
+      "floral disk present around the superior ovary",
+      "round fleshy one-seeded drupes ripening yellow to amber and becoming translucent",
+      "fruit clusters often persist after leaf fall"
+    ],
+    "leaves": "Alternate pinnate leaves usually carry many asymmetrical lanceolate leaflets; the missing terminal leaflet and unequal leaflet bases are useful field cues.",
+    "flower": "Small pale flowers occur in branched clusters. A floral disk is part of the Sapindaceae reproductive plan.",
+    "fruit": "Round one-seeded drupes become yellow to amber and translucent; the saponin-rich pericarp gives the tree its soapberry name.",
+    "field_tip": "Without fruit, compare the alternate pinnate leaves carefully against Rhus and Pistacia. With fruit, the translucent soapberry drupes are highly distinctive."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ungnadia speciosa",
+      "Rhus spp.",
+      "Pistacia chinensis",
+      "Acer negundo"
+    ],
+    "key_distinctions": "Ungnadia has a thick 3-lobed woody capsule with large glossy seeds; Sapindus has round translucent one-seeded drupes. Boxelder has opposite compound leaves and paired samaras. Sumacs generally show different fruit clusters and lack the translucent soapberry fruit."
+  },
+  "tags": [
+    "Sapindaceae",
+    "Sapindus",
+    "western soapberry",
+    "Central Texas",
+    "riparian",
+    "Visual learner",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.1-b160-range-correction",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "synonym_reconciled": true,
+    "last_reviewed": "2026-10-05",
+    "joey_enhanced": true,
+    "video_study_media_count": 1,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Saved Joey Santore pinnate-foliage frame installed locally for private study. It provides a useful leaf-arrangement cue; public-reuse restrictions are preserved. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful.",
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "21:50",
+      "record_id": "N4yq5Z1_0Eo-32",
+      "role": "Pinnate compound leaf and foliage context.",
+      "source_taxon": "Sapindus drummondii",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/sapindus-drummondii_pinnate-leaf-source-label_21-50.jpg"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/sapindus-drummondii_pinnate-leaf-source-label_21-50.jpg",
+      "role": "Pinnate compound leaf and foliage context.",
+      "caption": "Source-labeled Sapindus drummondii showing pinnate compound foliage. Use this leaf-arrangement cue together with fruit, bark, and whole-tree characters for a complete ID.",
+      "diagnostic_roles": [
+        "pinnate compound leaf",
+        "leaflet arrangement",
+        "source label"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-32",
+      "timestamp": "21:50",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/glass-root-garden-566017234-fruit.jpg",
+      "role": "Golden soapberry: clusters of round yellow fruits on a leafy branch, with compound foliage in context",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/566017234",
+      "observation_url": "https://www.inaturalist.org/observations/313433660",
+      "observation_id": 313433660,
+      "photo_id": 566017234,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/566017234/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-567926328-compound-leaves.jpg",
+      "role": "Pinnately compound leaves with multiple lanceolate leaflets, whole foliage view",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/567926328",
+      "observation_url": "https://www.inaturalist.org/observations/314442882",
+      "observation_id": 314442882,
+      "photo_id": 567926328,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/567926328/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Fruit clusters, bark/trunk texture, whole-tree form, and a closer leaflet attachment view."
+  ]
+}

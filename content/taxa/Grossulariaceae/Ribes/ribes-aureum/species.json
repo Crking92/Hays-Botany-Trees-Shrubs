@@ -1,0 +1,37 @@
+{
+  "id": "ribes-aureum",
+  "family": "Grossulariaceae",
+  "genus": "Ribes",
+  "species": "aureum",
+  "scientific_name": "Ribes aureum",
+  "common_name": "Golden currant",
+  "look_here_first": "Recognize a woody shrub with palmately lobed leaves and drooping clusters of fragrant yellow tubular flowers; check smooth berries, leaf glands and thorn absence.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Ribes%20aureum",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "The source photo is not a Texas specimen; county nativity deferred.",
+  "images": [
+    {
+      "file": "images/commons-ribes-aureum.jpg",
+      "role": "Provisional flowers and foliage for shrub recognition; fruit and twig details missing.",
+      "creator": "Ivengo (Russian Wikipedia)",
+      "license": "Public domain (author released)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ribes_aureum.jpg",
+      "study_use": "Noncommercial field botany learner",
+      "public_reuse": "Public domain; credit retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

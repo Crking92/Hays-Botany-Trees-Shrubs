@@ -1,0 +1,27 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/47778-2
+Source research-grade observation: https://www.inaturalist.org/observations/101560393
+Photo: https://www.inaturalist.org/photos/169620436
+Attribution: (c) abelkinser, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Carya aquatica
+Creator: Mimi Posey; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6413949830
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/carya-aquatica/gbif-d892e9680a45f6.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Carya aquatica
+Creator: Mimi Posey; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6414070733
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/carya-aquatica/gbif-32d03a63f07634.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Carya aquatica
+Creator: lanechaffin; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/5920074313
+Stored archive: hays-photo-library-mass-38984897722 :: staged_images/carya-aquatica/gbif-2ff9670d4229b2.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

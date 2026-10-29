@@ -1,0 +1,18 @@
+PHOTO FAST-FILL 054 — Prunus caroliniana
+Date: 2026-10-08
+Exact file page: https://commons.wikimedia.org/wiki/File:Prunus_caroliniana_3zz.jpg
+960px direct image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Prunus_caroliniana_3zz.jpg/960px-Prunus_caroliniana_3zz.jpg
+Creator: David J. Stang
+License: CC BY-SA 4.0
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Study use: yes
+Public reuse: preserve attribution and share-alike where applicable
+Role and limits: Whole living evergreen shrub/tree, first-pass habit recognition.
+Media-only provisional learner fill. Scientific/range status untouched.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:59:22.619433+00:00
+Prunus caroliniana (Mill.) Aiton
+https://www.gbif.org/occurrence/5938044498
+randybock | CC BY-NC http://creativecommons.org/licenses/by-nc/4.0/
+Target visual view (NOT YET verified): Evergreen glossy leathery leaves, short axillary flowering racemes and dark ripe drupes
+No anatomy arrows; no scientific or native-range changes.

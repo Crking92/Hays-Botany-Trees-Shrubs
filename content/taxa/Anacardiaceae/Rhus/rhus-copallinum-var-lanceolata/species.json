@@ -1,0 +1,106 @@
+{
+  "id": "rhus-copallinum-var-lanceolata",
+  "entry_type": "species",
+  "family": "Anacardiaceae",
+  "genus": "Rhus",
+  "species": "copallinum",
+  "variety": "lanceolata",
+  "scientific_name": "Rhus copallinum var. lanceolata",
+  "authority": "A.Gray",
+  "common_name": "Flameleaf sumac / Prairie sumac",
+  "synonyms": [
+    "Rhus lanceolata (A.Gray) Britton",
+    "Schmaltzia lanceolata (A.Gray) Small"
+  ],
+  "taxonomic_note": "Current Kew/POWO and Flora of North America accept Rhus copallinum var. lanceolata. The familiar Texas name Rhus lanceolata is retained prominently for field continuity and for Joey/source records.",
+  "look_here_first": "Start with the compound leaf: many narrow lance-shaped leaflets sit along a conspicuously winged rachis. Then confirm the deciduous, clonal shrub/small-tree habit and vivid red fall color.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays — UT PRC Purola natural flora under Rhus lanceolata; Travis — UT PRC herbarium index under the homotypic synonym; Williamson — UT PRC county treatment. Current taxonomy maps those records to R. copallinum var. lanceolata.",
+      "source_document": "content/taxa/Anacardiaceae/Rhus/rhus-copallinum-var-lanceolata/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "many narrow lanceolate leaflets on an odd-pinnate leaf",
+      "rachis conspicuously winged between leaflet pairs",
+      "deciduous clonal shrub or small tree with vivid red/orange fall foliage",
+      "dense terminal panicles produce dark-red hairy flattened drupes"
+    ],
+    "habit": "Deciduous, thicket-forming shrub or small tree.",
+    "leaf_arrangement": "Alternate; odd-pinnately compound.",
+    "leaf_morphology": "Usually about 13–21 narrow lanceolate leaflets; upper surface darker/glossier, lower surface paler to hairy.",
+    "rachis": "Strongly winged between leaflet pairs — one of the fastest field characters.",
+    "inflorescence": "Dense terminal branched panicles.",
+    "fruit": "Dark-red hairy flattened drupes in dense pyramidal clusters.",
+    "joey_field_observation": "Joey Santore video frame labeled Rhus lanceolata shows the compound-leaved small-tree habit; current project taxonomy reconciles that source name to Rhus copallinum var. lanceolata."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Rhus virens",
+      "Rhus aromatica",
+      "Toxicodendron radicans"
+    ],
+    "key_distinctions": "R. virens has only 5–9 thick entire evergreen leaflets and no strongly winged rachis. R. aromatica has exactly 3 leaflets. Toxicodendron should not be separated by 'leaves of three' alone; inspect habit, leaflet architecture and fruit placement/color."
+  },
+  "tags": [
+    "Anacardiaceae",
+    "Rhus",
+    "Flameleaf sumac",
+    "Central Texas",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.0-b008-joey",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Exact reusable Rhus lanceolata image recorded. Joey video frame retained as private-study source context.",
+  "images": [
+    {
+      "file": "images/01-compound-leaf-habit.jpg",
+      "role": "Compound leaf / winged-rachis habit reference",
+      "creator": "Mike Tilley",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhus_lanceolata.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "native_metrics_excluded": true
+}

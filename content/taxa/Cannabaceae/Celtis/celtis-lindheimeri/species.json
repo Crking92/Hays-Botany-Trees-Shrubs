@@ -1,0 +1,88 @@
+{
+  "id": "celtis-lindheimeri",
+  "entry_type": "provisional_species",
+  "family": "Cannabaceae",
+  "genus": "Celtis",
+  "species": "lindheimeri",
+  "scientific_name": "Celtis lindheimeri",
+  "authority": "Engelm. ex K.Koch",
+  "common_name": "Lindheimer hackberry",
+  "look_here_first": "The white-under-leaf hackberry: dark rough upper leaf surfaces, densely white-tomentose undersides, and light-brown fruit.",
+  "county_occurrences_target_zone": [
+    "Bexar"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Documented target-zone counties so far: Bexar.",
+    "range_guardrail": "Kew/ITIS accept species; USDA GRIN synonymizes under C. reticulata. Keep as provisional learner."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "best_field_traits": [
+      "unarmed tree",
+      "ovate-lanceolate leaves",
+      "dark rough upper leaf surface",
+      "densely white-tomentose lower surface",
+      "few or no marginal teeth",
+      "light-brown fruit"
+    ]
+  },
+  "curation_status": {
+    "version": "1.0-provisional-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/celtis-lindheimeri-provisional-face.jpg",
+      "role": "Foliage / branch recognizable face",
+      "creator": "Wendy A",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_lindheimeri_-_Wendy_A_-_265984302.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6399451548-baa9af40c.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Rough upper leaf surface versus dense white tomentum underneath, light brown drupe",
+      "creator": "Wendy A",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6399451548",
+      "gbif_occurrence_id": "6399451548",
+      "source_determination": "Celtis lindheimeri Engelm. ex K.Koch",
+      "accepted_target": "Celtis lindheimeri",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265984318/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

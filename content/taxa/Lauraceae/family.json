@@ -1,0 +1,191 @@
+{
+  "rank": "family",
+  "name": "Lauraceae",
+  "common_name": "Laurel family",
+  "lineage_context": {
+    "order": "Laurales",
+    "batch": "Magnoliid comparison",
+    "close_project_families": [
+      "Magnoliaceae",
+      "Saururaceae"
+    ],
+    "teaching_goal": "Teach the project Lauraceae through aromatic woody habit, simple exstipulate leaves, tiny trimerous flowers with valvate anthers, and a one-seeded fleshy fruit often seated in a cupule; then split Lindera from Camphora by deciduous/dioecious pseudoumbels versus evergreen triplinerved camphor-tree architecture."
+  },
+  "project_scope": {
+    "selection_mode": "Lindera benzoin + Camphora officinarum project module",
+    "note": "Current Kew accepts both species. Lindera benzoin is native into Texas; Camphora officinarum is introduced in Texas and remains a nonlocal comparison rather than a native anchor."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the leaves and flower size. Lauraceae are usually aromatic woody plants with simple entire leaves and no stipules; the flowers are tiny, usually 3-merous, and the anthers open by little upward-lifting valves rather than longitudinal slits.",
+    "vegetative": "Trees or shrubs in the project pool. Leaves simple, entire, usually alternate, exstipulate, often aromatic and sometimes 3-veined from near the base.",
+    "reproductive": "Flowers small, actinomorphic, usually with 6 tepals in 2 whorls of 3. Fertile stamens are typically in 3 whorls; inner stamens often have paired basal glands. Anthers are 2- or 4-locular and open by flap-like valves. Ovary superior, 1-locular, with one ovule.",
+    "fruit": "One-seeded berry or drupe, often seated in or partly surrounded by an enlarged floral receptacle/cupule.",
+    "field_tip": "Aromatic woody plant + no stipules + tiny 3-merous flowers + valvate anthers + one-seeded fleshy fruit is the durable family door."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_024",
+    "teaching_order": "leaf/stipule check → tiny 3-merous flower → valvate anther → one-seeded fruit/cupule → Lindera door → Camphora door → Magnoliaceae comparison",
+    "intro": "Lauraceae is easiest to learn by contrast with magnolias: both are aromatic magnoliids, but laurels hide their reproductive architecture in tiny 3-part flowers and one-seeded fruits.",
+    "steps": [
+      {
+        "title": "1 · Prove the leaf has no stipules",
+        "photo_role": "twig/leaf-node macro",
+        "look_for": "Simple entire leaves attached without a stipular ring or persistent stipule scar.",
+        "why_it_matters": "Separates Lauraceae from Magnoliaceae, where stipules leave conspicuous annular node scars.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "2 · Find the 3+3 tepals",
+        "photo_role": "flower macro",
+        "look_for": "Six small tepals arranged as two whorls of three around the stamens.",
+        "why_it_matters": "Three-part floral symmetry is a core Lauraceae pattern.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Catch an anther opening by valves",
+        "photo_role": "anther macro/diagram",
+        "look_for": "Tiny flap-like valves lifting upward from the anther instead of long slits opening down the side.",
+        "why_it_matters": "This is one of the strongest family characters in Lauraceae.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Follow the flower to a one-seeded fruit",
+        "photo_role": "fruit/cupule comparison",
+        "look_for": "A single fleshy fruit seated on an enlarged pedicel or shallow cupule.",
+        "why_it_matters": "Connects the tiny flower to a visually useful fruit architecture.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Lindera door",
+        "photo_role": "Lindera benzoin flowering twig + fruit",
+        "look_for": "Deciduous shrub; flowers appear before or with leaves in small pseudoumbels enclosed by paired bracts; plants mostly dioecious; mature fruit bright red.",
+        "why_it_matters": "A strong native Texas spicebush package within the family.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Camphora door",
+        "photo_role": "Camphora officinarum leaf + flower + fruit",
+        "look_for": "Evergreen tree with strongly aromatic foliage, leaves commonly with 3 strong basal/near-basal veins and small panicles of flowers; introduced in Texas.",
+        "why_it_matters": "Visually separates the introduced camphor-tree concept from deciduous spicebush.",
+        "status": "comparison_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Lauraceae vs Magnoliaceae",
+        "rule": "Lauraceae lacks stipules, has tiny 3-merous flowers with valvate anthers, and usually a single-seeded drupe/berry. Magnoliaceae has stipules/node scars, very large flowers with numerous tepals/stamens/pistils, and an aggregate fruit of many follicles."
+      },
+      {
+        "title": "Lauraceae vs Saururaceae",
+        "rule": "Lauraceae project plants are woody with tiny tepaled flowers and a one-seeded fruit; Saururaceae is a rhizomatous wetland herb with stipular sheaths, no perianth, and many tiny flowers packed into a raceme/spike."
+      },
+      {
+        "title": "Lindera vs Camphora",
+        "rule": "Lindera benzoin is deciduous, mostly dioecious, and flowers in spring pseudoumbels before/with leaves; Camphora officinarum is evergreen, strongly camphor-scented, commonly triplinerved, and is introduced in Texas."
+      }
+    ],
+    "caveat": "Aroma is helpful but should not be the only crew test. Generic placement in Lauraceae often depends on flower/fruit details; use visible venation, inflorescence and reproductive characters whenever possible."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Lindera",
+        "taxa_count": 1,
+        "fast_cue": "deciduous aromatic shrub + pre-leaf pseudoumbels + mostly dioecious flowers + red drupe",
+        "role": "native spicebush door"
+      },
+      {
+        "genus": "Camphora",
+        "taxa_count": 1,
+        "fast_cue": "evergreen aromatic tree + often 3-veined leaves + small flowers + black/purple one-seeded fruit",
+        "role": "introduced camphor-tree comparison"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Lindera benzoin",
+    "Camphora officinarum"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Lindera benzoin",
+      "current_name": "Lindera benzoin",
+      "note": "Accepted by current Kew; native range extends into Texas."
+    },
+    {
+      "source_name": "Camphora officinarum",
+      "current_name": "Camphora officinarum",
+      "note": "Accepted by current Kew. Cinnamomum camphora is a homotypic synonym; Texas is introduced, not native."
+    },
+    {
+      "source_name": "Cinnamomum camphora",
+      "current_name": "Camphora officinarum",
+      "note": "Retain as searchable historical/source synonym because many floras and horticultural references use it."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "valvate anther",
+      "annotation_goal": "show flap-like anther valves opening upward"
+    },
+    {
+      "priority": 1,
+      "structure": "Lauraceae fruit + cupule",
+      "annotation_goal": "label single fruit, pedicel/receptacle and cupule"
+    },
+    {
+      "priority": 1,
+      "structure": "Lindera pseudoumbel and red fruit",
+      "annotation_goal": "show paired involucral bracts, flower cluster and fruit"
+    },
+    {
+      "priority": 1,
+      "structure": "Camphora triplinerved leaf",
+      "annotation_goal": "trace 3 strong basal/near-basal veins"
+    },
+    {
+      "priority": 2,
+      "structure": "Lauraceae vs Magnoliaceae node",
+      "annotation_goal": "no stipule scar versus annular stipule scar"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Lauraceae general information",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000569-2/general-information"
+    },
+    {
+      "source": "FNA — Lauraceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10479"
+    },
+    {
+      "source": "FNA — Lindera",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=118626"
+    },
+    {
+      "source": "FNA — Lindera benzoin",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500747"
+    },
+    {
+      "source": "POWO — Lindera benzoin",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:140503-2"
+    },
+    {
+      "source": "POWO — Camphora officinarum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77328940-1"
+    },
+    {
+      "source": "Flora of China — Cinnamomum camphora morphology",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008697"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing was checked before external visual planning; no direct Lauraceae target frame is currently indexed. Do not force unrelated Joey media.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-024",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_valvate_anther_cupule_genus_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

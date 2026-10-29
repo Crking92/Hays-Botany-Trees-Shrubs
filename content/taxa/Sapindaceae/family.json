@@ -1,0 +1,105 @@
+{
+  "rank": "family",
+  "name": "Sapindaceae",
+  "common_name": "Soapberry / maple family",
+  "project_scope": {
+    "selection_mode": "Central Texas fruit-diversity visual module",
+    "note": "Ungnadia speciosa, Sapindus drummondii, and Acer negundo are now canonical clickable Central Texas family anchors, showing capsule, translucent drupe, and paired-samara fruit architectures."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with fruit and leaf arrangement rather than one leaf shape.",
+    "leaves": "Can be opposite or alternate, simple or compound.",
+    "flowers": "Often small or functionally unisexual with a floral disk.",
+    "fruit": "Local learning set spans paired samaras, drupe-like soapberries and 3-valved woody capsules.",
+    "field_tip": "Sapindaceae cannot be learned from one leaf arrangement or one fruit type."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "This family is a great anti-memorization lesson: maple, soapberry and Mexican buckeye look unrelated until the reproductive pattern and fruit diversity click.",
+    "steps": [
+      {
+        "title": "1 · Maple side: paired samaras",
+        "photo_role": "paired maple samaras",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Negundo_samaras.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Negundo_samaras.jpg",
+        "image_label": "Acer negundo paired samaras",
+        "image_credit": "CC BY-SA 3.0 Serbia · Gmihail",
+        "look_for": "Two winged mericarps joined as one paired fruit.",
+        "why_it_matters": "Boxelder is a maple even though its compound leaves can look ash-like.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "acer-negundo"
+      },
+      {
+        "title": "2 · Soapberry side",
+        "photo_role": "western soapberry habit",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sapindus_drummondii.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sapindus_drummondii.jpg",
+        "image_label": "Sapindus drummondii",
+        "image_credit": "CC BY-SA 4.0 · James Steakley",
+        "look_for": "Alternate pinnate leaves and soapberry fruiting architecture.",
+        "why_it_matters": "Shows how far the family can depart from the maple gestalt.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "sapindus-drummondii"
+      },
+      {
+        "title": "3 · Mexican buckeye flower",
+        "photo_role": "Ungnadia flowers",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ungnadia_speciosa_flowers.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ungnadia_speciosa_flowers.jpg",
+        "image_label": "Ungnadia speciosa flowers",
+        "image_credit": "CC BY-SA · Stan Shebs",
+        "look_for": "Pink flowers on woody growth with pinnate leaves.",
+        "why_it_matters": "Adds the third major local family form.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "ungnadia-speciosa"
+      },
+      {
+        "title": "4 · Mexican buckeye capsule",
+        "photo_role": "3-valved capsule",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ungnadia_speciosa_12862967.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ungnadia_speciosa_12862967.jpg",
+        "image_label": "Ungnadia capsule",
+        "image_credit": "CC BY 4.0 · Alex Abair",
+        "look_for": "A 3-lobed/3-valved woody capsule.",
+        "why_it_matters": "Fruit diversity is the strongest teaching hook for Sapindaceae.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "ungnadia-speciosa"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Boxelder vs ash",
+        "rule": "Acer negundo produces paired samaras; Fraxinus produces single samaras."
+      },
+      {
+        "title": "Sapindaceae vs Anacardiaceae",
+        "rule": "Sapindaceae usually lacks resinous sap and commonly has lobed/winged fruit or a floral disk; Anacardiaceae is strongly resinous locally and often drupaceous."
+      }
+    ],
+    "caveat": "Do not treat one fruit or leaf arrangement as universal across Sapindaceae."
+  },
+  "curation_status": {
+    "version": "1.3-three-canonical-anchors",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "canonical_ungnadia_sapindus_acer_live"
+  },
+  "family_confusion_polish": {
+    "version": "2026-10-12-compact",
+    "look_here_first": "Compare node and fruit together. Acer: opposite leaves and paired samaras; Aesculus: opposite palmate leaves and capsule; Sapindus: alternate pinnate leaves and fleshy soapberries; Ungnadia: alternate pinnate leaves and woody three-valved capsule; Cardiospermum: tendrilled vine and inflated capsule; Koelreuteria: tree and inflated capsule.",
+    "compare": [
+      "Acer negundo vs Fraxinus: paired vs single samaras",
+      "Ungnadia vs Aesculus: pinnate alternate vs palmate opposite leaves",
+      "Sapindus vs Rhus: drupaceous fruit alone does not separate families",
+      "Cardiospermum vs Koelreuteria: vine tendrils vs tree habit"
+    ],
+    "photo_roles": [
+      "paired maple vs single ash samaras with arrows",
+      "Ungnadia/Aesculus leaflet insertion and opened capsule",
+      "Cardiospermum tendril origin vs Koelreuteria branch",
+      "Sapindus/Rhus fruit cutaway",
+      "flower disk/ovary cutaway"
+    ],
+    "guardrail": "Preserve canonical image anchors, genus mappings and range statuses; photos belong to Diagnostic Photo Polish."
+  }
+}

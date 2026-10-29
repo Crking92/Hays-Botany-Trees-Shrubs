@@ -1,0 +1,161 @@
+{
+  "rank": "family",
+  "name": "Cornaceae",
+  "common_name": "Dogwood family",
+  "lineage_context": {
+    "order": "Cornales",
+    "batch": "Cornales",
+    "close_project_families": [
+      "Hydrangeaceae",
+      "Loasaceae"
+    ],
+    "teaching_goal": "Use opposite leaves, small 4-part flowers, an inferior 2-locular ovary and drupaceous fruit to define the dogwood branch of Cornales."
+  },
+  "project_scope": {
+    "selection_mode": "Cornus drummondii-centered project module",
+    "note": "The current pool contains Cornus drummondii, an accepted Texas-native species under current Kew."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On a shrub/tree with opposite leaves, trace the lateral veins: dogwood veins commonly curve strongly toward the leaf tip. Then confirm clusters of small 4-part flowers above an inferior ovary and a fleshy drupe with a hard stone.",
+    "vegetative": "Trees or shrubs; project Cornus has opposite simple leaves, entire to weakly toothed margins, no obvious stipules, and strongly arcuate secondary veins.",
+    "reproductive": "Small flowers commonly 4-merous: 4 sepals, 4 petals and 4 stamens alternating with the petals. Ovary inferior, usually 2-locular with one ovule per locule.",
+    "fruit": "A drupe, with persistent calyx/style remnants often visible at the apex; stone commonly 2-celled.",
+    "field_tip": "Opposite arcuate-veined leaves + tiny 4-part flowers + inferior ovary + drupe is the dogwood package."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_016",
+    "teaching_order": "opposite arcuate leaf → 4-part flower → inferior ovary → drupe/stone → Hydrangeaceae comparison",
+    "intro": "Cornaceae is the small-flower, fleshy-fruit branch of this Cornales lesson.",
+    "steps": [
+      {
+        "title": "1 · Trace the arcuate veins",
+        "photo_role": "Cornus leaf backlit or flat",
+        "look_for": "Strong lateral veins arching forward toward the tip instead of running straight to the margin.",
+        "why_it_matters": "It is a fast dogwood gestalt when combined with opposite leaves.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Count four petals and four stamens",
+        "photo_role": "single Cornus flower macro",
+        "look_for": "Tiny 4-petaled flower with 4 stamens alternating with the petals.",
+        "why_it_matters": "This gives a clean contrast with Philadelphus's many-stamen flower.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Confirm the inferior ovary",
+        "photo_role": "flower side/cutaway",
+        "look_for": "Petals and stamens arise above the ovary; ovary usually has two locules with one ovule each.",
+        "why_it_matters": "Links the family to Cornales and predicts the drupaceous fruit.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Open the drupe",
+        "photo_role": "Cornus fruit + stone",
+        "look_for": "Fleshy outer fruit surrounding a hard stone, often with two internal chambers.",
+        "why_it_matters": "Fruit is the easiest split from capsular Hydrangeaceae and Loasaceae.",
+        "status": "local_macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cornaceae vs Hydrangeaceae",
+        "rule": "Both project families have opposite leaves and inferior ovaries. Cornus has tiny 4-part flowers with 4 stamens and a fleshy drupe; Philadelphus has 4 petals, many stamens and a dry many-seeded capsule."
+      },
+      {
+        "title": "Cornaceae vs Viburnaceae",
+        "rule": "Both can be opposite-leaved woody plants with inferior ovaries and drupes. Use leaf venation, flower-cluster structure and stone/fruit details, then current family context."
+      },
+      {
+        "title": "Cornaceae vs Loasaceae",
+        "rule": "Cornaceae is woody and drupaceous; Loasaceae is commonly rough/barbed/stinging and capsular with many stamens."
+      },
+      {
+        "title": "Cornaceae vs Viburnaceae: count flower parts",
+        "rule": "Opposite leaves, arcuate venation and fleshy drupes can overlap. Typical Cornus flowers have four petals and four stamens; Viburnum generally has a five-lobed corolla and five stamens. Verify mature fruit/stone and genus characters; neither leaf arrangement nor arcuate veins alone proves family."
+      }
+    ],
+    "caveat": "Arcuate venation is a strong dogwood clue but not a stand-alone family character. Confirm the flower and fruit.",
+    "diagnostic_photo_needs": [
+      {
+        "species_id": "cornus-drummondii",
+        "role": "flower-face closeup",
+        "structure": "four petals and four stamens",
+        "annotation_status": "annotation_pending",
+        "status": "image_needed"
+      },
+      {
+        "species_id": "cornus-drummondii",
+        "role": "leaf-node macro",
+        "structure": "opposite leaves with arcuate secondary veins",
+        "annotation_status": "annotation_pending",
+        "status": "image_needed"
+      },
+      {
+        "species_id": "cornus-drummondii",
+        "role": "fruit cutaway",
+        "structure": "fleshy drupe with hard stone",
+        "annotation_status": "annotation_pending",
+        "status": "image_needed"
+      },
+      {
+        "species_id": "cornus-drummondii",
+        "role": "ovary side section",
+        "structure": "inferior ovary",
+        "annotation_status": "annotation_pending",
+        "status": "image_needed"
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Cornus",
+        "fast_cue": "opposite arcuate-veined leaves + tiny 4-part flowers + inferior ovary + drupe",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "arcuate leaf venation",
+      "annotation_goal": "trace lateral veins curving toward tip"
+    },
+    {
+      "priority": 1,
+      "structure": "4-petal/4-stamen flower",
+      "annotation_goal": "label petals and alternating stamens"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior ovary",
+      "annotation_goal": "show floral whorls above ovary"
+    },
+    {
+      "priority": 1,
+      "structure": "drupe and stone cross-section",
+      "annotation_goal": "show hard stone and internal locules"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Cornaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002899-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Cornus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:330228-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Cornus drummondii",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:271556-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-016",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "dogwood_family_door_live_leaf_flower_drupe_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

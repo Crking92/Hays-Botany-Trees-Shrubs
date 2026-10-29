@@ -1,0 +1,63 @@
+{
+  "rank": "genus",
+  "name": "Sambucus",
+  "family": "Viburnaceae",
+  "common_group": "Elderberries",
+  "look_here_first": "Start at a stem node: opposite, pinnately compound leaves with serrate leaflets, then a broad terminal cluster of small flowers. Confirm the American elderberry concept from provenance; flower color and leaflet count alone do not separate it from European Sambucus nigra.",
+  "project_scope": {
+    "species_ids": [
+      "sambucus-canadensis"
+    ],
+    "note": "First-pass species anchor; other approved pool concepts remain separate."
+  },
+  "genus_diagnostics": {
+    "leaves": "Opposite compound leaves distinguish local elderberries from simple-leaved Viburnum.",
+    "flower": "Small shallow, usually five-part flowers; the installed close-up shows lobes and stamens.",
+    "fruit": "Fleshy fruits with multiple pyrenes; dissected fruit photo needed."
+  },
+  "study_strategy": {
+    "warning": "Photographed outside Texas; original Commons page identifies Sambucus canadensis. Visually checked shallow lobed flowers and exposed stamens. This flower view does not independently distinguish S. nigra s.s. Leaf/node, whole head, and fruit-stone photos remain needed."
+  },
+  "comparison_cards": [
+    {
+      "title": "American elderberry and its look-alikes",
+      "look_here_first": "Viburnum: simple opposite leaves and usually one stone, versus compound elder leaves and multiple pyrenes. Sambucus nigra s.s.: overlapping heads, dark fruit, and leaflet counts; require documented origin or voucher, not a photo-only confident key. S. cerulea: often waxy blue fruit, but wax can rub off.",
+      "caution": "Only one first-pass photo is installed. Missing anatomy is not demonstrated by it."
+    }
+  ],
+  "visual_comparison": {
+    "part_examples": [
+      {
+        "title": "Flower lobes and stamens",
+        "anchor_species_id": "sambucus-canadensis",
+        "image_file": "images/01-flower-close-up.jpg",
+        "look_for": "Photographed outside Texas; original Commons page identifies Sambucus canadensis. Visually checked shallow lobed flowers and exposed stamens. This flower view does not independently distinguish S. nigra s.s. Leaf/node, whole head, and fruit-stone photos remain needed.",
+        "why_it_matters": "Learn elder flower architecture; provenance is still needed to exclude S. nigra.",
+        "role": "Flower close-up: lobed corollas and exposed stamens; source-identified S. canadensis, not a stand-alone key against S. nigra"
+      },
+      {
+        "title": "Opposite stem node and complete compound leaf",
+        "look_for": "Needs photo: Opposite stem node and complete compound leaf",
+        "why_it_matters": "Needed to apply the structural identification key; not visible in the installed image.",
+        "role": "Opposite stem node and complete compound leaf"
+      },
+      {
+        "title": "Full flowering head and primary rays with scale",
+        "look_for": "Needs photo: Full flowering head and primary rays with scale",
+        "why_it_matters": "Needed to apply the structural identification key; not visible in the installed image.",
+        "role": "Full flowering head and primary rays with scale"
+      },
+      {
+        "title": "Dissected ripe drupe showing 3–5 pyrenes",
+        "look_for": "Needs photo: Dissected ripe drupe showing 3–5 pyrenes",
+        "why_it_matters": "Needed to apply the structural identification key; not visible in the installed image.",
+        "role": "Dissected ripe drupe showing 3–5 pyrenes"
+      }
+    ]
+  },
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321978-2",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:978604-1",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Sambucus%20nigra%20canadensis.html"
+  ]
+}

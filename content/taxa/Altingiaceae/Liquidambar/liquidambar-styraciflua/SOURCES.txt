@@ -1,0 +1,9 @@
+Source pool Phase3 (source rows 652); preflight still subject to independent accepted-taxonomy review.
+Taxon: Liquidambar styraciflua
+Kew taxonomy search: https://powo.science.kew.org/results?q=Liquidambar%20styraciflua
+Exact species Commons image page: https://commons.wikimedia.org/wiki/File:20161031Liquidambar_styraciflua.jpg
+Original/Commons bounded download: https://upload.wikimedia.org/wikipedia/commons/f/f6/20161031Liquidambar_styraciflua.jpg
+Photographer: AnRo0002
+License: CC0 1.0
+Image role: Provisional whole tree growth habit and autumn canopy; leaf and fruit details not visible.
+Do not claim image proves Hays occurrence or complete anatomical diagnosis. Source image may depict a cultivated or out-of-region specimen. This initial learner card remains provisional.

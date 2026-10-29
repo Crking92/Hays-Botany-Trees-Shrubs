@@ -1,0 +1,12 @@
+Lonicera japonica — Japanese honeysuckle (Caprifoliaceae)
+FIRST PASS 2026-10-13
+User-approved Master Plant Pool rows 657–659 (see genus lesson and scientific review).
+RANGE: INTRODUCED_NON_NATIVE — Native to East Asia, introduced in Texas; NON_NATIVE/INVASIVE learner comparison; exclude entirely from Texas-native metrics.
+SCIENCE: content/taxa/Caprifoliaceae/Lonicera/genus.json and reports/lonicera-scientific-review-2026-10-12.md
+TAXON: POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:148850-1
+REFERENCE: https://w3.biosci.utexas.edu/prc/K12/pages/Lonicera%20japonica.html
+LICENSED PHOTOGRAPHS:
+01-japanese-honeysuckle-axillary-flowers.jpg: creator NY State IPM Program at Cornell University; CC BY 2.0; https://commons.wikimedia.org/wiki/File:Lonicera_japonica_-_flowers,_leaves_(18870815578).jpg; Cornell NY State IPM Program, CC BY 2.0; white/yellow flower aging is visible as field context. Inspect leaf axils for paired flowers; don't mistake a 2-flowered axillary cyme for a terminal cluster. Introduced invasive comparison, not a native.
+02-japanese-honeysuckle-leaf.jpg: creator Qwert1234; Public Domain (creator dedication); https://commons.wikimedia.org/wiki/File:Lonicera_japonica,_Leaf.JPG; Qwert1234, Fukushima Japan 2009, public domain. Species leaf-view portrait; do not claim petiole gland hairs are resolved without a dedicated stem macro.
+03-japanese-honeysuckle-black-fruit.jpg: creator Qwert1234; Public Domain (creator dedication); https://commons.wikimedia.org/wiki/File:Lonicera_japonica,_Fruit.JPG; Qwert1234, Fukushima Japan 2009, public domain. Ripe dark berries support Japanese honeysuckle against both locally native red-fruited comparisons; do not ID from berry shade without verifying flower and leaf structure.
+LEARNER CAUTION: Photos are exact-species face/teaching sources, not three-target-county vouchers. No measured matched terminal versus axillary macro yet. Don't add inaccurate arrows.

@@ -1,0 +1,37 @@
+{
+  "id": "koeberlinia-spinosa",
+  "family": "Koeberliniaceae",
+  "genus": "Koeberlinia",
+  "species": "spinosa",
+  "scientific_name": "Koeberlinia spinosa",
+  "common_name": "Crucifixion thorn",
+  "look_here_first": "Recognize leafless-looking green rigid zigzag woody branches tipped with sharp spines; seek clusters of small pale flowers and round fleshy fruit to confirm.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Koeberlinia%20spinosa",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "iNaturalist photo 12747630, observation 9384101 from New Mexico; exact species and photo level CC BY 4.0 reviewed by Commons.",
+  "images": [
+    {
+      "file": "images/commons-koeberlinia-spinosa-alex-abair.jpg",
+      "role": "Provisional branching green thorny shrub recognition; fine flowers and fruit require additional diagnostic photographs.",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Koeberlinia_spinosa_12747630.jpg",
+      "study_use": "Educational botany learner",
+      "public_reuse": "Attribution and source license required"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

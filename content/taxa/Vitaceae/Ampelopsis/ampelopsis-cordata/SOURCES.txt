@@ -1,0 +1,11 @@
+Accepted-name and diagnostic source-pool review: workflow/APPROVED_POOL_THREE_TAXA_HANDOFF_2026-10-14.json (Master Plant Pool row 58).
+Taxonomic concept: Ampelopsis cordata, not A. arborea; historical synonym Vitis cordata. Target-zone county status UNRESOLVED; do not infer PASS.
+Photo: https://commons.wikimedia.org/wiki/File:Ampelopsis_cordata_iNat-90602642.jpg — CK Kelly, CC BY 4.0, originally iNaturalist photo 90602642/observation 56835360, verified license by Wikimedia Commons review. https://creativecommons.org/licenses/by/4.0/ ; resized/optimized by installer if installed.
+Photo is exact-species reference with simple leaves and berries; no verified pith close-up yet. Actual successful installation and rendered gallery must be verified after Action. No arrows authorized.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:59:22.619433+00:00
+Ampelopsis cordata Michx.
+https://www.gbif.org/occurrence/6234965370
+Tommy | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Heart-shaped serrated leaf, tendril/fruit cluster opposite leaf, cut-stem white pith
+No anatomy arrows; no scientific or native-range changes.

@@ -1,0 +1,37 @@
+{
+  "id": "urtica-chamaedryoides",
+  "family": "Urticaceae",
+  "genus": "Urtica",
+  "species": "chamaedryoides",
+  "scientific_name": "Urtica chamaedryoides",
+  "common_name": "Heartleaf nettle",
+  "look_here_first": "Look for opposite coarsely toothed heart- to oval-shaped leaves and small green flower clusters; examine stinging hairs carefully without handling bare-handed.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Urtica%20chamaedryoides",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photographed in Tennessee; wear gloves when handling nettles.",
+  "images": [
+    {
+      "file": "images/commons-urtica-chamaedryoides.jpg",
+      "role": "Provisional leafy nettle habit; stinging hairs and flowers need macro views.",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public domain (author released)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Urtica_chamaedryoides.jpg",
+      "study_use": "Noncommercial field botany learner",
+      "public_reuse": "Public domain; credit retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

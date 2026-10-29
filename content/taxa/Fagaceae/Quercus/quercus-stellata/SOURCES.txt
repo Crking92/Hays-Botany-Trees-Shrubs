@@ -1,0 +1,18 @@
+Quercus stellata — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501087
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:216416-2
+
+PROJECT TRACKER DIAGNOSTIC
+Often cross-shaped leaves, but the stronger traits are thick yellowish twigs with stellate hairs and a densely harsh stellate-hairy lower leaf surface.
+
+PHOTO METHOD
+Run the genus-level DOWNLOAD-TARGETED-QUERCUS-PHOTOS.bat.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations from Aug–Dec when possible
+3) all-season multi-photo observations as fallback
+
+image-sources.csv is generated automatically.

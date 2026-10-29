@@ -1,0 +1,255 @@
+{
+  "id": "quercus-virginiana",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "virginiana",
+  "scientific_name": "Quercus virginiana",
+  "authority": "Mill.",
+  "common_name": "Southern live oak",
+  "synonyms": [],
+  "taxonomic_note": "Accepted species, but Central Texas records require modern separation from Quercus fusiformis; older broad live-oak labels are not transferred automatically.",
+  "look_here_first": "Compare leaf breadth, lower-surface pubescence, acorn shape, geography, and Q. fusiformis overlap. Ambiguous Central Texas live oaks should remain unresolved.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED TAXON CONCEPT — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "No qualifying project target-zone county is currently locked under strict Q. virginiana. Bell evidence is outside the project target list; many Central Texas live-oak records may represent Q. fusiformis or intermediates.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "TAXON_CONCEPT_RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen to subevergreen white-oak-group tree",
+      "leathery simple leaves",
+      "pale stellate-hairy lower leaf surface",
+      "one-season acorns",
+      "typical acorns broadly ovoid to barrel-shaped with blunt or rounded apex",
+      "hemispheric to goblet-shaped cupule"
+    ],
+    "comparison_training": "Q. fusiformis is the priority comparison; geography plus acorn and leaf morphology matters more than any one trait."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus fusiformis",
+      "Quercus oleoides",
+      "Quercus laurifolia"
+    ],
+    "key_distinctions": "Strict Q. virginiana cannot be assigned from a generic live-oak label."
+  },
+  "tags": [
+    "Fagaceae",
+    "Quercus",
+    "Live oak",
+    "Taxon concept hold",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-taxonomy-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 5,
+    "photo_files_present": 2,
+    "external_display_image_count": 3,
+    "last_visual_reviewed": "2026-10-08",
+    "visual_status": "provisional-external-references-taxonomy-unresolved",
+    "manual_library_install_018": "2026-10-16"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "upper leaf",
+    "lower leaf hairs",
+    "mature acorn profile",
+    "cupule",
+    "Q. fusiformis comparison"
+  ],
+  "photo_note": "Modern-concept comparison imagery remains high priority. 2026-10-08 provisional visual fast-fill: three CC BY-SA 4.0 exact-labeled Q virginiana reference photos; two originate Miami, including one cultivated botanical specimen, while fruit photograph lacks original locality. None establish strict Hays County occurrence. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "diagnostic_comparison": {
+    "pair_species_id": "quercus-fusiformis",
+    "best_tie_breakers": [
+      "In FNA, Q. virginiana mature nut is commonly 15–20 mm long with rounded/blunt apex; fusiformis frequently 20–30 mm with an acute/apically pointed spindle-like outline.",
+      "Cup depth overlaps; a deep goblet cup does NOT prove fusiformis alone.",
+      "Native coastal/eastern habitat context can support strict virginiana, but a planted or unidentified central Texas live oak cannot resolve the name."
+    ],
+    "unreliable_alone": [
+      "Simple leathery evergreen leaves.",
+      "Whitish densely stellate-hairy undersides.",
+      "Assuming all central Texas live oaks are Q. virginiana because a nursery uses that name."
+    ],
+    "taxon_concept_guardrail": "Approval to study this taxon must not become a three-county PASS. Current project native-range status remains UNRESOLVED; other taxonomies subsume fusiformis."
+  },
+  "diagnostic_image_plan": {
+    "status": "3 study context photos added with strict taxonomy caveats",
+    "priority": "high",
+    "needs": [
+      "licensed strict-virginiana mature fruit/acorn including blunt nut apex",
+      "leaf upper/lower, with measurable size and hair macro",
+      "cup scales in side profile, a ruler",
+      "matched fusiformis/virginiana specimen comparisons with known wild provenance"
+    ],
+    "photo_reuse_guardrail": "Never call a general habit/foliage photo a bud, acorn, or underside macro without directly inspecting the real image; preserve image attribution/licensing.",
+    "covered_by_new_gallery": [
+      "living evergreen leaf and developing acorn branch",
+      "Florida male catkin macro",
+      "Miami canopy/habit view"
+    ],
+    "remaining_macro_priorities": [
+      "Measured ripe brown nut + cup confirmed southern live oak",
+      "same-scale Q fusiformis/Q virginiana cup texture",
+      "abaxial hairs and sun/shade leaf comparison"
+    ]
+  },
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501031"
+    },
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501097"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "core-oak-pair-characters",
+    "scope": "morphology and image-role requests only; unchanged canonical range, user approval and existing photo files"
+  },
+  "images": [
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Quercus_virginiana%E2%80%94acorns.jpg/960px-Quercus_virginiana%E2%80%94acorns.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "role": "Evergreen leathery mature leaves and attached green, developing acorns with cups (Q virginiana source concept)",
+      "creator": "KATHERINE WAGNER-REISS",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_virginiana%E2%80%94acorns.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike",
+      "media_storage": "external_direct_url",
+      "image_verified": "Source photograph directly inspected 2026-10-08; pale scaly cups and dark glossy evergreen leaves confirmed.",
+      "diagnostic_visibility": "Attached green acorns, prominent light rough cups, mostly entire evergreen leaf blades; pointed nut tips can occur here too. NO mature brown-fruit measurements and no hair microscopy.",
+      "stage": "developing green fruit, not fully ripe",
+      "provenance_note": "Photographer/source page labels Quercus virginiana; original collection locality not supplied, so this image is not proof of target-zone occurrence or definitive local taxon concept."
+    },
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Quercus_virginiana_kz08.jpg/960px-Quercus_virginiana_kz08.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "role": "Spring staminate flower catkin detail on live oak twig in Miami, Florida",
+      "creator": "Krzysztof Ziarnek (Kenraiz)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_virginiana_kz08.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike",
+      "media_storage": "external_direct_url",
+      "image_verified": "Actual photo inspected 2026-10-08: pendulous male catkin with individual staminate units, supported by Miami Florida source location.",
+      "diagnostic_visibility": "Distinct small green male flowers arrayed along drooping catkin on mature twig, source locality Matheson Hammock County Park Florida. Not a bud/cup/leaf underside macro.",
+      "stage": "flowering catkin",
+      "provenance_note": "Florida source specimen outside Hays target-zone; strict concept illustration only, not local native-range evidence."
+    },
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Quercus_virginiana_41zz.jpg/960px-Quercus_virginiana_41zz.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "role": "Branching evergreen crown and foliage context at Fairchild Tropical Botanic Garden, Miami",
+      "creator": "David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_virginiana_41zz.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike",
+      "media_storage": "external_direct_url",
+      "image_verified": "Actual photo inspected 2026-10-08 showing broad twig/crown architecture and leaves; foliage backlit, not a diagnostic leaf macro.",
+      "diagnostic_visibility": "Whole branch/crown context from cultivated labeled Q. virginiana specimen in Miami; bark twig background visible; no fruit or close-up leaf morphology.",
+      "stage": "crown/habit",
+      "provenance_note": "Cultivated specimen at botanical garden in Florida; documents label and habit only, not wild distribution."
+    },
+    {
+      "file": "images/library-review018-7c05ff46579860a.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Evergreen leathery live-oak leaves with possible acorn plus broad spreading canopy form",
+      "creator": "Northcut",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6441151362",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/616208627/original.jpg",
+      "source_determination": "Quercus virginiana",
+      "source_observation_id": "6441151362",
+      "library_release_tag": "hays-photo-library-mass-38937476373",
+      "library_archive_file": "staged_images/quercus-virginiana/gbif-d15293f2f1b906.jpg",
+      "archive_image_sha256": "b71e7e5f1340ee9ce97b8919956ce4e78786bebb743dd80bab1da3d93698df96",
+      "image_dimensions": [
+        1006,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review018-03e0978c882f74b.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Evergreen leathery live-oak leaves with possible acorn plus broad spreading canopy form",
+      "creator": "Cricket Raspet",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6179124165",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625031850/original.jpg",
+      "source_determination": "Quercus virginiana",
+      "source_observation_id": "6179124165",
+      "library_release_tag": "hays-photo-library-mass-38937476373",
+      "library_archive_file": "staged_images/quercus-virginiana/gbif-f4e3af622a999e.jpg",
+      "archive_image_sha256": "0c7234bf4a744960da77d9dde95fc8af41c8b2ece63405c981e7155250b408f5",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "photo_strategy": {
+    "method": "source-vetted exact-name licensed Commons reference imagery",
+    "mode": "visual learner provisional",
+    "images_target": 3,
+    "rights": "All 3 Creative Commons BY-SA 4.0 with retained photographer/source attribution",
+    "scope_guardrail": "Do not recertify local native status from southern/coastal Florida or cultivated plants. Images not mirrored for offline use."
+  },
+  "photo_backfill_2026_10_08": {
+    "status": "provisional_learner_gallery_populated",
+    "sources": 3,
+    "new_external": 3,
+    "roles": [
+      "developing fruit/leaf macro",
+      "wild Florida flowering catkin",
+      "cultivated Florida crown foliage"
+    ],
+    "remaining": [
+      "brown mature acorn/cup side by side with verified Q fusiformis",
+      "lower-surface stellate hair micros",
+      "bud/leaf photos on known wild southeastern tree"
+    ],
+    "scientific_guardrail": "Q virginiana remains unresolved target-zone taxon concept and native metrics excluded. No Q fusiformis photos substituted."
+  }
+}

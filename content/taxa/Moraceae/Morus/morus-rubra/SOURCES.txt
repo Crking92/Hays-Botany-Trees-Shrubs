@@ -1,0 +1,9 @@
+Master Plant Pool preflight source rows: 733.
+Name source: https://powo.science.kew.org/results?q=Morus%20rubra
+Individual photo from Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Morus_rubra_NRCS-2.png
+Image direct download: https://commons.wikimedia.org/wiki/Special:Redirect/file/Morus%20rubra%20NRCS-2.png
+Creator: U.S. Forest Service / National Agricultural Library / USDA-NRCS PLANTS
+License: Public domain (U.S. federal government)
+Role: Provisional leaf recognition: mulberry leaf blades and margins; underside hairs, flowers and fruit still need diagnostic photos.
+Explicit caution: Red mulberry vs introduced white mulberry and hybrids requires more than leaf shape; no full diagnostic ID claimed.
+No BONAP county nativity decision. Provisional visual species identity; exact diagnostic organ verification pending.

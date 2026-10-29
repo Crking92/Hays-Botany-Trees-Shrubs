@@ -1,0 +1,90 @@
+{
+  "rank": "family",
+  "name": "Vitaceae",
+  "common_name": "Grape family",
+  "project_scope": {
+    "selection_mode": "Central Texas Vitaceae: Vitis + Cissus native vine lessons, Parthenocissus look-alike genus undergoing separate review",
+    "note": "Vitis and Cissus have installed native learner species and real image galleries. Parthenocissus genus work is owned by separate active claim; this family lesson only references it."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "At the node, check a tendril or inflorescence arising OPPOSITE an alternate leaf. Then determine whether the blade is SIMPLE (Vitis), usually 3-FOLIOLATE or sometimes simple deeply 3-LOBED (Cissus trifoliata), or 5–7-FOLIOLATE (many Parthenocissus). Fruit type alone is not enough.",
+    "leaves": "Alternate and stipulate, often lobed or toothed.",
+    "flowers": "Small and actinomorphic; petals in Vitis may cohere and fall as a cap.",
+    "fruit": "Berry, commonly 1–4-seeded.",
+    "field_tip": "At intact nodes look for leaf-opposed tendril or inflorescence; not every node bears one. Then check Vitis simple leaves, Cissus trifoliolate leaves, Parthenocissus palmate leaflets, and other genera. Confirm flower and berry anatomy."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Grapes are easiest when you stop looking at the leaf first and instead check what sits opposite it at the node.",
+    "steps": [
+      {
+        "title": "1 · See the grape-vine gestalt",
+        "photo_role": "mustang grape habit + leaves + fruit",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vitis%20mustangensis.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_mustangensis.jpg",
+        "image_label": "Vitis mustangensis",
+        "image_credit": "CC BY-SA 3.0 / GFDL",
+        "look_for": "Woody climbing vine, broad alternate leaves, and grape berries.",
+        "why_it_matters": "Provides the whole-family field gestalt.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Check the node",
+        "photo_role": "leaf-opposed tendril",
+        "look_for": "A tendril arising opposite the leaf rather than from its axil.",
+        "why_it_matters": "This is one of the fastest Vitis-versus-Passiflora characters.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "3 · Find the tiny flowers",
+        "photo_role": "small grape inflorescence",
+        "look_for": "Small actinomorphic flowers rather than a large showy passionflower.",
+        "why_it_matters": "Prevents vine-family ID from relying only on foliage.",
+        "status": "reference_pending"
+      },
+      {
+        "title": "4 · Follow to the berry",
+        "photo_role": "grape fruit",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vitis%20mustangensis.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_mustangensis.jpg",
+        "image_label": "Mustang grape fruit",
+        "image_credit": "CC BY-SA 3.0 / GFDL",
+        "look_for": "A fleshy berry with several seeds.",
+        "why_it_matters": "Closes the local Vitaceae reproductive pattern.",
+        "status": "rights_cleared_family_reference"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Vitaceae vs Passifloraceae",
+        "rule": "Vitis tendrils/inflorescences are commonly leaf-opposed; Passiflora tendrils are axillary and flowers have a corona."
+      },
+      {
+        "title": "Vitaceae vs Cucurbitaceae",
+        "rule": "Cucurbits have inferior ovaries and tendrils with different node/flower architecture; Vitis has tiny flowers and berry fruit."
+      },
+      {
+        "title": "Grapes (Vitis) vs sorrelvine (Cissus)",
+        "rule": "Vitis usually one simple palmate-veined leaf, often forked tendrils; Cissus trifoliata usually three distinct fleshy leaflets or sometimes a simple three-lobed leaf, often unbranched tendril and red/brown warty nodes. Count leaflet joints and confirm node structure."
+      },
+      {
+        "title": "Cissus trifoliata vs Parthenocissus",
+        "rule": "Cissus sorrelvine commonly has three fleshy leaflets or one deeply three-lobed leaf and simple tendrils; Parthenocissus usually has five or seven thinner leaflets and often branched tendrils, some with adhesive discs. Juvenile variation requires a full shoot."
+      }
+    ],
+    "caveat": "Tendril position is more reliable than generic 'vine with lobed leaves.'",
+    "reconciliation_2026_10_14": {
+      "status": "canonical_text_reconciled_visual_annotation_pending",
+      "look_here_first": "LOOK FIRST at several vine nodes: tendril or inflorescence usually opposite a leaf (some nodes lack one), not axillary. Alternate stipulate leaves; superior ovary; small 4–5-part flowers with stamens opposite petals; 1–4-seeded berry. Vitis petals form a shedding calyptra, unlike other local genera.",
+      "local_confusion": "Passifloraceae: axillary tendril/corona; Smilacaceae: paired petiole-base tendrils; Cucurbitaceae: lateral tendril + inferior ovary in female flower; Anacardiaceae/Toxicodendron: three leaflets + aerial rootlets, drupe, no leaf-opposed tendril; Bignoniaceae: terminal leaflet tendril + winged seeds in capsule. Leaflet count or berry alone is not family proof.",
+      "photo_handoff": "FIVE-GENUS ROUTING (10 pool records): Vitis simple leaves, brown pith, calyptra; Ampelopsis cordata simple cordate leaves, often 2-branched tendrils, separate petals; Nekemias arborea 2–3-pinnate leaves; Parthenocissus 5–7 palmate leaflets, branched tendrils, often adhesive discs; Cissus trifoliata fleshy 3 leaflets and 4-merous flowers. PHOTO LOCKS: matched vine nodes, five-genus leaf architecture, Vitis calyptra vs Ampelopsis petals, Parthenocissus tendril-tip/inflorescence comparison, Cissus vs Toxicodendron, berry/ovary cutaway. Reuse canonical Vitis and project/Joey images first.\n2026-10-14 PHOTO ROLE CORRECTION: Cissus 'texas-leaves-2' is a BERRY image; 'texas-node-3' shows 3 leaflet blades but not proven tendril attachment. Use provisional-face for trifoliolate leaves; Vitis mustangensis provisional-face for berries/simple leaves. Exact paths, creators, rights, arrows and gaps in Q26. Canonical integration still pending.",
+      "photo_verification_note": "Only images explicitly identified as inspected in the existing audit are verified. Proposed arrow targets remain annotation_pending; no new image files installed."
+    }
+  },
+  "curation_status": {
+    "version": "vitaceae-vitis-cissus-2026-10-13",
+    "last_reviewed": "2026-10-13",
+    "visual_lock": "five photographed canonical Vitis/Cissus species; three photos each; field ready provisional"
+  }
+}

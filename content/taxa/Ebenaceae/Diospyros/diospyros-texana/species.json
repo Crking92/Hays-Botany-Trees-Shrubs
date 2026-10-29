@@ -1,0 +1,472 @@
+{
+  "id": "diospyros-texana",
+  "entry_type": "species",
+  "family": "Ebenaceae",
+  "genus": "Diospyros",
+  "species": "texana",
+  "scientific_name": "Diospyros texana",
+  "authority": "Scheele",
+  "common_name": "Texas Persimmon",
+  "synonyms": [
+    "Brayodendron texanum (Scheele) Small",
+    "Diospyros cuneifolia Hiern",
+    "Diospyros mexicana Scheele ex Hiern"
+  ],
+  "field_group": "Persimmon shrub / small tree",
+  "look_here_first": "1) Older trunks have unusually smooth pale gray peeling/mottled bark; 2) leaves are SMALL (often 1.5–3.5 cm), simple, alternate, usually obovate with rolled-under margins and short hairs beneath; 3) immature berries green, RIPE fruits dark purple-black with persistent calyx. Never identify from black fruit alone.",
+  "project_tracker_diagnostic": "Small shrub/tree with smooth mottled peeling bark, small alternate obovate leaves with tomentose undersides, urn-shaped white flowers, and dark to black pubescent berries with a persistent calyx.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Mason"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS — VERIFIED 24-COUNTY FILTER",
+    "range_basis": "Prior North Hays County flora and Travis County wild-source records retained; third supported county Mason via USFS FEIS natural rocky slope image credited Kenneth Bader. Old Williamson County record preserved only as out-of-zone context, NOT counted.",
+    "range_evidence": [
+      {
+        "county": "Hays",
+        "authority": "Historical project-reviewed North Hays County flora",
+        "status": "prior-accepted county record; original source should be revisited at final voucher audit"
+      },
+      {
+        "county": "Travis",
+        "authority": "Historical project-reviewed Travis County wild material",
+        "status": "prior-accepted county record; original source should be revisited at final voucher audit"
+      },
+      {
+        "county": "Mason",
+        "authority": "USDA Forest Service FEIS photograph",
+        "url": "https://research.fs.usda.gov/feis/species-reviews/diotex",
+        "credit": "Kenneth Bader",
+        "description": "Diospyros texana shrubs on natural red-rock slope, explicit Mason County, Texas",
+        "status": "verified natural-habitat visual locality"
+      },
+      {
+        "county": "Williamson",
+        "authority": "UT Austin Williamson County flora",
+        "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Diospyros%20texana.html",
+        "status": "out-of-target zone: not counted"
+      }
+    ],
+    "range_audit_pending": "Original Hays and Travis documentation/ vouchers to be rechecked at strict final pass; Mason natural-habitat source verified."
+  },
+  "morphology_keys": {
+    "habit": "Shrub to small tree, often multistemmed; foliage may be deciduous or persistent depending on site.",
+    "bark": "Smooth pale gray to reddish-gray bark that exfoliates and creates a mottled trunk.",
+    "leaves": "Alternate simple leaves, usually small and obovate, glossy/dark above and densely tomentose beneath.",
+    "reproductive": "White urn-shaped flowers; flowers arise on previous-season twigs and ovaries are pubescent.",
+    "fruit": "Berrylike fruit roughly 1.5–2.5 cm, maturing dark/black and remaining pubescent, with persistent calyx and several seeds.",
+    "best_field_traits": [
+      "smooth mottled peeling bark",
+      "small obovate leaves",
+      "tomentose leaf undersides",
+      "pubescent black fruit"
+    ],
+    "joey_field_note": "Joey's desert-field frame gives an immediate woody-ID view of Texas persimmon's smooth pale bark and small-tree habit. Use the bark as an early cue, then confirm the small obovate leaves and, when present, the pubescent black fruit.",
+    "leaf_field_details": "UT Austin Williamson flora: simple alternate blades approximately 15–35 × 7–16 mm (local specimens), obovate/elliptic, rounded or notched apex, frequently rolled-under (revolute) margin, short-tomentose underside.",
+    "flower_field_details": "Small white to cream 5-lobed urn flowers; pollen-producing flowers typically in 1–3-flower clusters, ovary-bearing flowers often solitary. A source conflict exists over dioecious vs monoecious organization; identify flower sex from visible organs rather than assume tree sex.",
+    "berry_field_details": "Young fruit green; mature 17–22 mm berry black/dark purple, often hairy, with persistent conspicuous 4–5-lobed calyx and typically several hard brown seeds.",
+    "diagnostic_source_links": [
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Diospyros%20texana.html",
+      "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+      "https://research.fs.usda.gov/feis/species-reviews/diotex"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Diospyros virginiana"
+    ],
+    "key_distinctions": "American persimmon usually has much larger leaves, flowers on current-season growth, and glabrous yellow-orange to dark-red fruit. Texas persimmon has much smaller tomentose leaves and pubescent black fruit."
+  },
+  "ecological_notes": {
+    "habitat": "Rocky limestone slopes, arroyos, ravines, uplands and mature woody/riparian communities across central and southern Texas.",
+    "learning_note": "An excellent woody-ID species because bark, leaves and fruit all supply independent confirmation characters."
+  },
+  "tags": [
+    "Ebenaceae",
+    "Diospyros",
+    "Small tree",
+    "Edwards Plateau",
+    "Woody ID",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "2.0-five-panel-texas-persimmon-visual-polish",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 7,
+    "photo_files_present": 2,
+    "joey_enhanced": true,
+    "video_study_media_count": 6,
+    "visual_photo_panels": 5,
+    "arrow_annotations": 11,
+    "range_count_repaired": true
+  },
+  "images": [
+    {
+      "file": "images/01-leaves-immature-fruit.jpeg",
+      "role": "Leaf form / immature pubescent fruit",
+      "creator": "Ron Stephens",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://research.fs.usda.gov/feis/species-reviews/diotex",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-habit-habitat.jpeg",
+      "role": "Habit / architecture in rocky habitat",
+      "creator": "Kenneth Bader",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://research.fs.usda.gov/feis/species-reviews/diotex",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros.bark.2.jpg",
+      "role": "mature smooth exfoliating gray mottled trunks — diagnostic bark",
+      "creator": "UT Austin BIO406D (individual photographer not named)",
+      "license": "Unverified; linked source for private study",
+      "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+      "source_method": "external university teaching image; not installed binary",
+      "public_reuse": "not cleared",
+      "study_use": "yes"
+    },
+    {
+      "file": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros.texana.foliage.jpg",
+      "role": "small leaves with revolute margins and pale lower surfaces",
+      "creator": "UT Austin BIO406D (individual photographer not named)",
+      "license": "Unverified; linked source for private study",
+      "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+      "source_method": "external university teaching image; not installed binary",
+      "public_reuse": "not cleared",
+      "study_use": "yes"
+    },
+    {
+      "file": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/Diospyros%20texana%20leaves9.jpg",
+      "role": "whole leafy shoot showing alternate simple leaves and small blades",
+      "creator": "UT Austin BIO406D (individual photographer not named)",
+      "license": "Unverified; linked source for private study",
+      "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+      "source_method": "external university teaching image; not installed binary",
+      "public_reuse": "not cleared",
+      "study_use": "yes"
+    },
+    {
+      "file": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/Diospyros%20texana%20fruit2.JPG",
+      "role": "green immature persimmon berries with retained calyx",
+      "creator": "UT Austin BIO406D (individual photographer not named)",
+      "license": "Unverified; linked source for private study",
+      "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+      "source_method": "external university teaching image; not installed binary",
+      "public_reuse": "not cleared",
+      "study_use": "yes"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/9/98/Texas_Persimmon_%28Diospyros_texana%29.JPG",
+      "role": "same exact-species twig with ripe black berries, green unripe berries, individual leaf, loose seeds and size reference",
+      "creator": "Wyatt915",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Texas_Persimmon_(Diospyros_texana).JPG",
+      "source_method": "Commons original image (public-reuse licensed); externally linked, not binary-installed",
+      "public_reuse": "CC BY-SA 3.0; attribution and share-alike retained",
+      "study_use": "yes"
+    }
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "4zKfoRtl4Co",
+      "timestamp": "09:18",
+      "record_id": "jvid-4zKfoRtl4Co-013",
+      "role": "smooth pale bark / woody habit",
+      "source_confidence": "source-explicit",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "D1qCiiaMJ_I",
+      "timestamp": "02:00.0",
+      "record_id": "D1qCiiaMJ_I-05",
+      "role": "smooth pale bark / multi-trunk habit",
+      "source_taxon": "Diospyros texana",
+      "source_confidence": "source-explicit-overlay",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/D1qCiiaMJ_I/diospyros-texana_bark-trunk-source-label_02-00.0.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "m1rrQfljKAo",
+      "timestamp": "25:34",
+      "record_id": "m1rrQfljKAo-13",
+      "role": "smooth pale bark / whole-tree habit",
+      "source_taxon": "Diospyros texana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/m1rrQfljKAo/diospyros-texana_smooth-bark-habit_25-34.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "m1rrQfljKAo",
+      "timestamp": "27:00",
+      "record_id": "m1rrQfljKAo-14",
+      "role": "male vs female flowers",
+      "source_taxon": "Diospyros texana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/m1rrQfljKAo/diospyros-texana_male-vs-female-flowers_27-00.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "m1rrQfljKAo",
+      "timestamp": "27:08",
+      "record_id": "m1rrQfljKAo-15",
+      "role": "female ovary / male flower comparison",
+      "source_taxon": "Diospyros texana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/m1rrQfljKAo/diospyros-texana_female-ovary-and-male-flower-comparison_27-08.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "m1rrQfljKAo",
+      "timestamp": "27:38",
+      "record_id": "m1rrQfljKAo-16",
+      "role": "stand / habitat / smooth multi-trunks",
+      "source_taxon": "Diospyros texana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/m1rrQfljKAo/diospyros-texana_stand-habitat-smooth-trunks_27-38.jpg"
+    }
+  ],
+  "visual_comparison": {
+    "version": "2026-10-12-texas-persimmon-visual-polish",
+    "title": "Recognize Texas persimmon from bark, leaf edges and berries",
+    "subtitle": "Start with smooth pale trunks, then tiny leathery leaves. Fruit color helps when berries are ripe—but not every tree is fruiting.",
+    "memory_rule": "SMOOTH PALE BARK + SMALL DOWN-CURLED LEAVES + BLACK RIPE BERRIES.",
+    "items": [
+      {
+        "label": "1 · MATURE BARK",
+        "scientific_name": "Diospyros texana",
+        "image_url": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros.bark.2.jpg",
+        "image_fit": "contain",
+        "image_role": "smooth pale to dark-gray mottled trunks",
+        "caption": "These mature stems are smooth, unlike the thick square-blocked bark of American persimmon. Smooth bark is age-dependent; saplings may be less obvious.",
+        "markers": [
+          {
+            "label": "smooth trunk",
+            "label_x": 6,
+            "label_y": 16,
+            "target_x": 51,
+            "target_y": 41,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          },
+          {
+            "label": "mottled bark",
+            "label_x": 67,
+            "label_y": 15,
+            "target_x": 54,
+            "target_y": 28,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          }
+        ],
+        "creator": "UT Austin BIO406D (individual photographer unconfirmed)",
+        "license": "Original-site reference; reuse permission unverified—private study only",
+        "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+        "source_status": "Original UT Austin species gallery visually inspected; source-site link, NOT republished local asset"
+      },
+      {
+        "label": "2 · LEAF EDGE",
+        "scientific_name": "Diospyros texana",
+        "image_url": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros.texana.foliage.jpg",
+        "image_fit": "contain",
+        "image_role": "leathery foliage; revolute margins",
+        "caption": "Revolute (ree-voh-LOOT) means the blade edge curls downward, toward the underside. Some leaves show the pale, short-hairy lower surface; individual hairs are too small to label here.",
+        "markers": [
+          {
+            "label": "rolled leaf edge",
+            "label_x": 69,
+            "label_y": 76,
+            "target_x": 55,
+            "target_y": 64,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          },
+          {
+            "label": "small leaf blade",
+            "label_x": 4,
+            "label_y": 8,
+            "target_x": 37,
+            "target_y": 46,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          }
+        ],
+        "creator": "UT Austin BIO406D (individual photographer unconfirmed)",
+        "license": "Original-site reference; reuse permission unverified—private study only",
+        "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+        "source_status": "Original UT Austin species gallery visually inspected; source-site link, NOT republished local asset"
+      },
+      {
+        "label": "3 · WHOLE LEAFY SHOOT",
+        "scientific_name": "Diospyros texana",
+        "image_url": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/Diospyros%20texana%20leaves9.jpg",
+        "image_fit": "contain",
+        "image_role": "alternate simple leaves; obovate to elliptic blades",
+        "caption": "Trace a twig: each small blade has its own short petiole, rather than a shared compound rachis. Some nearby leaves appear crowded, but the species has alternate leaves.",
+        "markers": [
+          {
+            "label": "one simple leaf",
+            "label_x": 3,
+            "label_y": 11,
+            "target_x": 37,
+            "target_y": 19,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          },
+          {
+            "label": "rounded leaf blade",
+            "label_x": 64,
+            "label_y": 84,
+            "target_x": 64,
+            "target_y": 65,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          }
+        ],
+        "creator": "UT Austin BIO406D (individual photographer unconfirmed)",
+        "license": "Original-site reference; reuse permission unverified—private study only",
+        "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+        "source_status": "Original UT Austin species gallery visually inspected; source-site link, NOT republished local asset"
+      },
+      {
+        "label": "4 · IMMATURE BERRY",
+        "scientific_name": "Diospyros texana",
+        "image_url": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/Diospyros%20texana%20fruit2.JPG",
+        "image_fit": "contain",
+        "image_role": "green young berries; developing persistent calyx",
+        "caption": "These are developing green berries, not yet ripe. A persistent calyx occurs near each fruit's stalk end but is not clearly separated for a reliable arrow in this image; leave the calyx macro to a later pass.",
+        "markers": [
+          {
+            "label": "green unripe berry",
+            "label_x": 64,
+            "label_y": 12,
+            "target_x": 65,
+            "target_y": 44,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          }
+        ],
+        "creator": "UT Austin BIO406D (individual photographer unconfirmed)",
+        "license": "Original-site reference; reuse permission unverified—private study only",
+        "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+        "source_status": "Original UT Austin species gallery visually inspected; source-site link, NOT republished local asset"
+      },
+      {
+        "label": "5 · GREEN vs BLACK · SEEDS",
+        "scientific_name": "Diospyros texana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Texas_Persimmon_%28Diospyros_texana%29.JPG",
+        "image_fit": "contain",
+        "image_role": "ripe black berries, green fruit, loose seeds and leaf with size reference",
+        "caption": "One exact-species photograph shows green immature berries, dark mature berries, loose seeds and a detached leaf. Black berries and brown seeds are distinct organs; coin diameters are only approximate size cues.",
+        "markers": [
+          {
+            "label": "ripe black berry",
+            "label_x": 56,
+            "label_y": 53,
+            "target_x": 49,
+            "target_y": 27,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          },
+          {
+            "label": "green berry",
+            "label_x": 74,
+            "label_y": 10,
+            "target_x": 55,
+            "target_y": 19,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          },
+          {
+            "label": "loose seeds",
+            "label_x": 5,
+            "label_y": 74,
+            "target_x": 35,
+            "target_y": 64,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          },
+          {
+            "label": "small leaf",
+            "label_x": 63,
+            "label_y": 82,
+            "target_x": 51,
+            "target_y": 66,
+            "verification": "large, visibly distinct object on the full reference image; target in image-relative percent; do not extrapolate to fine hairs"
+          }
+        ],
+        "creator": "Wyatt915",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Texas_Persimmon_(Diospyros_texana).JPG",
+        "source_status": "Original Commons file and license verified"
+      }
+    ],
+    "overlay_note": "11 arrows to visible major structures; a calyx on immature fruit is deliberately NOT arrowed without a reliable close-up. Individual leaf hairs and floral structures need close photos. UT teaching images linked for private study only; Commons CC BY-SA licensed berry/seed reference credited.",
+    "study_only_intro": "Source-site video/photographs help with reproductive characters, but are not implicitly licensed for republishing.",
+    "study_only_photo_links": [
+      {
+        "label": "UT Austin — whole plant, bark, revolute leaves, immature fruit",
+        "url": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+        "look_for": "full specimen gallery of exact Diospyros texana",
+        "reuse": "private reference; verify reuse before publishing"
+      },
+      {
+        "label": "Joey Santore — male and female floral cues at 27:00–27:08",
+        "url": "https://www.youtube.com/watch?v=m1rrQfljKAo&t=1620s",
+        "look_for": "flower form and ovary; video frames already indexed in project",
+        "reuse": "source reference; no public reuse clearance"
+      },
+      {
+        "label": "Male (staminate) Texas persimmon flowers — photographer Josh*m",
+        "url": "https://www.flickr.com/photos/gravitywave/445406868",
+        "look_for": "flower clusters with functional stamens, compare to pistillate flowers",
+        "reuse": "CC BY-NC-SA 2.0, license confirmed at source; image hotlink returned 403, so source-only until actual image inspected"
+      },
+      {
+        "label": "Female (pistillate) Texas persimmon flowers — photographer Josh*m",
+        "url": "https://www.flickr.com/photos/gravitywave/130548536/",
+        "look_for": "functional pistil and ovary flower at Enchanted Rock",
+        "reuse": "CC BY-NC-SA 2.0, license and original photo page verified; image hotlink inaccessible, so link only"
+      }
+    ]
+  },
+  "reproductive_system_source_conflict": {
+    "status": "SOURCE-CONFLICT; treat as unsettled pending specimen/voucher study",
+    "most_sources": "USDA FEIS and NPSOT call D. texana dioecious (male vs female individual trees).",
+    "contrary_treatment": "A. C. Gibson, UT Austin Vascular Plants of Williamson County explicitly calls D. texana monoecious while distinguishing staminate and pistillate flowers.",
+    "learner_instruction": "Teach staminate versus pistillate structure, and fruiting only on plants bearing functional female flowers. Do NOT claim every individual is strictly male or strictly female without checking the population.",
+    "sources": [
+      "https://research.fs.usda.gov/feis/species-reviews/diotex",
+      "https://www.npsot.org/posts/native-plant/diospyros-texana/",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Diospyros%20texana.html"
+    ]
+  },
+  "visual_source_audit": {
+    "date": "2026-10-12",
+    "existing_local_images_retained": 2,
+    "external_ut_sources_linked": 4,
+    "commons_license_verified_images": 1,
+    "all_added_images_externally_linked": true,
+    "real_binary_imported": 0,
+    "genus_arrows_ready": false,
+    "unresolved_diagnostic_photos": [
+      "true leaf-underside pubescence macro with readable hairs",
+      "closeup of male flower showing anthers versus female flower showing ovary/stigma",
+      "ripe berry with isolated persistent calyx and hairy berry macro",
+      "matched mature American persimmon contrast; see genus card",
+      "Joey video frames are indexed but not newly installed"
+    ],
+    "note": "Labels avoid fine-pixel arrows where image doesn't resolve structure; physical GitHub images not added in this pass.",
+    "species_arrow_count": 11,
+    "source_only_flower_links": 2
+  }
+}

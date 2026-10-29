@@ -1,0 +1,6 @@
+Ulmus rubra · Slippery elm — media-only local photo conversion (2026-10-14).
+Existing taxonomy/native-range evidence retained verbatim from current canonical species.json.
+Exact-species Commons leaf and flower-bud photograph metadata copied from existing learner images[].
+https://commons.wikimedia.org/wiki/File:Ulmus_rubra_leaf.jpg
+https://commons.wikimedia.org/wiki/File:Ulmus_rubra_flower_buds.jpg
+Caution: a flower-bud image is not automatically a sufficient closeup to certify red bud-scale trichomes.

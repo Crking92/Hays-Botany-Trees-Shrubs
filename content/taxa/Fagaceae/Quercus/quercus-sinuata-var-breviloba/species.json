@@ -1,0 +1,166 @@
+{
+  "id": "quercus-sinuata-var-breviloba",
+  "entry_type": "variety",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus sinuata var. breviloba",
+  "authority": "(Torr.) C.H.Mull.",
+  "common_name": "White Shin Oak",
+  "field_group": "White oak group",
+  "project_tracker_diagnostic": "Low multi-trunked shrub/small tree on dry limestone; flaky/papery bark; variable shallowly lobed leaves; very shallow saucer-like acorn cup enclosing about one-quarter of the nut or less.",
+  "verified_target_counties": "Hays; Travis; Blanco; Burnet; Comal; Gillespie; Kerr; Bandera; Edwards; Real; Uvalde; Crockett; Kimble",
+  "project_inclusion": {
+    "mode": "existing curated oak module",
+    "target_zone_status": "PASS",
+    "strict_native_audit": "already passed in tracker"
+  },
+  "morphology_keys": {
+    "habit": "Shrub or small tree usually to about 3–5 m, often forming thickets with multiple trunks near ground level.",
+    "bark": "Gray to light brown, flaky to papery and exfoliating.",
+    "leaves": "Highly variable, from nearly entire to irregularly toothed or sinuately lobed; underside often has minute appressed stellate hairs.",
+    "acorn": "Cup saucer-shaped to shallowly cup-shaped, generally enclosing only about 1/8–1/4 of the nut.",
+    "best_field_traits": [
+      "low thicket-forming habit",
+      "papery/flaky bark",
+      "dry limestone setting",
+      "very shallow saucer cupule",
+      "FNA variety: commonly 0.5–3(–5) m and multi-stemmed; adult leaf blade typically 30–60 × 20–40 mm.",
+      "Q. sinuata leaf undersides vary from silvery minute appressed stellate hairs to nearly hairless, especially in shade leaves. Do not use apparent hairlessness as a species exclusion.",
+      "FNA species-level twigs about 1–2(–3) mm, mostly glabrous; buds ovoid, 2–3 mm.",
+      "Acorn nut 7–12(–15) mm long; shallow saucer cup about 3–8 mm deep × 8–12 mm broad (varietal description), commonly enclosing around 1/4 nut or less; scales flat and closely appressed.",
+      "Plants along streams can approach intermediates with Q. sinuata var. sinuata; require habit, environment, and multiple organs before assigning variety."
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 6,
+    "oak_specific_tightening": "Prioritize multi-photo late-summer/fall observations to increase the chance of mature leaves and acorns, plus curated taxon reference photos."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Andy Blair, some rights reserved (CC BY-NC), uploaded by Andy Blair",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/242521",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/157014201/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "157014201",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Chuck Sexton, some rights reserved (CC BY-NC), uploaded by Chuck Sexton",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/242521",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6485289/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "6485289",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-tree-field-view-1.jpg",
+      "role": "same-observation oak field view 1",
+      "creator": "(c) Will Dawson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/388916279",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712355419/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "388916279",
+      "photo_id": "712355419",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-tree-field-view-2.jpg",
+      "role": "same-observation oak field view 2",
+      "creator": "(c) Will Dawson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/388916279",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712355275/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "388916279",
+      "photo_id": "712355275",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-tree-field-view-3.jpg",
+      "role": "same-observation oak field view 3",
+      "creator": "(c) Will Dawson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/388916279",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712355129/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "388916279",
+      "photo_id": "712355129",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/06-same-tree-field-view-4.jpg",
+      "role": "same-observation oak field view 4",
+      "creator": "(c) Will Dawson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/388916279",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/712355233/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "388916279",
+      "photo_id": "712355233",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-core",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "photo_backfill_source": "historical taxa.zip migration"
+  },
+  "look_here_first": "Use the whole plant first: a dry-limestone shrub or small multi-stemmed tree, commonly a low thicket. Then inspect bud, mature leaf underside, and ripe acorn cup—the cup scales are flattened, NOT strongly tuberculate. Leaf outline alone is unreliable.",
+  "diagnostic_comparison": {
+    "priority_group": "Edwards Plateau limestone white oaks",
+    "method": "Read habit, mature leaf and underside, bud, and ripe cupule together; avoid a single-leaf ID.",
+    "pair_specific_tie_breakers": {
+      "quercus-laceyi": "Lacey oak has bluer glaucous leaves, buds and a taller single/less thicket-like habit on average; its acorn is more often barrel-shaped with a moderately tuberculate cup. White shin has flatter cup scales and smaller fruit.",
+      "quercus-vaseyana": "White shin is usually deciduous, broad- or variably lobed, with 7–11 secondary veins per side; Vasey is evergreen/subevergreen with narrow leaves and 4–6 secondary veins, dark shredding bark and strongly tuberculate cup scales."
+    },
+    "field_uncertainty": "Retain Quercus sp. or the pair-level comparison if intermediates / absent fruit prevent a reliable determination."
+  },
+  "diagnostic_image_plan": {
+    "status": "photo_targets_not_new_photos",
+    "priority": "high",
+    "needs": [
+      "Habit: low multistem limestone thicket with trunk bases visible",
+      "Leaf underside under 10–20× magnification to show appressed stellate hairs (sun AND shade material)",
+      "Acorn cup rim and lateral scales photographed macro to document NONtuberculate flattened scales",
+      "Entire mature leaf with ruler and 7–11 lateral veins annotated only after photo inspection",
+      "Terminal bud with mm scale and bark close-up"
+    ],
+    "photo_reuse_guardrail": "Current installed photographs remain unchanged. Diagnostic roles not considered proven until images inspected for structures, exact taxon, and permissions."
+  },
+  "diagnostic_science_sources": [
+    {
+      "authority": "Flora of North America Vol. 3",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501084"
+    },
+    {
+      "authority": "Flora of North America variety profile and regional specimen summaries",
+      "url": "https://sernecportal.org/portal/taxa/index.php?taxon=Quercus+sinuata+var.+breviloba"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "Edwards Plateau three-oak morphology",
+    "scope": "Added measurable characters and image targets; range, status, existing photos and license metadata preserved"
+  }
+}

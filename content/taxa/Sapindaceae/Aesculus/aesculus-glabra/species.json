@@ -1,0 +1,107 @@
+{
+  "id": "aesculus-glabra",
+  "entry_type": "species",
+  "family": "Sapindaceae",
+  "genus": "Aesculus",
+  "species": "glabra",
+  "scientific_name": "Aesculus glabra",
+  "authority": "Willd.",
+  "common_name": "Ohio buckeye",
+  "look_here_first": "Start with a mature capsule: the leathery surface is usually short-prickly or warty. On a flower, check whether stamens project conspicuously beyond petals (about twice petal length). Opposite palmately compound leaves establish buckeye, but do not separate Aesculus species.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool row 22; reviewed 2026-10-07 taxonomy and diagnostic notes",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "POWO confirms native to Texas at state level; no completed BONAP/NAPA-first three-target-county audit for this learner batch. Do not credit confirmed-native metrics."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "images": [
+    {
+      "file": "images/aesculus-glabra-flowers.jpg",
+      "role": "Flower close-up showing strongly exserted stamens",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aesculus%20glabra%20003.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/aesculus-glabra-fruit.jpg",
+      "role": "Maturing capsule showing short prickles and leathery husk",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aesculus%20glabra%20009.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-10",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "curation_status": {
+    "taxonomy_identity_checked": true,
+    "morphology_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "range_reviewed": false,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "synonyms": [
+    "Nebropsis glabra"
+  ],
+  "taxonomic_note": "POWO accepts Aesculus glabra Willd. and recognizes var. glabra and var. arguta; source is species-level. No unverified variety assignment. Aesculus × bushii is an accepted A. glabra × A. pavia hybrid and may be intermediate.",
+  "morphology_keys": {
+    "habit": "Deciduous small to medium tree with stout twigs and large terminal buds.",
+    "leaves": "Opposite, palmately compound, usually 5–7 serrate leaflets; leaves alone overlap A. pavia.",
+    "flowers": "Terminal erect panicles; stamens markedly exserted, approximately twice petal length. Petals often pale green-yellow, but color is secondary.",
+    "fruits": "Leathery round capsules usually short-spiny or warty (occasionally nearly smooth), with glossy brown seeds and pale hilum.",
+    "best_field_traits": [
+      "capsule short-prickly/warty in typical material",
+      "stamens well beyond petals",
+      "opposite palmately compound leaves",
+      "large terminal buds"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Aesculus pavia",
+      "Aesculus × bushii",
+      "Aesculus hippocastanum",
+      "Ungnadia speciosa"
+    ],
+    "key_distinctions": "A. pavia typically has smooth capsules and stamens about petal length or barely exserted; A. × bushii may be intermediate and requires caution. Cultivated horse-chestnut has different flower and bud traits. Ungnadia (Mexican buckeye) has pinnate, not palmately compound, leaves and a three-valved capsule. Flower color alone is unreliable."
+  },
+  "diagnostic_image_plan": [
+    {
+      "priority": 1,
+      "role": "mature capsule",
+      "target": "spines or warts in side-by-side comparison with A. pavia smooth husk"
+    },
+    {
+      "priority": 1,
+      "role": "flower side profile",
+      "target": "stamen projection beyond petals"
+    },
+    {
+      "priority": 2,
+      "role": "leaf and node",
+      "target": "opposite palmately compound leaf and leaflet teeth"
+    },
+    {
+      "priority": 2,
+      "role": "bud and twig",
+      "target": "large terminal bud, stout twig"
+    }
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

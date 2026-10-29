@@ -1,0 +1,9 @@
+Approved Master Plant Pool Phase3 preflight source rows: 987.
+Accepted working name Kew search: https://powo.science.kew.org/results?q=Ribes%20aureum
+Original Commons source photograph: https://commons.wikimedia.org/wiki/File:Ribes_aureum.jpg
+Direct photo: https://commons.wikimedia.org/wiki/Special:Redirect/file/Ribes%20aureum.jpg
+Photo creator: Ivengo (Russian Wikipedia)
+Image-level license: Public domain (author released)
+Image role (provisional): Provisional flowers and foliage for shrub recognition; fruit and twig details missing.
+Caution: The source photo is not a Texas specimen; county nativity deferred.
+No nativity-by-county or complete diagnostic image claim; photo may be geographically outside Texas.

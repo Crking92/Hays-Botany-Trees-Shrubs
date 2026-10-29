@@ -1,0 +1,230 @@
+{
+  "rank": "genus",
+  "family": "Cannabaceae",
+  "name": "Celtis",
+  "common_group": "Hackberries",
+  "project_scope": {
+    "selection_mode": "B033/B091 science + B130 LEARNER FAST-FILL",
+    "species_ids": [
+      "celtis-laevigata",
+      "celtis-reticulata",
+      "celtis-pallida"
+    ],
+    "species_count": 3,
+    "provisional_species_ids": [
+      "celtis-lindheimeri"
+    ]
+  },
+  "study_strategy": {
+    "priority": [
+      "thorn presence",
+      "upper leaf texture",
+      "lower leaf venation",
+      "leaf-base asymmetry",
+      "bark",
+      "fruit"
+    ],
+    "warning": "Use the old Celtis ehrenbergiana name cautiously; current taxonomy does not map that legacy Texas usage cleanly to a fourth local species."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "C. laevigata — smoother leaves, unarmed tree",
+      "C. reticulata — rough leaves with strongly netted lower venation, unarmed",
+      "C. pallida — thorny dense shrub with small leaves"
+    ]
+  },
+  "curation_status": {
+    "version": "2.0-photo-led-celtis",
+    "last_reviewed": "2026-10-14",
+    "fast_fill_active": true,
+    "physical_photo_anchors": 8,
+    "new_photo_binaries": 0,
+    "range_decisions_changed": false,
+    "anatomy_arrow_review_pending": true
+  },
+  "fast_fill_visual_status": {
+    "updated": "2026-10-05",
+    "learner_ready": [
+      "celtis-laevigata",
+      "celtis-reticulata",
+      "celtis-pallida"
+    ],
+    "visual_gaps": [
+      {
+        "id": "celtis-lindheimeri",
+        "status": "PROVISIONAL_SCIENCE_AND_MEDIA_GAP",
+        "note": "Exact-species Commons files exist, but per-file license metadata was not reliably captured in this pass. Do not guess a license or promote scientific confidence. Leave the provisional learner photo-empty until a properly licensed exact image is locked."
+      }
+    ]
+  },
+  "look_here_first": "Start with the entire plant: THORNY, densely branched shrub with small leaves suggests C. pallida; an UNARMED tree leads to the other three. Then photograph BOTH sides of a mature leaf. Smooth upper surface and relatively faint netting below suggest C. laevigata; very rough upper surface plus prominent NETWORK of raised veins below suggests C. reticulata; conspicuously WHITE-WOOLLY (tomentose) lower surface suggests provisional C. lindheimeri. Confirm hackberry genus by tracing three basal primary veins and looking for an individual fleshy drupe, not a dry elm samara.",
+  "shared_genus_pattern": {
+    "features": "Alternate simple leaves, often asymmetric bases with three prominent veins emerging near the petiole; small inconspicuous flowers and individual fleshy drupes enclosing a hard stone. Texture and vein relief of leaf surfaces often separate local members better than bark.",
+    "terms": "SCABROUS = sandpaper-rough; RETICULATE = branching network of smaller veins; TOMENTOSE = densely felted with short hairs; DRUPE = fleshy fruit around hard stone; ASYMMETRIC BASE = sides of leaf blade meet stalk at different heights; THORN = sharp modified shoot, not an ordinary leaf tooth.",
+    "caution": "Leaf-base asymmetry and basal veins establish a helpful Celtis pattern, not a species on their own. Bark wartiness is supportive rather than definitive."
+  },
+  "comparison_matrix": [
+    {
+      "character": "growth form and thorns",
+      "laevigata": "unarmed medium/large tree",
+      "reticulata": "unarmed small/medium tree",
+      "pallida": "dense thorny shrub",
+      "lindheimeri": "unarmed tree (provisional taxon)",
+      "priority": "first split"
+    },
+    {
+      "character": "leaf top",
+      "laevigata": "relatively smooth, thin",
+      "reticulata": "coarse sandpapery; usually thicker",
+      "pallida": "small leaves; variable fine texture",
+      "lindheimeri": "rough, dark upper surface",
+      "priority": "second split"
+    },
+    {
+      "character": "leaf underside",
+      "laevigata": "comparatively smooth; venation not strongly protruding",
+      "reticulata": "strongly raised NETTED veins",
+      "pallida": "small leaf underside; confirm with thorny habit",
+      "lindheimeri": "dense WHITE felt-like hairs (tomentum)",
+      "priority": "best nonthorny species comparison"
+    },
+    {
+      "character": "margins",
+      "laevigata": "mostly smooth or sparse teeth",
+      "reticulata": "mostly entire or few teeth toward tip",
+      "pallida": "usually small, entire to sparse teeth",
+      "lindheimeri": "few or no teeth",
+      "priority": "supporting only"
+    },
+    {
+      "character": "habitat",
+      "laevigata": "bottomland and creek corridors",
+      "reticulata": "rocky uplands, dry slopes",
+      "pallida": "dry thorn scrub and limestone/brush",
+      "lindheimeri": "habitat supportive only, taxon under review",
+      "priority": "context not proof of range"
+    },
+    {
+      "character": "project science lane",
+      "laevigata": "PASS",
+      "reticulata": "PASS",
+      "pallida": "PASS",
+      "lindheimeri": "PROVISIONAL; one documented target county and differing treatments",
+      "priority": "do not promote"
+    }
+  ],
+  "field_key": [
+    "1. Sharp stem thorns + small leaves + dense shrub → C. pallida (granjeno/desert hackberry). Do not touch spines to test.",
+    "2. Unarmed tree: inspect whole mature leaf BOTH SIDES. Comparatively smooth leaf top, thin blades, relatively inconspicuous lower vein network → C. laevigata (sugarberry).",
+    "3. Very rough, thick upper blade with strongly raised netlike lower veins → C. reticulata (netleaf hackberry).",
+    "4. Lower blade densely white-woolly rather than simply net-veined → check provisional C. lindheimeri. Preserve its contested status; compare vouchers and authoritative treatments.",
+    "5. Mixed/intermediate leaves or uncertain surface details → Celtis sp. pending mature-leaf macro and fruit. Do not assign from corky bark alone."
+  ],
+  "visual_comparison": {
+    "title": "Celtis: thorns first, then TURN THE LEAF OVER",
+    "teaching_order": "whole growth form → thorn versus unarmed → mature upper leaf texture → underside net veins or felt hairs → base veins → individual drupe",
+    "items": [
+      {
+        "taxon_id": "celtis-laevigata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-laevigata/images/01-whole-tree.jpg",
+        "role": "tree habit",
+        "creator": "MartínezFlores",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-laevigata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-laevigata/images/02-leaf.jpg",
+        "role": "leaf base and venation",
+        "creator": "Brucewinter",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_leaf.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-laevigata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-laevigata/images/03-bark.jpg",
+        "role": "corky warty bark supportive",
+        "creator": "Brucewinter",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_bark.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-reticulata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-reticulata/images/01-field-form.jpg",
+        "role": "overall form",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_reticulata_2.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-reticulata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-reticulata/images/02-texas-detail.jpg",
+        "role": "Texas field detail; leaf surface requires macro verification",
+        "creator": "Patrick Alexander",
+        "license": "CC0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_reticulata_-_Flickr_-_aspidoscelis.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-reticulata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-reticulata/images/03-field-reference.jpg",
+        "role": "secondary species field view",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_reticulata_4.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-pallida",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-pallida/images/01-plant-reference.jpg",
+        "role": "thorny shrub habit, exact species",
+        "creator": "Juan Carlos Fonseca Mata",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acebuche_(Celtis_pallida).jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-lindheimeri",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-lindheimeri/images/celtis-lindheimeri-provisional-face.jpg",
+        "role": "provisional taxon leafy branch; undersurface macro not verified",
+        "creator": "Wendy A",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_lindheimeri_-_Wendy_A_-_265984302.jpg",
+        "status": "physically_installed_provisional_taxon"
+      }
+    ],
+    "caution": "Existing source images support habit and leaf recognition; exact vein and trichome arrows require pixel-level verification. Do not use bark alone to distinguish taxa."
+  },
+  "photo_targets": [
+    {
+      "priority": 1,
+      "role": "matched four-taxon leaf face/back macro panel",
+      "why": "show smooth versus rough upper face, raised lower vein network, and dense white tomentum with matched light and scale"
+    },
+    {
+      "priority": 1,
+      "role": "thorns and node of C. pallida",
+      "why": "demonstrate thorn location without handling sharp stem"
+    },
+    {
+      "priority": 1,
+      "role": "Celtis vs Ulmus fruit",
+      "why": "hackberry individual drupe with hard stone versus elm dry winged samara"
+    },
+    {
+      "priority": 2,
+      "role": "leaf base and basal primary veins",
+      "why": "label three strong veins and asymmetrical blade base without mistaking minor veins"
+    },
+    {
+      "priority": 2,
+      "role": "C. lindheimeri herbarium-voucher side-by-side",
+      "why": "reconcile accepted-name disagreement and provisional county status"
+    }
+  ],
+  "taxonomic_guardrail": "C. lindheimeri remains project PROVISIONAL; Kew/ITIS species treatments and USDA GRIN synonym placement differ. Older C. ehrenbergiana / C. pallida / C. iguanaea usages require explicit concept review. This visual upgrade does not reopen county status."
+}

@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Philadelphus%20texensis
+Source research-grade observation: https://www.inaturalist.org/observations/157959554
+Photo: https://www.inaturalist.org/photos/273051554
+Attribution: (c) Reid Hardin, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

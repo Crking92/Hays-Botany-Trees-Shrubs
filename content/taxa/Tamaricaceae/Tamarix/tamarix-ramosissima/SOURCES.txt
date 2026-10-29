@@ -1,0 +1,9 @@
+Phase3 source-pool concept, source rows 1149
+Exact named photo and rights on Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Tamarix_ramosissima_Tamaryszek_rozga%C5%82%C4%99ziony_2024-04-13_02.jpg
+Physical photo source: https://commons.wikimedia.org/wiki/Special:Redirect/file/Tamarix%20ramosissima%20Tamaryszek%20rozga%C5%82%C4%99ziony%202024-04-13%2002.jpg
+Creator: Agnieszka Kwiecień, Nova
+Photo license: CC BY-SA 4.0
+Working taxonomy: https://powo.science.kew.org/results?q=Tamarix%20ramosissima
+Provisional view: Provisional saltcedar habit, fine branches and flowers; species-level taxonomy needs detailed floral review.
+Caution: Cultivated Polish photo, no local provenance; introduced invasive-management comparison, not native planting.
+No county-level native-range inference and no diagnostic-photo completeness assertion.

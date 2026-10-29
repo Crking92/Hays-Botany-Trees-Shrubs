@@ -1,0 +1,27 @@
+Deep Review + Joey species overlay — Rhus copallinum var. lanceolata
+Approved: 2026-10-02
+
+TAXONOMY
+Current accepted: Rhus copallinum var. lanceolata A.Gray
+Important synonym: Rhus lanceolata (A.Gray) Britton
+Kew/POWO: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A219758-2
+NPSOT: https://www.npsot.org/posts/native-plant/rhus-lanceolata/
+
+RANGE PASS
+Hays: https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Travis: https://w3.biosci.utexas.edu/prc/specimens/Anacardiaceae.html
+Williamson: https://w3.biosci.utexas.edu/prc/K12/pdf/Rhus%20lanceolata
+
+MORPHOLOGY
+Many narrow leaflets; conspicuously winged rachis; deciduous/clonal habit; red hairy fruit.
+
+JOEY TRUSTED FIELD LAYER
+Source: Joey Santore / Crime Pays But Botany Doesn't
+Video: West Texas Native Plant Landscaping (Pro Jahb)
+Source URL: https://www.youtube.com/watch?v=mA0uMKVyswA
+Timestamp: 00:10:47
+Persisted record: jvid-mA0uMKVyswA-007
+Source label: Rhus lanceolata
+Teaching role: compound leaves / small-tree habit
+Taxonomy reconciliation: Rhus lanceolata is carried here under current Rhus copallinum var. lanceolata.
+Video frame is private-study material unless separate reuse permission applies.

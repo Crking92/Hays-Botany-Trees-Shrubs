@@ -1,0 +1,7 @@
+Geum canadense Jacq. — white avens
+Approved Master Plant Pool row 508; accepted name and source-pool approval recorded in staged species.json; county native range UNRESOLVED and excluded from confirmed-native metrics.
+Morphology: staged LOOK HERE FIRST and diagnostic traits; flowering image shows 5 white petals, numerous stamens and toothed leaves, but does not document mature hooked styles or full basal leaf architecture.
+Exact-taxon image: Fritzflohrreynolds, Geum canadense - White Avens.jpg, Wikimedia Commons:
+https://commons.wikimedia.org/wiki/File:Geum_canadense_-_White_Avens.jpg
+Individual photo license: CC BY-SA 3.0, https://creativecommons.org/licenses/by-sa/3.0/ — credit creator, link source/license, indicate edits and honor ShareAlike for adaptations.
+Physical image download and canonical images[] reconciliation must be confirmed by installer before reporting installed.

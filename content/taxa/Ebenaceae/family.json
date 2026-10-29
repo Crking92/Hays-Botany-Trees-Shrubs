@@ -1,0 +1,89 @@
+{
+  "rank": "family",
+  "name": "Ebenaceae",
+  "common_name": "Ebony / persimmon family",
+  "project_scope": {
+    "selection_mode": "Both approved and installed persimmon species in learner; local Texas anchor, American eastern-range comparison",
+    "canonical_species_ids": [
+      "diospyros-texana",
+      "diospyros-virginiana"
+    ],
+    "installed_species_count": 2,
+    "native_status_distinction": "Texas persimmon project-zone PASS Hays, Travis, Mason; American persimmon UNRESOLVED (Travis only) under three-in-zone-county standard. Both species appear in learner.",
+    "note": "Older Texas-persimmon-only anchor language superseded. Native count is different from learner admission."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Find alternate SIMPLE entire leaves, small fleshy berries (not dry capsules) and the persistent, broad sepals (calyx) at the berry's stalk end. Mature bark texture can rapidly split the two common Texas persimmons.",
+    "flowers": "Small axillary fused urn/bell-shaped flowers, commonly functionally unisexual.",
+    "ovary": "Superior and multi-loculed.",
+    "fruit": "Fleshy berry with several large hard seeds; the calyx persists and often enlarges beneath the fruit.",
+    "field_tip": "For Texas persimmon, pale exfoliating bark + small rounded leaves + black berry is the strongest local gestalt."
+  },
+  "visual_lesson": {
+    "status": "diagnostic_family_visual_lesson_updated",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Texas persimmon teaches Ebenaceae beautifully because the bark, leaves and persistent-calyx fruit all reinforce one another.",
+    "steps": [
+      {
+        "title": "1 · Read the leaf and fruit together",
+        "photo_role": "leaves and immature fruit",
+        "anchor_species_id": "diospyros-texana",
+        "anchor_image_index": 0,
+        "look_for": "Small simple entire leaves with a developing pubescent berry.",
+        "why_it_matters": "Links the alternate entire-leaf pattern to the family fruit type.",
+        "status": "locked_existing_photo"
+      },
+      {
+        "title": "2 · Read the whole plant",
+        "photo_role": "rocky-habitat habit",
+        "anchor_species_id": "diospyros-texana",
+        "anchor_image_index": 1,
+        "look_for": "Woody shrub/small tree architecture in rocky Central Texas habitat.",
+        "why_it_matters": "Builds the whole-plant context before finer flower/fruit anatomy.",
+        "status": "locked_existing_photo"
+      },
+      {
+        "title": "3 · Find the persistent calyx",
+        "photo_role": "berry with retained calyx",
+        "anchor_species_id": "diospyros-texana",
+        "anchor_image_index": 0,
+        "look_for": "Leaf-like calyx lobes remaining beneath the developing berry.",
+        "why_it_matters": "Persistent/accrescent calyx is one of the best family-level persimmon clues.",
+        "status": "visible_calyx_supporting_source; closeup still pending"
+      },
+      {
+        "title": "4 · Follow to mature black fruit",
+        "photo_role": "mature berry and seeds",
+        "anchor_species_id": "diospyros-texana",
+        "anchor_image_index": 6,
+        "look_for": "A small dark berry with several large hard seeds.",
+        "why_it_matters": "Real exact-species CC BY-SA image now shows ripe black and unripe green berries next to individual brown seeds and a leaf for scale.",
+        "status": "linked_licensed_exact_species_photo_present"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Ebenaceae vs Sapotaceae",
+        "rule": "Milky latex and thorny twigs favor Sapotaceae/Sideroxylon; Diospyros lacks that local combination and carries the conspicuous persistent calyx."
+      },
+      {
+        "title": "Ebenaceae vs Aquifoliaceae",
+        "rule": "Ilex has small drupes with several pyrenes and different tiny flower architecture; persimmons produce larger berries with prominent retained calyx lobes."
+      },
+      {
+        "title": "Texas versus American persimmon",
+        "rule": "Texas (D. texana): smooth pale bark, small rounded short-hairy underside leaves, black ripe berry. American (D. virginiana): blocky dark bark, larger more pointed leaves, orange/red ripe berry. Both have a conspicuous persistent calyx."
+      },
+      {
+        "title": "Texas persimmon versus crape myrtle",
+        "rule": "Crape myrtle also has peeling ornamental bark, but its leaves are typically opposite or nearly opposite and its fruits are dry persistent capsules; Texas persimmon has alternate leaves and fleshy berries."
+      }
+    ],
+    "caveat": "Do not identify persimmons by fruit color alone; bark, leaves, flower sex/anatomy and calyx structure matter."
+  },
+  "curation_status": {
+    "version": "1.1-both-persimmons-recognized",
+    "last_reviewed": "2026-10-12",
+    "visual_lock": "broadened-genus-and-species-panels-present; exact flower macro pending"
+  }
+}

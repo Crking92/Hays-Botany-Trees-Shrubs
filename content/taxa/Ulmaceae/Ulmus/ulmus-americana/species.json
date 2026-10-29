@@ -1,0 +1,181 @@
+{
+  "id": "ulmus-americana",
+  "entry_type": "species",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "species": "americana",
+  "scientific_name": "Ulmus americana",
+  "authority": "",
+  "common_name": "American elm",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Start with the big asymmetric leaf and the spring samara: American elm has relatively large double-serrate leaves with a strongly uneven base, then a flat oval samara with a ciliate margin and a deep apical notch.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Bell out-of-zone and excluded from PASS. Previous evidence preserved in range_audit; third approved county pending.",
+    "range_guardrail": "Bell and Travis are herbarium collection records interpreted within a source-confirmed native Texas range; planted street-tree records are not used.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Bell",
+        "Travis"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Bell"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 2 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "Kew/POWO accepts Ulmus americana and lists Texas in its native range. Hays County — the project Hays County native-source list includes U. americana. Bell County — USDA ARS Biocollections preserves multiple 2014 specimens collected at the Little River near Little River-Academy. Travis County — USDA ARS Biocollections preserves a 2014 U. americana specimen from Redbud Island, Austin.",
+      "source_document": "content/taxa/Ulmaceae/Ulmus/ulmus-americana/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "large deciduous elm, often developing a vase-shaped crown",
+      "leaves mostly >7 cm, ovate to elliptic with strongly oblique base",
+      "margins coarsely double-serrate",
+      "lower leaf surface glabrous to pubescent, often with tufts in vein axils",
+      "branchlets normally not corky-winged",
+      "flowers before leaf-out in spring on slender pedicels",
+      "oval spring samara with seed near center, ciliate margin, and a deep apical notch"
+    ],
+    "elm_training": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ulmus rubra",
+      "Ulmus alata",
+      "Ulmus crassifolia"
+    ],
+    "key_distinctions": "Ulmus rubra: Slippery elm has red-tomentose bud-scale margins, much rougher thick leaves, and a samara pubescent on the body rather than a ciliate margin. Ulmus alata: Winged elm has smaller leaves and conspicuous regular corky wings on branches; American elm lacks those wings. Ulmus crassifolia: Cedar elm has much smaller rough leaves and reproduces in fall rather than spring."
+  },
+  "tags": [
+    "Ulmaceae",
+    "Ulmus",
+    "American elm",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-008",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_reviewed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_012": "2026-10-16"
+  },
+  "photo_note": "Ulmus photo backfill 2026-10-04: leaf + spring samara emphasis; UT images are private-study references, Commons image is reusable with attribution. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "images/ulmus-americana-leaves-samaras.png",
+      "role": "large leaves and winged samaras",
+      "creator": "Homer Edward Price",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:American-Elm_leaves_and_samaras_(5622588702).png",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review012-6bd9420476cdd62.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Elm early flowering branch plus furrowed trunk bark; complements existing whole-tree/leaves photo",
+      "creator": "Linda Jo Conn",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6159173330",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/615044150/original.jpg",
+      "source_determination": "Ulmus americana",
+      "source_observation_id": "6159173330",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/ulmus-americana/gbif-e20ec4e0116d1d.jpg",
+      "archive_image_sha256": "7ced41e8f244fe360aadaa92c2ed2e6b9130f9980192bd9a2f31e7eea4b60d27",
+      "image_dimensions": [
+        1165,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review012-d647b67a87e65fa.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Elm early flowering branch plus furrowed trunk bark; complements existing whole-tree/leaves photo",
+      "creator": "Alex setetny",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110520574",
+      "media_source_url": "https://bs.plantnet.org/image/o/ef8300dded9b520b4d4ab80a0f16ffc684ccf214",
+      "source_determination": "Ulmus americana",
+      "source_observation_id": "5110520574",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/ulmus-americana/plantnet-via-gbif-61bddbd485a8ed.jpg",
+      "archive_image_sha256": "ca849af57d4478a6e3d0750f5997c2b810adedd506d008a5e40c4f98468a7e35",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "external_study_references": [
+    {
+      "file": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ulm/Ulmus%20americana%20leaves4.jpg",
+      "role": "diagnostic leaf arrangement / asymmetric leaf bases",
+      "creator": "UT Austin BIO 406D PlantPics",
+      "license": "copyrighted educational source",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ulm/ulmus_americana.htm",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ulm/Ulmus%20americana%20fruits1.jpg",
+      "role": "spring samaras",
+      "creator": "UT Austin BIO 406D PlantPics",
+      "license": "copyrighted educational source",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ulm/ulmus_americana.htm",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/American-Elm%20leaves%20and%20samaras%20%285622588702%29.png",
+      "role": "leaves and mature samaras",
+      "creator": "Homer Edward Price",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:American-Elm_leaves_and_samaras_(5622588702).png",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "native_metrics_excluded": true
+}

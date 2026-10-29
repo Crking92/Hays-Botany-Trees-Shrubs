@@ -1,0 +1,128 @@
+{
+  "id": "sideroxylon-lanuginosum",
+  "entry_type": "species",
+  "family": "Sapotaceae",
+  "genus": "Sideroxylon",
+  "species": "lanuginosum",
+  "scientific_name": "Sideroxylon lanuginosum",
+  "authority": "Michx.",
+  "common_name": "Gum Bumelia / Chittamwood / Woolly Buckthorn",
+  "taxonomic_note": "Current Kew accepts the species with three subspecies. The learner stays at species rank because Hays/Travis/Williamson records span differing subspecific treatments.",
+  "look_here_first": "FLIP A LEAF first: glossy green on top, woolly/felted gray-to-tawny beneath (often stronger on young leaves). Follow an entire smooth-edged leaf to the alternate stem; leaves can cluster on spur shoots and look whorled. Examine short shoots for rigid spine-like tips. Then seek tiny creamy flowers in fascicles or oblong blackish fleshy fruit. Do not demand thorns on every shoot.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays project wild-observation pool + Travis herbarium record within the S. lanuginosum complex + Williamson County subsp. oblongifolium treatment.",
+    "range_guardrail": "Species-level learner retained while local subspecific concepts remain historically variable."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "shrub to small tree",
+      "some short shoots terminate in sharp spine-like tips",
+      "alternate simple entire leaves",
+      "young lower leaf surface woolly/tomentose, often tawny",
+      "older upper leaf surface glossier and less hairy",
+      "small flowers in fascicles from short shoots",
+      "dark fleshy fruit"
+    ],
+    "comparison_training": "Look for woolly/tawny leaf undersides plus spine-like short shoots on an alternate-leaved woody plant."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Sideroxylon celastrinum (saffron plum)",
+      "Diospyros texana (Texas persimmon)",
+      "Ilex decidua (possumhaw holly)",
+      "Other thorny woody Central Texas shrubs"
+    ],
+    "key_distinctions": "First flip a leaf: alternate entire glossy green above, pale tawny or gray woolly beneath (especially young), often crowded on short shoots. Seek stiff spine-like short shoot ends. S. celastrinum has generally smooth undersides and smaller leaves (per Texas A&M Forest Service); Texas persimmon lacks these hard spines and has prominent persisting fruit calyx and smooth peeling trunk bark; possumhaw holly has often finely-toothed leaves and red/orange fruits. Leaf tuft alone may look whorled but actual full shoot attachment is alternate."
+  },
+  "tags": [
+    "Sapotaceae",
+    "Sideroxylon",
+    "Gum Bumelia",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b049",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "visual_status": "field_recognition_provisional",
+    "last_visual_reviewed": "2026-10-13"
+  },
+  "photo_note": "Three actual nonempty JPEGs confirmed installed: original face plus two additional exact-species reusable photos from cultivated European botanical gardens. These are broad foliage/woody shoot recognition, not permission to claim underside hair/spine diagnostics actually visible. UT Austin, Trees and Shrubs Online and Uvalde photographs are diagnostic-study hyperlinks only until reuse permission verified.",
+  "images": [
+    {
+      "file": "images/sideroxylon-lanuginosum-provisional-face.jpg",
+      "role": "Foliage / branch recognizable face",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_kz02.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/sideroxylon-lanuginosum-kz01.jpg",
+      "role": "Second foliage and woody shoot exact-species recognition view, cultivated at Halle botanic garden; not an underside macro",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_kz01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/sideroxylon-lanuginosum-lyon.jpg",
+      "role": "Additional exact-species morphology and branching habit photograph, Lyon botanical garden; not certified thorn or hairy underside macro",
+      "creator": "Tournasol7",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_in_Lyon_BG_(3).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_enrichment",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Three physical exact-species Creative Commons images installed and matched to gallery metadata. Broad foliage/woody-shoot recognition is available, but true leaf-underside wool/spine-tip macros and verified diagnostic arrows remain pending final photo polish."
+  },
+  "diagnostic_image_needs": [
+    {
+      "priority": "critical",
+      "role": "young/older same leaf with upper glossy surface and woolly underside, focused hair macro",
+      "status": "MISSING LICENSED_MACRO"
+    },
+    {
+      "priority": "critical",
+      "role": "thorned spur twig showing exactly where sharp spur terminates, scale and clear background",
+      "status": "MISSING LICENSED_MACRO"
+    },
+    {
+      "priority": "high",
+      "role": "small white flower fascicles at shoot/leaf axils, exact-species Texas plant",
+      "status": "PENDING"
+    },
+    {
+      "priority": "high",
+      "role": "green to purple-black elongated fruits, with hard seed",
+      "status": "PENDING"
+    },
+    {
+      "priority": "final polish",
+      "role": "latex already exposed and seed close-up; side-by-side S. celastrinum",
+      "status": "FINAL_POLISH"
+    }
+  ]
+}

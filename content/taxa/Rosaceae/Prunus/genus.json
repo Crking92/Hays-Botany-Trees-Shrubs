@@ -1,0 +1,93 @@
+{
+  "rank": "genus",
+  "family": "Rosaceae",
+  "name": "Prunus",
+  "common_group": "Plums, cherries, and cherry-laurels",
+  "project_scope": {
+    "selection_mode": "B074 science + B131 reconciliation + B159 approved review",
+    "canonical_species_ids": [
+      "prunus-mexicana",
+      "prunus-serotina"
+    ],
+    "represented_infraspecific": [
+      "prunus-serotina-var-eximia"
+    ],
+    "range_holds": [
+      "prunus-caroliniana",
+      "prunus-angustifolia"
+    ],
+    "pending_independent_review": [],
+    "source_concept_count": 6,
+    "note": "B159 completed review and explicit user approval of P. rivularis. Two canonical pages remain installed; creek plum awaits the normal curation pipeline. Source processing complete does not imply gallery completion.",
+    "approved_pending_installation": [
+      "prunus-rivularis"
+    ]
+  },
+  "study_strategy": {
+    "priority": [
+      "evergreen vs deciduous habit",
+      "flower arrangement",
+      "leaf glands and serration",
+      "fruit type/color",
+      "thicket-forming vs tree habit",
+      "accepted local variety"
+    ],
+    "warning": "Current Kew accepts Prunus serotina var. eximia. The learner keeps one species-level P. serotina canonical entry and teaches var. eximia internally to avoid duplicate black-cherry concepts."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "P. mexicana — canonical PASS; small deciduous tree, showy early white flowers on short spur shoots, larger plum fruit.",
+      "P. rivularis — distinct creek plum; low thicket-forming shrub, small flower clusters along branches, yellow-to-red plums; B159 reviewed PASS and user-approved; pending installation.",
+      "P. serotina — canonical PASS; deciduous tree, long white racemes, black drupes, dark scaly bark; local var. eximia taught internally.",
+      "P. caroliniana — evergreen glossy leaves and short axillary racemes; range HOLD.",
+      "P. angustifolia — thicket-forming Chickasaw plum with narrow serrate leaves and red/yellow drupes; range HOLD."
+    ]
+  },
+  "curation_status": {
+    "version": "1.2-b159-approved",
+    "last_reviewed": "2026-10-05",
+    "genus_reconciliation_status": "COMPLETE_APPROVED_PRUNUS_RIVULARIS_AWAITING_INSTALL",
+    "science_reused_from": [
+      "B074 Prunus"
+    ],
+    "visual_note": "Broad species gallery backfill remains owned by learner-photo lane."
+  },
+  "source_concept_status": [
+    {
+      "id": "prunus-mexicana",
+      "scientific_name": "Prunus mexicana",
+      "status": "CANONICAL_PASS",
+      "learner_action": "keep canonical species page"
+    },
+    {
+      "id": "prunus-serotina",
+      "scientific_name": "Prunus serotina",
+      "status": "CANONICAL_PASS",
+      "learner_action": "keep canonical species page"
+    },
+    {
+      "id": "prunus-serotina-var-eximia",
+      "scientific_name": "Prunus serotina var. eximia",
+      "status": "PASS_REPRESENTED_IN_PARENT",
+      "learner_action": "teach inside Prunus serotina; do not duplicate"
+    },
+    {
+      "id": "prunus-caroliniana",
+      "scientific_name": "Prunus caroliniana",
+      "status": "RANGE_HOLD",
+      "learner_action": "comparison only until range evidence changes"
+    },
+    {
+      "id": "prunus-angustifolia",
+      "scientific_name": "Prunus angustifolia",
+      "status": "RANGE_HOLD",
+      "learner_action": "comparison only until range evidence changes"
+    },
+    {
+      "id": "prunus-rivularis",
+      "scientific_name": "Prunus rivularis",
+      "status": "REVIEWED_PASS_APPROVED_PENDING_INSTALL",
+      "learner_action": "Install via normal curation pipeline; use review-b159.json and corrected draft. User approval already recorded."
+    }
+  ]
+}

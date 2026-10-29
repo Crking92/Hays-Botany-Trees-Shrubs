@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/259794980
+Photo: https://www.inaturalist.org/photos/466433387
+Original identification requires deeper review; county native status not asserted.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-16T12:18:49.674527+00:00
+Garrya lindheimeri Torr.
+https://www.gbif.org/occurrence/5938569521
+Noland Martin | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Opposite leathery leaf undersides and dangling male/female catkins
+No anatomy arrows; no scientific or native-range changes.

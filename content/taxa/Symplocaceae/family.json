@@ -1,0 +1,129 @@
+{
+  "rank": "family",
+  "name": "Symplocaceae",
+  "common_name": "Sweetleaf family",
+  "lineage_context": {
+    "order": "Ericales",
+    "batch": "Ericales",
+    "close_project_families": [
+      "Styracaceae",
+      "Sapotaceae"
+    ],
+    "teaching_goal": "Use the single project Symplocos concept to teach alternate exstipulate leaves, many epipetalous stamens, inferior ovary and a persistent-calyx drupe."
+  },
+  "project_scope": {
+    "selection_mode": "Symplocos tinctoria one-species family module",
+    "note": "The project has one genus and one species, so the family lesson deliberately leans on the precise FNA reproductive package rather than pretending to show broader family variation."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On a woody plant with alternate simple leaves, inspect the flower center: Symplocaceae typically has dozens of stamens attached to the corolla, an inferior ovary, and a drupaceous fruit crowned by the persistent calyx.",
+    "vegetative": "Shrubs or trees; leaves alternate, simple, exstipulate, usually with glandular teeth or obscure crenulations.",
+    "reproductive": "Flowers usually 5-part and sympetalous; nectary disk present; stamens very numerous, commonly about 40–100, epipetalous and often grouped in fascicles; ovary inferior and incompletely locular.",
+    "fruit": "Drupe, typically crowned by the persistent calyx.",
+    "field_tip": "For local sweetleaf, the strongest package is alternate simple leaf + many stamens + inferior ovary + persistent-calyx drupe."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_011",
+    "teaching_order": "leaf margin → flower before leaves → many stamens → inferior ovary → drupe",
+    "intro": "Symplocaceae looks ordinary vegetatively, but the flower center is anything but ordinary: dozens of stamens crowd around a single style above an inferior ovary.",
+    "steps": [
+      {
+        "title": "1 · Read the leaf and bud context",
+        "photo_role": "twig/leaf macro",
+        "look_for": "Alternate simple leaves with obscure crenulate-serrulate to nearly entire margins and prominent midvein.",
+        "why_it_matters": "Establishes the woody sweetleaf gestalt before flowering.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Catch the flowers before the leaves",
+        "photo_role": "early-spring flower fascicle",
+        "look_for": "Creamy yellow flowers in axillary fascicles from previous-year wood, often appearing before new leaves.",
+        "why_it_matters": "A strong project-species seasonal cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Count 'many,' not five",
+        "photo_role": "flower-center macro",
+        "look_for": "Numerous stamens, often dozens, attached to the corolla and grouped around the style.",
+        "why_it_matters": "Separates Symplocaceae from many other 5-part woody Ericales.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Confirm inferior ovary and drupe",
+        "photo_role": "flower-to-fruit sequence",
+        "look_for": "Inferior ovary maturing into a dark orange-brown drupe with persistent calyx at the top.",
+        "why_it_matters": "Completes the family reproductive package.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Symplocaceae vs Styracaceae",
+        "rule": "Symplocaceae has very numerous epipetalous stamens and drupaceous fruit; project Styracaceae has fewer stamens and dry winged/capsular fruit."
+      },
+      {
+        "title": "Symplocaceae vs Sapotaceae",
+        "rule": "Both are woody and can have fused flowers, but Sapotaceae has latex plus a hard glossy seed; Symplocaceae emphasizes many stamens, inferior ovary and persistent-calyx drupe."
+      }
+    ],
+    "caveat": "Do not use sweetness/taste as a crew ID test; use visible leaf, flower and fruit characters."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Symplocos",
+        "taxa_count": 1,
+        "fast_cue": "alternate simple leaves + early axillary flower fascicles + many stamens + persistent-calyx drupe",
+        "role": "sweetleaf door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Symplocos tinctoria"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Symplocos tinctoria",
+      "current_name": "Symplocos tinctoria",
+      "note": "Accepted; native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "many epipetalous stamens",
+      "annotation_goal": "label stamen fascicles around style"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior ovary + persistent calyx",
+      "annotation_goal": "flower-to-drupe sequence"
+    },
+    {
+      "priority": 2,
+      "structure": "early flowers before leaves",
+      "annotation_goal": "show previous-year twig and axillary fascicle"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Symplocaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10863"
+    },
+    {
+      "source": "FNA — Symplocos tinctoria",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250092264"
+    },
+    {
+      "source": "POWO — Symplocos tinctoria",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:248040-2"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-011",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_stamen_drupe_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

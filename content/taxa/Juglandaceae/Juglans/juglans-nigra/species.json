@@ -1,0 +1,96 @@
+{
+  "id": "juglans-nigra",
+  "entry_type": "species",
+  "family": "Juglandaceae",
+  "genus": "Juglans",
+  "species": "nigra",
+  "scientific_name": "Juglans nigra",
+  "authority": "L.",
+  "common_name": "Black Walnut",
+  "look_here_first": "Start with the fruit: black walnut has by far the largest fruit in this trio, usually about 3.5–8 cm, and the nut surface between the deep grooves is coarsely warty. Mature trees can also become dramatically taller and heavier-trunked.",
+  "county_occurrences_target_zone": [
+    "Williamson",
+    "Travis",
+    "Burnet"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Detailed Williamson County treatment; contemporary Travis County riparian documentation; Burnet County local-species occurrence listing. Texas native status is confirmed by Kew/FNA.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "large tree, potentially 40–50 m",
+      "usually 15–19 leaflets, sometimes 9–23",
+      "terminal leaflet small or absent",
+      "fruit about 3.5–8 cm",
+      "nut about 3–4 cm, deeply grooved with coarsely warty surface between grooves",
+      "dark deeply ridged bark on mature trees",
+      "rich woods and riparian bottomlands"
+    ],
+    "comparison_training": "J. major has smaller 2–3.5 cm fruit with smoother nut surfaces between grooves; J. microcarpa has tiny fruit and many very narrow leaflets."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Juglans microcarpa",
+      "Juglans major"
+    ],
+    "key_distinctions": "J. nigra is the large-fruited species; use the coarsely warty nut surface to confirm."
+  },
+  "taxonomic_note": "Accepted by current Kew/POWO. Flora of North America warns that central Texas intermediates occur among local walnut species; use multiple characters on atypical material.",
+  "tags": [
+    "Juglandaceae",
+    "Juglans",
+    "Black Walnut",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b035",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Diagnostic roles defined; exact reusable image lock remains later visual-polish work.",
+  "images": [
+    {
+      "file": "images/01-tree-habit.jpg",
+      "role": "Leaflet close-up / serrated margins and surface venation",
+      "creator": "R. A. Nonenmacher",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_nigra_02125.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-leaf-fruit.jpg",
+      "role": "Pinnately compound leaf and green-husked fruit",
+      "creator": "Rohit Naniwadekar",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_nigra_11.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-bark.jpg",
+      "role": "Bark detail / deep furrows and interlacing ridges",
+      "creator": "MONGO",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Black_Walnut_Bark_Detail.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "First three physical exact-species photos: leaflet margins/venation, compound foliage with green-husked fruit, and bark. Scientific PASS unchanged. Whole-tree habit and bud/leaf-scar macros remain follow-up."
+  }
+}

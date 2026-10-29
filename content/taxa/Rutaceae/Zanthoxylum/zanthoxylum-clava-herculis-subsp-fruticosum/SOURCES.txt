@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77175410-1
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77175410-1
+Photographed under scientific synonym: Zanthoxylum hirsutum
+Source research-grade observation: https://www.inaturalist.org/observations/26817838
+Photo: https://www.inaturalist.org/photos/41660169
+Attribution: (c) Annabelle Corboy, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

@@ -1,0 +1,138 @@
+{
+  "rank": "family",
+  "name": "Koeberliniaceae",
+  "common_name": "Crown-of-thorns family",
+  "lineage_context": {
+    "order": "Brassicales",
+    "batch": "Rosid residuals",
+    "close_project_families": [
+      "Brassicaceae",
+      "Cleomaceae"
+    ],
+    "teaching_goal": "Teach Koeberlinia spinosa as a nearly leafless photosynthetic thorn-shrub with green branches, tiny ephemeral leaves, 4-merous bisexual flowers with 8 stamens and a berry—an extreme Brassicales body plan."
+  },
+  "project_scope": {
+    "selection_mode": "Koeberlinia spinosa one-species family module",
+    "note": "Accepted current species; native from California to Texas and Mexico, with three accepted varieties."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the green thorny branches. True leaves are minute and quickly shed, so most photosynthesis occurs in the green stems.",
+    "vegetative": "Dense shrub or small tree with long green thorn-tipped branches; leaves tiny, scale-like/short-lived.",
+    "reproductive": "Bisexual 4-merous flowers: 4 sepals, 4 petals and 8 stamens around a single ovary.",
+    "fruit": "Small berry, contrasting with the siliques/silicles of Brassicaceae.",
+    "field_tip": "Almost leafless green thorn-shrub + 4-part bisexual flower + 8 stamens + berry = Koeberliniaceae/Koeberlinia."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_030",
+    "teaching_order": "green thorn branch → tiny leaf → 4-part flower → eight stamens → berry → Brassicaceae comparison → variety caution",
+    "intro": "Crown of thorns is a great reminder that belonging to Brassicales does not mean looking like a mustard. It has turned green branches into the main photosynthetic surface.",
+    "steps": [
+      {
+        "title": "1 · Treat the green branch as the leaf substitute",
+        "photo_role": "whole twig/habit",
+        "look_for": "Long green branches ending in thorns, with almost no persistent foliage.",
+        "why_it_matters": "Fastest family silhouette.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the tiny short-lived leaves",
+        "photo_role": "young twig macro",
+        "look_for": "Minute leaves before they are shed.",
+        "why_it_matters": "Explains why the mature plant looks leafless.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Count 4 + 4 + 8",
+        "photo_role": "flower macro",
+        "look_for": "Four sepals, four petals and eight stamens.",
+        "why_it_matters": "A clean reproductive formula for the family.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Find the berry",
+        "photo_role": "fruit macro",
+        "look_for": "Small fleshy berry with persistent style tip.",
+        "why_it_matters": "Separates this Brassicales family from mustard siliques/silicles.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Keep varieties out of the family lesson",
+        "photo_role": "variety caution card",
+        "look_for": "K. spinosa has accepted varieties including spinosa, tenuispina and wivaggii.",
+        "why_it_matters": "The project source is species-level; thorn proportions/flower measurements belong in later variety work.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Koeberliniaceae vs Brassicaceae",
+        "rule": "Both are Brassicales, but Koeberlinia is a woody nearly leafless thorn shrub with 8 stamens and a berry; Brassicaceae is mostly herbaceous with 6 tetradynamous stamens and a silique/silicle."
+      }
+    ],
+    "caveat": "Do not force a variety from thorn length alone in the family lesson. FNA recognizes three varieties with overlapping quantitative characters."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Koeberlinia",
+        "taxa_count": 1,
+        "fast_cue": "green thorn branches + tiny deciduous leaves + 4-part flower with 8 stamens + berry",
+        "role": "crown-of-thorns door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Koeberlinia spinosa"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Koeberlinia spinosa",
+      "current_name": "Koeberlinia spinosa",
+      "note": "Accepted; native range includes Texas; current Kew recognizes three varieties."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "green thorny branch + tiny leaf",
+      "annotation_goal": "label photosynthetic stem, thorn tip and ephemeral leaf"
+    },
+    {
+      "priority": 1,
+      "structure": "4+4+8 flower",
+      "annotation_goal": "label sepals, petals and 8 stamens"
+    },
+    {
+      "priority": 1,
+      "structure": "berry",
+      "annotation_goal": "contrast with Brassicaceae silique"
+    },
+    {
+      "priority": 2,
+      "structure": "variety caution",
+      "annotation_goal": "defer thorn-length variety key to species lane"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Koeberliniaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126807-1/general-information"
+    },
+    {
+      "source": "POWO — Koeberlinia spinosa",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30070320-2"
+    },
+    {
+      "source": "FNA — Koeberlinia spinosa",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=220007142"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Koeberliniaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-030",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_green_stem_4_4_8_berry_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

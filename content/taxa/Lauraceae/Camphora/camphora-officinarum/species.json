@@ -1,0 +1,36 @@
+{
+  "id": "camphora-officinarum",
+  "family": "Lauraceae",
+  "genus": "Camphora",
+  "species": "officinarum",
+  "scientific_name": "Camphora officinarum",
+  "common_name": "Camphor tree",
+  "look_here_first": "Evergreen tree with shiny three-veined leaves, small pale panicles and dark one-seeded drupes; inspect leaf veins and crushed-leaf odor without relying on scent alone.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/77328940-1",
+  "images": [
+    {
+      "file": "images/inat-169711661.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Jef Boeke, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/169711661",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

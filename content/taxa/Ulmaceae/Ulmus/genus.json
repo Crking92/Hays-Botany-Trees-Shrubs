@@ -1,0 +1,166 @@
+{
+  "rank": "genus",
+  "family": "Ulmaceae",
+  "name": "Ulmus",
+  "authority": "L.",
+  "common_group": "Elms",
+  "project_scope": {
+    "selection_mode": "five-species photo-led Central Texas elm comparison",
+    "species_ids": [
+      "ulmus-alata",
+      "ulmus-americana",
+      "ulmus-crassifolia",
+      "ulmus-parvifolia",
+      "ulmus-rubra"
+    ],
+    "species_count": 5,
+    "note": "Five installed learner species: four native project elms plus introduced Chinese elm as a high-value comparison. Winged elm was added after its completed range review; preserve Chinese elm as FAIL/introduced comparison."
+  },
+  "study_strategy": {
+    "priority": [
+      "leaf asymmetry and texture",
+      "corky twig wings and whether they stop at nodes",
+      "flower/fruit season",
+      "samara margin/pubescence",
+      "bark"
+    ],
+    "warning": "Do not identify elms from leaf shape alone. Cedar vs winged elm especially depends on wing behavior at nodes and reproductive season."
+  },
+  "quick_key": [
+    {
+      "if": "regular corky wings on branches, wings usually stop abruptly at nodes, pointed small leaves, SPRING flowers/fruit",
+      "then": "Ulmus alata — winged elm"
+    },
+    {
+      "if": "small rough leaves + FALL flowers/fruit + corky ridges/wings may continue around nodes",
+      "then": "Ulmus crassifolia — cedar elm"
+    },
+    {
+      "if": "large strongly asymmetric leaf + normally unwinged twig + SPRING samara with ciliate margin",
+      "then": "Ulmus americana — American elm"
+    },
+    {
+      "if": "large thick sandpaper leaf + reddish hairy/tomentose buds + samara hairy on the body",
+      "then": "Ulmus rubra — slippery elm"
+    },
+    {
+      "if": "mottled exfoliating lacebark + small glossy smoother leaves + FALL reproduction",
+      "then": "Ulmus parvifolia — Chinese elm, introduced comparison"
+    }
+  ],
+  "curation_status": {
+    "version": "2.0-five-species-photo-led",
+    "last_reviewed": "2026-10-14",
+    "visual_status": "all_five_species_local_media_2026_10_14"
+  },
+  "look_here_first": "FIRST inspect the TWIG for corky wings. SECOND feel/inspect a COMPLETE LEAF for size, roughness, asymmetrical base, and venation. THIRD use the CALENDAR: winged/American/slippery elm reproduce in spring, while cedar elm and Chinese elm reproduce late summer-fall. FOURTH inspect the SAMARA and bark. Do not identify an elm from leaf shape alone.",
+  "shared_traits": [
+    "Alternate simple leaves with pinnate side veins and usually an asymmetrical leaf base.",
+    "Small wind-pollinated flowers; most project native elms flower before or near leaf-out, but cedar elm is a major fall-flowering exception.",
+    "Dry winged samaras are the key Ulmus fruit; margin hair, body hair, notch shape and season help separate species.",
+    "Corky twig wings occur in both winged elm and cedar elm, so the presence of wings alone is not enough."
+  ],
+  "genus_diagnostics": {
+    "twig_wings": "U. alata and U. crassifolia can both be corky-winged. In winged elm, regular wings commonly terminate abruptly at nodes; cedar-elm wings/ridges can be more intermittent or continue around nodes.",
+    "leaf": "American and slippery elm have much larger strongly asymmetric leaves. Slippery elm is especially thick and sandpaper-rough with reddish hairy buds. Cedar elm has small rough leaves; Chinese elm has small smoother glossy leaves.",
+    "season": "Spring reproduction strongly favors U. alata, U. americana, or U. rubra. Late-summer/fall flowers and samaras strongly favor U. crassifolia or introduced U. parvifolia.",
+    "samara": "American elm has a ciliate samara margin; slippery elm is hairy on the samara body; cedar elm samaras are small and pubescent; winged elm has small spring samaras with hairy/ciliate margins; Chinese elm has a small glabrous fall samara.",
+    "bark": "Chinese elm's exfoliating mottled lacebark is a strong tie-breaker. Native project elms lack that distinctive patchwork exfoliation."
+  },
+  "comparison_cards": [
+    {
+      "id": "ulmus-alata-vs-crassifolia",
+      "title": "Winged elm vs cedar elm",
+      "taxon_ids": [
+        "ulmus-alata",
+        "ulmus-crassifolia"
+      ],
+      "look_here_first": "Both can have corky wings. Follow a wing to the NODE and then check the reproductive season.",
+      "rule": "U. alata: regular wings commonly stop at nodes + spring flowers/samaras. U. crassifolia: small rough leaves + late-summer/fall reproduction; corky ridges may continue around nodes.",
+      "warning": "Do not call a tree winged elm solely because a twig is corky-winged."
+    },
+    {
+      "id": "ulmus-americana-vs-rubra",
+      "title": "American elm vs slippery elm",
+      "taxon_ids": [
+        "ulmus-americana",
+        "ulmus-rubra"
+      ],
+      "look_here_first": "Both have large asymmetric leaves. Feel the upper surface, inspect buds, then check samara hair placement.",
+      "rule": "U. rubra is markedly sandpaper-rough with reddish hairy buds and a hairy samara body; U. americana has a ciliate samara margin and less diagnostic red-tomentose buds."
+    },
+    {
+      "id": "native-small-leaf-elms-vs-chinese",
+      "title": "Small native elms vs Chinese elm",
+      "taxon_ids": [
+        "ulmus-alata",
+        "ulmus-crassifolia",
+        "ulmus-parvifolia"
+      ],
+      "look_here_first": "Check bark, leaf texture, twig wings and season together.",
+      "rule": "Chinese elm: mottled exfoliating lacebark + glossy smoother leaves + fall fruit. Cedar/winged elm: native rougher leaves and/or corky wings, with cedar fall-fruiting and winged spring-fruiting."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Five elms: twig wings, leaf texture, season and samaras",
+    "subtitle": "Five matched canonical elm species now have physically installed photographs (six JPEG/PNG total). Specialty same-scale twig nodes, hairy buds, and full samara comparisons still pending.",
+    "memory_rule": "WINGS? follow them to the NODE. BIG LEAF? compare American vs slippery. FALL FRUIT? think cedar or Chinese. SPRING FRUIT + corky wings? winged elm.",
+    "part_examples": [
+      {
+        "title": "Verified winged elm foliage; corky-wing example remains disputed",
+        "role": "verified leaves, node macro missing",
+        "anchor_species_id": "ulmus-alata",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_alata_071007c.jpg",
+        "look_for": "Pointed, serrated winged-elm leaves in the installed exact-species image. Twig wing/node placement is NOT shown by this photo; don't teach the disputed former twig as diagnostic proof.",
+        "why_it_matters": "A verified foliage example for winged elm. Branch/node characters require a different, independently identified photo.",
+        "photo_status": "installed_verified_foliage_not_node_macro",
+        "image_file": "images/ulmus-alata-leaves.jpg"
+      },
+      {
+        "title": "Read cedar elm leaves and samaras",
+        "role": "small rough leaves + fruit",
+        "anchor_species_id": "ulmus-crassifolia",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_crassifolia_leaves.jpeg",
+        "look_for": "Small rough leaves and winged samaras; pair with a fall-season observation and twig-wing view.",
+        "why_it_matters": "Cedar elm is the common Central Texas anchor and the main winged-elm look-alike.",
+        "photo_status": "installed_verified_unannotated",
+        "image_file": "images/ulmus-crassifolia-leaves.jpeg"
+      },
+      {
+        "title": "Use American elm's large asymmetric leaf",
+        "role": "large leaf + spring samara",
+        "anchor_species_id": "ulmus-americana",
+        "source_page": "https://commons.wikimedia.org/wiki/File:American-Elm_leaves_and_samaras_(5622588702).png",
+        "look_for": "Large double-serrate leaves with a strongly uneven base beside flat spring samaras.",
+        "why_it_matters": "Separates the large-leaved native elm group from cedar and winged elm.",
+        "photo_status": "installed_verified_unannotated",
+        "image_file": "images/ulmus-americana-leaves-samaras.png"
+      },
+      {
+        "title": "Feel the slippery-elm clue",
+        "role": "rough asymmetric leaf",
+        "anchor_species_id": "ulmus-rubra",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_rubra_leaf.jpg",
+        "look_for": "A thick strongly asymmetric leaf with a very rough upper surface; then verify reddish hairy buds.",
+        "why_it_matters": "American and slippery elm overlap in leaf size, so texture and buds become the tie-breakers.",
+        "photo_status": "installed_verified_unannotated",
+        "image_file": "images/ulmus-rubra-leaf.jpg"
+      },
+      {
+        "title": "Spot Chinese elm's lacebark",
+        "role": "exfoliating bark",
+        "anchor_species_id": "ulmus-parvifolia",
+        "source_page": "https://commons.wikimedia.org/wiki/File:RN_Ulmus_parvifolia_bark.JPG",
+        "look_for": "Patchy exfoliating tan/orange/gray bark paired with small glossy leaves.",
+        "why_it_matters": "Keeps the common planted/naturalized non-native from being mistaken for a native small-leaf elm.",
+        "photo_status": "installed_verified_unannotated",
+        "image_file": "images/ulmus-parvifolia-bark.jpg"
+      }
+    ],
+    "photo_gaps": [
+      "Confirmed species-ID winged elm twig macro needed: previously linked Commons corky-wing photo is taxonomically disputed and must not be installed as verified U. alata.",
+      "Same-scale verified side-by-side twig macro showing U. alata wings ending at a node versus U. crassifolia corky ridges crossing/continuing around a node.",
+      "Slippery-elm reddish hairy bud macro and all-species samara comparison at similar scale."
+    ]
+  }
+}

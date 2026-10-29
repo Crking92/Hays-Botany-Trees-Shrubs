@@ -1,0 +1,156 @@
+{
+  "rank": "family",
+  "name": "Meliaceae",
+  "common_name": "Mahogany family",
+  "lineage_context": {
+    "order": "Sapindales",
+    "batch": "Sapindales",
+    "close_project_families": [
+      "Rutaceae",
+      "Simaroubaceae",
+      "Sapindaceae"
+    ],
+    "teaching_goal": "Use the project's single Melia concept to teach bipinnate foliage, a conspicuous staminal tube, and yellow drupes while clearly marking it as an introduced comparison rather than a native anchor."
+  },
+  "project_scope": {
+    "selection_mode": "Melia azedarach comparison family module",
+    "note": "The current Master Plant Pool contains only Melia azedarach, an accepted species native to Asia/Australia and introduced in North America. This family lesson is therefore comparison-oriented, not a native-family anchor."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the very large 2- to 3-pinnately compound leaf. In flower, look for 5 petals surrounding a conspicuous dark-purple staminal tube. Confirm with persistent yellow drupes.",
+    "vegetative": "Deciduous tree with alternate, usually twice-pinnate or nearly tripinnate leaves; individual leaflets are serrate to crenate.",
+    "reproductive": "Flowers in loose panicles, pale lilac to white; filaments are united into a prominent staminal tube, a high-value Meliaceae character.",
+    "fruit": "Fleshy yellow drupe with a hard grooved stone, often persisting after leaf fall.",
+    "field_tip": "For the project learner: lacy bipinnate leaf + purple staminal tube + yellow drupe = Melia/Meliaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_010",
+    "teaching_order": "whole tree → bipinnate leaf → staminal tube → yellow drupe → Ailanthus/Sapindales comparison",
+    "intro": "Meliaceae is represented here by one conspicuous introduced tree, so the lesson should be crisp and honest rather than pretend it is a broad local family.",
+    "steps": [
+      {
+        "title": "1 · Read the giant lacy compound leaf",
+        "photo_role": "whole leaf",
+        "look_for": "Large alternate leaf divided twice or nearly three times into many serrated leaflets.",
+        "why_it_matters": "Separates Melia from most local native woody Sapindales at a glance.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the staminal tube",
+        "photo_role": "flower-center macro",
+        "look_for": "Lavender or whitish petals surrounding a dark purple tube made from fused stamen filaments.",
+        "why_it_matters": "This is the most diagnostic reproductive teaching feature for the project family.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Confirm the yellow drupe",
+        "photo_role": "fruit cluster",
+        "look_for": "Round yellow drupes hanging in clusters, often persisting after leaves drop.",
+        "why_it_matters": "Fruit distinguishes Melia from Ailanthus and many compound-leaved lookalikes.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Mark it as introduced",
+        "photo_role": "native-vs-introduced teaching card",
+        "look_for": "Melia azedarach is accepted but native to Asia/Australia, not a Central Texas native anchor.",
+        "why_it_matters": "Keeps ecological teaching aligned with the user's native-landscape goals.",
+        "status": "taxonomy_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Meliaceae vs Simaroubaceae",
+        "rule": "Melia has 2–3-pinnate serrated leaves, a conspicuous staminal tube and yellow drupes. Ailanthus has once-pinnate leaves with basal glandular teeth and large clusters of winged samaras."
+      },
+      {
+        "title": "Meliaceae vs Sapindaceae",
+        "rule": "Both can be compound-leaved Sapindales, but the Melia staminal tube + persistent yellow drupe combination is distinctive."
+      }
+    ],
+    "caveat": "This module is an introduced-comparison lesson; do not use Melia as a native Central Texas family anchor.",
+    "part_specific_photo_handoff": [
+      {
+        "species_reference": "Melia azedarach",
+        "plain": "one leaf divided into branches and leaflets",
+        "formal": "bipinnate or tripinnate compound leaf; rachis, pinnae, pinnules",
+        "photo_role": "entire compound leaf with branch attachments visible",
+        "media_status": "needs_anatomy_verified_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Show the distinction between a leaflet and a pinna; count orders of branching."
+      },
+      {
+        "species_reference": "Melia azedarach",
+        "plain": "purple tube holding the pollen organs",
+        "formal": "staminal tube of fused filaments",
+        "photo_role": "face and side macro of fresh flower",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Identify fused filaments separately from petals and central style; do not infer from flower color."
+      },
+      {
+        "species_reference": "Melia azedarach",
+        "plain": "yellow fleshy fruit with a hard pit",
+        "formal": "drupe and endocarp",
+        "photo_role": "ripe fruit intact and cut open, compared with Ailanthus samara",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Contrast the fleshy drupe and stony endocarp with the dry winged samara of Ailanthus."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Melia",
+        "taxa_count": 1,
+        "fast_cue": "2–3-pinnate leaf + purple staminal tube + yellow drupe",
+        "role": "introduced comparison"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Melia azedarach"
+  ],
+  "taxonomy_notes": [
+    "Melia azedarach is accepted under current Kew and is native to tropical/subtropical Asia through northern/eastern Australia; it is introduced in North America."
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "staminal tube",
+      "annotation_goal": "label fused filaments around style"
+    },
+    {
+      "priority": 1,
+      "structure": "2–3-pinnate leaf",
+      "annotation_goal": "label rachis, pinnae and ultimate leaflets"
+    },
+    {
+      "priority": 1,
+      "structure": "yellow drupe cluster",
+      "annotation_goal": "contrast with Ailanthus samaras"
+    },
+    {
+      "priority": 2,
+      "structure": "introduced-status card",
+      "annotation_goal": "separate family recognition from native-landscape recommendation"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Melia azedarach",
+      "url": "https://powo.science.kew.org/taxon/578949-1"
+    },
+    {
+      "source": "US Forest Service — Melia azedarach",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/melaze"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-010",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_staminal_tube_and_drupe_macros_pending",
+    "family_backfill_phase": "recognition module built; introduced comparison only"
+  }
+}

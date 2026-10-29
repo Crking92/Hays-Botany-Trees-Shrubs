@@ -1,0 +1,273 @@
+{
+  "id": "quercus-marilandica",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "marilandica",
+  "scientific_name": "Quercus marilandica",
+  "authority": "",
+  "common_name": "Blackjack oak",
+  "synonyms": [],
+  "taxonomic_note": "Kew recognizes var. ashei and var. marilandica; B011 remains species-level.",
+  "look_here_first": "Look at adult leaf tips with a loupe: 3–5 broad distal lobes should show small AWNS/bristles (red-oak-group trait). Then check the conspicuous tawny-hairy, often 5-angled terminal buds (5–10 mm), glossy mature upper leaves, and dark bark broken into blocks. Do not rely on a 'duck-foot' leaf alone.",
+  "county_occurrences_target_zone": [
+    "Blanco",
+    "Burnet",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Q. marilandica, lists Texas as native, and recognizes var. ashei and var. marilandica. USDA PLANTS-derived county/native-status data records Q. marilandica as native in Bell County. The same USDA-derived data records it as native in Blanco County. The same USDA-derived data records it as native in Burnet County. Kerr County: Singhurst et al. (2010), Kerr WMA natural flora, specimens JS 10671, LS 4044, LS 4197. Blanco, Burnet and Kerr are all project target counties; Bell remains out-of-zone context.",
+    "range_guardrail": "The learner remains species-level for B011 while preserving Kew's accepted infraspecific structure; flower/leaf variation should not be used to assign a variety without stronger evidence.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Bell",
+        "Blanco",
+        "Burnet"
+      ],
+      "valid_target_counties": [
+        "Blanco",
+        "Burnet"
+      ],
+      "excluded_counties": [
+        "Bell"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 2 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "Kew/POWO accepts Q. marilandica, lists Texas as native, and recognizes var. ashei and var. marilandica. USDA PLANTS-derived county/native-status data records Q. marilandica as native in Bell County. The same USDA-derived data records it as native in Blanco County. The same USDA-derived data records it as native in Burnet County.",
+      "source_document": "content/taxa/Fagaceae/Quercus/quercus-marilandica/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    },
+    "native_range_reconciliation": {
+      "date": "2026-10-14",
+      "status": "PASS",
+      "confidence": "high",
+      "accepted_name": "Quercus marilandica Münchh.",
+      "verified_target_counties": [
+        "Blanco",
+        "Burnet",
+        "Kerr"
+      ],
+      "source_url": "https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf",
+      "source_detail": "Kerr WMA flora, p. 516: Q. marilandica, vouchers JS 10671, LS 4044, LS 4197.",
+      "taxon_note": "Kew accepts Q. marilandica including var. ashei and var. marilandica; county list rolls up to species concept; do not assign a variety to these vouchers without identification.",
+      "reason": "A third native county has primary floristic evidence; prior 24-county correction remains on record."
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous red-oak-group tree, often small to medium sized on poor uplands",
+      "leaf strongly obovate/obtrullate, narrow below and broad toward tip",
+      "usually 3–5 broad shallow lobes concentrated in distal half",
+      "lobe tips carry bristles/awns",
+      "upper surface dark glossy green; lower surface paler and often tawny-pubescent",
+      "mature bark nearly black to dark gray, breaking into thick squarish blocks",
+      "acorns mature in two seasons",
+      "Leaf blade typically 70–200 mm long and 70–200 mm wide, strongly broader toward the tip; 3–5 broad shallow lobes and 3–10 awns/bristles.",
+      "Upper surface mature glossy/glabrous; lower surface scurfy to scattered pubescent, not the densely yellowish glandular + stellate combination typical of post oak.",
+      "Terminal buds conic/narrowly ovoid, 5–10 mm long, noticeably 5-angled and tawny-pubescent; twigs about 2–4 mm wide, pubescent to tomentose.",
+      "Acorns mature in second year (biennial); turbinate cup about 6–10 mm high × 13–18 mm broad, enclosing about one-third of nut; scales often free/loose at rim.",
+      "Very dark mature bark in rectangular/irregular blocks; inner bark orangish (a nonessential feature and not a reason to damage a live tree)."
+    ],
+    "oak_training": "Use leaf architecture plus bark/twig/buds and mature acorn/cupule; never identify an oak from leaf silhouette alone."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus stellata",
+      "Quercus nigra",
+      "Quercus buckleyi"
+    ],
+    "key_distinctions": "Quercus stellata: Post oak is a white-oak-group species with rounded, non-bristle lobes and often a cruciform leaf; blackjack has bristle-tipped lobes and very dark blocky bark. Quercus nigra: Water oak can develop spatulate three-lobed leaves but usually has smaller, thinner leaves and lacks blackjack's thick leathery 'duck-foot' form and blocky black bark. Quercus buckleyi: Texas red oak has deeper pointed sinuses and more classically red-oak lobed leaves; blackjack is broader and more top-heavy with shallow distal lobes."
+  },
+  "tags": [
+    "Fagaceae",
+    "Quercus",
+    "Blackjack oak",
+    "Oak comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-007+b116-visual",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "visual_reviewed": true,
+    "visual_status": "usable-partial",
+    "photo_metadata_count": 6,
+    "last_visual_reviewed": "2026-10-08",
+    "photo_files_present": 3,
+    "external_display_images_count": 3
+  },
+  "photo_note": "Three licensed physical photographs verified: leaf surfaces, field crown/branching, and leaves beside trunk/bark. Acorn and twig/bud macros remain follow-up. Three additional visually checked licensed NC State remote images for adult leaf, terminal buds, and cupule 2026-10-08; external files are not yet cached into GitHub.",
+  "photo_strategy": {
+    "method": "B116 existing-material-first visual lock",
+    "target_count": "2 strong diagnostic views now; add twig/bud or additional fruit macro only where it materially improves field ID",
+    "visual_priority": "diagnostic structure over generic habit",
+    "public_release_guardrail": "Current sources are authorized for private study; re-check exact reuse rights before any public release."
+  },
+  "images": [
+    {
+      "file": "images/01-foliage-reference.jpg",
+      "role": "Broad leaf lobes and pale lower leaf surfaces",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_marilandica_kz01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-field-reference.jpg",
+      "role": "Upper trunk and branching crown in the field",
+      "creator": "Jason Sturner",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_marilandica_Shawnee_National_Forest_1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-leaf-trunk-reference.jpg",
+      "role": "Leaves beside lichen-covered trunk and bark",
+      "creator": "© Traumrune / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Montagnac-Quercus-marilandica_02.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marilandica__okwbBNc0WpTI.jpg",
+      "role": "Distal 3-lobed blackjack oak leaf with small projecting bristle tips, upper-surface venation and broad apical blade",
+      "creator": "Bruce Kirchoff",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+      "platform": "NC State Extension Gardener Plant Toolbox",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "photo_verified": "visually verified direct image URL 2026-10-08",
+      "diagnostic_visibility": "Entire upper-surface blade and pointed distal lobes are visible; minute terminal bristles are small, no scale or underside view.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Quercus marilandica"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marolandica__PVCxoy7rqkDv.jpe",
+      "role": "Close-up tawny pubescent clustered terminal buds and twig",
+      "creator": "Bruce Kirchoff",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+      "platform": "NC State Extension Gardener Plant Toolbox",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "photo_verified": "visually verified direct image URL 2026-10-08",
+      "diagnostic_visibility": "Buds with orange-tawny fine hairs visible; no ruler or demonstrable five-angled cross section.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Quercus marilandica",
+      "source_filename_note": "Original hosting filename spells marolandica; authoritative NC State species caption and identification label say Quercus marilandica."
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marilandica__mqZFApyZAfab.jpg",
+      "role": "Attached grayish mature-looking acorn, cupule scales, twig and axillary buds",
+      "creator": "Bruce Kirchoff",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+      "platform": "NC State Extension Gardener Plant Toolbox",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "photo_verified": "visually verified direct image URL 2026-10-08",
+      "diagnostic_visibility": "Acorn with cup and scales clearly resolved; exact ripeness and dimensions not established in image, no ruler.",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Quercus marilandica"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 6,
+    "note": "Three licensed physical photographs verified: leaf surfaces, field crown/branching, and leaves beside trunk/bark. Acorn and twig/bud macros remain follow-up. Scientific PASS unchanged. Three externally hosted CC BY photos added 2026-10-08; not yet mirrored to local files. Specialized bud scale and underside trichome views are still pending."
+  },
+  "diagnostic_comparison": {
+    "priority_group": "Post oak vs blackjack oak",
+    "where_to_look_first": "First inspect terminal lobe bristles; then terminal buds, twig pubescence, abaxial hair type and mature bark; use cups and fruit maturation when present.",
+    "pair_specific_tie_breakers": {
+      "quercus-stellata": "Post oak's lobes are typically rounded, WITHOUT the terminal awns; older twigs are thick and densely stellate-hairy, buds small to 4 mm, often with gray scaly bark. Blackjack's much larger tawny 5-angled terminal bud and shiny broad red-oak blade support the bristle evidence.",
+      "quercus-nigra": "Water oak has much narrower/spatulate often thinner blades and smaller acorns; both can have three distal lobes, so bark, bud, leaf texture, and habitat are required."
+    },
+    "unreliable_alone": [
+      "Small inconspicuous bristle tips can break off; do not infer white-oak membership just because a torn leaf lacks a bristle.",
+      "Do not confuse post oak's thick yellowish stellar hairs with blackjack's variable pubescence.",
+      "Both species occur together on dry/poor upland soils, and FNA reports variable overlapping leaf forms and putative hybrids."
+    ],
+    "hybrid_guardrail": "Possible intermediates; don't force species ID from variable silhouette alone."
+  },
+  "diagnostic_image_plan": {
+    "priority": "high",
+    "status": "photo_targets_not_new_photos",
+    "needs": [
+      "Distal lobe bristle macro, with mm ruler or loupe",
+      "Tawny pubescent terminal bud—5-angled cross-section/profile with ruler",
+      "Broad glossy adult leaf, front and back, with blade size scale",
+      "Nearly black deeply blocky bark on mature tree",
+      "Ripe acorn and cup showing loosely appressed/free-pointed scales at rim",
+      "Same tree leaf group, including atypical forms to teach plasticity"
+    ],
+    "guardrail": "Existing gallery file paths and licenses preserved. A reference leaf photograph is not assumed to show macro hairs, buds or cups unless verified directly.",
+    "covered_by_new_gallery": [
+      "adult leaf lobes and small bristle-tip context",
+      "tawny terminal-bud pubescence",
+      "acorn + cup detail"
+    ],
+    "remaining_macro_priorities": [
+      "bud cross-section / size scale",
+      "lower leaf surface close-up",
+      "paired equal-scale lobe tips",
+      "fruit dimensions and proof of ripeness"
+    ]
+  },
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America, Quercus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501060"
+    },
+    {
+      "source": "UT Austin BIO 406D educational photo comparison (links only; public image rights not confirmed)",
+      "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fag/quercus_marilandica.htm"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "post-blackjack field-id pair",
+    "scope": "FNA morphology/compare/photo-shot plan; existing range, taxonomy, approval and photos unchanged"
+  },
+  "photo_backfill_2026_10_08": {
+    "stage": "learner-visible-external-diagnostic-images",
+    "status": "partial-photo-gaps-remain",
+    "added_count": 3,
+    "added_roles": [
+      "distal lobes/bristle-tip context",
+      "tawny hairy terminal buds",
+      "mature-looking acorn and cupule scale profile"
+    ],
+    "visually_checked_direct_urls": true,
+    "physical_github_images_unchanged": true,
+    "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+    "unfilled_roles": [
+      "bud with ruler + five-angled cross-section",
+      "true paired upper/lower same-tree adult leaves and underside trichomes",
+      "fully measured acorn cup",
+      "matching post-vs-blackjack lobe-tip macro with 10x comparison"
+    ],
+    "rights_note": "All new NC State/ Bruce Kirchoff photos CC BY 2.0 with attribution; use credits and source URL.",
+    "review_date": "2026-10-08"
+  },
+  "native_metrics_excluded": false
+}

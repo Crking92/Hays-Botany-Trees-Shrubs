@@ -1,0 +1,14 @@
+OSAGE ORANGE Maclura pomifera | User-approved source pool Master Plant Pool row 674 (15 wild-tagged iNat observations; Hays Local; source_count 3). Historical local native status is UNRESOLVED given massive hedge planting and nonnative-range naturalization; statewide Texas-native designation NOT target-county PASS.
+
+USDA Forest Service FEIS: native range limited, widespread plantings https://research.fs.usda.gov/feis/species-reviews/macpom
+USFS Silvics Osage-orange ecology morphology https://research.fs.usda.gov/silvics/osage-orange
+USDA Forest Service Maclura pomifera tree description https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/maclura/pomifera.htm
+
+osage-orange-leaves.jpg | H. Zell (Llez) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Maclura_pomifera_002.JPG | Karlsruhe Botanical Garden, Germany | Simple alternate glossy entire leaves on shoot, plant cultivated in botanical garden; leaf arrangement and petiole recognition
+osage-orange-tree-habit.jpg | H. Zell (Llez) | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Maclura_pomifera_001.JPG | Karlsruhe Botanical Garden, Germany | Full Osage orange tree habit and general crown; cultivated tree; not site-native proof
+osage-orange-fruit.jpg | Mahieddine23 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Maclura_pomifera_fruit.JPG | Annaba, Algeria, cultivated or naturalized provenance not confirmed | Round green knobby aggregate of fruits (multiple fruit), whole-fruit recognition
+osage-orange-fruit-surface.jpg | JMK | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Maclura_pomifera,_sinkarp,_Manie_van_der_Schijff_BT,_naderby.jpg | Botanical garden, Pretoria, South Africa | Macro of compound fruit surface: many packed units forming one globose multiple fruit, not an orange or a single ovary
+osage-orange-male-head.jpg | Gmihail | CC BY-SA 3.0 RS | https://commons.wikimedia.org/wiki/File:Maclura_pomifera_male_iflorescence.jpg | Serbia, cultivation or wild status unknown | Male/staminate flower-head detail; male trees do not produce large Osage oranges
+osage-orange-female-head.jpg | Gmihail | CC BY-SA 3.0 RS | https://commons.wikimedia.org/wiki/File:Maclura_female_inflorescence.jpg | Serbia, cultivation or wild status unknown | Female/pistillate young flower head, precursor to distinctive enlarged multiple fruit
+osage-orange-bark.jpg | MONGO | Public domain (author released) | https://commons.wikimedia.org/wiki/File:Osage_Orange_(Maclura_pomifera)_bark_detail.jpg | Arbor Lodge, Nebraska City, Nebraska | Mature bark closeup, irregular deeply furrowed scaly texture; non-Texas reference
+Photo arrows await physical photo inspection; a clearly thorn-bearing shoot and flower sex comparisons are central. Recheck after installer.

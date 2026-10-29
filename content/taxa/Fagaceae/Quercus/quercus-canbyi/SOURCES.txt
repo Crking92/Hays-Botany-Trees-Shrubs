@@ -1,0 +1,14 @@
+
+LIBRARY-FIRST IMAGE SELECTION 014 2026-10-16T16:43:17.401100+00:00
+Quercus canbyi
+Creator: Liliana Ramírez-Freire; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4103325712
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/quercus-canbyi/gbif-5dcc10364b769c.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 014 2026-10-16T16:43:17.401100+00:00
+Quercus canbyi
+Creator: Liliana Ramírez-Freire; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4103325712
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/quercus-canbyi/gbif-c62664741cf827.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

@@ -1,0 +1,63 @@
+{
+  "id": "tamarix-aphylla",
+  "family": "Tamaricaceae",
+  "genus": "Tamarix",
+  "species": "aphylla",
+  "scientific_name": "Tamarix aphylla",
+  "common_name": "Athel tamarisk",
+  "look_here_first": "Fine jointed green twigs with almost invisible sheathing scale leaves and small pale flowers in narrow racemes.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_056": "2026-10-18"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828051-1",
+  "images": [
+    {
+      "file": "images/inat-467712234.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Jo Roberts, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/467712234",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/library-review056-9a140d934aec7fa.jpg",
+      "role": "Look closer · fine drooping sprays of green branchlets; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Drooping slender sprays of minute branchlets",
+      "creator": "saltyhiker",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6185045169",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626811371/original.jpg",
+      "source_determination": "Tamarix aphylla",
+      "source_observation_id": "6185045169",
+      "library_release_tag": "hays-photo-library-mass-38994386296",
+      "library_archive_file": "staged_images/tamarix-aphylla/gbif-5c52663e37d43b.jpg",
+      "archive_image_sha256": "cef4b2222ef5a511b34eb465ea48edfb0c88d44351cc4b276f3fb11310579eaa",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

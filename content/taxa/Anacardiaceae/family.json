@@ -1,0 +1,155 @@
+{
+  "rank": "family",
+  "name": "Anacardiaceae",
+  "common_name": "Sumac / cashew family",
+  "project_scope": {
+    "selection_mode": "Central Texas Rhus-first visual module",
+    "note": "Current canonical anchors are three Rhus taxa; poison-ivy comparison is taught as a safety/tie-breaker without requiring contact."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "LOOK HERE FIRST: inspect a mature leaf node and rachis, then the flower/fruit cluster from a safe distance. Alternate exstipulate foliage may be trifoliolate or pinnate; a one-seeded drupe supports Anacardiaceae but is not unique. Compare leaflet attachment, winged rachis, fruit anatomy and inflorescence position. Never touch or crush suspected Toxicodendron.",
+    "vegetative": "Leaves may be trifoliolate or odd-pinnately compound; winged rachis and leaflet count are powerful local Rhus characters.",
+    "flowers": "Small, usually 5-part flowers often with a nectar disk; local plants are woody and resinous.",
+    "fruit": "Drupaceous and usually 1-seeded in the local learning set.",
+    "safety": "Never use sap contact as an ID test. Toxicodendron resin can cause dermatitis.",
+    "field_tip": "Three leaflets do NOT diagnose poison ivy: Rhus aromatica and Toxicodendron can both be trifoliolate. Rhus copallinum/lanceolata has a conspicuously winged rachis. Confirm family and genus with safe-distance fruit clusters and flower/fruit architecture; avoid sap tests."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Sumac ID gets much easier when you stop treating 'three leaves' as poison ivy and instead read habit, rachis, leaflet texture and fruit.",
+    "steps": [
+      {
+        "title": "1 · Three leaflets is not enough",
+        "photo_role": "trifoliolate habit",
+        "anchor_species_id": "rhus-aromatica",
+        "anchor_image_index": 1,
+        "look_for": "Exactly three leaflets on a low free-standing shrub rather than a climbing vine.",
+        "why_it_matters": "Rhus aromatica is the perfect antidote to the 'leaves of three' shortcut.",
+        "status": "locked_existing_photo"
+      },
+      {
+        "title": "2 · Read the rachis",
+        "photo_role": "winged rachis / compound leaf",
+        "anchor_species_id": "rhus-copallinum-var-lanceolata",
+        "anchor_image_index": 0,
+        "look_for": "Many narrow leaflets with conspicuous wing tissue along the rachis.",
+        "why_it_matters": "A winged rachis is one of the fastest local sumac characters.",
+        "status": "locked_existing_photo"
+      },
+      {
+        "title": "3 · Notice evergreen architecture",
+        "photo_role": "evergreen compound-leaf habit",
+        "anchor_species_id": "rhus-virens",
+        "anchor_image_index": 0,
+        "look_for": "Only 5–9 thick glossy mostly entire leaflets on a large evergreen/semi-evergreen shrub.",
+        "why_it_matters": "Shows how broad Rhus foliage can be while retaining the family pattern.",
+        "status": "locked_existing_photo"
+      },
+      {
+        "title": "4 · Confirm with the fruit",
+        "photo_role": "red hairy drupe cluster",
+        "anchor_species_id": "rhus-aromatica",
+        "anchor_image_index": 0,
+        "look_for": "Terminal clusters of red hairy one-seeded drupes.",
+        "why_it_matters": "Fruit position/color/texture helps separate sumacs from poison ivy's paler drupes.",
+        "status": "photo_polish_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Rhus aromatica vs poison ivy",
+        "rule": "Both may have 3 leaflets. Rhus aromatica is a low free-standing shrub with red hairy drupes; poison ivy commonly climbs/trails with aerial rootlets and pale whitish drupes."
+      },
+      {
+        "title": "Anacardiaceae vs Sapindaceae",
+        "rule": "Resinous tissues and local red drupes favor Anacardiaceae; local Sapindaceae uses samaras, capsules or translucent drupes depending on genus."
+      },
+      {
+        "title": "Rhus vs Toxicodendron: leaflets are not enough",
+        "rule": "Both can have three leaflets. Look for aerial rootlets where present and compare fruit clusters safely; T. rydbergii can be shrubby. Never touch unknown poison ivy."
+      },
+      {
+        "title": "Rhus vs Sapindus (Sapindaceae)",
+        "rule": "Both may have alternate pinnate leaves and drupaceous fruits. Confirm fruit cutaway and flower/inflorescence architecture; drupes alone do not settle the family."
+      },
+      {
+        "title": "Cotinus: feathers are not seeds",
+        "rule": "The long feathery parts of the smoke-tree fruiting panicle are elongated sterile pedicels, not plumed fruits. Inspect an actual attached fruit."
+      },
+      {
+        "title": "Anacardiaceae vs Rutaceae",
+        "rule": "Check transmitted-light oil glands and fruit type (Rutaceae samaras/follicles/capsules vs Anacardiaceae drupes), not scent or leaf arrangement alone."
+      }
+    ],
+    "caveat": "Do not crush, scratch, or handle unknown Anacardiaceae to test sap or odor."
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-13",
+    "visual_lock": "first_pass_complete"
+  },
+  "family_confusion_polish": {
+    "reviewed": "2026-10-13",
+    "look_here_first": "Leaf node and rachis first; reproductive fruit and inflorescence second. Do not rely on resin odor, red fruit, or three leaflets.",
+    "genus_routes": [
+      {
+        "genus": "Rhus",
+        "look_for": "R. aromatica trifoliolate; R. copallinum/lanceolata pinnate with winged rachis; R. virens fewer thick evergreen leaflets; clustered one-seeded drupes. R. trilobata source names remain mapped to R. aromatica."
+      },
+      {
+        "genus": "Toxicodendron",
+        "look_for": "Trifoliolate leaves; T. radicans often climbing with aerial rootlets, T. rydbergii usually erect/shrubby; pale mature drupes in axillary clusters. Never handle for ID."
+      },
+      {
+        "genus": "Cotinus",
+        "look_for": "Simple rounded leaves; loose fruiting panicles with elongated feathery sterile pedicels (feathers are NOT plumose seeds)."
+      },
+      {
+        "genus": "Pistacia",
+        "look_for": "Pinnate leaflets and small drupes; compare nodes and fruit rather than assuming a native Rhus."
+      },
+      {
+        "genus": "Schinus",
+        "look_for": "Pinnate leaves and peppercorn-like drupes; distinguish from wing-rachis Rhus by rachis/fruit details."
+      }
+    ],
+    "family_comparisons": [
+      {
+        "family": "Sapindaceae (Sapindus)",
+        "shared": "Alternate pinnate leaves and one-seeded drupaceous fruits can overlap.",
+        "separate": "Inspect mature fruit and flower/inflorescence structure; do not use drupe alone. Other local Sapindaceae produce paired samaras or capsules."
+      },
+      {
+        "family": "Rutaceae",
+        "shared": "Alternate compound leaves and small flowers with floral disks.",
+        "separate": "Backlight a leaf for pellucid oil-gland dots, then inspect Rutaceae samara/follicle/capsule versus Anacardiaceae drupe; gland absence in one photo is not proof."
+      },
+      {
+        "family": "Rhamnaceae",
+        "shared": "Woody shrubs, sometimes three basal veins and drupes.",
+        "separate": "Look for stipules/thorns, 4–5-part disc flowers with stamens opposite petals and variable fruit; Anacardiaceae local members typically exstipulate."
+      },
+      {
+        "family": "Juglandaceae",
+        "shared": "Alternate pinnately compound leaves.",
+        "separate": "A large hard nut inside a thick husk versus a smaller one-seeded drupe; compare cut mature fruits."
+      }
+    ],
+    "internal_confusions": [
+      "Rhus aromatica vs Toxicodendron: both three leaflets; compare climbing aerial rootlets, fruit-cluster placement and mature drupe surface/color from a safe distance. T. rydbergii may be shrubby, so climbing habit alone is not proof.",
+      "Rhus copallinum/lanceolata vs Pistacia/Schinus: winged rachis versus generally unwinged; compare leaflets and mature fruit, not flower color.",
+      "Cotinus feather-like panicles: plumose structures are elongated sterile pedicels, not the fruit itself."
+    ],
+    "diagnostic_photo_roles": [
+      "One matched trifoliolate Rhus aromatica and Toxicodendron leaf-node pair with petiole/leaflet/axil arrows; no touching Toxicodendron.",
+      "Close macro of Rhus copallinum/lanceolata winged rachis against Pistacia/Schinus unwinged rachis.",
+      "Safe-distance mature Rhus versus Toxicodendron fruit clusters, with axillary/terminal inflorescence labels; avoid color-only ID.",
+      "Cotinus fruiting panicle with arrows separating feathery sterile pedicels from actual fruit.",
+      "Mature Sapindus and Rhus drupe cutaways at matched scale, identifying pericarp and seed.",
+      "Backlit Rutaceae leaf oil glands versus Anacardiaceae leaflet and a matched fruit-type panel."
+    ],
+    "image_policy": "Use existing canonical Rhus species anchors first; new licensed macro acquisition and arrow overlays belong to Diagnostic Photo Polish. Preserve source rights and do not imply source photographs already include annotations.",
+    "taxonomy_handoff": "Preserve existing Rhus aromatica/trilobata synonym decisions and R. microphylla HOLD. Do not promote comparison taxa to target-zone native."
+  }
+}

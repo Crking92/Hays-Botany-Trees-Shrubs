@@ -1,0 +1,23 @@
+Deep Review + Joey-family reconciliation — Rhus aromatica
+Approved: 2026-10-02
+
+TAXONOMY
+Accepted: Rhus aromatica Aiton
+Kew/POWO: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30016232-2
+Older Texas names include Rhus trilobata and R. aromatica var./subsp. flabelliformis.
+
+RANGE PASS
+Hays: https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Travis: https://w3.biosci.utexas.edu/prc/specimens/Anacardiaceae.html
+Williamson: https://w3.biosci.utexas.edu/prc/K12/pdf/Rhus%20aromatica
+
+MORPHOLOGY
+Low deciduous suckering shrub; exactly three often lobed/coarsely toothed leaflets; early yellowish clusters; red hairy drupes.
+
+JOEY/FAMILY TRUSTED LAYER
+The completed Anacardiaceae backfill establishes the local Rhus-vs-Toxicodendron teaching split:
+- do not teach "leaves of three = poison ivy";
+- Rhus usually has red hairy terminal drupes;
+- Toxicodendron has pale axillary drupes and climbing T. radicans may show aerial rootlets;
+- do not use sap contact/crushing as an identification test.
+Research package: research-drafts/family-backfill/anacardiaceae-family-backfill-001.json

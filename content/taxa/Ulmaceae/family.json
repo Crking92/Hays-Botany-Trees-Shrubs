@@ -1,0 +1,152 @@
+{
+  "rank": "family",
+  "name": "Ulmaceae",
+  "common_name": "Elm family",
+  "project_scope": {
+    "selection_mode": "Central Texas elm-vs-hackberry visual module",
+    "note": "Cedar elm is the canonical elm anchor; Celtis references are used as the high-value family comparison."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at leaf venation: local elms have pinnate venation with many lateral veins running toward serrated teeth, often with an asymmetric base.",
+    "leaves": "Alternate simple distichous leaves with stipules; bases often conspicuously oblique.",
+    "fruit": "Ulmus makes a dry winged samara.",
+    "field_tip": "The fastest local split is elm pinnate venation + samara versus hackberry 3-basal-vein pattern + drupe."
+  },
+  "visual_lesson": {
+    "status": "local_ulmus_image_anchors_specialty_macros_pending",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Elm identification gets much easier when you combine leaf venation with fruit, twig wings and season. First separate Ulmus samaras from Celtis drupes and Planera's warty fruit. Inside Ulmus, use twig wings + node behavior + reproductive season before trusting leaf shape.",
+    "steps": [
+      {
+        "title": "1 · Cedar elm leaf + samara",
+        "photo_role": "cedar elm leaves and samaras",
+        "anchor_species_id": "ulmus-crassifolia",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_crassifolia_leaves.jpeg",
+        "image_label": "Ulmus crassifolia",
+        "image_credit": "Public Domain · Mason Brock",
+        "look_for": "Many lateral veins running from the midrib toward the serrated margin, plus dry winged samaras.",
+        "why_it_matters": "This is the core local Ulmus pattern.",
+        "status": "installed_verified_unannotated",
+        "image_file": "images/ulmus-crassifolia-leaves.jpeg"
+      },
+      {
+        "title": "2 · Trace cedar elm leaf veins and serrations",
+        "photo_role": "small leaf veins and edges",
+        "anchor_species_id": "ulmus-crassifolia",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_crassifolia_leaves.jpeg",
+        "image_label": "Cedar elm leaf detail",
+        "image_credit": "Public domain · Mason Brock",
+        "look_for": "Follow the midrib, side veins and finely serrated edges of the small leaves. This is a leaf detail image, NOT the whole tree.",
+        "why_it_matters": "Shows the venation and leaf edge clearly without claiming this photo illustrates the entire tree.",
+        "status": "installed_verified_unannotated",
+        "image_file": "images/ulmus-crassifolia-leaves.jpeg"
+      },
+      {
+        "title": "3 · Hackberry tie-breaker",
+        "photo_role": "sugarberry leaf veins",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Celtis%20laevigata%20leaf.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_leaf.jpg",
+        "image_label": "Celtis laevigata leaf",
+        "image_credit": "CC BY-SA 4.0 · Brucewinter",
+        "look_for": "Three strong primary veins arising near the leaf base.",
+        "why_it_matters": "That basal three-vein pattern strongly favors Celtis over Ulmus.",
+        "status": "rights_cleared_family_comparison"
+      },
+      {
+        "title": "4 · Fruit seals the split",
+        "photo_role": "hackberry drupe",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Celtis%20laevigata%20fruit.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_fruit.jpg",
+        "image_label": "Celtis drupe",
+        "image_credit": "CC BY-SA 4.0 · Brucewinter",
+        "look_for": "A fleshy drupe rather than a dry samara.",
+        "why_it_matters": "Fruit + venation makes elm-versus-hackberry much safer.",
+        "status": "rights_cleared_family_comparison"
+      },
+      {
+        "title": "5 · Winged elm leaf: corky-wing comparison still missing",
+        "photo_role": "corky-winged twig comparison",
+        "anchor_species_id": "ulmus-alata",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Winged_Elm_Ulmus_alata_2009-05-10.jpg",
+        "image_label": "Corky-winged elm twig — species disputed",
+        "image_credit": "CC BY-SA 3.0 · Richard Murphy",
+        "look_for": "Pointed serrated leaves from a winged elm. For corky nodes, no confidently verified matched twig macro is yet available; both winged elm and cedar elm can have corky wings.",
+        "why_it_matters": "Prevents the most important local false shortcut: 'corky wings = winged elm.'",
+        "status": "installed_verified_leaf_only",
+        "image_file": "images/ulmus-alata-leaves.jpg"
+      },
+      {
+        "title": "6 · Chinese elm bark is the non-native giveaway",
+        "photo_role": "exfoliating lacebark",
+        "anchor_species_id": "ulmus-parvifolia",
+        "source_page": "https://commons.wikimedia.org/wiki/File:RN_Ulmus_parvifolia_bark.JPG",
+        "image_label": "Ulmus parvifolia lacebark",
+        "image_credit": "CC0 1.0 · Ronnie Nijboer",
+        "look_for": "Mottled exfoliating tan, gray and orange bark with small glossy leaves.",
+        "why_it_matters": "Separates a common planted/naturalized introduced elm from the native Central Texas elms.",
+        "status": "installed_verified_unannotated",
+        "image_file": "images/ulmus-parvifolia-bark.jpg"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Elm vs hackberry",
+        "rule": "Ulmus = many pinnate side veins + samara. Celtis = strong basal 3-vein pattern + fleshy drupe."
+      },
+      {
+        "title": "Winged elm vs cedar elm",
+        "rule": "Both may have corky wings. U. alata usually ends wings at nodes and fruits in spring; U. crassifolia often carries corky ridges around nodes and fruits in fall."
+      },
+      {
+        "title": "Native elm vs Chinese elm",
+        "rule": "Chinese elm = exfoliating lacebark + smoother glossy small leaves + fall reproduction; keep it excluded from native totals."
+      }
+    ],
+    "caveat": "Hackberries are now Cannabaceae in modern classification; they remain here only as the most useful elm comparison."
+  },
+  "curation_status": {
+    "version": "2.0-ulmus-expanded",
+    "last_reviewed": "2026-10-14",
+    "visual_lock": "expanded_external_anchor_pass"
+  },
+  "family_confusion_polish": {
+    "reviewed": "2026-10-14",
+    "look_here_first": "Ulmus: pinnate leaf veins and winged samaras. Planera: elm-like leaves but stalked warty non-samara fruits. Compare Celtis (three strong basal veins, drupe).",
+    "genus_doors": [
+      "Ulmus: samara",
+      "Planera: stalked warty fruit"
+    ],
+    "visual_locks": [
+      "Ulmus/Planera/Celtis leaf veins and mature fruit",
+      "U. alata versus U. crassifolia twig wings, nodes and buds"
+    ],
+    "handoff": "Resolved: Ulmus alata is now in the five-species Ulmus quick key and photo-led genus lesson. Preserve Planera/Celtis comparisons; next need is matched physical twig/samara macro photography.",
+    "comparison_matrix": [
+      {
+        "taxon": "Ulmus",
+        "leaf": "Numerous pinnate lateral veins; asymmetrical leaf base",
+        "fruit": "Thin winged samara",
+        "family": "Ulmaceae"
+      },
+      {
+        "taxon": "Planera",
+        "leaf": "Elm-like pinnate venation",
+        "fruit": "Warty nonwinged nutlet",
+        "family": "Ulmaceae"
+      },
+      {
+        "taxon": "Celtis",
+        "leaf": "Often three conspicuous basal veins",
+        "fruit": "Fleshy drupe",
+        "family": "Cannabaceae"
+      }
+    ],
+    "exceptions": "Do not require winged fruit for every Ulmaceae: Planera lacks an elm-like samara. Celtis was historically treated with elms but belongs to Cannabaceae.",
+    "photo_locks": [
+      "Same-scale leaf undersides with arrows to venation and asymmetrical base",
+      "Ulmus samara versus Planera warty fruit versus Celtis drupe",
+      "Verified matched U. alata versus U. crassifolia twig-wing/node macro",
+      "Five-species Ulmus samara comparison at similar scale"
+    ]
+  }
+}

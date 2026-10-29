@@ -1,0 +1,85 @@
+{
+  "id": "ampelopsis-cordata",
+  "entry_type": "species",
+  "family": "Vitaceae",
+  "genus": "Ampelopsis",
+  "species": "cordata",
+  "scientific_name": "Ampelopsis cordata",
+  "common_name": "heartleaf peppervine",
+  "synonyms": [
+    "Vitis cordata"
+  ],
+  "look_here_first": "LOOK HERE FIRST: Check a simple, heart-shaped to broadly ovate serrated leaf, then the vine's tendril or fruit cluster opposite a leaf. The strongest tie-breaker against Vitis is the cut stem: Ampelopsis has continuous white pith; confirm this rather than relying on berries alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 58",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "Texas state-level native; target-county certification remains unresolved. Historical Vitis cordata synonym maps here, not a duplicate card."
+  },
+  "morphology_keys": {
+    "habit": "Climbing woody vine, often sprawling through shrubs and trees; inspect a complete shoot rather than isolated foliage.",
+    "leaves_attachment": "Simple (not compound), alternate, petiolate, heart-shaped to broadly ovate leaves with toothed margins. Tendrils or inflorescences occur opposite leaves.",
+    "flower_reproductive": "Small inconspicuous greenish flowers in branched clusters opposite leaves; compare node architecture.",
+    "fruit_seed": "Clusters of small round berries that change color during ripening; berry color alone is unreliable.",
+    "stem_bud": "Cut a twig to inspect the continuous pale/white pith; compare grape (Vitis) pith and node anatomy."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ampelopsis arborea (commonly compound leaves)",
+      "Vitis spp. (grapes; inspect pith and fruit)",
+      "Parthenocissus spp. (typically compound leaves)"
+    ],
+    "key_distinctions": "A. cordata has simple leaves versus A. arborea's commonly compound leaves; separate simple-leaved Vitis with pith and tendril/cluster structure, not leaf shape alone."
+  },
+  "diagnostic_image_needs": [
+    "installed_candidate_role: vine with simple leaves and fruit clusters (Commons CK Kelly, exact species; verify after Action)",
+    "needs_photo: leaf front and back with ruler",
+    "needs_photo: stem node showing leaf opposite tendril or flower cluster",
+    "needs_photo: fresh stem cross-section showing continuous white pith",
+    "needs_photo: flower and mature berry close-up with scale",
+    "annotation_pending: verify positions before adding arrows"
+  ],
+  "photo_status": "staged_sources_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/ampelopsis-cordata-leaves-fruit-commons.jpg",
+      "role": "Simple leaves and fruit clusters on vine",
+      "creator": "CK Kelly",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ampelopsis_cordata_iNat-90602642.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6234965370-ec5299354.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Heart-shaped serrated leaf, tendril/fruit cluster opposite leaf, cut-stem white pith",
+      "creator": "Tommy",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6234965370",
+      "gbif_occurrence_id": "6234965370",
+      "source_determination": "Ampelopsis cordata Michx.",
+      "accepted_target": "Ampelopsis cordata",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645122439/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

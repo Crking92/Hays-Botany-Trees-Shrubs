@@ -1,0 +1,37 @@
+{
+  "id": "tamarix-ramosissima",
+  "family": "Tamaricaceae",
+  "genus": "Tamarix",
+  "species": "ramosissima",
+  "scientific_name": "Tamarix ramosissima",
+  "common_name": "Saltcedar (introduced/invasive comparison)",
+  "look_here_first": "Look for a feathery woody shrub with tiny overlapping scale leaves and sprays of small pink flowers. Inspect raceme dimensions and floral parts to distinguish other Tamarix and hybrids.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Tamarix%20ramosissima",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Cultivated Polish photo, no local provenance; introduced invasive-management comparison, not native planting.",
+  "images": [
+    {
+      "file": "images/commons-tamarix-ramosissima.jpg",
+      "role": "Provisional saltcedar habit, fine branches and flowers; species-level taxonomy needs detailed floral review.",
+      "creator": "Agnieszka Kwiecień, Nova",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tamarix_ramosissima_Tamaryszek_rozga%C5%82%C4%99ziony_2024-04-13_02.jpg",
+      "study_use": "Noncommercial botanical identification learner",
+      "public_reuse": "Attribution and ShareAlike for image derivatives; retain license and modifications"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

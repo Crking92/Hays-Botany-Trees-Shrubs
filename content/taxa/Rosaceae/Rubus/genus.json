@@ -1,0 +1,138 @@
+{
+  "rank": "genus",
+  "name": "Rubus",
+  "family": "Rosaceae",
+  "common_group": "brambles/dewberries",
+  "project_scope": {
+    "installed_canonical_species": [
+      "rubus-trivialis"
+    ],
+    "canonical_species_count": 1,
+    "source_pool_species": [
+      "Rubus trivialis"
+    ],
+    "native_target_zone_calculated": true,
+    "source_of_native_status": "content/taxa/Rosaceae/Rubus/rubus-trivialis/species.json",
+    "note": "Single-species genus study lesson uses identified neighboring taxa as references, not learner-approved new species. No new canonical species or nativity changes."
+  },
+  "genus_recognition": {
+    "look_here_first": "Trace a trailing bramble cane with backward-curved prickles, then find stipulate alternate 3–5 leaflet serrate leaves. Confirm white five-petal flower with many free stamens and separate carpels in a shallow hypanthium, followed by black aggregate fruit built of many drupelets.",
+    "source_order": "habit → leaf/stem architecture → flower structure → fruit/seed → specialist comparison"
+  },
+  "morphological_comparison_matrix": [
+    {
+      "character": "climbing vs brambling stem",
+      "Rubus trivialis": "long trailing/arching cane with broad-based recurved prickles, may root at tip",
+      "comparison_reference": "Smilax has climbing tendrils near leaf bases and different flower/fruits"
+    },
+    {
+      "character": "leaf architecture",
+      "Rubus trivialis": "alternate stipulate leaf generally of 3–5 serrate leaflets",
+      "comparison_reference": "Smilax simple usually 3–5 main-veined leaves, not bramble leaflets"
+    },
+    {
+      "character": "flower",
+      "Rubus trivialis": "5 free white petals + many stamens + many distinct pistils over shallow hypanthium",
+      "comparison_reference": "Smilax small six-tepaled unisexual flowers arranged in umbels"
+    },
+    {
+      "character": "fruit",
+      "Rubus trivialis": "one flower produces aggregate drupelets on common receptacle (ripe dark)",
+      "comparison_reference": "Smilax one fruit is a single berry, unlike many drupelets"
+    },
+    {
+      "character": "separating other Rubus",
+      "Rubus trivialis": "cane posture, tip-rooting, prickle shape, leaflet undersides and sepals compared together",
+      "comparison_reference": "Rubus flagellaris and others overlap; flower/leaf/cane series with exact accepted names required"
+    },
+    {
+      "character": "anatomy",
+      "Rubus trivialis": "each drupelet encloses a hard seed/stone; not a single fused fruit",
+      "comparison_reference": "color alone poor; prickles are epidermal structures, not woody branch thorns"
+    }
+  ],
+  "local_lookalike_reference_names": [
+    "Rubus flagellaris",
+    "other Rubus blackberries",
+    "Smilax spp."
+  ],
+  "visual_id_sequence": [
+    "1. Inspect entire plant habit and growth form.",
+    "2. Zoom to stem node and complete mature leaf with ruler.",
+    "3. Inspect close flower and reproductive parts, labeling all structures rather than flower color alone.",
+    "4. Confirm mature fruit architecture with macro and seed view.",
+    "5. Compare the nearest confuser against matched structural photos; keep ambiguous IDs at genus."
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "panel": 1,
+      "show": "mature prickly cane sideview and prickle curve with ruler"
+    },
+    {
+      "priority": "critical",
+      "panel": 2,
+      "show": "leaf attachment and stipules + 3–5 leaflets"
+    },
+    {
+      "priority": "critical",
+      "panel": 3,
+      "show": "flower face and side dissected hypanthium/stamen/carpels"
+    },
+    {
+      "priority": "high",
+      "panel": 4,
+      "show": "black berry close macro showing separate drupelets and one section"
+    },
+    {
+      "priority": "high",
+      "panel": 5,
+      "show": "rooting cane tip when naturally exposed"
+    },
+    {
+      "priority": "high",
+      "panel": 6,
+      "show": "matched Rubus vs Smilax leaf/tendril and aggregate berry vs single berry"
+    }
+  ],
+  "existing_canonical_photo_inventory": [
+    {
+      "path": "content/taxa/Rosaceae/Rubus/rubus-trivialis/images/rubus-trivialis-provisional-face.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    }
+  ],
+  "scientific_cautions": [
+    "Current image is one flowering face. Need canes, stipules, fruit aggregate and matched R. flagellaris key material; don't mislabel all trailing dewberries as R. trivialis.",
+    "A canonical species's current target-zone nativity and learner approval are scientific metadata; comparing other related taxa must not install them or change their statuses.",
+    "Flower color, single leaf and ecology alone never resolve difficult look-alikes; photo comparisons should show same scale and source provenance."
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Current image is one flowering face. Need canes, stipules, fruit aggregate and matched R. flagellaris key material; don't mislabel all trailing dewberries as R. trivialis."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Confirm exact congener/look-alike traits before adding hard numeric boundaries; reconcile accepted synonyms."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Existing canonical species anatomy, photo provenance and scientific status",
+      "path": "content/taxa/Rosaceae/Rubus/rubus-trivialis/species.json"
+    },
+    {
+      "title": "Canonical family recognition and visual comparisons",
+      "path": "content/taxa/Rosaceae/family.json"
+    }
+  ],
+  "curation_status": {
+    "version": "genus-github-backfill-2026-10-11",
+    "reviewed_at": "2026-10-11",
+    "comparison_rows": 6,
+    "photo_panels": 6,
+    "visual_status": "shot requests + existing metadata only, no new image assets downloaded",
+    "species_installs": 0,
+    "range_changes": 0
+  }
+}

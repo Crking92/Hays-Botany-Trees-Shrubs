@@ -1,0 +1,40 @@
+{
+  "id": "valeriana-amarella",
+  "family": "Caprifoliaceae",
+  "genus": "Valeriana",
+  "species": "amarella",
+  "scientific_name": "Valeriana amarella",
+  "common_name": "Bitter cornsalad",
+  "look_here_first": "Inspect opposite leaves and small branched flower clusters, then compare the mature fruit shape and calyx remnants.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/77184176-1",
+  "synonyms": [
+    "Valerianella amarella"
+  ],
+  "photo_taxonomy_note": "Kew documents the image observation name as a synonym of the accepted learner scientific name.",
+  "images": [
+    {
+      "file": "images/inat-7237652.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Chuck Sexton, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/7237652",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

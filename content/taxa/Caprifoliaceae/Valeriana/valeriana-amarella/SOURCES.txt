@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/77184176-1
+Kew name-synonym evidence: https://powo.science.kew.org/taxon/77184176-1
+Photographed under scientific synonym: Valerianella amarella
+Source research-grade observation: https://www.inaturalist.org/observations/5819300
+Photo: https://www.inaturalist.org/photos/7237652
+Attribution: (c) Chuck Sexton, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

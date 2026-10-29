@@ -1,0 +1,37 @@
+{
+  "id": "ptelea-trifoliata",
+  "family": "Rutaceae",
+  "genus": "Ptelea",
+  "species": "trifoliata",
+  "scientific_name": "Ptelea trifoliata",
+  "common_name": "Common hoptree / wafer ash",
+  "look_here_first": "Recognize a woody shrub or small tree with leaves divided into three leaflets; confirm the aromatic citrus-family foliage and flat round winged fruits with seed at the center.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Ptelea%20trifoliata",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Source image represents an identifiable named species but does not establish Texas provenance.",
+  "images": [
+    {
+      "file": "images/commons-ptelea-trifoliata-hzell.jpg",
+      "role": "Provisional habit and three-leaflet foliage recognition; the distinctive circular winged fruits need a close photograph.",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ptelea_trifoliata_001.JPG",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Attribution, link to CC license, and ShareAlike terms apply to adapted image"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

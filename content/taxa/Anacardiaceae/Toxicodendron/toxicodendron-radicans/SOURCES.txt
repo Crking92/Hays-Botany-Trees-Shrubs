@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/311046460
+Photo: https://www.inaturalist.org/photos/561454067
+Original identification requires deeper review; county native status not asserted.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-16T12:18:49.674527+00:00
+Toxicodendron radicans (L.) Kuntze
+https://www.gbif.org/occurrence/5938281446
+Vince Hale | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Three leaflets and alternate branching, climbing rootlets and leaf variation; avoid handling
+No anatomy arrows; no scientific or native-range changes.

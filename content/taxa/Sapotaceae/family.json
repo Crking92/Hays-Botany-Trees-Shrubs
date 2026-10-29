@@ -1,0 +1,73 @@
+{
+  "rank": "family",
+  "name": "Sapotaceae",
+  "common_name": "Sapodilla family",
+  "project_scope": {
+    "selection_mode": "Sideroxylon-centered Central Texas reference module",
+    "note": "Built around gum bumelia morphology and comparison to Texas persimmon and hollies."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with a woody plant bearing alternate entire leaves and sticky/milky latex when naturally exposed, then inspect tiny axillary flower clusters.",
+    "flower": "Small fused radial corolla; in Sideroxylon fertile stamens stand opposite corolla lobes and alternate with petaloid staminodes.",
+    "ovary": "Superior and multi-loculed.",
+    "fruit": "Fleshy berry-like fruit with a hard glossy seed.",
+    "field_tip": "Latex + tiny axillary flowers + glossy hard seed is the local combination."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Sideroxylon looks ordinary until you notice the latex, tiny axillary flowers, and the surprisingly hard glossy seed inside the fruit.",
+    "steps": [
+      {
+        "title": "1 · Learn the woody/leaf/fruit gestalt",
+        "photo_role": "Sideroxylon habit and fruit",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_kz01.jpg",
+        "image_label": "Sideroxylon lanuginosum",
+        "image_credit": "CC BY-SA 4.0",
+        "look_for": "Woody habit with alternate entire leaves and dark fleshy fruit.",
+        "why_it_matters": "Sets the family context before close floral anatomy.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Inspect a second plant detail",
+        "photo_role": "Sideroxylon leaf/branch detail",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_kz02.jpg",
+        "image_label": "Sideroxylon lanuginosum detail",
+        "image_credit": "CC BY-SA 4.0",
+        "look_for": "Leaf texture, pubescence and armed/unarmed twig variation.",
+        "why_it_matters": "Prevents making thorns mandatory.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "3 · Find the latex only when already exposed",
+        "photo_role": "latex cue",
+        "look_for": "Sticky/milky latex from existing damage rather than intentionally injuring the plant.",
+        "why_it_matters": "Latex is a strong supporting family cue.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Read the flower center",
+        "photo_role": "stamens + staminodes",
+        "look_for": "Fertile stamens opposite corolla lobes, alternating with petaloid staminodes.",
+        "why_it_matters": "This is the precise Sideroxylon floral confirmation.",
+        "status": "diagram_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Sapotaceae vs Ebenaceae",
+        "rule": "Sapotaceae often has milky/sticky latex and a hard glossy seed; Diospyros lacks that local latex cue and has a conspicuous persistent calyx."
+      },
+      {
+        "title": "Sapotaceae vs Aquifoliaceae",
+        "rule": "Ilex has small drupes with several pyrenes; local Sideroxylon commonly has one large hard glossy seed."
+      }
+    ],
+    "caveat": "Do not injure a plant solely to test latex; use existing breaks or fruit where possible."
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "reference_first_pass"
+  }
+}

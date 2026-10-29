@@ -1,0 +1,116 @@
+{
+  "id": "vitis-cinerea",
+  "entry_type": "species",
+  "family": "Vitaceae",
+  "genus": "Vitis",
+  "species": "cinerea",
+  "scientific_name": "Vitis cinerea",
+  "authority": "(Engelm.) Millardet",
+  "common_name": "Graybark grape",
+  "synonyms": [
+    "Vitis aestivalis var. cinerea Engelm."
+  ],
+  "taxonomic_note": "Current Kew/POWO accepts Vitis cinerea but separates the Central Texas Heller's-grape concept as Vitis berlandieri. Older broad V. cinerea records can therefore mix modern concepts.",
+  "look_here_first": "Treat this as a taxon-concept check. Strict V. cinerea has angled hairy/cobwebby branchlets, cordate usually shallowly lobed leaves with visible gray-green lower surfaces, and small black berries that are only slightly glaucous.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED TAXON CONCEPT — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Current review retains only a strict-concept Hays record as project evidence. Broad Central Texas species-level records may include the historical Heller/berlandieri concept and are not counted.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification. Preserve the concept/range HOLD and do not convert broad legacy records into a PASS."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "TAXON_CONCEPT_RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "high-climbing woody vine",
+      "branchlets slightly to distinctly angled",
+      "strict concept branchlets densely short-hairy and cobwebby",
+      "cordate leaves usually unlobed to shallowly 3-shouldered",
+      "lower leaf surface gray-green and visibly hairy rather than opaque white-felted",
+      "berries black, roughly 4–8 mm, slightly or not glaucous"
+    ],
+    "comparison_training": "Central Texas Heller's grape should not be called V. cinerea simply because an app uses a broad concept; compare with V. berlandieri first."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Vitis berlandieri",
+      "Vitis mustangensis",
+      "Vitis palmata"
+    ],
+    "key_distinctions": "V. berlandieri is the major concept trap; V. mustangensis has an opaque white-felted underside and larger fruit; V. palmata is red-stemmed, deeply lobed, and nearly glabrous beneath."
+  },
+  "tags": [
+    "Vitaceae",
+    "Vitis",
+    "Grape",
+    "Taxon concept hold",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-taxonomy-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "diagnostic_image_needs": [
+    "whole vine",
+    "angled hairy branchlet",
+    "lower leaf surface",
+    "cordate leaf",
+    "small berry cluster",
+    "direct V. berlandieri comparison"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.\n13 Oct 2026 photo enrichment: two additional exact-species reusable photographs. No range or species taxonomy modification; fine detail macros and arrows still pending.",
+  "images": [
+    {
+      "file": "images/vitis-cinerea-provisional-face.jpg",
+      "role": "Grape-vine leaf shape and venation; later leaf underside macro needed.",
+      "creator": "JDMcGreg",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grape_Vine_Vitis_Cinerea.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/vitis-cinerea-usda-leaf.jpg",
+      "role": "USDA botanical species leaf reference; strict cinerea taxonomic concept and target-zone HOLD preserved",
+      "creator": "Robert H. Mohlenbrock / USDA-NRCS",
+      "license": "Public domain US Federal Government",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_cinerea_(USDA).jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    },
+    {
+      "file": "images/vitis-cinerea-botanic-plant.jpg",
+      "role": "Cultivated Vitis cinerea vine foliage, secondary recognition reference; strict Hays range not certified",
+      "creator": "BotBln",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_cinerea_BotGardBln07122011C.JPG",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_enrichment",
+    "image_count": 3,
+    "filled_at": "2026-10-08",
+    "note": "Three real licensed photographs intended after curation; original plus two targeted additional views. Physical count must be verified in final pipeline report."
+  }
+}

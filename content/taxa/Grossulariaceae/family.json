@@ -1,0 +1,120 @@
+{
+  "rank": "family",
+  "name": "Grossulariaceae",
+  "common_name": "Currant / gooseberry family",
+  "lineage_context": {
+    "order": "Saxifragales",
+    "batch": "Saxifragales",
+    "close_project_families": [
+      "Crassulaceae",
+      "Haloragaceae",
+      "Altingiaceae"
+    ],
+    "teaching_goal": "Use the Ribes shrub habit, lobed leaves, hypanthium/inferior ovary and berry fruit to define the family."
+  },
+  "project_scope": {
+    "selection_mode": "Ribes aureum-centered project module",
+    "note": "Grossulariaceae is monogeneric under current Kew, restricted to Ribes."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look for an alternate-leaved shrub with palmately lobed leaves and small flowers in racemes. Confirm an inferior 2-carpellate ovary inside a hypanthium and a few- to many-seeded berry crowned by persistent floral remnants.",
+    "vegetative": "Shrubs; leaves alternate, simple, usually palmately 3–5-lobed, often glandular or aromatic; stipules small or sometimes absent on older shoots.",
+    "reproductive": "Flowers small, often in racemes; hypanthium conspicuous; usually 5 sepals and 5 small petals; stamens usually 5; ovary inferior, 2-carpellate, with 2 styles.",
+    "fruit": "A berry, often retaining dried flower parts at its apex.",
+    "field_tip": "Lobed alternate Ribes shrub + hypanthium + inferior ovary + berry = Grossulariaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_017",
+    "teaching_order": "lobed alternate leaf → raceme → hypanthium/inferior ovary → 2 styles → berry → close-family comparison",
+    "intro": "Ribes is the berry-producing woody branch of this Saxifragales batch.",
+    "steps": [
+      {
+        "title": "1 · Start with the lobed alternate leaf",
+        "photo_role": "Ribes leaf/node",
+        "look_for": "Palmately lobed leaf on an alternate twig, often with a somewhat rounded outline.",
+        "why_it_matters": "This creates the currant/gooseberry gestalt before flowers appear.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Look into the hypanthium",
+        "photo_role": "flower side/cutaway",
+        "look_for": "The floral cup surrounds the inferior ovary; sepals and tiny petals sit above it.",
+        "why_it_matters": "Ovary position is the key family-level reproductive clue.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Find the two styles",
+        "photo_role": "flower center macro",
+        "look_for": "Two style branches associated with the 2-carpellate inferior ovary.",
+        "why_it_matters": "Reinforces the family gynoecium rather than relying only on berry color.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Follow it to a berry",
+        "photo_role": "flower-to-fruit sequence",
+        "look_for": "Fleshy berry with persistent floral remnants at the top.",
+        "why_it_matters": "Fruit makes the family easy to distinguish from dry-fruited Saxifragales relatives.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Grossulariaceae vs Rosaceae",
+        "rule": "Some Ribes can resemble small lobed-leaved rosaceous shrubs, but Ribes has an inferior ovary and berry; many Rosaceae have superior/perigynous ovaries and very different fruit architectures."
+      },
+      {
+        "title": "Grossulariaceae vs Hydrangeaceae",
+        "rule": "Both can have inferior ovaries, but Ribes has alternate lobed leaves and berries; project Hydrangeaceae has opposite leaves and dry capsules."
+      }
+    ],
+    "caveat": "Spines are not universal across Ribes. Use leaf arrangement, flower/ovary structure and berry fruit."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Ribes",
+        "fast_cue": "alternate lobed shrub + small raceme flowers + inferior ovary/hypanthium + berry",
+        "role": "sole family/project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "inferior ovary inside hypanthium",
+      "annotation_goal": "label hypanthium, ovary, sepals and petals"
+    },
+    {
+      "priority": 1,
+      "structure": "2 styles",
+      "annotation_goal": "connect styles to 2-carpellate ovary"
+    },
+    {
+      "priority": 1,
+      "structure": "berry with persistent flower remnants",
+      "annotation_goal": "show fruit crown"
+    },
+    {
+      "priority": 2,
+      "structure": "alternate lobed leaf",
+      "annotation_goal": "support vegetative recognition"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Grossulariaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60457413-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Ribes",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002461-2"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-017",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "ribes_family_door_live_hypanthium_berry_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

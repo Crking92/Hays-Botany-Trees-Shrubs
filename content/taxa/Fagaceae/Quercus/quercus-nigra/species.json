@@ -1,0 +1,167 @@
+{
+  "id": "quercus-nigra",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "nigra",
+  "scientific_name": "Quercus nigra",
+  "authority": "L.",
+  "common_name": "Water oak",
+  "look_here_first": "Inspect several mature leaves from one branch: water oak commonly has a narrow wedge-shaped base and a broader, often shallowly three-lobed bristle-tipped apex. Confirm small second-year acorns in shallow cups.",
+  "taxonomy": {
+    "accepted_name": "Quercus nigra L.",
+    "source_review": "research-drafts/quercus-nigra/draft.json"
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "Texas native principally eastward in bottomland habitats; reviewed draft documents no confirmed project target-zone counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "variable small wedge- to spatula-shaped leaves, often widest near the tip",
+      "leaf apex frequently shallowly three-lobed with minute bristle tips",
+      "small acorns with shallow scaly cups; acorns mature in two seasons",
+      "deciduous to tardily deciduous bottomland red oak"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus phellos",
+      "Quercus shumardii",
+      "Quercus laurifolia"
+    ],
+    "key_distinctions": "Willow oak (Q. phellos) has consistently narrow, entire willow-like leaves rather than the typical widened or shallowly lobed water-oak tip. Shumard oak (Q. shumardii) has larger leaves with deeper pointed lobes and conspicuous sinuses. Laurel oak (Q. laurifolia) has mostly unlobed, more evenly elliptic leaves; check several leaves because water-oak leaves vary."
+  },
+  "diagnostic_image_plan": [
+    "several mature leaves from one twig showing shape variation and bristle tips",
+    "mature acorn and cup in close-up",
+    "bark and buds",
+    "habit in bottomland"
+  ],
+  "images": [
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Quercus_nigra_leafbark.jpg/960px-Quercus_nigra_leafbark.jpg",
+      "role": "Water oak detached dark mature spatulate leaf against adult bark, tapering wedge base and broad three-lobed tip",
+      "creator": "USDA / United States Department of Agriculture (uploader MPF)",
+      "license": "Public Domain (United States government source)",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Quercus_nigra_leafbark.jpg#Licensing",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_nigra_leafbark.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "media_storage": "external_direct_url",
+      "image_verified": "Source file page, photographer/license and actual thumbnail checked 2026-10-08",
+      "diagnostic_visibility": "Actual image inspected: distinctive wedge-to-spoon-shaped water-oak leaf, broad at terminal third, on bark; narrow leaf base on right and broad apex on left; no acorns, no bristle-tip macro.",
+      "limitations": "Detached single leaf; water oak is highly variable and other shapes must be taught on later photo passes.",
+      "exact_taxon": "Quercus nigra"
+    },
+    {
+      "file": "images/glass-root-596145502-first-photo.jpg",
+      "role": "Variable lobed water-oak foliage and young twig; acorn not shown",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/596145502",
+      "observation_url": "https://www.inaturalist.org/observations/328928947",
+      "observation_id": 328928947,
+      "photo_id": 596145502,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/596145502/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/library-review038-ef438ccc9e062d2.jpg",
+      "role": "Mature grey furrowed bark at trunk scale; alone not diagnostic; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Mature oak bark and water-oak variable foliage",
+      "creator": "doyleistre",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110296440",
+      "media_source_url": "https://bs.plantnet.org/image/o/4440048af7d8e86132a34881c0198ea9a315d256",
+      "source_determination": "Quercus nigra",
+      "source_observation_id": "5110296440",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/quercus-nigra/plantnet-via-gbif-36f55bc6586ba4.jpg",
+      "archive_image_sha256": "bfc94d52aab4a96f60e2c0d078793dec7d1ebdfa27239d06ce9c2bc34c65d9fc",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review038-80a89a37772df32.jpg",
+      "role": "Wedge-based variable shallow-lobed water oak leaf cluster; compare against narrow willow oak leaves; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Mature oak bark and water-oak variable foliage",
+      "creator": "doyleistre",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110362722",
+      "media_source_url": "https://bs.plantnet.org/image/o/f3bf7ad4494d8fe37c4e1db2c95dc724dcb4f0f5",
+      "source_determination": "Quercus nigra",
+      "source_observation_id": "5110362722",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/quercus-nigra/plantnet-via-gbif-c2c086a8b140a7.jpg",
+      "archive_image_sha256": "5ac4ffd7f7b51cc362f462c770419027dd1ced3d5afbbfef9c7f7acf9d748a99",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "note": "Private owner-authorized first-photo coverage; fine diagnostic views remain pending."
+  },
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 3,
+    "last_visual_reviewed": "2026-10-08",
+    "visual_status": "one-photo-study-ready",
+    "glass_root_garden_photo_install": "2026-10-14",
+    "manual_library_install_038": "2026-10-17"
+  },
+  "photo_fast_fill_2026_10_08": {
+    "status": "one_licensed_recognition_photo_added",
+    "images_added": 1,
+    "still_missing": "Mature fruit, bud and underside macro roles according to diagnostic_image_plan",
+    "photo_physically_mirrored": false,
+    "verified_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Quercus_nigra_leafbark.jpg/960px-Quercus_nigra_leafbark.jpg",
+    "license": "Public Domain (United States government source)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_nigra_leafbark.jpg",
+    "guardrail": "Do not infer target-zone native occurrence or exact characters not visible in the source image."
+  },
+  "photo_note": "Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

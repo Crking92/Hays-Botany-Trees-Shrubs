@@ -1,0 +1,155 @@
+{
+  "rank": "family",
+  "name": "Garryaceae",
+  "common_name": "Silktassel family",
+  "lineage_context": {
+    "order": "Garryales",
+    "batch": "Asterid residuals",
+    "close_project_families": [
+      "Cornaceae"
+    ],
+    "teaching_goal": "Teach Garrya lindheimeri through evergreen leathery opposite leaves, dioecious petal-less aments, 4-sepal/4-stamen male flowers, reduced female flowers and dark berries; collapse the source subspecies name into the current species."
+  },
+  "project_scope": {
+    "selection_mode": "Source Garrya ovata subsp. lindheimeri + Garrya lindheimeri collapsed to one current concept",
+    "note": "Current Kew/FNA accepts Garrya lindheimeri; native range is southwestern Texas to northeastern Mexico."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look for opposite leathery leaves and axillary catkin-like aments on a woody evergreen shrub.",
+    "vegetative": "Shrubs or small trees; leaves opposite, simple, coriaceous and entire to slightly undulate.",
+    "reproductive": "Plants dioecious. Flowers are petal-less in axillary aments. Staminate flowers have 4 sepals and 4 stamens; pistillate flowers have only 2 small/rudimentary sepals and an inferior ovary with 2 styles.",
+    "fruit": "Fleshy berry, dark blue to black when mature and becoming pale/grayish as it dries, usually with 1–2 seeds.",
+    "field_tip": "Opposite leathery leaves + separate male/female petal-less aments + dark berry = Garryaceae/Garrya."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_031",
+    "teaching_order": "opposite leaf pair → male ament → female ament → flower anatomy → berry → lindheimeri leaf surface → subspecies synonym card",
+    "intro": "Silktassel is a wind-pollinated asterid that looks nothing like a typical showy-flowered one: its flowers are stripped down into separate male and female catkins.",
+    "steps": [
+      {
+        "title": "1 · Start with the opposite leathery leaves",
+        "photo_role": "twig macro",
+        "look_for": "Pairs of broad coriaceous leaves at the nodes; G. lindheimeri leaves are comparatively large with flat smooth margins.",
+        "why_it_matters": "Fast vegetative entry point.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Separate male and female plants",
+        "photo_role": "staminate vs pistillate ament card",
+        "look_for": "Male aments more flexible and pollen-oriented; female aments bearing sessile pistillate flowers and later fruits.",
+        "why_it_matters": "Dioecy is essential to reading the plant.",
+        "status": "highest_priority_comparison_pending"
+      },
+      {
+        "title": "3 · Open a male flower",
+        "photo_role": "staminate flower macro",
+        "look_for": "Four narrow sepals, no petals, four stamens.",
+        "why_it_matters": "Simple memorable floral formula.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Open a female flower",
+        "photo_role": "pistillate flower macro/diagram",
+        "look_for": "Two small/rudimentary sepals, no petals, inferior ovary and two styles.",
+        "why_it_matters": "Shows the strong sexual dimorphism.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "5 · Follow the female ament to berries",
+        "photo_role": "fruiting twig",
+        "look_for": "Blue-black fleshy berries becoming paler gray-white when dry.",
+        "why_it_matters": "Late-season confirmation.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Collapse the duplicate source concept",
+        "photo_role": "taxonomy card",
+        "look_for": "Garrya ovata subsp. lindheimeri → accepted Garrya lindheimeri.",
+        "why_it_matters": "Prevents one plant from appearing twice in the learner.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Garryaceae vs showy-flowered asterids",
+        "rule": "Garrya is wind-pollinated and dioecious, with petal-less aments; do not expect a fused colorful corolla."
+      }
+    ],
+    "caveat": "Male and female Garrya plants look different when reproductive. Do not treat a lack of fruit on a staminate plant as evidence against the ID."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Garrya",
+        "source_rows": 2,
+        "current_species_concepts": 1,
+        "fast_cue": "opposite leathery leaves + dioecious petal-less aments + dark berry",
+        "role": "Lindheimer silktassel door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Garrya ovata ssp. lindheimeri",
+    "Garrya lindheimeri"
+  ],
+  "project_pool_taxa_current": [
+    "Garrya lindheimeri"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Garrya ovata subsp. lindheimeri",
+      "current_name": "Garrya lindheimeri",
+      "note": "Current treatment recognizes Garrya lindheimeri as the accepted species; retain the older subspecies name as provenance."
+    },
+    {
+      "source_name": "Garrya lindheimeri",
+      "current_name": "Garrya lindheimeri",
+      "note": "Accepted; native range southwestern Texas to northeastern Mexico."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "male vs female aments",
+      "annotation_goal": "label sex-specific structures"
+    },
+    {
+      "priority": 1,
+      "structure": "male 4+0+4 flower",
+      "annotation_goal": "label sepals, absence of petals, stamens"
+    },
+    {
+      "priority": 1,
+      "structure": "female flower",
+      "annotation_goal": "label reduced sepals, inferior ovary and two styles"
+    },
+    {
+      "priority": 1,
+      "structure": "fruiting ament",
+      "annotation_goal": "show berry maturation"
+    },
+    {
+      "priority": 2,
+      "structure": "taxonomy card",
+      "annotation_goal": "G. ovata subsp. lindheimeri → G. lindheimeri"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Garrya",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=113275"
+    },
+    {
+      "source": "World Flora Online — Garrya",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-4000015342"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Garryaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-031",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_sexual_dimorphism_taxonomy_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "schaefferia-cuneifolia",
+  "family": "Celastraceae",
+  "genus": "Schaefferia",
+  "species": "cuneifolia",
+  "scientific_name": "Schaefferia cuneifolia",
+  "common_name": "Desert yaupon",
+  "look_here_first": "Examine the small woody twigs and wedge-shaped leaves, including leaf arrangement and margins; check berries if present.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Schaefferia%20cuneifolia",
+  "images": [
+    {
+      "file": "images/inat-352784895.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) interial431, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/352784895",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828051-1
+Source research-grade observation: https://www.inaturalist.org/observations/260441492
+Photo: https://www.inaturalist.org/photos/467712234
+Attribution: (c) Jo Roberts, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 056 2026-10-18T00:11:03.482883+00:00
+Tamarix aphylla
+Creator: saltyhiker; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6185045169
+Stored archive: hays-photo-library-mass-38994386296 :: staged_images/tamarix-aphylla/gbif-5c52663e37d43b.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

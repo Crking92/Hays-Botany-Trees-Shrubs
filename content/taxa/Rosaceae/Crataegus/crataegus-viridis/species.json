@@ -1,0 +1,89 @@
+{
+  "id": "crataegus-viridis",
+  "family": "Rosaceae",
+  "genus": "Crataegus",
+  "species": "viridis",
+  "scientific_name": "Crataegus viridis",
+  "common_name": "Green hawthorn",
+  "look_here_first": "Inspect alternately arranged toothed leaves, thorny twigs, five-petaled white flowers and red pome fruits; verify against similar hawthorns.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_028": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:724481-1",
+  "images": [
+    {
+      "file": "images/inat-62355237.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Jennifer Ogle, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/62355237",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review028-ad75ad8eecefad8.jpg",
+      "role": "Green hawthorn leaf shapes and toothed margin on growing branch; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show green hawthorn leaf blade/serration and woody branch-bark architecture",
+      "creator": "lanechaffin",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6251632584",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648777896/original.jpg",
+      "source_determination": "Crataegus viridis",
+      "source_observation_id": "6251632584",
+      "library_release_tag": "hays-photo-library-mass-38944876482",
+      "library_archive_file": "staged_images/crataegus-viridis/gbif-c5acbce68d7f6a.jpg",
+      "archive_image_sha256": "adaa36e770c3f69600628c32bcba84475180ff2778dcb95dc36a442e7e4c16d3",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review028-fa83f6d2f2dd934.jpg",
+      "role": "Mature hawthorn branching woody trunk and rough bark; thorn positions require verification; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show green hawthorn leaf blade/serration and woody branch-bark architecture",
+      "creator": "lanechaffin",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6251517596",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648777456/original.jpg",
+      "source_determination": "Crataegus viridis",
+      "source_observation_id": "6251517596",
+      "library_release_tag": "hays-photo-library-mass-38944876482",
+      "library_archive_file": "staged_images/crataegus-viridis/gbif-57c0c3b99c6b3c.jpg",
+      "archive_image_sha256": "83b71766b5056aa548d4f8a82c0427cd0e2be1b9718fd6045f18c9f8926fc22d",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

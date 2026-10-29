@@ -1,0 +1,9 @@
+Source pool Phase3 (source rows 527); preflight still subject to independent accepted-taxonomy review.
+Taxon: Halesia diptera
+Kew taxonomy search: https://powo.science.kew.org/results?q=Halesia%20diptera
+Exact species Commons image page: https://commons.wikimedia.org/wiki/File:Halesia_diptera_-_Bartholdi_Park_-_Washington,_DC_-_DSC09444.JPG
+Original/Commons bounded download: https://upload.wikimedia.org/wikipedia/commons/8/85/Halesia_diptera_-_Bartholdi_Park_-_Washington%2C_DC_-_DSC09444.JPG
+Photographer: Daderot
+License: CC0 1.0
+Image role: Provisional drooping white flower detail; fruit and whole-tree habit not shown.
+Do not claim image proves Hays occurrence or complete anatomical diagnosis. Source image may depict a cultivated or out-of-region specimen. This initial learner card remains provisional.

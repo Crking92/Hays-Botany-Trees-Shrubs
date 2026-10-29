@@ -1,0 +1,18 @@
+Quercus sinuata var. breviloba — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501084
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:216410-2
+
+PROJECT TRACKER DIAGNOSTIC
+Low multi-trunked shrub/small tree on dry limestone; flaky/papery bark; variable shallowly lobed leaves; very shallow saucer-like acorn cup enclosing about one-quarter of the nut or less.
+
+PHOTO METHOD
+Run the genus-level DOWNLOAD-TARGETED-QUERCUS-PHOTOS.bat.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations from Aug–Dec when possible
+3) all-season multi-photo observations as fallback
+
+image-sources.csv is generated automatically.

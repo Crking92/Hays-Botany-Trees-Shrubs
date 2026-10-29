@@ -1,0 +1,37 @@
+{
+  "id": "morus-rubra",
+  "family": "Moraceae",
+  "genus": "Morus",
+  "species": "rubra",
+  "scientific_name": "Morus rubra",
+  "common_name": "Red mulberry",
+  "look_here_first": "Look for alternately arranged, rough-surfaced leaves with variable lobes and toothed margins; inspect the underside hairs and mature elongated red-to-purple multiple fruits. Compare cultivated white mulberry and hybrids carefully.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Morus%20rubra",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Red mulberry vs introduced white mulberry and hybrids requires more than leaf shape; no full diagnostic ID claimed.",
+  "images": [
+    {
+      "file": "images/commons-morus-rubra-nrcs-leaves.png",
+      "role": "Provisional leaf recognition: mulberry leaf blades and margins; underside hairs, flowers and fruit still need diagnostic photos.",
+      "creator": "U.S. Forest Service / National Agricultural Library / USDA-NRCS PLANTS",
+      "license": "Public domain (U.S. federal government)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Morus_rubra_NRCS-2.png",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Public domain; creator/agency credited"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

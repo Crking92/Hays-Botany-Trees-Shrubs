@@ -1,0 +1,76 @@
+{
+  "rank": "family",
+  "name": "Platanaceae",
+  "common_name": "Sycamore family",
+  "project_scope": {
+    "selection_mode": "Platanus occidentalis reference module",
+    "note": "Built around bark, bud/petiole architecture, and the many-achene spherical fruiting head."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with mottled exfoliating bark and huge alternate palmately lobed leaves, then inspect the petiole base and spherical fruiting heads.",
+    "twig": "The swollen petiole base encloses the axillary bud; stipules leave an encircling scar.",
+    "flowers": "Unisexual male and female flowers occur in separate spherical heads.",
+    "fruit": "A persistent sphere packed with many individual achenes, not one fruit.",
+    "field_tip": "Alternate leaves + enclosed bud + spherical achene heads separate sycamore from maple and sweetgum."
+  },
+  "visual_lesson": {
+    "status": "reference_first_pass",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Sycamore is visually loud, but the best lesson is that its hanging brown ball is a whole head of many achenes, not one fruit.",
+    "steps": [
+      {
+        "title": "1 · See the whole sycamore architecture",
+        "photo_role": "American sycamore illustration",
+        "source_page": "https://commons.wikimedia.org/wiki/File:NAS-063_Platanus_occidentalis.png",
+        "image_label": "Platanus occidentalis",
+        "image_credit": "Public Domain · Michaux / North American Sylva",
+        "look_for": "Large alternate palmately lobed leaves, mottled trunk, and hanging spherical heads.",
+        "why_it_matters": "Combines the family's main field cues in one view.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Learn the bark gestalt",
+        "photo_role": "American sycamore tree",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Platanus_occidentalis0.jpg",
+        "image_label": "Platanus occidentalis tree",
+        "image_credit": "Public Domain · NASA",
+        "look_for": "Patchy exfoliating bark exposing pale white/cream/greenish areas.",
+        "why_it_matters": "A strong supporting whole-tree cue.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "3 · Find the hidden bud",
+        "photo_role": "petiole base enclosing axillary bud",
+        "look_for": "The swollen petiole base covers the bud until leaf fall; the stipule leaves a ring-like scar.",
+        "why_it_matters": "This is an excellent twig-level Platanus confirmation.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Break apart the fruiting ball mentally",
+        "photo_role": "spherical achene head",
+        "source_page": "https://commons.wikimedia.org/wiki/File:T2_02_Platanus_occidentalis_par_Pierre-Joseph_Redout%C3%A9.jpeg",
+        "image_label": "Platanus reproductive illustration",
+        "image_credit": "Public Domain · Pierre-Joseph Redouté",
+        "look_for": "A spherical head composed of many separate hairy achenes.",
+        "why_it_matters": "Stops the common mistake of calling the whole sphere one fruit.",
+        "status": "rights_cleared_family_reference"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Platanaceae vs Acer",
+        "rule": "Sycamore leaves are alternate and fruit is a spherical achene head; maples are opposite and make paired samaras."
+      },
+      {
+        "title": "Platanaceae vs Liquidambar",
+        "rule": "Sweetgum has woody spiny capsule balls; sycamore has softer heads of many hairy achenes."
+      }
+    ],
+    "caveat": "Mottled bark alone is supporting evidence; younger trunks can be darker and less dramatic."
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "reference_first_pass"
+  }
+}

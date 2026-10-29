@@ -1,0 +1,138 @@
+{
+  "rank": "family",
+  "name": "Elaeagnaceae",
+  "common_name": "Oleaster family",
+  "lineage_context": {
+    "order": "Rosales",
+    "batch": "Rosid residuals",
+    "close_project_families": [
+      "Rhamnaceae",
+      "Rosaceae"
+    ],
+    "teaching_goal": "Teach Russian olive as an introduced comparison through silvery peltate/stellate scales, petal-less 4-lobed flowers, a tubular hypanthium and a drupe-like fruit."
+  },
+  "project_scope": {
+    "selection_mode": "Elaeagnus angustifolia introduced-comparison module",
+    "note": "Species is accepted; native to eastern Europe–temperate Asia and introduced in Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the silver coating. Twigs and both leaf surfaces carry dense shieldlike/stellate scales that make the plant look metallic gray.",
+    "vegetative": "Shrub or small tree, often armed by thornlike lateral branches; leaves simple, narrow and densely silver-scaly.",
+    "reproductive": "Flowers small, fragrant and lacking petals. Calyx/hypanthium forms a tubular 4-lobed structure; project Elaeagnus has 4 stamens.",
+    "fruit": "A one-seeded achene/nutlet is enclosed by the persistent hypanthium, producing a drupe-like fleshy structure.",
+    "field_tip": "Metallic silvery scales + petal-less 4-lobed tubular flower + drupe-like one-seeded fruit = project Elaeagnaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_030",
+    "teaching_order": "silvery scale macro → narrow leaf/twig → petal-less flower tube → fruit cutaway → introduced-status card",
+    "intro": "Russian olive is visually distinctive, but the learner should understand that the silver surface is made of scales and the 'drupe' is a fruit-like hypanthium surrounding the true one-seeded fruit.",
+    "steps": [
+      {
+        "title": "1 · Zoom into the silver coating",
+        "photo_role": "leaf/twig macro",
+        "look_for": "Overlapping peltate or stellate scales producing the silver appearance.",
+        "why_it_matters": "Best family-level field character.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "2 · Find the thornlike lateral branch",
+        "photo_role": "twig habit",
+        "look_for": "Young silver-scaly twigs with some lateral branches ending as thorns.",
+        "why_it_matters": "Supports the Russian-olive gestalt.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Prove there are no petals",
+        "photo_role": "flower macro",
+        "look_for": "Four-lobed yellow-inside/silvery-outside floral tube formed by calyx/hypanthium, with 4 stamens but no corolla.",
+        "why_it_matters": "Corrects the assumption that the four showy lobes are petals.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Open the drupe-like fruit",
+        "photo_role": "fruit cutaway diagram",
+        "look_for": "Fleshy persistent hypanthium surrounding the actual one-seeded fruit.",
+        "why_it_matters": "Teaches the unusual fruit construction.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Keep the Texas status explicit",
+        "photo_role": "introduced-status card",
+        "look_for": "Native Eurasia → introduced/naturalized Texas.",
+        "why_it_matters": "Prevents a memorable plant from becoming a false native anchor.",
+        "status": "status_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Elaeagnaceae vs Rhamnaceae",
+        "rule": "Elaeagnaceae is immediately silver-scaly and petal-less in the project plant; Rhamnaceae generally lacks that metallic scale covering and is keyed by its nectar disc and antipetalous stamens."
+      }
+    ],
+    "caveat": "Silvery foliage is conspicuous but not unique in plants. Confirm the scale type and petal-less 4-lobed floral tube."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Elaeagnus",
+        "taxa_count": 1,
+        "fast_cue": "silvery scaly leaves/twigs + petal-less 4-lobed fragrant flower + drupe-like fruit",
+        "role": "Russian-olive comparison"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Elaeagnus angustifolia"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Elaeagnus angustifolia",
+      "current_name": "Elaeagnus angustifolia",
+      "note": "Accepted; native to Eurasia and introduced in Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "peltate/stellate scale",
+      "annotation_goal": "magnify individual silver scale"
+    },
+    {
+      "priority": 1,
+      "structure": "petal-less floral tube",
+      "annotation_goal": "label calyx/hypanthium lobes, stamens and absence of petals"
+    },
+    {
+      "priority": 1,
+      "structure": "fruit cutaway",
+      "annotation_goal": "persistent hypanthium around true one-seeded fruit"
+    },
+    {
+      "priority": 2,
+      "structure": "introduced-status card",
+      "annotation_goal": "native Eurasia vs introduced Texas"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Elaeagnaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001966-2"
+    },
+    {
+      "source": "POWO — Elaeagnus angustifolia",
+      "url": "https://powo.science.kew.org/taxon/323646-1"
+    },
+    {
+      "source": "FNA — Elaeagnus angustifolia",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200014543"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Elaeagnaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-030",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_silver_scale_flower_fruit_visuals_pending",
+    "family_backfill_phase": "recognition module built; introduced comparison"
+  }
+}

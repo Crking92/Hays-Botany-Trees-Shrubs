@@ -1,0 +1,37 @@
+{
+  "id": "symphoricarpos-albus",
+  "family": "Caprifoliaceae",
+  "genus": "Symphoricarpos",
+  "species": "albus",
+  "scientific_name": "Symphoricarpos albus",
+  "common_name": "Common snowberry",
+  "look_here_first": "Recognize an opposite-leaved shrub with small bell-shaped flowers and white waxy round berries; inspect stem buds, fruit clusters and compare other Symphoricarpos.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Symphoricarpos%20albus",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Non-Texas photograph; never infer target-county BONAP nativity, or recommend as local seed source.",
+  "images": [
+    {
+      "file": "images/commons-symphoricarpos-albus.jpg",
+      "role": "Provisional fruit and foliage recognition; flower and twig details need later diagnostic view",
+      "creator": "Robert Flogaus-Faust",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphoricarpos_albus_RF.jpg",
+      "study_use": "Private educational visual identification learner",
+      "public_reuse": "Attribution and CC license link retained"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

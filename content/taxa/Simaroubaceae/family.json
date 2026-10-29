@@ -1,0 +1,139 @@
+{
+  "rank": "family",
+  "name": "Simaroubaceae",
+  "common_name": "Quassia / tree-of-heaven family",
+  "lineage_context": {
+    "order": "Sapindales",
+    "batch": "Sapindales",
+    "close_project_families": [
+      "Meliaceae",
+      "Rutaceae",
+      "Anacardiaceae",
+      "Sapindaceae"
+    ],
+    "teaching_goal": "Use the project's single Ailanthus concept to teach glandular leaflet-base teeth and dense clusters of central-seeded winged fruits while separating it from sumacs, walnuts and chinaberry."
+  },
+  "project_scope": {
+    "selection_mode": "Ailanthus altissima comparison family module",
+    "note": "The Master Plant Pool contains only Ailanthus altissima. It is accepted but native to China/Taiwan and introduced in Texas, so the family is taught as a comparison-recognition module."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Inspect the huge once-pinnate leaf. Most of each leaflet margin is entire, but the leaflet base has one or more blunt lobes or teeth with visible glands beneath. Then confirm large clusters of twisted winged fruits.",
+    "vegetative": "Deciduous tree with very large alternate pinnately compound leaves and many leaflets. Leaflets usually have otherwise entire margins plus basal glandular lobes or teeth.",
+    "reproductive": "Small greenish-yellow flowers in large terminal panicles; plants are often functionally dioecious.",
+    "fruit": "Dry winged one-seeded mericarps or samaras in dense clusters, with the seed near the center of the twisted wing.",
+    "field_tip": "Large pinnate leaf + mostly entire leaflet + basal glandular teeth + masses of central-seeded samaras is the Ailanthus/Simaroubaceae package."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_010",
+    "teaching_order": "whole leaf → basal glandular tooth → terminal panicle → winged fruit → lookalike card",
+    "intro": "Tree-of-heaven is easiest to recognize from one leaflet base and one fruit cluster, not from the vague idea of a giant compound leaf.",
+    "steps": [
+      {
+        "title": "1 · Find the basal glandular teeth",
+        "photo_role": "leaflet base macro",
+        "look_for": "One or more blunt teeth or lobes near the leaflet base, each with a round gland beneath.",
+        "why_it_matters": "This is one of the most useful vegetative Ailanthus characters.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "2 · Notice the rest of the leaflet is mostly entire",
+        "photo_role": "whole leaflet",
+        "look_for": "Long lanceolate leaflet with smooth margins except near its base.",
+        "why_it_matters": "Separates Ailanthus from walnut and Melia, which have more consistently serrated leaflets.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Read the terminal flower cluster",
+        "photo_role": "panicle",
+        "look_for": "Large terminal panicles of many small greenish-yellow flowers.",
+        "why_it_matters": "Connects the giant foliage to the reproductive architecture.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Confirm the winged fruit",
+        "photo_role": "samaras or mericarp cluster",
+        "look_for": "Large clusters of flattened twisted winged fruits, each with a single central seed.",
+        "why_it_matters": "Separates Ailanthus immediately from sumac drupes and chinaberry's yellow drupes.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Compare against native-looking lookalikes",
+        "photo_role": "Ailanthus vs Rhus/Juglans/Melia card",
+        "look_for": "Ailanthus: basal leaflet glands + samaras; Rhus: red drupes or winged rachis; Juglans: serrated leaflets + nuts; Melia: bipinnate leaf + yellow drupes.",
+        "why_it_matters": "Prevents common field misidentifications.",
+        "status": "comparison_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Simaroubaceae vs Anacardiaceae",
+        "rule": "Ailanthus can resemble sumac vegetatively, but Ailanthus has basal leaflet glands and winged fruits; local Rhus produces drupes and may have a winged rachis or trifoliolate leaves."
+      },
+      {
+        "title": "Simaroubaceae vs Meliaceae",
+        "rule": "Ailanthus is once-pinnate with basal leaflet glands and samaras. Melia is 2–3-pinnate with serrated leaflets and yellow drupes."
+      },
+      {
+        "title": "Simaroubaceae vs Juglandaceae",
+        "rule": "Ailanthus leaflets are mostly entire except basal glandular teeth and the fruit is winged; walnuts have serrated leaflets and nuts or husked fruits."
+      }
+    ],
+    "caveat": "Do not rely on odor as an ID test. Basal glands and fruit architecture are safer and more visual."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Ailanthus",
+        "taxa_count": 1,
+        "fast_cue": "huge pinnate leaf + basal glandular leaflet teeth + dense central-seeded samaras",
+        "role": "introduced comparison"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Ailanthus altissima"
+  ],
+  "taxonomy_notes": [
+    "Ailanthus altissima is accepted under current Kew, native to China and Taiwan, and introduced broadly outside that range."
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "basal leaflet gland",
+      "annotation_goal": "arrow to gland beneath basal tooth"
+    },
+    {
+      "priority": 1,
+      "structure": "winged fruit cluster",
+      "annotation_goal": "label central seed within samara or mericarp"
+    },
+    {
+      "priority": 1,
+      "structure": "Ailanthus vs Rhus/Juglans/Melia",
+      "annotation_goal": "side-by-side leaf and fruit differences"
+    },
+    {
+      "priority": 2,
+      "structure": "whole terminal panicle",
+      "annotation_goal": "connect large foliage to flowering architecture"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Ailanthus altissima",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:813521-1/general-information"
+    },
+    {
+      "source": "US Forest Service — Ailanthus altissima",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/ailalt"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-010",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_gland_and_samara_macros_pending",
+    "family_backfill_phase": "recognition module built; introduced comparison only"
+  }
+}

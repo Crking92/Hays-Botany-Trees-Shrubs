@@ -1,0 +1,37 @@
+{
+  "id": "parthenocissus-quinquefolia",
+  "family": "Vitaceae",
+  "genus": "Parthenocissus",
+  "species": "quinquefolia",
+  "scientific_name": "Parthenocissus quinquefolia",
+  "common_name": "Virginia creeper",
+  "look_here_first": "Look for woody climbing vines with leaves divided into five separate leaflets and tendrils tipped with adhesive pads; inspect leaflets and berries to distinguish from poison ivy and grape.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Parthenocissus%20quinquefolia",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Five leaflets, not the three of poison ivy; identification should not rely exclusively on number of leaflets.",
+  "images": [
+    {
+      "file": "images/commons-parthenocissus-quinquefolia.jpg",
+      "role": "Provisional vine habit and compound five-leaflet foliage; tendril pads and dark fruits not shown clearly.",
+      "creator": "New York State IPM Program at Cornell University",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parthenocissus_quinquefolia_-_whole_plant%2C_stem_(19063471491).jpg",
+      "study_use": "Noncommercial visual learner",
+      "public_reuse": "Credit creator and photo source under Creative Commons license"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

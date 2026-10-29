@@ -1,0 +1,158 @@
+{
+  "rank": "family",
+  "name": "Magnoliaceae",
+  "common_name": "Magnolia family",
+  "lineage_context": {
+    "order": "Magnoliales",
+    "batch": "Magnoliid comparison",
+    "close_project_families": [
+      "Lauraceae",
+      "Saururaceae"
+    ],
+    "teaching_goal": "Teach Magnolia grandiflora through annular stipule scars, very large terminal flowers with numerous spirally arranged tepals/stamens/pistils, and a cone-like aggregate of follicles releasing red arillate seeds."
+  },
+  "project_scope": {
+    "selection_mode": "Magnolia grandiflora one-species family module",
+    "note": "Magnolia grandiflora is accepted by current Kew and its native range extends to Texas. Exact target-zone nativity remains species-level work."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Inspect a twig node and then a flower. Magnoliaceae leaves have stipules that surround the stem/bud and leave a conspicuous annular scar; flowers are large and terminal with many tepals, stamens and pistils.",
+    "vegetative": "Aromatic trees or shrubs; leaves alternate, simple, entire. Stipules are characteristic and usually leave a ring scar around the twig node.",
+    "reproductive": "Flowers solitary, terminal, typically large. Tepals 6–18 or more in whorls of 3; stamens numerous, free and spirally arranged; pistils numerous and superior on an elongated receptacle.",
+    "fruit": "Cone-like aggregate of many follicles in Magnolia. Each follicle can release 1–2 seeds with a red/pink/orange oily aril, often hanging briefly by a funiculus.",
+    "field_tip": "Annular stipule scar + huge many-parted terminal flower + cone-like aggregate fruit = Magnoliaceae/Magnolia."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_024",
+    "teaching_order": "stipule scar → giant terminal flower → spiral stamens/pistils → elongate receptacle → follicetum → red arillate seed → Lauraceae contrast",
+    "intro": "Magnolia shows the 'many repeated parts' floral architecture especially clearly: instead of a tiny 3-part laurel flower, one flower carries numerous tepals, stamens and pistils on an elongated axis.",
+    "steps": [
+      {
+        "title": "1 · Find the ring around the twig",
+        "photo_role": "node/stipule scar macro",
+        "look_for": "A complete annular scar encircling the twig where a stipule once wrapped the bud/stem.",
+        "why_it_matters": "This is a high-value vegetative Magnoliaceae clue and a clean contrast with exstipulate Lauraceae.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "2 · Count beyond five",
+        "photo_role": "flower face/side view",
+        "look_for": "Many tepals rather than a fixed 4- or 5-part flower, plus numerous stamens surrounding the central gynoecium.",
+        "why_it_matters": "Introduces the repeated-part magnoliid flower plan.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Trace the spiral reproductive axis",
+        "photo_role": "flower cutaway",
+        "look_for": "Stamens and many pistils arranged spirally on an elongated receptacle.",
+        "why_it_matters": "Explains how the flower later becomes a cone-like aggregate fruit.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Follow the gynoecium into a follicetum",
+        "photo_role": "developing-to-mature fruit sequence",
+        "look_for": "Numerous woody follicles coalesced around an elongate axis, producing the familiar cone-like magnolia fruit.",
+        "why_it_matters": "Connects many pistils in the flower to many fruit units.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "5 · Find the red arillate seed",
+        "photo_role": "opened follicle/seed macro",
+        "look_for": "Red or orange seed emerging from a follicle and sometimes hanging by a threadlike funiculus.",
+        "why_it_matters": "A very memorable late-season family cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Southern magnolia door",
+        "photo_role": "M. grandiflora leaf/flower card",
+        "look_for": "Evergreen tree; thick glossy leaves, often rusty/red-brown felted beneath; huge fragrant white flowers.",
+        "why_it_matters": "Distinguishes the sole project magnolia concept quickly.",
+        "status": "comparison_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Magnoliaceae vs Lauraceae",
+        "rule": "Magnoliaceae has stipules/node rings, very large terminal flowers, numerous stamens/pistils, and aggregate fruits. Lauraceae lacks stipules, has tiny trimerous flowers with valvate anthers, and usually a single-seeded fleshy fruit."
+      },
+      {
+        "title": "Magnoliaceae vs Saururaceae",
+        "rule": "Magnoliaceae is woody with a conspicuous perianth and many floral organs; Saururaceae is a wetland herb whose tiny flowers lack a perianth entirely and are packed into a raceme/spike."
+      }
+    ],
+    "caveat": "Large white flowers alone are not enough. The annular stipule scar, many free stamens/pistils, and aggregate follicle fruit are the transferable family characters."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Magnolia",
+        "taxa_count": 1,
+        "fast_cue": "annular stipule scar + giant terminal many-parted flower + cone-like follicetum + red arillate seed",
+        "role": "southern magnolia door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Magnolia grandiflora"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Magnolia grandiflora",
+      "current_name": "Magnolia grandiflora",
+      "note": "Accepted by current Kew; native range is southeastern U.S.A. to Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "annular stipule scar",
+      "annotation_goal": "circle complete twig ring and explain stipule origin"
+    },
+    {
+      "priority": 1,
+      "structure": "spiral stamens and pistils",
+      "annotation_goal": "label repeated reproductive organs on elongate receptacle"
+    },
+    {
+      "priority": 1,
+      "structure": "follicetum",
+      "annotation_goal": "show individual follicles composing the aggregate fruit"
+    },
+    {
+      "priority": 1,
+      "structure": "red arillate seed",
+      "annotation_goal": "label aril, seed and funiculus"
+    },
+    {
+      "priority": 2,
+      "structure": "Magnoliaceae vs Lauraceae",
+      "annotation_goal": "stipule ring/large flower versus no stipule/tiny trimerous flower"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Magnoliaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10530"
+    },
+    {
+      "source": "FNA — Magnolia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=119452"
+    },
+    {
+      "source": "FNA — Magnolia grandiflora",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200008470"
+    },
+    {
+      "source": "POWO — Magnolia grandiflora",
+      "url": "https://powo.science.kew.org/taxon/554723-1"
+    }
+  ],
+  "joey_media_note": "Saved Joey Santore routing was checked before external visual planning; no direct Magnoliaceae target frame is currently indexed. Do not force unrelated Joey media.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-024",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_stipule_spiral_flower_follicetum_seed_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

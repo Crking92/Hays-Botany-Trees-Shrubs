@@ -1,0 +1,18 @@
+PHOTO FAST-FILL 055 — Prunus rivularis
+Date: 2026-10-08
+Source: https://commons.wikimedia.org/wiki/File:Prunus_Rivularis.jpg
+Direct image: https://upload.wikimedia.org/wikipedia/commons/9/92/Prunus_Rivularis.jpg
+Creator: Amirza360
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+Study use: yes
+Public reuse: preserve creator credit and share-alike conditions if applicable
+Role and limits: Small 800px image of creek plum from Commons; recognizable photo, better local habit/fruit macros later.
+Only visual learner metadata; taxonomy and range decisions unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:59:22.619433+00:00
+Prunus rivularis Scheele
+https://www.gbif.org/occurrence/6179199395
+Jo Roberts | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Thicket habit, leaf margins with possible glands and rounded plum fruit on short shoots
+No anatomy arrows; no scientific or native-range changes.

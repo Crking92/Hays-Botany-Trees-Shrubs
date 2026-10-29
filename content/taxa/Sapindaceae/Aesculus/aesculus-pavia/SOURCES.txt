@@ -1,0 +1,11 @@
+Aesculus pavia — approved Master Plant Pool row 23; reviewed 2026-10-07.
+POWO accepted species and state-level Texas nativity: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:781619-1
+Diagnostic key: https://herbarium.ncsu.edu/tnc/aesculus.htm
+Additional morphology: https://landscapeplants.oregonstate.edu/plants/aesculus-pavia
+Range: UNRESOLVED for project target zone; state-native Texas does not satisfy three-county threshold.
+Master Pool row 24 Aesculus pavia var. pavia maps into species-level A. pavia; var. flavescens remains distinct below species rank.
+Photo sources (licensed exact-species; see image-sources.csv):
+Alex Abair — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Aesculus%20pavia%20352510526.jpg
+David J. Stang — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Aesculus%20pavia%202zz.jpg
+Derek Ramsey — CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File:Red%20Buckeye%20Aesculus%20pavia%20Leaf%20Closeup%202700px.JPG
+Missing: matched fruit macro and stamen-to-petal length with scale; visual coverage provisional.

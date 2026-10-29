@@ -1,0 +1,153 @@
+{
+  "id": "quercus-laceyi",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus laceyi",
+  "authority": "Small",
+  "common_name": "Lacey Oak",
+  "field_group": "White oak group",
+  "project_tracker_diagnostic": "Blue-green/glaucous obovate to elliptic leaves, pale papery/scaly bark, and small oblong/barrel-shaped acorns often flattened at both ends.",
+  "verified_target_counties": "Hays; Travis; Blanco; Comal; Bandera; Edwards; Gillespie; Kerr; Real; Uvalde; Val Verde",
+  "project_inclusion": {
+    "mode": "existing curated oak module",
+    "target_zone_status": "PASS",
+    "strict_native_audit": "already passed in tracker"
+  },
+  "morphology_keys": {
+    "habit": "Small deciduous tree, often on limestone hills, canyons, streamsides, and Edwards Plateau woodlands.",
+    "bark": "Light colored, papery or scaly.",
+    "leaves": "Blue-green/glaucous, obovate or elliptic; margin entire to shallowly lobed; underside whitish/glaucous with stellate hairs when young.",
+    "acorn": "Cup shallow; nut oblong or barrel-shaped and often flattened at both ends.",
+    "best_field_traits": [
+      "blue-green glaucous leaves",
+      "light papery bark",
+      "rounded/retuse leaf apex",
+      "flattened barrel-like acorn",
+      "FNA: leaf blade typically 40–90 × 30–60 mm; elliptic to obovate, very blue-green and glaucous, usually rounded or retuse at the tip; shade leaves can be deeply lobed.",
+      "Leaf underside initially with erect stellate hairs that often shed as the leaf matures, leaving a pale glaucous surface; do not require permanent dense hairs.",
+      "Twigs initially erect-stellate pubescent, later glabrous; mature buds 1.5–3 mm long.",
+      "Mature acorn typically oblong/barrel-like, 13–15 mm long (range 11–20 mm), often flattened at both ends; cup 4–7 mm deep, moderately tuberculate and enclosing at most about 1/3 nut."
+    ],
+    "joey_field_note": "Joey's West Texas landscaping frame is an excellent field example of the blue-green/glaucous leaf surface and lobed foliage. Use that glaucous cast as an early cue, then confirm bark and acorn characters."
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 6,
+    "oak_specific_tightening": "Prioritize multi-photo late-summer/fall observations to increase the chance of mature leaves and acorns, plus curated taxon reference photos."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "Look closer · dark acorn in textured cup among lobed oak leaves; reuse rights need independent review",
+      "creator": "(c) Tony Gallucci, all rights reserved, uploaded by Tony Gallucci",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/taxa/167656",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "Look closer · broad blue-green oak leaf with shallow lobes and rounded tips held for scale",
+      "creator": "(c) eliotmiller, some rights reserved (CC BY-NC), uploaded by eliotmiller",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/167656",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-tree-field-view-1.jpg",
+      "role": "Recognize · mature oak crown and branching architecture viewed from beneath",
+      "creator": "(c) Kane Sandoval, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/observations/96109629",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/04-same-tree-field-view-2.jpg",
+      "role": "Look closer · trunk and large branches with rough textured bark",
+      "creator": "(c) Kane Sandoval, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/observations/96109629",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/05-same-tree-field-view-3.jpg",
+      "role": "Look closer · blue-green oak leaves and flowering twig; no acorn cup visible in this frame",
+      "creator": "(c) Kane Sandoval, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/observations/96109629",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/06-same-tree-field-view-4.jpg",
+      "role": "Look closer · oak leaf veins on a flowering twig; acorn detail not in view",
+      "creator": "(c) Kane Sandoval, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "source_page": "https://www.inaturalist.org/observations/96109629",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-core-joey",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "joey_enhanced": true
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "mA0uMKVyswA",
+      "timestamp": "14:04",
+      "record_id": "jvid-mA0uMKVyswA-008",
+      "role": "glaucous leaf surface / lobed leaves / drought-adapted foliage",
+      "source_confidence": "source-explicit",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "tags": [
+    "Joey-enhanced"
+  ],
+  "look_here_first": "Start with several mature blue-green, glaucous leaves—not a single shade leaf. A broadly rounded or notched tip, pale papery/scaly bark, and a barrel-shaped nut whose ends can look flattened are the useful combination. If the plant is shrubby, compare the twig and cupule carefully with white shin oak.",
+  "diagnostic_comparison": {
+    "priority_group": "Edwards Plateau limestone white oaks",
+    "method": "Read habit, mature leaf and underside, bud, and ripe cupule together; avoid a single-leaf ID.",
+    "pair_specific_tie_breakers": {
+      "quercus-sinuata-var-breviloba": "Both can have variable, rounded or lobed leaves and pale bark. Lacey oak is usually taller with conspicuously blue-green/glaucous broad leaves and a barrel-like acorn; white shin often low, multi-stemmed and with a smaller nut and flatter cup scales.",
+      "quercus-vaseyana": "Vasey has narrower leathery evergreen/subevergreen leaves, usually an acute apex and often 3–5 coarse mucronate teeth per side. Vasey's much bumpier regular cup scales and dark strip-exfoliating bark are better than leaf color alone."
+    },
+    "field_uncertainty": "Retain Quercus sp. or the pair-level comparison if intermediates / absent fruit prevent a reliable determination."
+  },
+  "diagnostic_image_plan": {
+    "status": "photo_targets_not_new_photos",
+    "priority": "high",
+    "needs": [
+      "Mature sun leaf both surfaces with ruler and color-neutral light",
+      "Lacey obovate leaf apex (rounded/retuse) macro; include a shade leaf from same individual if deeply lobed",
+      "Bud and old-vs-young twig pubescence macro; scale 1 mm",
+      "Ripe barrel-shaped acorn plus cup shown from the side with a millimeter ruler",
+      "Bark and entire mature tree same individual"
+    ],
+    "photo_reuse_guardrail": "Current installed photographs remain unchanged. Diagnostic roles not considered proven until images inspected for structures, exact taxon, and permissions."
+  },
+  "diagnostic_science_sources": [
+    {
+      "authority": "Flora of North America Vol. 3",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501053"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "Edwards Plateau three-oak morphology",
+    "scope": "Added measurable characters and image targets; range, status, existing photos and license metadata preserved"
+  }
+}

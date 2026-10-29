@@ -1,0 +1,9 @@
+Reused deep review: research-drafts/quercus-lyrata/draft.json (deep-review-batch-067-quercus-b065).
+Range: Plants of the World Online (Kew), USDA Forest Service and NPSOT East Texas bottomland accounts. Native-range FAIL_TARGET_ZONE is preserved; no project target counties confirmed.
+
+LIBRARY-FIRST IMAGE SELECTION 010 2026-10-16T15:37:23.277744+00:00
+Quercus lyrata
+Creator: Northcut; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6179515600
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/quercus-lyrata/gbif-3cd14eaf6db000.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

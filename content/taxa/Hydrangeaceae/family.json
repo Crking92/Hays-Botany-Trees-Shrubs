@@ -1,0 +1,123 @@
+{
+  "rank": "family",
+  "name": "Hydrangeaceae",
+  "common_name": "Hydrangea / mock-orange family",
+  "lineage_context": {
+    "order": "Cornales",
+    "batch": "Cornales",
+    "close_project_families": [
+      "Cornaceae",
+      "Loasaceae"
+    ],
+    "teaching_goal": "Use opposite leaves, many stamens and an inferior-to-half-inferior ovary with capsular fruit to separate the project Philadelphus branch from other Cornales."
+  },
+  "project_scope": {
+    "selection_mode": "Philadelphus-centered project module",
+    "note": "The current pool contains Philadelphus ernestii, P. lewisii and P. texensis. Family recognition is built around Philadelphus; species-level range/taxonomy remains separate."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On a mock-orange shrub, start with opposite leaves and a white 4-petaled flower. Then look at the center: Philadelphus carries many stamens, usually far more than the petal number, around an inferior to half-inferior 4-locular ovary.",
+    "vegetative": "Woody shrubs in the project genus; leaves opposite, simple, usually serrate to entire, without stipules; venation often strongly 3–5-veined from near the base.",
+    "reproductive": "Flowers bisexual and radial. In Philadelphus, sepals usually 4, petals 4 and white/cream; stamens commonly 13–90. Hypanthium is adnate to the ovary; ovary inferior to half-inferior, usually 4-locular.",
+    "fruit": "A many-seeded loculicidal capsule with persistent sepals/styles.",
+    "field_tip": "Opposite shrub + 4 white petals + a crowded ring of many stamens + inferior/half-inferior ovary = project Hydrangeaceae/Philadelphus."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_016",
+    "teaching_order": "opposite node → 4-petal mock-orange flower → many stamens → inferior ovary/hypanthium → capsule → Cornales comparison",
+    "intro": "Hydrangeaceae is the many-stamen branch of this Cornales batch. Philadelphus looks simple until you count the stamens and notice where the ovary sits.",
+    "steps": [
+      {
+        "title": "1 · Start at the opposite leaf node",
+        "photo_role": "Philadelphus twig/leaf node",
+        "look_for": "Opposite simple leaves, often with several strong veins rising from near the leaf base.",
+        "why_it_matters": "Sets up the shrub gestalt but still overlaps Cornus, so flower/fruit confirmation follows.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Count four petals, then many stamens",
+        "photo_role": "flower face macro",
+        "look_for": "Four white petals surrounding a dense ring of many yellow-anthered stamens.",
+        "why_it_matters": "The high stamen count is a fast project-level split from Cornaceae's 4-stamen flower.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Find the hypanthium/inferior ovary",
+        "photo_role": "flower side section",
+        "look_for": "The floral cup is adnate to the ovary, placing the ovary inferior to half-inferior beneath the visible flower parts.",
+        "why_it_matters": "Ovary position links Hydrangeaceae to Cornales while separating it from many opposite-leaved shrubs.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Follow the flower into a capsule",
+        "photo_role": "mature Philadelphus capsule",
+        "look_for": "Dry persistent-sepal capsule with multiple locules and many small seeds.",
+        "why_it_matters": "Fruit sharply separates Philadelphus from Cornus drupes.",
+        "status": "local_macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Hydrangeaceae vs Cornaceae",
+        "rule": "Both can be opposite-leaved shrubs with inferior ovaries. Philadelphus has 4 white petals, many stamens and a dry many-seeded capsule; Cornus typically has 4 stamens and a fleshy drupe."
+      },
+      {
+        "title": "Hydrangeaceae vs Loasaceae",
+        "rule": "Both can have inferior ovaries and many stamens, but project Hydrangeaceae is a woody opposite-leaved shrub; Loasaceae is usually herbaceous/subshrubby with conspicuous barbed, rough or stinging hairs."
+      }
+    ],
+    "caveat": "Hydrangeaceae is broader than Philadelphus. This project module intentionally teaches the local/project mock-orange door first."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Philadelphus",
+        "fast_cue": "opposite shrub + 4 white petals + many stamens + inferior/half-inferior ovary + capsule",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "flower center with many stamens",
+      "annotation_goal": "count petals versus stamens"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior/half-inferior ovary + hypanthium",
+      "annotation_goal": "show attachment of floral cup to ovary"
+    },
+    {
+      "priority": 1,
+      "structure": "mature loculicidal capsule",
+      "annotation_goal": "contrast directly with Cornus drupe"
+    },
+    {
+      "priority": 2,
+      "structure": "opposite 3–5-veined leaf",
+      "annotation_goal": "support vegetative recognition"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Hydrangeaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10425"
+    },
+    {
+      "source": "Flora of North America — Philadelphus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=124975"
+    },
+    {
+      "source": "Plants of the World Online — Hydrangeaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126637-1/general-information"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-016",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "philadelphus_family_door_live_stamen_ovary_capsule_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

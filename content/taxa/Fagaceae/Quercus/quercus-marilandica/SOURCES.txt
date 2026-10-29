@@ -1,0 +1,38 @@
+# Deep Review sources — Quercus marilandica
+Reviewed: 2026-10-02
+Batch: deep-review-batch-015-quercus-b011
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Kew/POWO accepts Quercus marilandica Münchh., Texas native; accepted varieties are var. ashei and var. marilandica:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A284111-2
+
+## Strict target-zone range
+USDA PLANTS-derived county native-status record:
+https://rootfast.org/plants/QUMA3
+
+Texas counties explicitly marked native include Bell, Blanco, and Burnet, plus additional project counties.
+
+Decision: PASS — Bell, Blanco, Burnet.
+
+## Morphology
+Flora of North America:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501060
+
+Texas A&M Forest Service:
+https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=99
+
+## Image coverage
+https://commons.wikimedia.org/wiki/Category:Quercus_marilandica
+
+
+JOEY/FAMILY TRAINING LAYER
+Use the trusted Fagaceae/oak morphology framework: leaf architecture is only the first pass; confirm with twig/bud, bark, mature acorn and cupule.
+
+PHOTO FAST-FILL 013 — 2026-10-05
+Existing recovery records checked; no exact saved Joey records listed. Existing remote images have unverified rights and are replaced with individually verified licensed exact-species media. Preserve all settled science. No cultivated or out-of-zone photo used for new native county claims. No variety inferred. Download/resizing only.
+01-foliage-reference.jpg | Foliage reference | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Quercus_marilandica_kz01.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Quercus_marilandica_kz01.jpg/1280px-Quercus_marilandica_kz01.jpg | https://creativecommons.org/licenses/by-sa/4.0/ | Hackfalls Arboretum, New Zealand; cultivated exact species, no named cultivar specified.
+02-field-reference.jpg | Field reference | Jason Sturner | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Quercus_marilandica_Shawnee_National_Forest_1.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Quercus_marilandica_Shawnee_National_Forest_1.jpg/1280px-Quercus_marilandica_Shawnee_National_Forest_1.jpg | https://creativecommons.org/licenses/by/2.0/ | Garden of the Gods, Shawnee National Forest, Illinois.
+03-leaf-trunk-reference.jpg | Leaves and trunk reference | © Traumrune / Wikimedia Commons | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Montagnac-Quercus-marilandica_02.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Montagnac-Quercus-marilandica_02.jpg/1280px-Montagnac-Quercus-marilandica_02.jpg | https://creativecommons.org/licenses/by-sa/3.0/ | Arboretum de Montagnac, France; cultivated exact species, no named cultivar specified. Required credit retained.
+
+Binary visual QA (2026-10-05): Three licensed physical photographs verified: leaf surfaces, field crown/branching, and leaves beside trunk/bark. Acorn and twig/bud macros remain follow-up.

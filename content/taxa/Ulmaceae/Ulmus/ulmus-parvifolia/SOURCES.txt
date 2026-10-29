@@ -1,0 +1,15 @@
+Chinese elm: licensed CC0 lacebark reference from https://commons.wikimedia.org/wiki/File:RN_Ulmus_parvifolia_bark.JPG. Introduced comparison: native-range FAIL remains unchanged. Prior external references preserved.
+
+LIBRARY-FIRST IMAGE SELECTION 015 2026-10-16T16:51:06.682166+00:00
+Ulmus parvifolia
+Creator: natgrace18; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6178886407
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/ulmus-parvifolia/gbif-fa217dbc77e4a6.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 015 2026-10-16T16:51:06.682166+00:00
+Ulmus parvifolia
+Creator: takalani.nelu; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110470380
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/ulmus-parvifolia/plantnet-via-gbif-1450beecbd0e5d.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

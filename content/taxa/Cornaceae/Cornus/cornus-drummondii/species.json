@@ -1,0 +1,87 @@
+{
+  "id": "cornus-drummondii",
+  "entry_type": "species",
+  "family": "Cornaceae",
+  "genus": "Cornus",
+  "species": "drummondii",
+  "scientific_name": "Cornus drummondii",
+  "authority": "C.A.Mey.",
+  "common_name": "Roughleaf dogwood",
+  "look_here_first": "LOOK HERE FIRST: Check opposite simple leaves with several strong veins arching toward the tip. Feel the conspicuously rough upper leaf surface and inspect hairs beneath; when fruiting, look for clusters of white drupes carried on reddish stalks. The staged fruit photograph shows white fruit and reddish pedicels, not the diagnostic leaf hairs.",
+  "taxonomy_notes": "POWO accepts Cornus drummondii C.A.Mey. at species rank. Approved source-pool concept is species-level; do not confuse with other opposite-leaved dogwoods or infer county-native certification from a statewide occurrence.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 299; workflow/INSTALLER_PREFLIGHT_QUEUE_2026-10-15.json mass-02",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "Keep county-native determination UNRESOLVED internally; no three-target-county PASS asserted. No native/range badge on ordinary learner card."
+  },
+  "morphology_keys": {
+    "habit": "Deciduous, often colony-forming multi-stemmed shrub or small tree; suckering growth can create thickets.",
+    "leaves_attachment": "Leaves opposite, simple and usually ovate to elliptic with mostly entire margins; upper surface notably rough to touch, underside pubescent; several prominent lateral veins curve toward the tip.",
+    "flower_reproductive": "Numerous small, four-parted whitish flowers in broad, flat-topped terminal clusters; confirm flower structure with a close-up.",
+    "fruit_seed": "Clusters of rounded whitish drupes, often on pink-red to reddish pedicels; photograph documents this character, not a leaf close-up.",
+    "stem_bud": "Opposite leaf scars and branch arrangement; inspect young twig hairs and bark when leaves are absent."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cornus sericea (red-osier dogwood; usually smoother leaf surface and striking red stems, especially in winter; check fruit, veins and twig characters)",
+      "Cornus racemosa (gray dogwood; white fruits on conspicuous reddish pedicels also possible, so check rough upper leaf texture and pubescence rather than fruit color alone)",
+      "Viburnum spp. (opposite leaves in many species, but vein patterns, flowers and fruit type differ)"
+    ],
+    "key_distinctions": "Use the combination of opposite leaves, strongly arcuate venation, rough upper leaf texture and white drupes on reddish pedicels. White fruits alone are not diagnostic."
+  },
+  "diagnostic_image_needs": [
+    "staged_source: exact-species white drupes on reddish pedicels; Douglas Goldman CC BY-SA 4.0; verify downloaded file and images[] after Action",
+    "needs_photo: sharp close-up of rough upper leaf surface with scale",
+    "needs_photo: leaf underside showing hair distribution and arching lateral veins",
+    "needs_photo: flowering inflorescence with individual four-parted flowers visible",
+    "needs_photo: whole plant or colony with opposite branching and mature stems",
+    "annotation_pending: arrows only after exact structure visible on verified installed image"
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/cornus-drummondii-white-fruit-commons.jpg",
+      "role": "Exact species white drupes and red pedicels",
+      "creator": "Douglas Goldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:CornusD1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike CC BY-SA 4.0"
+    },
+    {
+      "file": "images/library-review011-67e3d4b6d7debc2.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Opposite green foliage/habit to complement existing white fruit cluster",
+      "creator": "Mark Watson",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110543645",
+      "media_source_url": "https://bs.plantnet.org/image/o/581766717aec3dedc08461c239affd494f509587",
+      "source_determination": "Cornus drummondii",
+      "source_observation_id": "5110543645",
+      "library_release_tag": "hays-photo-library-mass-38901179535",
+      "library_archive_file": "staged_images/cornus-drummondii/plantnet-via-gbif-bfcb598a6a9eaa.jpg",
+      "archive_image_sha256": "02a47deb3393d846e148dff0218f980e13874258ac739e3438e866b61a2d7be3",
+      "image_dimensions": [
+        1024,
+        1365
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_011": "2026-10-16"
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

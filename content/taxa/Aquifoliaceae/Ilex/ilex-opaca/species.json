@@ -1,0 +1,116 @@
+{
+  "id": "ilex-opaca",
+  "entry_type": "species",
+  "family": "Aquifoliaceae",
+  "genus": "Ilex",
+  "species": "opaca",
+  "scientific_name": "Ilex opaca",
+  "authority": "Aiton",
+  "common_name": "American holly",
+  "synonyms": [],
+  "taxonomic_note": "Accepted species and Texas-native at the state level, but it fails the project's current target-zone native rule.",
+  "look_here_first": "Look at the leaf immediately: American holly is the big-leaved evergreen tree, with thick dark-green leaves bearing prominent stiff spine-tipped teeth.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "USDA-derived Texas county-native data document American holly in eastern/southeastern Texas but no current project target-zone counties.",
+    "range_guardrail": "Texas-native at state level does not satisfy the project's >=3 target-county rule. Planted or escaped Central Texas trees do not change native classification.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "LOOKALIKE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen tree, often pyramidal when young",
+      "alternate simple thick leathery leaves",
+      "leaves substantially larger than yaupon leaves",
+      "margins commonly armed with stiff spine-tipped teeth",
+      "upper surface dark glossy green; lower surface paler",
+      "dioecious with small pale flowers",
+      "female trees produce persistent bright-red drupes"
+    ],
+    "comparison_training": "Use this as the large-spiny-leaf nursery/landscape holly comparison; it must remain excluded from project-native totals."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ilex vomitoria",
+      "Ilex decidua",
+      "Ilex cornuta"
+    ],
+    "key_distinctions": "Yaupon has tiny evergreen leaves with low rounded teeth. Possumhaw is deciduous with thinner non-spiny leaves. Chinese holly is a common introduced ornamental with strongly horned leaves and should be separated using leaf shape and horticultural context."
+  },
+  "tags": [
+    "Aquifoliaceae",
+    "Ilex",
+    "American holly",
+    "Nursery comparison",
+    "Target-zone range fail"
+  ],
+  "curation_status": {
+    "version": "1.0-b017",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "media_only_update": "gallery-backfill-027"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/ilex-opaca-provisional-face.jpg",
+      "role": "Existing American holly exact-species face foliage and red drupes",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_opaca.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-flowers.jpg",
+      "role": "Flowering American holly twig and axillary blossoms",
+      "creator": "Dcrjsr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_opaca_American_holly_flowers.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-leaves-green-fruit.jpg",
+      "role": "American holly evergreen spiny leaves with immature green drupes",
+      "creator": "USDA Natural Resources Conservation Service",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_opaca_USDA.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/04-spiny-leaf-margin.jpg",
+      "role": "American holly large leathery leaf close-up with stiff marginal spine tips",
+      "creator": "Alouis21",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:B50_Ilex_opaca_(American_Holly)_Close-up.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 4,
+    "filled_at": "2026-10-05",
+    "note": "Media-only four-view gallery staged; original exact-species face preserved. Maintain LOOKALIKE_COMPARISON and native-metrics exclusion.",
+    "photo_roles": [
+      "existing face",
+      "flowering branch",
+      "green fruit and leaf",
+      "rigid spine leaf macro"
+    ]
+  }
+}

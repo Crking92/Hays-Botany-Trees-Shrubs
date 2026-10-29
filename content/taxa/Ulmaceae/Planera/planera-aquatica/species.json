@@ -1,0 +1,37 @@
+{
+  "id": "planera-aquatica",
+  "family": "Ulmaceae",
+  "genus": "Planera",
+  "species": "aquatica",
+  "scientific_name": "Planera aquatica",
+  "common_name": "Water elm",
+  "look_here_first": "Look for small alternate serrated leaves on a wetland tree related to elms; inspect leaf base asymmetry and unusual spiny nutlike fruit for species confirmation.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Planera%20aquatica",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Louisiana specimen; no BONAP target-zone nativity determination from this image.",
+  "images": [
+    {
+      "file": "images/commons-planera-aquatica.jpg",
+      "role": "Provisional photographed leaves of water elm; distinctive spiny fruits and bark not included",
+      "creator": "Anonkiwi",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Planera_aquatica%2C_Water_Elm%2C_Leaves.jpg",
+      "study_use": "Noncommercial botanical visual learner",
+      "public_reuse": "Attribution to creator and source plus CC ShareAlike for adaptations"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

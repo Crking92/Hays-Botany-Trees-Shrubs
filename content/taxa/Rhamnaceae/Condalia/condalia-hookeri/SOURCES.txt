@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/259795758
+Photo: https://www.inaturalist.org/photos/466434648
+Original identification requires deeper review; county native status not asserted.
+
+LIBRARY-FIRST IMAGE SELECTION 013 2026-10-16T16:38:47.310803+00:00
+Condalia hookeri
+Creator: mattmsa; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6147232448
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/condalia-hookeri/gbif-45540c12134e71.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

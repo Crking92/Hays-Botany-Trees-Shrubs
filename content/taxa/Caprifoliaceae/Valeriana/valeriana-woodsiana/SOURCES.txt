@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77185698-1
+Kew name-synonym evidence: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77185698-1
+Photographed under scientific synonym: Valerianella radiata
+Source research-grade observation: https://www.inaturalist.org/observations/77176969
+Photo: https://www.inaturalist.org/photos/126205311
+Attribution: (c) Paul Marcum, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

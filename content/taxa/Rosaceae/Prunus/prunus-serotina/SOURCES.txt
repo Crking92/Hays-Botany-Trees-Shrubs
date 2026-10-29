@@ -1,0 +1,19 @@
+PRUNUS SEROTINA — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; preserve settled PASS taxonomy/range.
+
+Existing project check:
+- The prior Joey/external routing audit contains a Spadefoot Nursery bark reference, but reuse rights were not sufficiently clear for fast-fill installation, so it was not used.
+
+Exact-species iNaturalist guide:
+https://www.inaturalist.org/guide_taxa/927058
+
+Selected licensed images:
+- Photo 9803798 — Andreas Rockstein — CC BY-SA — white flower cluster close-up.
+  Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/9803798/large.jpg
+- Photo 30290855 — Phillip Merritt — CC BY-NC-SA — ripening red-to-black fruit racemes with serrate leaves.
+  Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/30290855/large.jpg
+- Photo 11383115 — Bodo Nuñez Oberg — CC BY-NC — serrate simple leaves and twig architecture.
+  Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/11383115/large.jpeg
+
+All selected media is exact Prunus serotina and license-compatible with the noncommercial learner. Existing scientific conclusions are unchanged.

@@ -1,0 +1,147 @@
+{
+  "rank": "genus",
+  "name": "Geum",
+  "family": "Rosaceae",
+  "common_group": "avens",
+  "project_scope": {
+    "source_pool_taxa": [
+      "Geum canadense"
+    ],
+    "source_pool_count": 1,
+    "canonical_species_ids": [],
+    "canonical_species_count": 0,
+    "source_pool_curated_flag": "No",
+    "admission_status": "SOURCE_POOL_ONLY",
+    "accepted_species_name": "Geum canadense",
+    "installed_species_target_path": null,
+    "species_installed_by_this_lane": false,
+    "scientific_native_range_status": "NOT CHANGED: uninstalled source taxa are not project native-range PASS from this lesson"
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "White avens: herbaceous perennial with many-part compound BASAL LEAVES (large terminal leaflet), smaller often 3-part CAULINE leaves, white five-petaled flowers and an aggregate burr of ACHENES with hooked persistent lower STYLE segments. Examine achenes close-up; green 'burr' is the highest-value family/genus structure.",
+    "identity_warning": "Source-pool reference only, exact-species full scientific review and range status handled separately"
+  },
+  "genus_comparison_matrix": [
+    {
+      "character": "habit",
+      "source_taxon": "Slender erect branching woodland herb typically ~30–100 cm, leafy stems and basal rosette",
+      "reference_contrast": "Not a sprawling Rubus prickly woody cane; Potentilla usually different habit."
+    },
+    {
+      "character": "basal versus upper leaves",
+      "source_taxon": "Basal leaves simple or pinnate, terminal leaflet clearly larger; upper leaves 3-foliolate or 3-lobed",
+      "reference_contrast": "Different leaf architectures on same plant prevent mis-ID if one leaf is isolated."
+    },
+    {
+      "character": "flower",
+      "source_taxon": "White 5-petal star with many free stamens and separate pistils in a green hypanthium",
+      "reference_contrast": "Other Rosaceae/Fragaria/Potentilla can have similar 5-petaled flowers; need fruit."
+    },
+    {
+      "character": "fruit architecture",
+      "source_taxon": "Round head of numerous separate dry achenes, not juicy drupelets",
+      "reference_contrast": "Rubus forms many fleshy drupelets; Geum forms hooked dry achenes."
+    },
+    {
+      "character": "style hook",
+      "source_taxon": "Each achene retains a lower jointed persistent style ending in curved HOOK, distal part sheds",
+      "reference_contrast": "Hooked style is especially useful for G. canadense; not all Geum species have equal hooks."
+    },
+    {
+      "character": "fruit/stem hair",
+      "source_taxon": "Receptacle/torus densely bristly in fruit; pedicel often hairy, sepals reflex",
+      "reference_contrast": "Use a precise mature fruit macro, not a fuzzy silhouette."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "panel": 1,
+      "priority": "critical",
+      "show": "complete flowering stalk with basal leaf visible, side ruler",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 2,
+      "priority": "critical",
+      "show": "basal pinnate leaf and cauline 3-part leaf side-by-side",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 3,
+      "priority": "critical",
+      "show": "white 5-petal flower, hypanthium and separate carpels annotated",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 4,
+      "priority": "high",
+      "show": "mature burred achene head whole view",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 5,
+      "priority": "high",
+      "show": "one isolated achene showing jointed hooked STYLE with mm scale",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 6,
+      "priority": "high",
+      "show": "Geum dry hooked achenes versus Rubus fleshy drupelets and Agrimonia burred hypanthium",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    }
+  ],
+  "look_here_first_sequence": [
+    "Recognize plant architecture and leaf arrangement before flower color.",
+    "Compare leaf shape, insertion and microstructures on several mature samples.",
+    "Inspect floral anatomy under magnification and track into mature fruit.",
+    "Cross-check the strongest lookalike with matched scale; avoid uncertain species IDs.",
+    "Respect the source-name/canonical manifest boundary and keep nonlocal native labels unchanged."
+  ],
+  "scientific_cautions": [
+    "Geum canadense is pool-only/uninstalled; this module is not a species install or county native proof.",
+    "FNA notes variant/possible southwestern forms including some Texas early-spring plants; do not invent a separate subspecies/variety.",
+    "Hooked styles are a species-level feature but not universal throughout large Geum genus; no false 'all avens have burr hooks'.",
+    "Do not use an image labeled Geum laciniatum as a substitute for G. canadense; exact-species image checking required."
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy/Species Installer",
+      "task": "Photo polish must verify exact-species mature hooked style macro with rights, not rely on generic avens/Geum laciniatum stock. Installer lane to handle approved source-pool status separately."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Acquire the six exact diagnostic panels, tagged photographer/license/source and permit private-study-only only where rights say so."
+    }
+  ],
+  "existing_canonical_media": null,
+  "scientific_sources": [
+    {
+      "title": "Flora of North America Geum canadense",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416592"
+    },
+    {
+      "title": "Flora of North America Geum genus",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=113505"
+    },
+    {
+      "title": "NC State Geum canadense",
+      "url": "https://plants.ces.ncsu.edu/plants/geum-canadense/"
+    },
+    {
+      "title": "Project source pool",
+      "spreadsheet": "Hays_Botany_ID_Master_Curation_Tracker",
+      "tab": "Master Plant Pool",
+      "source_name": "Geum canadense"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-backfill-2026-10-11",
+    "last_reviewed": "2026-10-11",
+    "photo_panels": 6,
+    "comparison_rows": 6,
+    "visual_status": "photo requests only, no photo assets installed",
+    "scientific_decisions": "unchanged",
+    "species_installs": 0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "rank": "family",
+  "name": "Styracaceae",
+  "common_name": "Storax / silverbell family",
+  "lineage_context": {
+    "order": "Ericales",
+    "batch": "Ericales",
+    "close_project_families": [
+      "Symplocaceae",
+      "Sapotaceae"
+    ],
+    "teaching_goal": "Exploit the project's ideal Halesia-vs-Styrax pair using buds, pith, shoot age, ovary position and fruit wings."
+  },
+  "project_scope": {
+    "selection_mode": "Two-genus project module: Halesia diptera + Styrax platanifolius",
+    "note": "The two project taxa provide a nearly textbook genus comparison supported directly by Flora of North America."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On a shrub or small tree with showy pendent white flowers, inspect the calyx/ovary junction and then the fruit. Styracaceae project members have partly to fully inferior ovaries and dry fruits.",
+    "vegetative": "Alternate simple exstipulate leaves; twigs and leaf surfaces often bear stellate hairs.",
+    "reproductive": "Flowers bisexual, usually white, with fused corolla at least basally and 7–16 stamens; ovary partly to fully inferior depending on genus.",
+    "fruit": "Dry, either nutlike/capsular or winged. The project genera split dramatically here.",
+    "field_tip": "Halesia vs Styrax is best learned as a five-character card: bud scales, pith, shoot age, ovary position, fruit wings."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_011",
+    "teaching_order": "pendant flower → ovary position → bud/pith → fruit wings → genus card",
+    "intro": "This may be one of the best genus-comparison families in the whole learner because Halesia and Styrax differ in several visible characters that all reinforce each other.",
+    "steps": [
+      {
+        "title": "1 · Halesia door: scaled bud + chambered pith",
+        "photo_role": "winter twig cross-section",
+        "look_for": "Winter buds with scales and chambered pith.",
+        "why_it_matters": "Vegetative character pair that strongly favors Halesia.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "2 · Halesia flower and fruit",
+        "photo_role": "flower-to-winged-fruit sequence",
+        "look_for": "Four-lobed corolla, fully inferior ovary, then a conspicuously 2- or 4-winged dry fruit.",
+        "why_it_matters": "The winged fruit is an outstanding field confirmation.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Styrax door: naked bud + continuous pith",
+        "photo_role": "twig/bud macro",
+        "look_for": "Winter buds without scales and continuous pith.",
+        "why_it_matters": "Directly contrasts Halesia before flowering.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Styrax flower and fruit",
+        "photo_role": "flower-to-capsule sequence",
+        "look_for": "Usually 5–6 corolla lobes, partly inferior ovary, and a globose non-winged capsule/nutlike fruit.",
+        "why_it_matters": "Reproductive architecture closes the genus split.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Put all five differences on one card",
+        "photo_role": "Halesia vs Styrax comparison",
+        "look_for": "scaled/naked bud; chambered/continuous pith; old/current shoot flowers; fully/partly inferior ovary; winged/non-winged fruit.",
+        "why_it_matters": "High-retention visual comparison for crew training.",
+        "status": "comparison_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Styracaceae vs Symplocaceae",
+        "rule": "Both are woody Ericales with inferior or partly inferior ovaries. Symplocaceae has very numerous epipetalous stamens and drupes with persistent calyx; Styracaceae project taxa have fewer stamens and dry fruits."
+      },
+      {
+        "title": "Styracaceae vs Sapotaceae",
+        "rule": "Sapotaceae commonly has latex and fleshy fruit with a hard glossy seed; Styracaceae has dry capsular/nutlike or winged fruits and no latex-based project cue."
+      }
+    ],
+    "caveat": "Do not reduce Styracaceae to 'white bell flowers'; use ovary and fruit architecture."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Halesia",
+        "taxa_count": 1,
+        "fast_cue": "scaled buds + chambered pith + 4-lobed flower + fully inferior ovary + winged fruit",
+        "role": "silverbell door"
+      },
+      {
+        "genus": "Styrax",
+        "taxa_count": 1,
+        "fast_cue": "naked buds + continuous pith + 5–6-lobed flower + partly inferior ovary + non-winged capsule",
+        "role": "snowbell door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Halesia diptera",
+    "Styrax platanifolius"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Halesia diptera",
+      "current_name": "Halesia diptera",
+      "note": "Accepted; native range reaches Texas."
+    },
+    {
+      "source_name": "Styrax platanifolius",
+      "current_name": "Styrax platanifolius",
+      "note": "Accepted; FNA treats five subspecies, with Texas in the species range."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Halesia vs Styrax 5-character card",
+      "annotation_goal": "bud, pith, shoot, ovary and fruit"
+    },
+    {
+      "priority": 1,
+      "structure": "Halesia winged fruit",
+      "annotation_goal": "label broad wings"
+    },
+    {
+      "priority": 1,
+      "structure": "Styrax non-winged capsule",
+      "annotation_goal": "show globose dehiscent fruit"
+    },
+    {
+      "priority": 2,
+      "structure": "stellate hairs",
+      "annotation_goal": "macro of characteristic branched hairs"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "FNA — Styracaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10861"
+    },
+    {
+      "source": "FNA — Halesia",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=114485"
+    },
+    {
+      "source": "FNA — Styrax",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=131861"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-011",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_halesia_styrax_comparison_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

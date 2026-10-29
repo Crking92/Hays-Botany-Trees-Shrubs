@@ -1,0 +1,119 @@
+{
+  "id": "vitis-palmata",
+  "entry_type": "species",
+  "family": "Vitaceae",
+  "genus": "Vitis",
+  "species": "palmata",
+  "scientific_name": "Vitis palmata",
+  "authority": "Vahl",
+  "common_name": "Catbird grape",
+  "synonyms": [
+    "Vitis rubra Michx. ex Planch.",
+    "Vitis riparia var. palmata (Vahl) Planch."
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO and ITIS; Texas is within the native range, but the project currently has only one exact target-zone county.",
+  "look_here_first": "Check the stem before the fruit: branchlets are uniformly red to purplish-red or chestnut, while leaves are usually deeply 3–5-lobed with long-pointed lobes and nearly glabrous undersides.",
+  "county_occurrences_target_zone": [
+    "Travis"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis is supported by a physical herbarium specimen. Broader Texas nativity is not converted into Hays or other nearby county records.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification. Preserve the one-county HOLD."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "high-climbing woody vine",
+      "branchlets uniformly red, purplish-red, or chestnut",
+      "branchlets glabrous or only sparsely cobwebby",
+      "leaves usually deeply 3–5-lobed with long-acuminate tips",
+      "leaf undersides glabrous or nearly so",
+      "young tendrils often red-pigmented",
+      "berries blue-black to black, roughly 8–10 mm",
+      "riverbank, slough, and alluvial floodplain habitat"
+    ],
+    "comparison_training": "The combination of red stems, deep lobing, and nearly glabrous lower leaf surfaces separates it from the hairier V. cinerea and more glaucous-fruited V. berlandieri."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Vitis berlandieri",
+      "Vitis cinerea",
+      "Vitis mustangensis"
+    ],
+    "key_distinctions": "Uniform red branchlets + deeply lobed leaves + glabrous lower surface are the fastest field combination."
+  },
+  "tags": [
+    "Vitaceae",
+    "Vitis",
+    "Catbird grape",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "diagnostic_image_needs": [
+    "whole floodplain vine",
+    "red branchlet",
+    "deeply lobed leaf",
+    "glabrous underside",
+    "red young tendril",
+    "berry cluster",
+    "habitat context"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.\n13 Oct 2026 photo enrichment: two additional exact-species reusable photographs. No range or species taxonomy modification; fine detail macros and arrows still pending.",
+  "images": [
+    {
+      "file": "images/vitis-palmata-provisional-face.jpg",
+      "role": "Vitis palmata leaves and climbing vine in Wroclaw botanical garden; lower-surface macros later.",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_palmata_kz01.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/vitis-palmata-usda-leaf.jpg",
+      "role": "USDA-NRCS reference photograph of catbird grape leaf, reinforces lobing without certifying local status",
+      "creator": "Robert H. Mohlenbrock / USDA-NRCS",
+      "license": "Public domain US Federal Government",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_palmata_NRCS-1.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    },
+    {
+      "file": "images/vitis-palmata-usda-plant.jpg",
+      "role": "Second USDA-NRCS exact-species field reference, catbird grape morphology",
+      "creator": "Robert H. Mohlenbrock / USDA-NRCS",
+      "license": "Public domain US Federal Government",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_palmata_NRCS-2.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_enrichment",
+    "image_count": 3,
+    "filled_at": "2026-10-08",
+    "note": "Three real licensed photographs intended after curation; original plus two targeted additional views. Physical count must be verified in final pipeline report."
+  }
+}

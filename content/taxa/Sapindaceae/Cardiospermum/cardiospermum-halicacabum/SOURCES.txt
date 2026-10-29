@@ -1,0 +1,5 @@
+Approved source-pool admission: Master Plant Pool row 187; 2026-10-14 accepted-name review: Cardiospermum halicacabum L., Sapindaceae. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:782206-1
+Exact photograph 1: H. Zell, Cardiospermum halicacabum 05.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cardiospermum_halicacabum_05.jpg . Visually checked climbing habit and numerous inflated immature capsules.
+Exact photograph 2: H. Zell, Cardiospermum halicacabum 08.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cardiospermum_halicacabum_08.jpg . Visually checked opened fruit and dark seeds.
+Joey statewide inventory also lists five CC BY-NC candidates under observation 62244451; metadata only, not used here, no private-use rights silently upgraded.
+County native-range audit deferred; preserve UNRESOLVED and exclude confirmed-native metrics. Cardiospermum corindum / C. grandiflorum comparison needs a regional key before hard species separators. Need flower and tendril-node macros; arrows pending.

@@ -1,0 +1,194 @@
+{
+  "id": "ulmus-crassifolia",
+  "entry_type": "species",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "species": "crassifolia",
+  "scientific_name": "Ulmus crassifolia",
+  "authority": "",
+  "common_name": "Cedar elm",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Look at the calendar and the twig before the leaf: cedar elm is a fall-flowering elm with very small rough leaves; corky twig wings, when present, can continue around the leaf node.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Comal",
+    "Travis"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Ulmus crassifolia as native to Texas. Hays County — the project Hays County native-source list includes U. crassifolia. USDA PLANTS-derived county native-status data explicitly marks U. crassifolia native in Comal County. The same USDA-derived county data explicitly marks U. crassifolia native in Travis County.",
+    "range_guardrail": "Use county records explicitly carrying native status. User iNaturalist observations are useful for learner/photo coverage but are not substituted for native-range evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous Texas elm; often common on limestone and clay",
+      "leaves small, generally under about 5 cm, often obovate/elliptic and bluntish",
+      "upper leaf surface dark and distinctly rough/scabrous",
+      "lower surface and petiole hairy",
+      "young twigs may develop thin corky wings continuous around nodes",
+      "flowers in late summer to fall rather than spring",
+      "small oval samara hairy over the body/edge and deeply notched at apex"
+    ],
+    "elm_training": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ulmus alata",
+      "Ulmus parvifolia",
+      "Ulmus americana"
+    ],
+    "key_distinctions": "Ulmus alata: Both can have corky wings. Winged elm usually has persistent regular wings ending abruptly at the node, pointed leaves, and spring flowers/fruit; cedar elm wings can continue around the node and reproduction is in fall. Ulmus parvifolia: Both can reproduce late in the year and have small leaves, but Chinese elm has smoother/lustrous mostly singly serrate leaves and exfoliating mottled bark; cedar elm leaves are rough and its samara/calyx are hairy. Ulmus americana: American elm has much larger strongly asymmetric leaves, no regular corky branch wings, and spring fruit."
+  },
+  "tags": [
+    "Ulmaceae",
+    "Ulmus",
+    "Cedar elm",
+    "Central Texas",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-008",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "joey_enhanced": true,
+    "video_study_media_count": 1,
+    "photo_reviewed": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Ulmus photo backfill 2026-10-04: rough small leaves, fall fruit, and corky-wing twig views prioritized. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful.",
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "19:35",
+      "record_id": "N4yq5Z1_0Eo-28",
+      "role": "leaf / young winged twig",
+      "source_taxon": "Ulmus crassifolia",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/ulmus-crassifolia_leaf-winged-twig-source-label_19-35.jpg"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/ulmus-crassifolia-leaves.jpeg",
+      "role": "small rough leaves and winged samaras",
+      "creator": "Mason Brock",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_crassifolia_leaves.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-569075323-young-bark.jpg",
+      "role": "Young cedar elm trunk bark and branch foliage; bark detail requires closer macro",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/569075323",
+      "observation_url": "https://www.inaturalist.org/observations/315040697",
+      "observation_id": 315040697,
+      "photo_id": 569075323,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/569075323/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-641601812-small-serrated-leaves.jpg",
+      "role": "Small alternating serrated leaves on slender woody branches, crowded foliage",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/641601812",
+      "observation_url": "https://www.inaturalist.org/observations/351577101",
+      "observation_id": 351577101,
+      "photo_id": 641601812,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/641601812/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-697303586-leaf-edges.jpg",
+      "role": "Close branch view of cedar elm's toothed leaves, visible shape and venation",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/697303586",
+      "observation_url": "https://www.inaturalist.org/observations/381110203",
+      "observation_id": 381110203,
+      "photo_id": 697303586,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/697303586/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "external_study_references": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ulmus_crassifolia_leaves.jpeg",
+      "role": "leaves and fruit",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_crassifolia_leaves.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ulm/ulmus.crassifolia.wings.jpg",
+      "role": "corky twig wings",
+      "creator": "UT Austin BIO 406D PlantPics",
+      "license": "copyrighted educational source",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ulm/ulmus_crassifolia.htm",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ulm/Ulmus%20crassifolia%20fruits1.jpg",
+      "role": "fall samaras",
+      "creator": "UT Austin BIO 406D PlantPics",
+      "license": "copyrighted educational source",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/ulm/ulmus_crassifolia.htm",
+      "study_use": "yes",
+      "public_reuse": "no"
+    }
+  ]
+}

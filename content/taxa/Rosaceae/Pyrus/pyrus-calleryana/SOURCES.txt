@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:730740-1
+Source research-grade observation: https://www.inaturalist.org/observations/70391961
+Photo: https://www.inaturalist.org/photos/114425101
+Attribution: (c) kommissar, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 056 2026-10-18T00:11:03.482883+00:00
+Pyrus calleryana
+Creator: Martha Richeson; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6131475469
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/pyrus-calleryana/gbif-4271b65794609a.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

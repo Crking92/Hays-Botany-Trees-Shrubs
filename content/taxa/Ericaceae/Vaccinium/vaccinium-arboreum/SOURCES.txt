@@ -1,0 +1,9 @@
+Source-pool Phase3 accepted/preflight concept Vaccinium arboreum; reference row(s) 1226
+Accepted-name query: https://powo.science.kew.org/results?q=Vaccinium%20arboreum
+Photograph original: https://commons.wikimedia.org/wiki/File:Vaccinium_arboreum_with_persistent_fruit.jpg
+Image direct Commons redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Vaccinium%20arboreum%20with%20persistent%20fruit.jpg
+Photographer: sonnia hill
+Individual file license: CC BY 2.0
+Photo role: Provisional fruiting branch recognition: small persistent dark berries; flower bells and shrub habit absent.
+Caution: East Texas Arboretum photo; this is a reference card, NOT evidence of nativity within Hays County.
+Original Commons page licensing checked before staging. One visual provisional learner only; no Hays or target-county nativity assertion.

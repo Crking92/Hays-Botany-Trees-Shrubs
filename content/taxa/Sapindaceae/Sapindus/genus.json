@@ -1,0 +1,65 @@
+{
+  "rank": "genus",
+  "family": "Sapindaceae",
+  "name": "Sapindus",
+  "authority": "L.",
+  "common_group": "Soapberries",
+  "project_scope": {
+    "selection_mode": "canonical S. drummondii + B160 strict reconciliation",
+    "canonical_species_ids": [
+      "sapindus-drummondii"
+    ],
+    "pending_strict_review": [],
+    "represented_source_concepts": [
+      "sapindus-saponaria-var-drummondii",
+      "sapindus-saponaria-vsr-drummondii"
+    ],
+    "source_concept_count": 4,
+    "note": "Western soapberry remains canonical Sapindus drummondii. Older var./subsp. drummondii names and the typographic duplicate map to that learner. B160 independently reviewed Sapindus saponaria sensu stricto: it is an accepted species, but current Kew/POWO and USDA GRIN native-range treatments exclude Texas, so the Hays source cannot support it as a target-zone native.",
+    "reviewed_noncanonical_concepts": [
+      "sapindus-saponaria"
+    ]
+  },
+  "source_concept_status": [
+    {
+      "id": "sapindus-drummondii",
+      "scientific_name": "Sapindus drummondii",
+      "status": "CANONICAL"
+    },
+    {
+      "id": "sapindus-saponaria",
+      "scientific_name": "Sapindus saponaria",
+      "status": "REVIEWED_TARGET_ZONE_FAIL_NO_TEXAS_NATIVE_RANGE"
+    },
+    {
+      "id": "sapindus-saponaria-var-drummondii",
+      "scientific_name": "Sapindus saponaria var. drummondii",
+      "status": "SOURCE_ALIAS_REPRESENTED_BY_SAPINDUS_DRUMMONDII"
+    },
+    {
+      "id": "sapindus-saponaria-vsr-drummondii",
+      "scientific_name": "Sapindus saponaria vsr. Drummondii",
+      "status": "TYPOGRAPHIC_SOURCE_DUPLICATE_REPRESENTED_BY_SAPINDUS_DRUMMONDII"
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "compound leaf architecture",
+      "presence/absence of winged rachis",
+      "leaflet number and shape",
+      "fruit size/color and persistence",
+      "bark and mature tree habit",
+      "accepted-name/source-concept handling"
+    ],
+    "warning": "Historical Texas sources often use Sapindus saponaria broadly for western soapberry. Under the current project treatment, verify whether an old record is var./subsp. drummondii before assigning it: western-soapberry records map to S. drummondii, while S. saponaria s.s. is not treated as Texas-native."
+  },
+  "quick_comparison": [
+    "S. drummondii — canonical western soapberry; older S. saponaria var./subsp. drummondii names map here. B160 target-zone support: Hays, Travis, Kerr.",
+    "S. saponaria s.s. — distinct accepted tropical/subtropical species; current Kew/POWO and USDA GRIN native-range treatments do not include Texas. Do not use old Texas 'S. saponaria' labels as evidence for s.s."
+  ],
+  "curation_status": {
+    "version": "1.1-b160",
+    "genus_audit": "complete_for_current_source_pool",
+    "last_reviewed": "2026-10-05"
+  }
+}

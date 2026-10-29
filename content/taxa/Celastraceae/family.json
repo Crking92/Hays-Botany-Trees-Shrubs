@@ -1,0 +1,187 @@
+{
+  "rank": "family",
+  "name": "Celastraceae",
+  "common_name": "Bittersweet family",
+  "lineage_context": {
+    "order": "Celastrales",
+    "batch": "Rosid residuals",
+    "close_project_families": [
+      "Rhamnaceae"
+    ],
+    "teaching_goal": "Teach the two dryland project genera honestly as a paired door rather than forcing one broad-family silhouette: narrow-leaved bisexual Mortonia versus spinescent dioecious Schaefferia with bright drupes."
+  },
+  "project_scope": {
+    "selection_mode": "Mortonia greggii + Schaefferia cuneifolia",
+    "note": "Both are accepted current species native to Texas and Mexico."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "For these two project shrubs, examine a leafy twig together with flowers or fruit—not thorns alone. Mortonia greggii has narrow pliable leaves and branched cymose flower clusters. Schaefferia cuneifolia has small wedge-shaped leaves on short often spinescent shoots, separate staminate and pistillate flowers, and orange-red drupes. These are project-specific genus doors, not universal Celastraceae traits.",
+    "reproductive": "Celastraceae flowers are typically small and radial, commonly 4- or 5-merous, with a nectar disc common across the family; project fruits differ by genus.",
+    "field_tip": "Use the family as a two-door lesson: Mortonia = narrow leaves + cymose panicles; Schaefferia = short shoots/spines + dioecious 4-merous flowers + red/orange drupe.",
+    "vegetative": "In the project pair, Mortonia greggii has narrow, pliable simple leaves; Schaefferia cuneifolia has wedge-shaped simple leaves often clustered on short shoots that can end in spines. These vegetative traits distinguish the two local genera but are not universal characters of Celastraceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_030",
+    "teaching_order": "two-shrub habit card → Mortonia leaf/panicle → Schaefferia short shoot → male/female flowers → red drupe → Rhamnaceae contrast",
+    "intro": "Our Celastraceae pool is small enough that genus architecture is more useful than memorizing a vague global family description.",
+    "steps": [
+      {
+        "title": "1 · Mortonia door",
+        "photo_role": "M. greggii leafy twig",
+        "look_for": "Linear-oblanceolate to oblanceolate pliable leaves with thickened margins on a low dryland shrub.",
+        "why_it_matters": "Immediate vegetative door to the first project genus.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find Mortonia cymose panicles",
+        "photo_role": "flowering twig",
+        "look_for": "Small flowers grouped in branched cymose panicles.",
+        "why_it_matters": "Adds reproductive confirmation to the narrow-leaf habit.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Schaefferia door",
+        "photo_role": "S. cuneifolia twig",
+        "look_for": "Spinescent twigs, short shoots and small wedge-shaped leaves that may appear fascicled.",
+        "why_it_matters": "Very different architecture from Mortonia.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Separate the sexes",
+        "photo_role": "male vs female Schaefferia flowers",
+        "look_for": "Four sepals and four petals; staminate flowers with 4 stamens, pistillate flowers with a 2-locular pistil.",
+        "why_it_matters": "Dioecy is a major Schaefferia recognition feature.",
+        "status": "comparison_macro_pending"
+      },
+      {
+        "title": "5 · Follow Schaefferia to a red drupe",
+        "photo_role": "fruiting short shoot",
+        "look_for": "Small orange to bright-red drupes close to the twig.",
+        "why_it_matters": "The fruit makes desert yaupon highly recognizable.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Celastraceae project pair vs Rhamnaceae",
+        "rule": "Thorny Schaefferia cuneifolia can resemble Condalia or Condaliopsis (Rhamnaceae); short shoots and red drupes alone are inconclusive. Examine documented flowers: Rhamnaceae commonly has stamens opposite petals around a prominent nectar disc/hypanthium, while Schaefferia has separate four-part staminate and pistillate flowers. Both families may have floral discs and fleshy fruit, so check actual floral organs, leaf attachment and stipules rather than relying on color or armature."
+      }
+    ],
+    "caveat": "This is intentionally a project-specific family lesson. Broad Celastraceae is morphologically diverse, so do not export the Mortonia/Schaefferia combination as a universal family key.",
+    "anatomy_examples": [
+      {
+        "species": "Mortonia greggii",
+        "part": "flowering twig",
+        "plain_label": "Branched flower cluster and narrow leaves",
+        "botanical_label": "cymose panicle, pedicels and leaf insertion",
+        "look_for": "Trace the flowering branch from the narrow leaves into its branched flower cluster; show individual pedicels and leaf attachment.",
+        "photo_role": "exact-species flowering twig macro with inflorescence branches and leaf bases visible",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Follow the narrow leaves to the branched cluster of small flowers."
+      },
+      {
+        "species": "Schaefferia cuneifolia",
+        "part": "staminate and pistillate flowers",
+        "plain_label": "Pollen-bearing and pistil-bearing flowers on separate plants",
+        "botanical_label": "dioecy, staminate flower, four stamens, pistillate flower with pistil",
+        "look_for": "Compare matched flower-center macros from independently verified staminate and pistillate plants; count four stamens and locate the pistil without inferring sex from unverified photos.",
+        "photo_role": "matched exact-species flower-center macros from documented male and female plants",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "Compare pollen-bearing and pistil-bearing flowers on separate plants."
+      },
+      {
+        "species": "Schaefferia cuneifolia",
+        "part": "fruiting short shoot",
+        "plain_label": "Fleshy fruit attached to a short twig",
+        "botanical_label": "drupe, brachyblast and cuneate leaf",
+        "look_for": "Show mature orange-red drupe attachment to the short shoot, nearby wedge leaves and twig junction. Fruit color alone does not distinguish Rhamnaceae.",
+        "photo_role": "exact-species mature fruiting twig macro showing fruit attachment, short shoot and leaves",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption": "The drupe sits on a short shoot beside the wedge-shaped leaves."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Mortonia",
+        "taxa_count": 1,
+        "fast_cue": "narrow pliable leaves + cymose panicles",
+        "role": "Gregg's saddlebush door"
+      },
+      {
+        "genus": "Schaefferia",
+        "taxa_count": 1,
+        "fast_cue": "spinescent short shoots + wedge leaves + dioecious 4-part flowers + red drupe",
+        "role": "desert-yaupon door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Mortonia greggii",
+    "Schaefferia cuneifolia"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Mortonia greggii",
+      "current_name": "Mortonia greggii",
+      "note": "Accepted; native range includes southern Texas."
+    },
+    {
+      "source_name": "Schaefferia cuneifolia",
+      "current_name": "Schaefferia cuneifolia",
+      "note": "Accepted; native range includes western and southern Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Mortonia vs Schaefferia whole twigs",
+      "annotation_goal": "narrow flexible leaf/panicle versus short-shoot/spinescent architecture"
+    },
+    {
+      "priority": 1,
+      "structure": "Schaefferia male vs female flower",
+      "annotation_goal": "label 4 stamens versus pistil"
+    },
+    {
+      "priority": 1,
+      "structure": "Schaefferia red drupe",
+      "annotation_goal": "fruit on short shoot"
+    },
+    {
+      "priority": 2,
+      "structure": "Mortonia cymose panicle",
+      "annotation_goal": "show branching inflorescence"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Mortonia greggii",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:162242-1"
+    },
+    {
+      "source": "FNA — Mortonia greggii",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101483"
+    },
+    {
+      "source": "POWO — Schaefferia cuneifolia",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:162755-1"
+    },
+    {
+      "source": "FNA — Schaefferia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=129413"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Celastraceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-030",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "project_pair_live_reproductive_comparison_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

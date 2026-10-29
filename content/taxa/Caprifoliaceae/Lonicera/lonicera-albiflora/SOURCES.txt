@@ -1,0 +1,19 @@
+Lonicera albiflora — Western white honeysuckle / Texas honeysuckle (Caprifoliaceae)
+FIRST PASS 2026-10-13
+User-approved Master Plant Pool rows 657–659 (see genus lesson and scientific review).
+RANGE: UNRESOLVED — Native to Texas at state level under Kew/POWO and regional floras. BONAP/NAPA 3-target-county threshold not certified in this pass; no native-only county tally.
+SCIENCE: content/taxa/Caprifoliaceae/Lonicera/genus.json and reports/lonicera-scientific-review-2026-10-12.md
+TAXON: POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:148598-1
+REFERENCE: https://w3.biosci.utexas.edu/prc/K12/pages/Lonicera%20albiflora.html
+LICENSED PHOTOGRAPHS:
+01-texas-honeysuckle-live.jpg: creator Patrick Alexander (aspidoscelis); CC0 1.0; https://commons.wikimedia.org/wiki/File:Lonicera_albiflora_-_Flickr_-_aspidoscelis.jpg; Patrick Alexander, CC0 1.0. Lonicera albiflora; one of two exact species Commons photographs; no assertion that a measured corolla, ripe berry, or Texas voucher is visible.
+02-albiflora-reference.jpg: creator Patrick Alexander (aspidoscelis); CC0 1.0; https://commons.wikimedia.org/wiki/File:Lonicera_albiflora_-_Flickr_-_aspidoscelis_(1).jpg; Lonicera albiflora, Upper Ash Spring, Doña Ana County, New Mexico, 2010-09-08, Patrick Alexander CC0. Not a Hays County voucher. Structural inspection should focus on opposite leaves and a terminal flowering shoot where visible; a measurement cannot be established from this image.
+LEARNER CAUTION: Photos are exact-species face/teaching sources, not three-target-county vouchers. No measured matched terminal versus axillary macro yet. Don't add inaccurate arrows.
+
+2026-10-13 Lonicera comparative photograph:
+03-texas-origin-flowering-branch.jpg
+Creator: sonnia hill | CC BY 2.0 | https://creativecommons.org/licenses/by/2.0/
+Source page: https://commons.wikimedia.org/wiki/File:Lonicera_albiflora.jpg
+Original photo context: Denton County, Texas (Arbor Hills, Plano area), May 2004; OUTSIDE the 24-county native-certification target zone.
+Diagnostic teaching target: Texas-origin flowering honeysuckle branch; teaching regional white-flower form and leaf context
+Never use this photo as a certified project-target native county voucher.

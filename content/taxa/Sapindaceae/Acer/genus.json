@@ -1,0 +1,278 @@
+{
+  "rank": "genus",
+  "name": "Acer",
+  "family": "Sapindaceae",
+  "common_group": "maples (including boxelder)",
+  "project_scope": {
+    "selection_mode": "Four source-pool names; one installed canonical species, three comparison/source-pool concepts not installed by this lane",
+    "source_pool": [
+      "Acer grandidentatum",
+      "Acer negundo",
+      "Acer palmatum",
+      "Acer saccharinum"
+    ],
+    "canonical_species_ids": [
+      "acer-negundo"
+    ],
+    "uninstalled_source_pool_names": [
+      "Acer grandidentatum",
+      "Acer palmatum",
+      "Acer saccharinum"
+    ],
+    "important_status": "A. palmatum is an East Asian ornamental; do not treat as native in project target zone. Source-pool curated flags are not canonical installed truth.",
+    "species_ids": [
+      "acer-negundo",
+      "acer-grandidentatum",
+      "acer-saccharinum"
+    ],
+    "species_count": 3,
+    "learner_admission": "Acer negundo canonical PASS; grandidentatum and saccharinum approved source-pool learner taxa, range UNRESOLVED."
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "On a twig confirm OPPOSITE leaves; then look for a maple's PAIRED samaras, two one-seeded winged units attached at a common base. Separate compound leaves (A. negundo) from simple palmate leaves first. If palmate, flip a mature leaf: silvery underside versus not, and look for narrow V-shaped versus broad U-shaped sinuses.",
+    "shared_traits": [
+      "Trees with opposite leaves; leaves can be simple and palmately lobed or pinnately compound (boxelder).",
+      "Fruit ordinarily a paired schizocarp of two winged one-seeded mericarps (samaras); intact pair is diagnostic relative to ash.",
+      "Small flowers and variable leaf lobing; juvenile leaves and cultivated selections can depart from expected shape."
+    ],
+    "guardrail": "This is an identification lesson, NOT an installation or county-range certification for noncanonical species."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "leaf architecture",
+      "Acer negundo": "Odd-pinnately compound, typically 3–5 leaflets (sometimes more)",
+      "Acer grandidentatum": "Simple palmate blade, usually 3–5 broad lobes",
+      "Acer saccharinum": "Simple palmate blade, usually 5 sharply divided lobes (occasionally 3)",
+      "Acer palmatum": "Simple palmate blade, typically 5–9 narrow pointed lobes",
+      "weight": "PRIMARY GENUS INTERNAL SPLIT"
+    },
+    {
+      "character": "underside leaf color",
+      "Acer negundo": "Leaflet undersides green to somewhat paler; not dramatic silvery maple blade",
+      "Acer grandidentatum": "Light-green to somewhat pale/glaucous, not striking uniformly silvery-white",
+      "Acer saccharinum": "Conspicuously silver-white beneath",
+      "Acer palmatum": "Typically green beneath (or colored cultivars), not naturally strongly silver-white",
+      "weight": "PRIMARY for silver maple"
+    },
+    {
+      "character": "main sinus outline",
+      "Acer negundo": "Not relevant: separate leaflets, not sinuses in one palmately lobed blade",
+      "Acer grandidentatum": "Broad rounded U-shaped main sinuses, lobes broad, margins entire to weakly lobulate",
+      "Acer saccharinum": "Very deep sharp V-shaped sinuses, central lobe often constricted at base",
+      "Acer palmatum": "Deep narrow sinuses; usually 5–9 slender serrate lobes, cultivated variability considerable",
+      "weight": "LEAF CONFIRMATION"
+    },
+    {
+      "character": "marginal tooth pattern",
+      "Acer negundo": "Individual leaflets often coarsely toothed or irregularly lobed",
+      "Acer grandidentatum": "Broad lobes with relatively few large blunt teeth or secondary lobules",
+      "Acer saccharinum": "Coarsely toothed lobes, long pointed tips",
+      "Acer palmatum": "Usually sharp small serrations along narrow lobes, many cultivars highly dissected",
+      "weight": "SUPPORTING, variable"
+    },
+    {
+      "character": "habit and occurrence",
+      "Acer negundo": "Deciduous riparian/bottomland tree, often confused with ash",
+      "Acer grandidentatum": "Small–medium maple of limestone canyon/plateau settings; native status in target counties not set by this module",
+      "Acer saccharinum": "Larger riparian and floodplain tree, also extensively planted; local origin must be separately checked",
+      "Acer palmatum": "Small ornamental East Asian tree, often selected/cultivated; non-native comparison",
+      "weight": "CONTEXT, not field-ID proof"
+    },
+    {
+      "character": "fruit wings",
+      "Acer negundo": "Paired samaras even though leaf resembles Fraxinus",
+      "Acer grandidentatum": "Paired samaras",
+      "Acer saccharinum": "Paired samaras, often asymmetrical fruit pair",
+      "Acer palmatum": "Paired samaras, variable angle/shape",
+      "weight": "GENUS CONFIRMATION; use timing and wing angle only with corroboration"
+    }
+  ],
+  "look_here_first_sequence": [
+    {
+      "step": 1,
+      "inspect": "mature node and leaf plus fruiting twig",
+      "decision": "Opposite and compound, 3–5 separate leaflets + paired samaras → A. negundo candidate; if a single leaf is lobed, continue."
+    },
+    {
+      "step": 2,
+      "inspect": "underside of entire mature palmate leaf",
+      "decision": "Strong, clear silvery-white underside and deeply lobed narrowed central lobe → A. saccharinum candidate."
+    },
+    {
+      "step": 3,
+      "inspect": "same leaf, central lobe and main sinuses with ruler",
+      "decision": "Broad lobes, rounded U-shaped sinuses and modest teeth → A. grandidentatum candidate, including canyon/plateau contexts."
+    },
+    {
+      "step": 4,
+      "inspect": "thin lobes, serration, leaf underside and planting context",
+      "decision": "5–9 often sharply serrate narrow lobes, green undersides and ornamental provenance → A. palmatum comparison; cultivar forms may be highly variable."
+    },
+    {
+      "step": 5,
+      "inspect": "tree lacking reproductive characters or unusual landscape cultivar",
+      "decision": "Keep Acer sp. and seek attached paired samaras + multiple mature leaf/twig views. Do not assign native-range status from nursery provenance."
+    }
+  ],
+  "scientific_cautions": [
+    "Leaf opposite arrangement by itself does not distinguish Acer from ash (Fraxinus); fruit does: Acer paired samaras versus Fraxinus single samaras.",
+    "A. negundo is botanically a maple even though it has compound foliage. Do not misteach 'all maples have palmate leaves'.",
+    "A. grandidentatum and A. saccharinum pool records are marked curated in Sheets but have no separate species paths in the current canonical manifest; this genus lesson is not canonical installation.",
+    "A. palmatum is intentionally an East Asian/non-native horticultural comparison, not eligible for native-only counts merely from appearing in a source pool.",
+    "Cultivars and hybrid ornamental maples may alter tooth depth, colors or leaf dissection; use reproductive structures and accepted concept checks.",
+    "A. grandidentatum taxonomy includes regional variants; do not reassign native county decisions or split variants in this lesson.",
+    "A. negundo var. texanum is already represented at species level; do not create duplicate species for the infraspecific name."
+  ],
+  "local_lookalike_routing": [
+    {
+      "taxon": "Fraxinus spp. (ash)",
+      "separator": "Opposite compound leaves as in A. negundo; inspect fruit — an individual single samara in Fraxinus versus joined double samaras in Acer."
+    },
+    {
+      "taxon": "Platanus occidentalis (sycamore)",
+      "separator": "Large palmate simple leaves may resemble maple but arrangement ALTERNATE, with hanging balls of achenes, not paired samaras."
+    },
+    {
+      "taxon": "Liquidambar styraciflua (sweetgum)",
+      "separator": "Star-like lobed leaves arranged ALTERNATELY and spiny spherical infructescences, not paired samaras."
+    },
+    {
+      "taxon": "Acer rubrum (red maple, extra source-pool comparison only)",
+      "separator": "Often 3–5 lobes with more angular V-shaped sinuses but undersides not striking silver as in A. saccharinum; compare teeth, bud and fruit."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "role": "opposite node and leaves",
+      "targets": [
+        "all four"
+      ],
+      "show": "opposite leaf insertion, simple vs compound, leaflets versus lobes, arrows at node"
+    },
+    {
+      "priority": "critical",
+      "role": "matched face/underside of mature leaf with ruler",
+      "targets": [
+        "grandidentatum",
+        "saccharinum",
+        "palmatum"
+      ],
+      "show": "broad U sinuses vs deep V sinuses, white-silver lower blade vs green, tooth size"
+    },
+    {
+      "priority": "critical",
+      "role": "boxelder versus ash samara",
+      "targets": [
+        "Acer negundo",
+        "Fraxinus reference"
+      ],
+      "show": "paired attached wings vs individual wing; labels samara, paired mericarps, seed"
+    },
+    {
+      "priority": "high",
+      "role": "paired bud/twig with leaf scars",
+      "targets": [
+        "all four"
+      ],
+      "show": "opposite buds and leaf scars; cultivar/juvenile caution"
+    },
+    {
+      "priority": "high",
+      "role": "flowers and samara attachment",
+      "targets": [
+        "all four"
+      ],
+      "show": "flower stalk origin and intact paired fruit; compare wing angle only as supporting trait"
+    },
+    {
+      "priority": "high",
+      "role": "mature canopy, habitat and planted context",
+      "targets": [
+        "all four"
+      ],
+      "show": "riparian vs limestone canyon vs horticultural form, plus warning that habitat does not establish nativity"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Approved species installer",
+      "scope": "Acer grandidentatum + A. saccharinum",
+      "question": "Source-pool curated=yes but missing canonical species.json: independently reconcile installer/canonical status and accepted identity; no species installed here."
+    },
+    {
+      "lane": "Approved species installer / taxonomy",
+      "scope": "Acer palmatum",
+      "question": "Keep East Asian non-native comparison label and prevent native-only metric inclusion; determine whether a comparison species card is warranted before installing."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "scope": "four-Acer genus comparison",
+      "question": "Get exact-species same-scale mature leaf fronts and undersides, margin/sinus shots, and a joined maple samara versus a single ash samara; preserve provenance."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Canonical Acer negundo learner species",
+      "path": "content/taxa/Sapindaceae/Acer/acer-negundo/species.json",
+      "supports": "boxelder accepted identity, winged fruit, current target-zone status"
+    },
+    {
+      "source": "Flora of North Central Texas, Acer key",
+      "url": "https://fwbg.org/wp-content/uploads/2021/04/FNCT_0210-0617-Acanth-Euph.pdf",
+      "supports": "compound boxelder, silvery silver maple undersides, grandidentatum rounded sinuses"
+    },
+    {
+      "source": "NC State Plant Herbarium Acer key",
+      "url": "https://herbarium.ncsu.edu/tnc/acer.htm",
+      "supports": "silver versus Japanese maple blade underside and teeth"
+    },
+    {
+      "source": "NC State Extension Acer palmatum",
+      "url": "https://plants.ces.ncsu.edu/plants/acer-palmatum/",
+      "supports": "introduced ornamental and highly variable 5–9-lobed foliage"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-github-backfill",
+    "last_reviewed": "2026-10-11",
+    "structural_lesson": "four-source-pool-species comparison built",
+    "scientific_decisions": "no changes; native statuses only inherited from source records",
+    "visual_status": "diagnostic photos pending",
+    "species_installation": "none"
+  },
+  "look_here_first": "Start with opposite nodes. Are leaves compound (A. negundo) or simple and palmately lobed? If simple, compare depth of sinuses and lower-surface color across several mature leaves.",
+  "comparison": [
+    {
+      "character": "Leaf architecture",
+      "negundo": "Opposite compound, usually 3–5 leaflets.",
+      "grandidentatum": "Opposite simple, 3–5 broad lobes.",
+      "saccharinum": "Opposite simple, 3–5 lobes with deep V-shaped sinuses."
+    },
+    {
+      "character": "Sinuses",
+      "negundo": "Not comparable: leaflets rather than lobes.",
+      "grandidentatum": "Usually shallower and broader.",
+      "saccharinum": "Often very deep, angular and narrow."
+    },
+    {
+      "character": "Leaf underside",
+      "negundo": "Variable leaflets; not a simple-maple separator.",
+      "grandidentatum": "May be short-pubescent; not strongly silvery as a rule.",
+      "saccharinum": "Conspicuously pale/silvery; may also have hairs."
+    },
+    {
+      "character": "Fruit",
+      "negundo": "Paired samaras, V-shaped.",
+      "grandidentatum": "Paired samaras; use as confirmation, not sole split.",
+      "saccharinum": "Paired samaras often maturing early; angle variable."
+    }
+  ],
+  "cautions": [
+    "Acer grandidentatum synonyms under A. saccharum do not mean identical eastern sugar-maple concept.",
+    "Acer negundo is already canonical; this batch does not rewrite its species card.",
+    "Do not turn Texas state nativity into a project three-county PASS for either new species.",
+    "Fall leaf color, habit and fruit-wing angle alone are weak species characters."
+  ],
+  "visual_status": "Provisional genus comparison: licensed leaf and samara photos staged; matched diagnostic upper/lower leaf views and measured bud/fruit photos remain priorities."
+}

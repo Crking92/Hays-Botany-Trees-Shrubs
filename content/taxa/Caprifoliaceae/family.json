@@ -1,0 +1,400 @@
+{
+  "rank": "family",
+  "name": "Caprifoliaceae",
+  "common_name": "Honeysuckle family",
+  "lineage_context": {
+    "order": "Dipsacales",
+    "batch": "Dipsacales",
+    "close_project_families": [
+      "Viburnaceae"
+    ],
+    "teaching_goal": "Use opposite leaves + inferior ovary as the Dipsacales starting point, then teach two project doors inside broad Caprifoliaceae: woody honeysuckle/snowberry and herbaceous valerian."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas project-pool module across Lonicera, Symphoricarpos and current Valeriana concepts",
+    "note": "The source sheet stores Valerianella radiata and V. amarella. Current Kew places those concepts in Valeriana, so the learner uses Valeriana as the teaching genus while preserving Valerianella as source-name provenance."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "First look for OPPOSITE leaves on a node, then a FUSED corolla above an INFERIOR ovary (side-on macro still needed). Next split: woody vines/shrubs with fleshy fruit, versus small herbaceous valerian relatives with dry one-seeded fruit. For Lonicera specifically, use flower attachment (axillary pairs vs terminal whorls), corolla profile and ripe berry color.",
+    "vegetative": "Broad family with shrubs, vines and herbs. Project Lonicera and Symphoricarpos are woody with opposite simple leaves; the project Valeriana concepts are annual herbs with opposite leaves.",
+    "reproductive": "Flowers are usually epigynous with an inferior ovary and a sympetalous corolla. Flower symmetry and stamen number vary strongly across the family, so do not force a single corolla shape on every genus.",
+    "fruit": "Variable in the project pool: fleshy berry-like fruits in Lonicera and Symphoricarpos versus a dry one-seeded fruit in the valerian lineage.",
+    "field_tip": "Start at the stem: SIMPLE, opposite leaves often point toward the Dipsacales neighborhood. Inspect flower and fruit next: tubular/funnelform Lonicera and bell-flowered Symphoricarpos woody branches with berries versus Valeriana herb with small flowers and dry fruit. Confirm the inferior ovary on an appropriate side view; do not equate the whole family with native honeysuckles or mislabel L. japonica as native."
+  },
+  "visual_lesson": {
+    "status": "installed_lonicera_photo_examples; ovary_snowberry_valerian_macros_pending",
+    "teaching_order": "opposite leaf pairs → flower structure / inferior ovary (macro pending) → woody genus flowers and axillary versus terminal placement → ripe berry comparison → snowberry / valerian exceptions → Viburnaceae and Sambucus comparisons",
+    "intro": "Follow the same See → Spot → Name → Compare flow as green milkweed. In the physically installed Lonicera examples, inspect opposite simple leaves, cream or tubular fused flowers, where blossoms attach, and red-versus-black ripe berries. Caprifoliaceae ALSO includes snowberries and small valerian herbs; their diagnostic photos remain explicitly pending, and a Lonicera picture cannot stand in for those separate genera.",
+    "steps": [
+      {
+        "title": "1 · Opposite, simple leaves: Lonicera example",
+        "photo_role": "opposite simple leaves / foliage",
+        "look_for": "A SINGLE leaf blade on either side of a shoot. This installed coral honeysuckle foliage view is a real family example; a node close-up is still required to prove paired leaf attachment.",
+        "why_it_matters": "Opposite leaves help you enter Dipsacales, but do not settle the family or species. Viburnaceae also often has opposite foliage.",
+        "status": "installed_verified_reference",
+        "anchor_species_id": "lonicera-sempervirens",
+        "anchor_image_index": 2,
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_NRCS-003.jpg",
+        "image_credit": "USDA SCS / Robert H. Mohlenbrock · Public Domain · installed",
+        "annotation_status": "arrow_or_specialized_macro_pending"
+      },
+      {
+        "title": "2 · Confirm the inferior ovary",
+        "photo_role": "flower side view / ovary diagram",
+        "look_for": "An inferior ovary lies BELOW the attachment of the fused corolla, rather than enclosed inside an ordinary flower. None of the existing Lonicera flower photos is close enough to mark that boundary with a verified arrow; a side-on macro is still needed.",
+        "why_it_matters": "This is a high-value Dipsacales character shared with Viburnaceae.",
+        "status": "critical_macro_pending"
+      },
+      {
+        "title": "3 · Woody doorway: Texas honeysuckle flowers",
+        "photo_role": "flower / corolla",
+        "look_for": "Pale two-lipped tubular flowers on a short flowering tip. Use the open corolla and shoot architecture as a Lonicera example, not as a universal Caprifoliaceae flower plan.",
+        "why_it_matters": "Woody honeysuckles use fused corollas and then form fleshy berries. Other Caprifoliaceae members can look very different.",
+        "status": "installed_verified_reference",
+        "anchor_species_id": "lonicera-albiflora",
+        "anchor_image_index": 2,
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_albiflora.jpg",
+        "image_credit": "sonnia hill · CC BY 2.0 · installed",
+        "annotation_status": "arrow_or_specialized_macro_pending"
+      },
+      {
+        "title": "4 · Axillary flower pairs: introduced Japanese honeysuckle",
+        "photo_role": "flower / axillary paired blossom",
+        "look_for": "Find the little paired flower stalks originating near leaf axils, not at the very tip of the whole shoot. The flowers may be white or yellowish with age.",
+        "why_it_matters": "Teaches a genus-level structural difference and flags an introduced non-native encounter plant; it is not counted as a native family representative.",
+        "status": "installed_verified_reference",
+        "anchor_species_id": "lonicera-japonica",
+        "anchor_image_index": 0,
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_japonica_-_flowers,_leaves_(18870815578).jpg",
+        "image_credit": "Cornell NY State IPM Program · CC BY 2.0 · installed",
+        "annotation_status": "arrow_or_specialized_macro_pending"
+      },
+      {
+        "title": "5 · Long narrow tubes: coral honeysuckle",
+        "photo_role": "flower / long tubular corolla",
+        "look_for": "Long narrow trumpet-shaped corolla with relatively short lobes, in clustered blooms at the end of a shoot. This is L. sempervirens, not the entire family.",
+        "why_it_matters": "Compare the proportions with the shorter, open, two-lipped flowers of Texas/white honeysuckle. Exact matched ruler-scale photos remain needed.",
+        "status": "installed_verified_reference",
+        "anchor_species_id": "lonicera-sempervirens",
+        "anchor_image_index": 1,
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_285692603.jpg",
+        "image_credit": "Alex Abair · CC BY 4.0 · installed",
+        "annotation_status": "arrow_or_specialized_macro_pending"
+      },
+      {
+        "title": "6 · Red berries on native coral honeysuckle",
+        "photo_role": "fruit / ripe red berry",
+        "look_for": "A red berry attached to an identified coral honeysuckle shoot. Texas/white honeysuckle can ALSO produce red fruit.",
+        "why_it_matters": "Shows fleshy fruit on the honeysuckle branch of the family, but red berry color does not distinguish the two native comparison species.",
+        "status": "installed_verified_reference",
+        "anchor_species_id": "lonicera-sempervirens",
+        "anchor_image_index": 3,
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_012c.jpg",
+        "image_credit": "R. A. Nonenmacher · CC BY-SA 4.0 · installed",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "7 · Blackish berries on Japanese honeysuckle",
+        "photo_role": "fruit / ripe blackish berry",
+        "look_for": "A blackish ripe berry, documented on L. japonica. Compare this with the coral honeysuckle red-berry photo above.",
+        "why_it_matters": "A field-useful comparison for spotting non-native Japanese honeysuckle; verify the vine's flower insertion too.",
+        "status": "installed_verified_reference",
+        "anchor_species_id": "lonicera-japonica",
+        "anchor_image_index": 2,
+        "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_japonica,_Fruit.JPG",
+        "image_credit": "Qwert1234 · Public Domain · installed",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "8 · Woody door: Symphoricarpos",
+        "photo_role": "small bell/funnel flower + berry cluster",
+        "look_for": "Opposite leaves, small clustered sympetalous flowers and conspicuous white, pink or red berry-like fruits depending on species.",
+        "why_it_matters": "Shows a second woody Caprifoliaceae architecture beside Lonicera.",
+        "status": "snowberry_exact_photo_pending"
+      },
+      {
+        "title": "9 · Herb door: current Valeriana",
+        "photo_role": "cornsalad whole plant + flower/fruit macro",
+        "look_for": "Small opposite-leaved herb with tiny clustered flowers and a dry one-seeded fruit rather than a berry.",
+        "why_it_matters": "Prevents the learner from equating Caprifoliaceae with woody honeysuckles only.",
+        "status": "valeriana_exact_photo_pending"
+      },
+      {
+        "title": "10 · Taxonomy card: Valerianella → Valeriana",
+        "photo_role": "accepted-name comparison card",
+        "look_for": "Source Valerianella radiata → Valeriana woodsiana; source Valerianella amarella → Valeriana amarella.",
+        "why_it_matters": "Keeps source provenance without teaching an outdated current genus.",
+        "status": "taxonomic_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Caprifoliaceae vs Viburnaceae",
+        "rule": "Both often have opposite leaves and inferior ovaries. Project Viburnaceae is woody with mostly small regular 5-part flowers in broad clusters and drupaceous fruit; Caprifoliaceae includes more tubular/zygomorphic honeysuckle flowers and also the herbaceous valerian dry-fruit lineage."
+      },
+      {
+        "title": "Lonicera vs Sambucus",
+        "rule": "Both can be woody with opposite leaves and clustered flowers, but Lonicera has simple leaves and conspicuous tubular/funnelform flowers; Sambucus has pinnately compound leaves and broad flat-topped clusters of small regular flowers."
+      },
+      {
+        "title": "Valeriana vs Viburnaceae",
+        "rule": "Current Valeriana project taxa are small herbs with dry one-seeded fruits; Sambucus and Viburnum are woody and produce drupaceous fruits."
+      },
+      {
+        "title": "Viburnum vs Symphoricarpos — cut fruit",
+        "rule": "Both can be opposite-leaved woody shrubs with fleshy fruit. Cut a mature fruit: Viburnum generally has a single hard stone (pyrene), whereas Symphoricarpos typically has two seed-bearing nutlets/pyrenes. Do not use white versus dark berry color as proof; confirm flowers and fruit anatomy."
+      }
+    ],
+    "caveat": "Photos currently show REAL Lonicera flowers, leaves and two fruit colors. A photographed cross-section establishing an inferior ovary, documented Symphoricarpos and Valeriana macros, and truly measured corolla/bract arrows are still missing. Do not claim white/short, red/long, or dark fruit alone as a family diagnosis; Japanese honeysuckle remains NON-NATIVE and the native pair's three-county status remains UNRESOLVED.",
+    "photo_coverage_note": "Six family examples are backed by actual licensed installed Lonicera species images (foliage, white flower, Japanese axillary pair, coral trumpet, coral red fruit, Japanese black fruit). Three separate family concepts (inferior ovary, snowberry and valerian) remain visually unfinished; taxonomy mapping is text-only pending its visual card. No Lonicera photograph is passed off as Symphoricarpos or Valeriana.",
+    "photo_source_key": [
+      {
+        "anchor_species_id": "lonicera-sempervirens",
+        "anchor_image_index": 2,
+        "role": "opposite simple foliage",
+        "file": "content/taxa/Caprifoliaceae/Lonicera/lonicera-sempervirens/images/03-coral-honeysuckle-foliage.jpg",
+        "credit": "Robert H. Mohlenbrock / USDA SCS · Public Domain"
+      },
+      {
+        "anchor_species_id": "lonicera-albiflora",
+        "anchor_image_index": 2,
+        "role": "terminal short cream flowers",
+        "file": "content/taxa/Caprifoliaceae/Lonicera/lonicera-albiflora/images/03-texas-origin-flowering-branch.jpg",
+        "credit": "sonnia hill · CC BY 2.0"
+      },
+      {
+        "anchor_species_id": "lonicera-sempervirens",
+        "anchor_image_index": 1,
+        "role": "corolla tube",
+        "file": "content/taxa/Caprifoliaceae/Lonicera/lonicera-sempervirens/images/02-coral-honeysuckle-flower-close.jpg",
+        "credit": "Alex Abair · CC BY 4.0"
+      },
+      {
+        "anchor_species_id": "lonicera-japonica",
+        "anchor_image_index": 0,
+        "role": "axillary flower pairs",
+        "file": "content/taxa/Caprifoliaceae/Lonicera/lonicera-japonica/images/01-japanese-honeysuckle-axillary-flowers.jpg",
+        "credit": "NY State IPM / Cornell · CC BY 2.0"
+      },
+      {
+        "anchor_species_id": "lonicera-japonica",
+        "anchor_image_index": 2,
+        "role": "black mature berries",
+        "file": "content/taxa/Caprifoliaceae/Lonicera/lonicera-japonica/images/03-japanese-honeysuckle-black-fruit.jpg",
+        "credit": "Qwert1234 · Public Domain"
+      },
+      {
+        "anchor_species_id": "lonicera-sempervirens",
+        "anchor_image_index": 3,
+        "role": "red mature berries",
+        "file": "content/taxa/Caprifoliaceae/Lonicera/lonicera-sempervirens/images/04-coral-honeysuckle-ripe-red-fruit.jpg",
+        "credit": "R. A. Nonenmacher · CC BY-SA 4.0"
+      }
+    ],
+    "part_specific_photo_handoff": [
+      {
+        "species_reference": "Lonicera sempervirens (existing licensed reference) versus Sambucus canadensis (matched comparison needed)",
+        "plain": "one leaf blade versus one leaf divided into leaflets",
+        "formal": "opposite simple leaves versus opposite pinnately compound leaves; node, petiole, rachis",
+        "photo_role": "same-scale stem nodes and whole leaves showing petiole attachment and rachis",
+        "media_status": "Lonicera foliage image installed with creator/license verified in species.json; comparison anatomy not visually verified; Sambucus matched photo needed",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Show how to distinguish a whole simple leaf from several leaflets of one compound elderberry leaf."
+      },
+      {
+        "species_reference": "Symphoricarpos species versus Viburnum rufidulum",
+        "plain": "two little hard seed-bearing pieces versus one stone",
+        "formal": "two nutlets/pyrenes versus a single drupe pyrene",
+        "photo_role": "matched mature-fruit longitudinal sections with seeds and stones in focus",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Count internal hard fruit structures; berry color and leaf shape alone cannot resolve the family."
+      },
+      {
+        "species_reference": "Lonicera albiflora versus Valeriana woodsiana",
+        "plain": "flower tube sits above the seed-bearing swelling; fruit turns fleshy or stays dry",
+        "formal": "epigynous corolla above inferior ovary; berry versus dry one-seeded fruit",
+        "photo_role": "matched side-on flower and mature-fruit macro for woody honeysuckle and herbaceous valerian",
+        "media_status": "Lonicera flower reference installed and licensed, but ovary boundary not visually verified; Valeriana side view and fruit need photos",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Locate the inferior ovary in both, then compare a honeysuckle berry with a valerian dry fruit."
+      },
+      {
+        "species_reference": "Lonicera japonica (existing licensed reference) versus local Rubiaceae representative",
+        "plain": "look between paired leaf stalks for a little flap",
+        "formal": "opposite leaf node with interpetiolar stipules versus no conspicuous interpetiolar stipules",
+        "photo_role": "same-angle paired leaf-node macros with stipule junction visible",
+        "media_status": "Lonicera foliage/flower references installed with verified metadata; exact node anatomy and Rubiaceae comparator need photo verification",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Label the actual interpetiolar stipule on Rubiaceae; never claim a missing stipule is proven by an inadequate photo."
+      }
+    ],
+    "photo_validation_note": "Six existing Lonicera photo references were checked against exact-species species.json creator/license/source records and confirmed present as JPEG files in main on 2026-10-16. This checks file existence and recorded rights, NOT pixel-level diagnostic anatomy or arrow placement. Existing license restrictions, including CC BY-SA, remain unchanged."
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 3,
+    "current_teaching_genus_count": 3,
+    "genera": [
+      {
+        "genus": "Lonicera",
+        "source_taxa_count": 3,
+        "current_taxa_count": 3,
+        "fast_cue": "woody/vining + opposite simple leaves + tubular/funnelform fused corolla + berry",
+        "role": "honeysuckle door"
+      },
+      {
+        "genus": "Symphoricarpos",
+        "source_taxa_count": 2,
+        "current_taxa_count": 2,
+        "fast_cue": "opposite-leaved shrub + small clustered flowers + conspicuous berry-like fruit",
+        "role": "snowberry/coralberry door"
+      },
+      {
+        "genus": "Valeriana",
+        "source_genus_alias": "Valerianella",
+        "source_taxa_count": 2,
+        "current_taxa_count": 2,
+        "fast_cue": "small opposite-leaved herb + tiny flower clusters + dry one-seeded fruit",
+        "role": "valerian/cornsalad door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Lonicera japonica",
+    "Lonicera albiflora",
+    "Lonicera sempervirens",
+    "Symphoricarpos orbiculatus",
+    "Symphoricarpos albus",
+    "Valerianella radiata",
+    "Valerianella amarella"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Valerianella radiata",
+      "current_name": "Valeriana woodsiana",
+      "note": "Current Kew treats both Valerianella radiata and the Valeriana radiata combination as synonyms of accepted Valeriana woodsiana."
+    },
+    {
+      "source_name": "Valerianella amarella",
+      "current_name": "Valeriana amarella",
+      "note": "Current Kew accepts Valeriana amarella and lists Valerianella amarella as a synonym."
+    },
+    {
+      "source_name": "Lonicera albiflora",
+      "current_name": "Lonicera albiflora",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Lonicera sempervirens",
+      "current_name": "Lonicera sempervirens",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Symphoricarpos orbiculatus",
+      "current_name": "Symphoricarpos orbiculatus",
+      "note": "Accepted current species."
+    },
+    {
+      "source_name": "Symphoricarpos albus",
+      "current_name": "Symphoricarpos albus",
+      "note": "Accepted current species."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "inferior ovary side view",
+      "annotation_goal": "show corolla insertion above ovary"
+    },
+    {
+      "priority": 1,
+      "structure": "Lonicera vs Sambucus",
+      "annotation_goal": "simple leaves + tubular flower versus compound leaves + flat flower cluster"
+    },
+    {
+      "priority": 1,
+      "structure": "Valerianella → Valeriana taxonomy card",
+      "annotation_goal": "source names to accepted current concepts"
+    },
+    {
+      "priority": 2,
+      "structure": "Lonicera vs Symphoricarpos fruit/flower card",
+      "annotation_goal": "honeysuckle versus snowberry/coralberry architecture"
+    },
+    {
+      "priority": 2,
+      "structure": "woody door vs valerian herb door",
+      "annotation_goal": "show why Caprifoliaceae has two different project gestalts"
+    },
+    {
+      "priority": 1,
+      "structure": "Lonicera albiflora vs sempervirens measured corolla side views",
+      "annotation_goal": "two corolla profiles same magnification, mark tube length and flower lips; both native fruits can be red",
+      "status": "specialist matched pair still needed; existing species images shown as unmeasured reference"
+    },
+    {
+      "priority": 1,
+      "structure": "Lonicera japonica axillary node vs L. albiflora/sempervirens terminal flower attachment",
+      "annotation_goal": "shoot context and precise verified arrow to point of attachment",
+      "status": "existing installed reference photos, accurate close-up arrows pending"
+    },
+    {
+      "priority": 1,
+      "structure": "Caprifoliaceae inferior ovary below fused corolla",
+      "annotation_goal": "botanically verified side/section of ovary and insertion, not a guessed arrow",
+      "status": "real macro pending"
+    },
+    {
+      "priority": 2,
+      "structure": "Woody Symphoricarpos and herbaceous Valeriana photographed anchors",
+      "annotation_goal": "actual local species with recognizable flower and fruit view",
+      "status": "not acquired; existing Lonicera pictures must not stand in"
+    },
+    {
+      "priority": 1,
+      "structure": "true inferior ovary in side-on Lonicera, Symphoricarpos or Valeriana flower",
+      "annotation_goal": "verified insertion of corolla above ovary, with no hidden anatomical guess; photo not yet installed",
+      "status": "needs_photo"
+    },
+    {
+      "priority": 1,
+      "structure": "Symphoricarpos and current Valeriana exact real plant parts",
+      "annotation_goal": "represent whole family, not just the Lonicera genus; small corolla + berry vs herbaceous dry fruit",
+      "status": "needs_photo"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Lonicera albiflora",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:148598-1"
+    },
+    {
+      "source": "Plants of the World Online — Lonicera sempervirens",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30080890-2"
+    },
+    {
+      "source": "Plants of the World Online — Symphoricarpos orbiculatus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149465-1"
+    },
+    {
+      "source": "Plants of the World Online — Symphoricarpos albus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:149485-1"
+    },
+    {
+      "source": "Plants of the World Online — Valeriana woodsiana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77185698-1"
+    },
+    {
+      "source": "Plants of the World Online — Valeriana amarella",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77184176-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-family-photo-led-honeysuckle-anchors",
+    "last_reviewed": "2026-10-13",
+    "visual_lock": "Family photo-led lesson has 6 existing installed Lonicera photos as licensed structural representatives; inferior ovary, snowberry and Valeriana photos remain pending",
+    "family_backfill_phase": "recognition module built; species promotion independent",
+    "photo_examples_installed_reused": 6,
+    "visual_photo_polish": "2026-10-13"
+  }
+}

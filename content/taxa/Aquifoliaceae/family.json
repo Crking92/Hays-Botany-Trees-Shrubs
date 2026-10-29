@@ -1,0 +1,86 @@
+{
+  "rank": "family",
+  "name": "Aquifoliaceae",
+  "common_name": "Holly family",
+  "project_scope": {
+    "selection_mode": "Central Texas Ilex visual module",
+    "note": "Canonical Ilex species are clickable; external rights-cleared photos supply the visual layer."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with alternate simple leaves and tiny axillary flowers, then confirm a superior ovary maturing into a drupe with several pyrenes.",
+    "habit": "Woody shrubs/trees; local set spans deciduous possumhaw and evergreen yaupon.",
+    "flowers": "Tiny mostly 4–5-merous unisexual flowers; plants usually dioecious.",
+    "fruit": "Small drupe with several hard pyrenes, not a true botanical berry.",
+    "field_tip": "Red fruit alone is not enough—leaf texture and deciduous/evergreen habit matter."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "The holly lesson is mostly about separating leaf/habit types while keeping the same tiny-flower → multi-pyrene drupe architecture.",
+    "steps": [
+      {
+        "title": "1 · Deciduous possumhaw",
+        "photo_role": "winter fruiting twig",
+        "anchor_species_id": "ilex-decidua",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ilex_decidua_4.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_decidua_4.jpg",
+        "image_label": "Ilex decidua winter fruit",
+        "image_credit": "CC BY-SA 4.0 · Eric Hunt",
+        "look_for": "Leafless winter twigs loaded with red/orange drupes.",
+        "why_it_matters": "Shows the deciduous exception inside a family many people assume is evergreen.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "2 · Evergreen yaupon fruit",
+        "photo_role": "yaupon fruiting stem",
+        "anchor_species_id": "ilex-vomitoria",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ilex_vomitoria_366737061.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_366737061.jpg",
+        "image_label": "Ilex vomitoria fruit",
+        "image_credit": "CC BY 4.0 · Alex Abair",
+        "look_for": "Tiny leathery evergreen leaves with persistent red drupes.",
+        "why_it_matters": "Builds the evergreen local anchor.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "3 · Learn flower sex",
+        "photo_role": "pistillate yaupon flower",
+        "anchor_species_id": "ilex-vomitoria",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ilex_vomitoria,_Yaupon_Holly,_pistillate_flowers,_Green_Farmacy_Garden,_Fulton,_Md,_Helen_Lowe_Metzman_2019-10-23-17.20.38_ZS_PMax_UDR_(49426959648).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria,_Yaupon_Holly,_pistillate_flowers,_Green_Farmacy_Garden,_Fulton,_Md,_Helen_Lowe_Metzman_2019-10-23-17.20.38_ZS_PMax_UDR_(49426959648).jpg",
+        "image_label": "Yaupon pistillate flower",
+        "image_credit": "Public Domain · USGS / Helen Lowe Metzman",
+        "look_for": "Tiny flower with functional ovary and reduced staminodes.",
+        "why_it_matters": "Explains why only female plants fruit in dioecious hollies.",
+        "status": "rights_cleared_external_anchor"
+      },
+      {
+        "title": "4 · Nursery-trade comparison",
+        "photo_role": "American holly staminate flower",
+        "anchor_species_id": "ilex-opaca",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_opaca,_American_Holly,_staminate_flowers,_Howard_County,_Md,_Helen_Lowe_Metzman_2019-10-23-17.07.05_ZS_PMax_UDR_(49426959028).jpg",
+        "image_label": "Ilex opaca staminate flower",
+        "image_credit": "Public Domain · USGS / Helen Lowe Metzman",
+        "look_for": "Functional stamens and a reduced pistillode.",
+        "why_it_matters": "Provides a male-flower comparison while retaining I. opaca as a non-target-zone native comparison only.",
+        "status": "rights_cleared_external_anchor"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Aquifoliaceae vs Ebenaceae",
+        "rule": "Ilex has small drupes with several pyrenes and tiny axillary flowers; Diospyros has larger berries with a conspicuous persistent calyx."
+      },
+      {
+        "title": "Possumhaw vs yaupon",
+        "rule": "Possumhaw is deciduous with larger thinner leaves; yaupon is evergreen with tiny leathery crenate leaves."
+      }
+    ],
+    "caveat": "American holly remains a comparison taxon and should not be counted in project-native metrics."
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "first_pass_complete"
+  }
+}

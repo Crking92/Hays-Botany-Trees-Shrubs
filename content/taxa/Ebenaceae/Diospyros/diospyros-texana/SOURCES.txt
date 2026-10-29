@@ -1,0 +1,36 @@
+Diospyros texana — SOURCES
+Reviewed: 2026-10-02
+Status: APPROVED FOR CURATION
+
+TAXONOMY
+Plants of the World Online — Diospyros texana Scheele:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A323100-1
+Flora of North America Diospyros key:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=110299
+
+STRICT TARGET-ZONE RANGE
+Hays County — UT Plant Resources Center Natural Purola flora:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Travis County — UC Davis report with wild Diospyros texana provenance:
+https://ccuh.ucdavis.edu/sites/g/files/dgvnsk1376/files/inline-files/Griswold_Hart_Final_Report_2019-2020.pdf
+Williamson County — UT Plant Resources Center:
+https://w3.biosci.utexas.edu/prc/K12/pages/Diospyros%20texana.html
+
+MORPHOLOGY / COMPARISON
+UT Vascular Plants of Williamson County:
+https://w3.biosci.utexas.edu/prc/K12/pages/Diospyros%20texana.html
+Flora of North America Diospyros key:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=110299
+Texas A&M Plants of Texas Rangelands:
+https://rangeplants.tamu.edu/plant/texas-persimmon/
+US Forest Service FEIS:
+https://research.fs.usda.gov/feis/species-reviews/diotex
+
+IMAGES
+Exact installed images are the credited Forest Service FEIS/iNaturalist-derived images listed in image-sources.csv.
+Other authoritative source pages remain teaching references for bark, flowers, and mature fruit.
+JOEY SANTORE SPECIES LAYER
+Video: Relict Madrones in the Desert
+Video ID: 4zKfoRtl4Co
+Record jvid-4zKfoRtl4Co-013 @ 09:18 — source-explicit Diospyros texana; smooth pale bark and woody habit.
+Rights: extracted Joey frame is a private-study asset; public reuse is not assumed.

@@ -1,0 +1,249 @@
+{
+  "id": "quercus-muehlenbergii",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "muehlenbergii",
+  "scientific_name": "Quercus muehlenbergii",
+  "authority": "",
+  "common_name": "Chinkapin oak",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Start with several adult leaves: chinkapin oak has an elongated chestnut-like blade with many regularly spaced teeth, each served by a near-parallel lateral vein; its sharp/forward-pointing teeth have NO red-oak terminal bristle. Turn over the leaf for a pale, minute stellate-hairy surface, and confirm a moderately sized acorn in a NON-fringed cup. Compare bur oak's midleaf waist and shaggy cup.",
+  "county_occurrences_target_zone": [
+    "Bandera",
+    "Real",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Quercus muehlenbergii and lists Texas in its native range. Bell County — Fort Cavazos current INRMP identifies Chinkapin oak as a native species on the installation. Bandera County — a documented wild Texas collection from Bandera County records Q. muehlenbergii growing naturally in canyon/creek habitat. Real County — the USNVC Southern Edwards Plateau Bigtooth Maple Canyon Forest explicitly includes Q. muehlenbergii and is documented at several locations in Real County. Kerr: Singhurst et al. 2010 Kerr WMA vegetation and flora, chinkapin oak dominant in wild mesic limestone canyon woodland; voucher JS 10039, LS 4222 (p.516). Bandera, Real, Kerr meet project threshold; Bell excluded.",
+    "range_guardrail": "The user's single iNaturalist source-pool observation is not counted because it is not marked wild. County qualification uses explicit native/wild/ecological evidence.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Bell",
+        "Bandera",
+        "Real"
+      ],
+      "valid_target_counties": [
+        "Bandera",
+        "Real"
+      ],
+      "excluded_counties": [
+        "Bell"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 2 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "Kew/POWO accepts Quercus muehlenbergii and lists Texas in its native range. Bell County — Fort Cavazos current INRMP identifies Chinkapin oak as a native species on the installation. Bandera County — a documented wild Texas collection from Bandera County records Q. muehlenbergii growing naturally in canyon/creek habitat. Real County — the USNVC Southern Edwards Plateau Bigtooth Maple Canyon Forest explicitly includes Q. muehlenbergii and is documented at several locations in Real County.",
+      "source_document": "content/taxa/Fagaceae/Quercus/quercus-muehlenbergii/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    },
+    "native_range_reconciliation": {
+      "date": "2026-10-14",
+      "status": "PASS",
+      "confidence": "high",
+      "accepted_scientific_name": "Quercus muehlenbergii Engelm.",
+      "verified_target_counties": [
+        "Bandera",
+        "Real",
+        "Kerr"
+      ],
+      "source_url": "https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf",
+      "source_detail": "Kerr WMA natural habitat + vouchers JS 10039 and LS 4222, p.516.",
+      "reason": "Kerr native woodland voucher is independent third qualifying county; previous non-target Bell remains in historical audit."
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous medium-to-large white-oak-group tree",
+      "leaf blade obovate to elliptic, usually unlobed to shallowly undulate",
+      "roughly 8–14 pairs of strong parallel secondary veins ending in regular marginal teeth",
+      "teeth lack red-oak bristle tips",
+      "lower leaf surface pale/glaucous with minute stellate hairs",
+      "bark light to medium gray, thin and flaky/scaly",
+      "acorn matures in one season; cup commonly encloses about one-quarter to one-half of nut",
+      "Leaves usually 50–150 × 40–80 mm, leathery, obovate or sometimes narrower, margins regularly undulate/serrate, teeth often strongly antrorse (forward-pointing) but lack red-oak bristles.",
+      "Secondary lateral veins usually 10–14 near-parallel pairs reaching evenly spaced marginal teeth; look at multiple mature leaves.",
+      "Abaxial surface pale/glaucous and seemingly nearly glabrous, but minute appressed symmetric 6–10-rayed stellate hairs occur; adaxial mature blades often glossy.",
+      "Acorns commonly 1–2, sessile or on stalk up to 8 mm; cup 4–12 mm deep × 8–22 mm broad, encloses 1/4–1/2 nut; cup scales tuberculate but NOT long-fringed.",
+      "Acorn nut generally 15–20 mm long (range 13–28 mm), 1-year maturation; bur oak nuts often substantially larger.",
+      "Found on limestone/calcareous woods and canyons in the western range; occasionally stunted and shrubby in xeric terrain, so habit alone is unreliable."
+    ],
+    "oak_training": "Use leaf architecture plus bark/twig/buds and mature acorn/cupule; never identify an oak from leaf silhouette alone."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus macrocarpa",
+      "Quercus alba",
+      "Quercus michauxii"
+    ],
+    "key_distinctions": "Quercus macrocarpa: Bur oak usually has much broader, deeply lobed or fiddle-shaped leaves and an enormous fringed cup; chinkapin oak has chestnut-like regularly toothed leaves without a deep midleaf waist. Quercus alba: White oak has obvious rounded lobes through much of the blade; chinkapin oak is primarily toothed rather than deeply lobed. Quercus michauxii: Swamp chestnut oak generally has larger leaves with coarser rounded teeth and is an East/Southeast Texas confuser rather than the typical limestone Hill Country form."
+  },
+  "tags": [
+    "Fagaceae",
+    "Quercus",
+    "Chinkapin oak",
+    "Oak comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-007+b116-visual",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "visual_reviewed": true,
+    "visual_status": "usable-partial",
+    "photo_metadata_count": 5,
+    "last_visual_reviewed": "2026-10-08",
+    "photo_files_present": 3
+  },
+  "photo_note": "Three licensed physical photographs verified: toothed leaves with immature acorn cups, mature trunk/crown, and bark. Mature fruit and twig/bud macros remain follow-up.",
+  "photo_strategy": {
+    "method": "B116 existing-material-first visual lock",
+    "target_count": "2 strong diagnostic views now; add twig/bud or additional fruit macro only where it materially improves field ID",
+    "visual_priority": "diagnostic structure over generic habit",
+    "public_release_guardrail": "Current sources are authorized for private study; re-check exact reuse rights before any public release."
+  },
+  "images": [
+    {
+      "file": "images/01-leaves-acorns.jpg",
+      "role": "Toothed leaf surfaces and immature acorn cups",
+      "creator": "Jim Conrad",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_muehlenbergii-leaves-immature-acorns.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-tree-reference.jpg",
+      "role": "Mature trunk and spreading crown",
+      "creator": "Kim Scarborough",
+      "license": "CC BY-SA 2.5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chinkapin_oak.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-bark.jpg",
+      "role": "Bark close-up",
+      "creator": "Krzysztof Golik",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_muehlenbergii_in_Hackfalls_Arboretum_(1).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_muehlenbergi_5QYiVht8Ucco.jpe",
+      "role": "MATURE brown chinkapin oak acorns and gray tuberculate cups against black background",
+      "creator": "Bruce Kirchoff",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://plants.ces.ncsu.edu/plants/quercus-muehlenbergii/",
+      "platform": "NC State Extension Gardener Plant Toolbox",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "media_storage": "external_direct_url",
+      "image_verified": "Image visually verified via stable HTTP web image retrieval 2026-10-08",
+      "diagnostic_visibility": "Three mature acorns, including one isolated cup and two nuts with scaly gray cups, proving cap texture/non-shaggy rim; no millimeter ruler",
+      "age_stage": "mature brown nut (explicit NC State caption)",
+      "scientific_name_verified": "Quercus muehlenbergii"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Quercus_muehlenbergii_5444930.jpg/960px-Quercus_muehlenbergii_5444930.jpg",
+      "role": "Adult chinkapin oak elongated blade with repeated non-bristled teeth and convergent lateral veins",
+      "creator": "Rob Routledge, Sault College, Bugwood.org",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_muehlenbergii_5444930.jpg",
+      "platform": "Wikimedia Commons / Bugwood",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "media_storage": "external_direct_url",
+      "image_verified": "Wikimedia Commons source/license plus visual image retrieval 2026-10-08",
+      "diagnostic_visibility": "Several triangular rounded-to-pointed marginal teeth and leaf upper surface, veins visible; underside hair microscopy NOT in image",
+      "age_stage": "adult leafy branch",
+      "scientific_name_verified": "Quercus muehlenbergii"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "Three licensed physical photographs verified: toothed leaves with immature acorn cups, mature trunk/crown, and bark. Mature fruit and twig/bud macros remain follow-up. Scientific PASS unchanged."
+  },
+  "diagnostic_comparison": {
+    "priority_group": "Chinkapin oak vs bur oak",
+    "where_to_look_first": "Compare regular forward-pointing teeth + numerous parallel veins vs a deeply waisted leaf; confirm via mature cup fringe, size, and lower-surface hairs.",
+    "pair_species_id": "quercus-macrocarpa",
+    "pair_specific_tie_breakers": {
+      "quercus-macrocarpa": "Bur oak usually has a broad leaf with a dramatic pair of deep middle/proximal sinuses (waist) plus a conspicuous soft-fringed giant cup; chinkapin has a more even sequence of marginal teeth with 10–14 nearly parallel veins and smaller, non-fringed cups."
+    },
+    "unreliable_alone": [
+      "Pointed tooth tips are not the same as red-oak terminal bristles.",
+      "Western or immature bur oak acorns may have reduced fringe and overlap in cup size.",
+      "Existing chinkapin gallery's acorn photo is immature; do not mark mature cupule view complete.",
+      "Edwards Plateau Q. brayi forms are treated as clinal by FNA; do not create a separate species record solely on this label."
+    ],
+    "hybrid_guardrail": "Use adult leaves and a mature cup, not leaf silhouette or habitat alone."
+  },
+  "diagnostic_image_plan": {
+    "priority": "high",
+    "status": "partial-mature-fruit-now-visible",
+    "needs": [
+      "Full mature leaf upper/lower, ruler, count 10–14 secondary-vein pairs",
+      "Margin teeth macro showing sharp antrorse tooth without bristle",
+      "10–20× lower-surface symmetrical appressed stellate hairs",
+      "RIPE acorn and cup side-profile with mm ruler (not immature image)",
+      "Cupule scale macro showing tubercles but no soft fringe",
+      "Thin pale-gray flaky bark and whole-tree field context"
+    ],
+    "guardrail": "Existing gallery/photos and licenses preserved. Current chinkapin leaf+acorn reference documents IMMATURE acorns, not a measured ripe cup.",
+    "covered_by_new_gallery": [
+      "MATURE dark acorn with knobby gray cup (no mm scale)",
+      "regular marginal tooth pattern in adult upper leaf"
+    ],
+    "remaining_macro_priorities": [
+      "ripe fruit with mm ruler (cup depth and nut length)",
+      "cup scale ultra-macro vs bur shaggy soft fringe",
+      "nonbristled tooth with mm ruler macro",
+      "abaxial tiny stellate hairs at 10–20× (current photos are not microscopy)"
+    ]
+  },
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417084"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "chinkapin-bur field-id pair",
+    "scope": "FNA structural cues and diagnostic image shot list; scientific native-range, approval and previous image metadata unchanged."
+  },
+  "photo_backfill_2026_10_08": {
+    "added_count": 2,
+    "external_images_total": 2,
+    "status": "ripe_acorn_and_leaf_visible_but_microscopy_pending",
+    "source_exact_taxon": "Quercus muehlenbergii",
+    "existing_immature_acorn_image_preserved": true,
+    "nc_state_mature_acorn_photo_credit": "Bruce Kirchoff / CC BY 2.0",
+    "commons_leaf_credit": "Rob Routledge / CC BY 3.0",
+    "offline_ready": false,
+    "photographic_role_checks": [
+      "dark brown mature acorns; gray scaly cup no long fringe",
+      "adult blade with regular tooth pattern"
+    ],
+    "reviewed_on": "2026-10-08"
+  },
+  "photo_notes": " 2026-10-08: Added two vetted remotely hosted images for mature brown acorn/cup (NC State, CC BY) and mature toothed leaf (Wikimedia, CC BY); still no physical image copies for these two, scale or trichome macro.",
+  "native_metrics_excluded": false
+}

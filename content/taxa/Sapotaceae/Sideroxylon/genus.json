@@ -1,0 +1,179 @@
+{
+  "rank": "genus",
+  "family": "Sapotaceae",
+  "name": "Sideroxylon",
+  "common_group": "Bumelias / buckthorns",
+  "project_scope": {
+    "selection_mode": "B049 singleton genus anchor",
+    "species_ids": [
+      "sideroxylon-lanuginosum"
+    ],
+    "species_count": 1
+  },
+  "study_strategy": {
+    "priority": [
+      "spine-like short shoots",
+      "leaf underside pubescence",
+      "leaf arrangement",
+      "flower fascicles",
+      "fruit"
+    ],
+    "warning": "Local infraspecific names have shifted. Teach the stable species-level field concept first."
+  },
+  "curation_status": {
+    "version": "genus-field-photo-2026-10-13",
+    "last_reviewed": "2026-10-13",
+    "visual_photo_panels": 3,
+    "photo_enrichment_status": "3 physical licensed JPEG files installed; workflow successful with zero warnings",
+    "field_ready_assessment": "provisional photo recognition only; missing verified decisive underside/spine photos",
+    "no_unverified_arrows": true,
+    "final_photo_polish": "spine-tip and leaf-underside/fruit/flower macros still needed"
+  },
+  "look_here_first": "Find a thorny short shoot and FLIP a mature leaf. Gum bumelia has alternate simple smooth-edged leaves, generally glossy green above and thickly woolly/grayish to tawny beneath, often clustered on short spur shoots. The leaves are not genuinely whorled. Then seek tiny whitish flower clusters or dark oblong fruits with hard seed.",
+  "genus_recognition": {
+    "habitus": "Woody native Sapotaceae shrub or small tree, armed and unarmed shoots possible. Twigs sometimes end in stout, rigid spine-like short-shoot tips.",
+    "node_leaf": "Leaves are alternate, but can APPEAR clustered or whorled where several arise on a short spur; distinguish the full shoot from a single cropped leaf tuft.",
+    "leaf": "Entire leathery elliptic to obovate simple blades, darker glossier above, varying pale/woolly below, especially young leaves; underside hair may persist or thin with age and different infraspecific forms.",
+    "flower_and_fruit": "Tiny cream-white clustered flowers at short shoots, later dark blue-black oblong fleshy fruits usually with one large glossy hard seed.",
+    "latex": "Sticky gum/latex only as a supporting field cue where already exposed; do not cut living stems solely to test."
+  },
+  "field_id_sequence": [
+    "1. Find a FULL shoot and observe the alternate leaf attachments plus congested short spur branches; do not infer an opposite/whorled leaf arrangement from a spur tuft.",
+    "2. Inspect mature upper versus lower leaf surfaces on the SAME leaf. The underside's pale to tawny woolly hairs, when present, strongly support S. lanuginosum.",
+    "3. Look along older shoots for rigid sharp spur tips; thorns are useful but may be absent from part of an individual plant.",
+    "4. Check small flowers clustered on spurs in spring/summer or elongated blue-black berries in late summer/fall; avoid fruit-color-only ID.",
+    "5. Compare persimmon and hollies using persistent fruit calyx, fruit type, twig spines, and abaxial pubescence; if no underside or shoot is documented, stay at genus/family level."
+  ],
+  "lookalike_matrix": [
+    {
+      "character": "Lower leaf surface",
+      "Sideroxylon lanuginosum": "Often densely woolly/tawny/gray below, especially young leaves; older leaves may be less hairy",
+      "Sideroxylon celastrinum": "Usually much smoother/glabrous underside and smaller blades; native farther south in Texas (separate related taxon)",
+      "Diospyros texana": "No similarly dense woolly bumelia underside; hairs/variation may occur in young growth",
+      "Ilex decidua": "Usually not densely woolly; deciduous leaves often with fine marginal teeth"
+    },
+    {
+      "character": "Leaves and short shoots",
+      "Sideroxylon lanuginosum": "Entire alternate leaves clustered on spur branches with some short shoots ending in rigid spines",
+      "Sideroxylon celastrinum": "Similar thorny Sideroxylon; underside texture is a higher-value split",
+      "Diospyros texana": "Thornless alternate leaves; smooth gray peeling older bark is often distinctive",
+      "Ilex decidua": "Alternate thin leaves, often finely crenate, generally unarmed"
+    },
+    {
+      "character": "Fruit",
+      "Sideroxylon lanuginosum": "Blackish oblong fleshy fruit, one hard glossy seed; stems sometimes spiny",
+      "Sideroxylon celastrinum": "Dark berries too—cannot separate by fruit color alone",
+      "Diospyros texana": "Fleshy black persimmon with prominent persistent cup-shaped calyx",
+      "Ilex decidua": "Clustered small orange-red/orange drupes persisting on bare shoots, not oblong blue-black bumelia fruit"
+    },
+    {
+      "character": "Other regional thorny shrubs",
+      "Sideroxylon lanuginosum": "Woolly underside + hard spur tip + alternate entire leaves",
+      "Sideroxylon celastrinum": "Smooth abaxial and southerly range; provenance alone not ID",
+      "Diospyros texana": "Usually lacking hard spines and with very different fruit calyx",
+      "Ilex decidua": "Bright berries and toothed foliage"
+    }
+  ],
+  "photo_checklist": [
+    {
+      "priority": "critical",
+      "view": "Same mature leaf folded/turned so GLOSSY upper and woolly pale underside appear together, macro with scale",
+      "status": "NOT INSTALLED; UT Austin BIO406D study reference, rights not verified"
+    },
+    {
+      "priority": "critical",
+      "view": "Spine-forming short shoot directly attached to branch showing scale and multiple bud nodes",
+      "status": "NOT INSTALLED; Trees and Shrubs Online regional photo is study reference, reuse permission not verified"
+    },
+    {
+      "priority": "high",
+      "view": "Close small axillary white flower clusters and their stem attachment",
+      "status": "NOT INSTALLED; local education/reference photo rights check pending"
+    },
+    {
+      "priority": "high",
+      "view": "Ripening green through blue-black oval fruits and woody spur, with scale",
+      "status": "NOT INSTALLED; field local rights-clear source needed"
+    },
+    {
+      "priority": "medium",
+      "view": "Whole tree habit + gray bark + spiny branches",
+      "status": "BROAD GENERAL IMAGE ENRICHMENT underway with licensed Commons files"
+    },
+    {
+      "priority": "final polish",
+      "view": "Single shiny hard seed, real latex from already-damaged branch, local infraspecific comparison",
+      "status": "FINAL_POLISH"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Gum bumelia — flip the leaf, then check the short shoot",
+    "subtitle": "Species PASS Hays/Travis/Williamson. Licensed botanical-garden foliage views plus exact-species face photos; diagnostic closeup/photo permission still pending.",
+    "memory_rule": "GLOSSY ABOVE + WOOLLY BELOW + SPINY SHORT SHOOT = Gum Bumelia. The spine and hairs can vary; fruit and flower corroborate.",
+    "items": [
+      {
+        "label": "1 · Existing leaf and shoot recognition",
+        "scientific_name": "Sideroxylon lanuginosum",
+        "image_url": "content/taxa/Sapotaceae/Sideroxylon/sideroxylon-lanuginosum/images/sideroxylon-lanuginosum-provisional-face.jpg",
+        "image_role": "Foliage / branch overview",
+        "caption": "A cultivated botanical-garden exact-species reference. Examine overall small entire glossy leaves and shoots, then flip a leaf on a real plant. This is NOT a verified underside macro.",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_kz02.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; image-specific microfeature arrow coordinates not yet verified"
+      },
+      {
+        "label": "2 · Same taxon, another botanical-garden angle",
+        "scientific_name": "Sideroxylon lanuginosum",
+        "image_url": "content/taxa/Sapotaceae/Sideroxylon/sideroxylon-lanuginosum/images/sideroxylon-lanuginosum-kz01.jpg",
+        "image_role": "Additional whole shoot/foliage exact-species recognition view",
+        "caption": "A second angle on the Halle botanical garden specimen, useful for teaching leaf arrangement and woody shoot habit but not wild Texas locality.",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_kz01.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; image-specific microfeature arrow coordinates not yet verified"
+      },
+      {
+        "label": "3 · Lyon botanical garden comparison view",
+        "scientific_name": "Sideroxylon lanuginosum",
+        "image_url": "content/taxa/Sapotaceae/Sideroxylon/sideroxylon-lanuginosum/images/sideroxylon-lanuginosum-lyon.jpg",
+        "image_role": "Additional morphological habit/branch reference, cultivated",
+        "caption": "Third exact-species foliage/shoot view. Do not use this cultivated photo to confirm the local 3-county range or to promise microscopic hair/spine resolution.",
+        "creator": "Tournasol7",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_in_Lyon_BG_(3).jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; image-specific microfeature arrow coordinates not yet verified"
+      }
+    ],
+    "photo_cautions": [
+      "Spur leaves may appear whorled despite alternate true shoot phyllotaxis.",
+      "Thorn tips and leaf hairs can vary by age and geography; one absence is not a species exclusion.",
+      "Do NOT invent arrow coordinates on botanical-garden pictures. Add arrows after actually viewing each installed file.",
+      "Only use UT Austin and Trees and Shrubs Online examples as hyperlinked study references unless rights are independently cleared."
+    ],
+    "external_study_references": [
+      {
+        "feature": "leaf upper versus fuzzy pale underside",
+        "url": "https://web.biosci.utexas.edu/bio406d/images/pics/spo/sideroxylon_lanuginosum.htm",
+        "reuse_status": "STUDY_LINK_ONLY"
+      },
+      {
+        "feature": "thorns at branch tips, Gillespie county photo",
+        "url": "https://www.treesandshrubsonline.org/articles/sideroxylon/sideroxylon-lanuginosum/",
+        "reuse_status": "STUDY_LINK_ONLY"
+      },
+      {
+        "feature": "flower and fruit in Uvalde County",
+        "url": "https://backyardnature.net/n/w/gumbum.htm",
+        "reuse_status": "STUDY_LINK_ONLY"
+      }
+    ],
+    "final_polish_backlog": [
+      "Local Texas matched leaf-top/bottom photograph with scale and accurate arrows",
+      "Local spine-bearing short shoot in focus",
+      "One native plant's flower fascicle / berry cluster / hard-seed sequence",
+      "Compare S. lanuginosum with S. celastrinum, persimmon and Ilex using matched photos",
+      "Reconcile local subsp. distribution if user requests, without demoting existing species-level range PASS"
+    ]
+  }
+}

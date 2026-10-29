@@ -1,0 +1,18 @@
+# Quercus virginiana
+Scientific status: UNRESOLVED TAXON CONCEPT / RANGE HOLD
+Project draft: research-drafts/quercus-virginiana/draft.json
+Bell evidence is outside the project target-county list. No qualifying target-zone counties currently locked.
+
+LIBRARY-FIRST IMAGE SELECTION 018 2026-10-16T17:16:56.975216+00:00
+Quercus virginiana
+Creator: Northcut; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6441151362
+Stored archive: hays-photo-library-mass-38937476373 :: staged_images/quercus-virginiana/gbif-d15293f2f1b906.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 018 2026-10-16T17:16:56.975216+00:00
+Quercus virginiana
+Creator: Cricket Raspet; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6179124165
+Stored archive: hays-photo-library-mass-38937476373 :: staged_images/quercus-virginiana/gbif-f4e3af622a999e.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

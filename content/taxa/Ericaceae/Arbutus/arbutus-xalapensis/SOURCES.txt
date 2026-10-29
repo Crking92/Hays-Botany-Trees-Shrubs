@@ -1,0 +1,48 @@
+ARBUTUS XALAPENSIS KUNTH — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+
+## Taxonomy
+Kew Plants of the World Online — accepted Arbutus xalapensis Kunth; native in Texas:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:309483-2
+
+## Strict target-zone range
+Hays — Purola Preserve, north Hays County. Natural-flora list explicitly covers native/naturalized plants that occurred naturally and were not introduced; Arbutus xalapensis is included:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+
+Hays / Bandera / Real — UC Davis Saratoga Horticultural Research Endowment field report. Wild records include Arbutus xalapensis collection 2019.1228 (Hays), 2019.821 (Bandera), and 2019.872 (Real):
+https://ccuh.ucdavis.edu/sites/g/files/dgvnsk1376/files/inline-files/Griswold_Hart_Final_Report_2019-2020.pdf
+
+Decision: PASS — Hays, Bandera, Real.
+
+## Morphology / ecology
+USDA Forest Service Fire Effects Information System — Texas madrone species review:
+https://research.fs.usda.gov/feis/species-reviews/arbxal
+
+Key learner cues:
+- evergreen shrub/tree
+- exfoliating multicolored smooth bark
+- pale urn/bell-shaped Ericaceae flowers
+- poricidal-anther family architecture
+- orange/red berry-like fruits
+
+## Photo note
+Family-level rights-cleared references are already installed in content/taxa/Ericaceae/family.json. Exact local/public-reuse species image files remain later visual polish.
+
+PHOTO RECOVERY — 2026-10-04
+Existing canonical family reference recovered to species gallery.
+Creator: Gary M. Stolz / U.S. Fish and Wildlife Service
+License: Public Domain
+Source: https://commons.wikimedia.org/wiki/File:Texas_madrone_tree_arbutus_xalapensis.jpg
+Direct image: https://upload.wikimedia.org/wikipedia/commons/9/90/Texas_madrone_tree_arbutus_xalapensis.jpg
+Changes: none
+Image downloaded and visually inspected. External reference currently; local binary pending.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04 — JOEY RECOVERY 006
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=4zKfoRtl4Co
+arbutus-xalapensis_bark-mature-habit_00-13-10.0.jpg @ 00:13:10.0
+Mature Arbutus xalapensis showing contorted woody architecture and smooth to exfoliating reddish bark, one of the most distinctive madrone field characters.
+arbutus-xalapensis_immature-fruits-evergreen-leaves_00-13-21.0.jpg @ 00:13:21.0
+Fruiting twig of Arbutus xalapensis with immature yellow-green fruits and evergreen leaves; useful for pairing fruiting structure with foliage.
+Rights: private study only; public reuse not cleared. Existing scientific/range status preserved.

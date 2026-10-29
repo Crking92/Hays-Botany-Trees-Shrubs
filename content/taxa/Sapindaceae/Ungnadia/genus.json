@@ -1,0 +1,142 @@
+{
+  "rank": "genus",
+  "name": "Ungnadia",
+  "family": "Sapindaceae",
+  "common_group": "Mexican buckeye",
+  "project_scope": {
+    "installed_canonical_species": [
+      "ungnadia-speciosa"
+    ],
+    "canonical_species_count": 1,
+    "source_pool_species": [
+      "Ungnadia speciosa"
+    ],
+    "native_target_zone_calculated": true,
+    "source_of_native_status": "content/taxa/Sapindaceae/Ungnadia/ungnadia-speciosa/species.json",
+    "note": "Single-species genus study lesson uses identified neighboring taxa as references, not learner-approved new species. No new canonical species or nativity changes."
+  },
+  "genus_recognition": {
+    "look_here_first": "Mexican buckeye is NOT a true Aesculus buckeye. Look at ALTERNATE pinnately compound leaves and a distinct woody THREE-LOBED CAPSULE that splits to reveal large glossy dark seeds. Rose-pink flowers appear early in spring.",
+    "source_order": "habit → leaf/stem architecture → flower structure → fruit/seed → specialist comparison"
+  },
+  "morphological_comparison_matrix": [
+    {
+      "character": "leaf arrangement",
+      "Ungnadia speciosa": "alternate pinnately compound, several serrate leaflets and terminal leaflet",
+      "comparison_reference": "Aesculus and Acer usually opposite leaves; Sapindus alternate pinnately compound too"
+    },
+    {
+      "character": "leaflet attachment",
+      "Ungnadia speciosa": "several leaflet pairs along central rachis, one tip leaflet",
+      "comparison_reference": "Aesculus palmately compound with leaflets radiating from ONE point"
+    },
+    {
+      "character": "flower season/shape",
+      "Ungnadia speciosa": "pink showy blooms often before full foliage",
+      "comparison_reference": "Aesculus pavia also red pink flowers, so flowers alone not enough"
+    },
+    {
+      "character": "fruit architecture",
+      "Ungnadia speciosa": "dry woody often three-lobed/three-valved capsule",
+      "comparison_reference": "Sapindus fruits round translucent fleshy drupes; Acer paired winged samaras"
+    },
+    {
+      "character": "seeds",
+      "Ungnadia speciosa": "large shiny very dark seeds in opened capsule",
+      "comparison_reference": "Aesculus seeds large but leaves/fruit differ; Sapindus typically one round black seed per drupe"
+    },
+    {
+      "character": "habit",
+      "Ungnadia speciosa": "deciduous small tree or multi-stem shrub of limestone/woodland regions",
+      "comparison_reference": "Sapindus taller tree, Acer negundo riparian with V paired samaras"
+    }
+  ],
+  "local_lookalike_reference_names": [
+    "Aesculus pavia",
+    "Sapindus saponaria var. drummondii",
+    "Acer negundo"
+  ],
+  "visual_id_sequence": [
+    "1. Inspect entire plant habit and growth form.",
+    "2. Zoom to stem node and complete mature leaf with ruler.",
+    "3. Inspect close flower and reproductive parts, labeling all structures rather than flower color alone.",
+    "4. Confirm mature fruit architecture with macro and seed view.",
+    "5. Compare the nearest confuser against matched structural photos; keep ambiguous IDs at genus."
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "panel": 1,
+      "show": "twig with alternate leaf attachment and rachis with cm ruler"
+    },
+    {
+      "priority": "critical",
+      "panel": 2,
+      "show": "Ungnadia vs Aesculus pinnate-vs-palmate comparison"
+    },
+    {
+      "priority": "critical",
+      "panel": 3,
+      "show": "opened 3-chamber fruit with dark seeds, labels + scale"
+    },
+    {
+      "priority": "high",
+      "panel": 4,
+      "show": "flower cluster and early leaf emergence"
+    },
+    {
+      "priority": "high",
+      "panel": 5,
+      "show": "Sapindus berry vs Ungnadia dry capsule vs Acer paired samara"
+    },
+    {
+      "priority": "high",
+      "panel": 6,
+      "show": "seed exterior, fruit valve and internal partition detail"
+    }
+  ],
+  "existing_canonical_photo_inventory": [
+    {
+      "path": "content/taxa/Sapindaceae/Ungnadia/ungnadia-speciosa/images/ungnadia-speciosa_three-carpelled-fruit_00-11-11.0.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    },
+    {
+      "path": "content/taxa/Sapindaceae/Ungnadia/ungnadia-speciosa/images/ungnadia-speciosa_three-lobed-fruit-seed-source-label_20-35.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    }
+  ],
+  "scientific_cautions": [
+    "The two currently installed Joey Santore frames show fruit but are private-study-only. Need an independently licensed leaf arrangement and flowering twig photo for public use.",
+    "A canonical species's current target-zone nativity and learner approval are scientific metadata; comparing other related taxa must not install them or change their statuses.",
+    "Flower color, single leaf and ecology alone never resolve difficult look-alikes; photo comparisons should show same scale and source provenance."
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "The two currently installed Joey Santore frames show fruit but are private-study-only. Need an independently licensed leaf arrangement and flowering twig photo for public use."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Confirm exact congener/look-alike traits before adding hard numeric boundaries; reconcile accepted synonyms."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Existing canonical species anatomy, photo provenance and scientific status",
+      "path": "content/taxa/Sapindaceae/Ungnadia/ungnadia-speciosa/species.json"
+    },
+    {
+      "title": "Canonical family recognition and visual comparisons",
+      "path": "content/taxa/Sapindaceae/family.json"
+    }
+  ],
+  "curation_status": {
+    "version": "genus-github-backfill-2026-10-11",
+    "reviewed_at": "2026-10-11",
+    "comparison_rows": 6,
+    "photo_panels": 6,
+    "visual_status": "shot requests + existing metadata only, no new image assets downloaded",
+    "species_installs": 0,
+    "range_changes": 0
+  }
+}

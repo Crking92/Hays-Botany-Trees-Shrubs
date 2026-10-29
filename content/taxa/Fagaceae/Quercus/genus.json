@@ -1,0 +1,1182 @@
+{
+  "rank": "genus",
+  "family": "Fagaceae",
+  "name": "Quercus",
+  "authority": "L.",
+  "common_group": "Oaks",
+  "project_scope": {
+    "core_species_count": 6,
+    "species_ids": [
+      "quercus-fusiformis",
+      "quercus-buckleyi",
+      "quercus-sinuata-var-breviloba",
+      "quercus-stellata",
+      "quercus-laceyi",
+      "quercus-vaseyana"
+    ],
+    "note": "Core set follows the existing oak module in the Hays Botany ID tracker; expand later rather than forcing every Central Texas oak into the first pass.",
+    "learner_species_count_at_audit": 18,
+    "learner_review_scope": "Six original core Edwards Plateau oaks remain the core set; the current learner includes 12 additional native and nonlocal comparison entries. This genus visual guide teaches distinguishing characters across those entries without changing county-range or approval states."
+  },
+  "study_strategy": {
+    "priority": [
+      "Is the blade bristle-tipped (red oak) or rounded/mucronate (white oak)? Check more than one mature leaf.",
+      "Leaf underside: star-shaped stellate hairs, vein-axil tufts, waxy/glaucous surface, and persistence of hairs.",
+      "Acorn cupule: shallow saucer vs goblet/funnel, depth relative to nut, and scales smooth vs tuberculate vs conspicuously fringed.",
+      "Twig thickness and hairs; terminal-bud scale margins and shape; bark texture.",
+      "Annual vs biennial acorn maturation when fruit age is known—do not infer it from a single photograph.",
+      "Landscape context: dry limestone upland, prairie/sand upland, mesic canyon, stream bottomland, or planted street tree.",
+      "Document hybrid/intermediate characters rather than forcing species-level identification from one leaf."
+    ],
+    "warning": "Oak leaves can be plastic across juvenile water sprouts, shade branches, drought, and maturity. Hybridization also blurs oak characters. Read several mature leaves, their lower surfaces, buds, and (when present) mature acorns from the SAME tree; keep uncertain oak complexes at Quercus sp. or pair-level until diagnostic structures are available.",
+    "three_way_oak_memory": "Lacey = BLUE + BARREL. White shin = THICKET + FLAT cup scales. Vasey = NARROW + BUMPY cup scales. Cupule texture works best with mature fruit and a 10× loupe.",
+    "paired_oak_memory": [
+      "Post: rounded, no bristle, hairy yellow twigs + buds ≤4 mm; Blackjack: bristle, big tawny five-angled buds 5–10 mm.",
+      "Chinkapin: chestnut-like regular teeth, 10–14 side veins, NONfringed small cup; Bur: midleaf deep waists, giant nut and shaggy-fringed cup."
+    ]
+  },
+  "quick_key": [
+    {
+      "if": "Subevergreen/live-oak form; narrow leathery leaves, undersides usually pale with appressed stellate hairs; slender pointed spindle-like nut and deep funnel/goblet cup when fruiting. Especially limestone mottes.",
+      "then": "Quercus fusiformis"
+    },
+    {
+      "if": "Live oak of coastal / eastern sandy sites with generally less pointed acorns; Central Texas planted or intermediate specimens are NOT reliably separable from escarpment live oak by one leaf.",
+      "then": "Quercus virginiana (comparison; confirm concept)"
+    },
+    {
+      "if": "Deciduous, deeply cut red-oak blade with several sharp bristle-tipped lobes; modest acorn in a comparatively deeper cup, frequently on dry limestone slopes.",
+      "then": "Quercus buckleyi"
+    },
+    {
+      "if": "Large deciduous red oak with bristle-tipped lobes; mature leaf often large with tufts in lower vein axils; broad shallow saucer-like acorn cup. Check against Texas red oak.",
+      "then": "Quercus shumardii"
+    },
+    {
+      "if": "Deciduous limestone oak; broad blue-glaucous leaves, often rounded/notched at tip, usually 6–9 secondary-vein pairs; small barrel-like nut (often flattened ends) and moderately bumpy cup scales.",
+      "then": "Quercus laceyi"
+    },
+    {
+      "if": "Low deciduous, often multistemmed limestone thicket; 7–11 secondary-vein pairs; broad/variable leaves; small nut in a very shallow cup with FLAT closely appressed scales (not tuberculate).",
+      "then": "Quercus sinuata var. breviloba"
+    },
+    {
+      "if": "Evergreen/subevergreen narrow stiff leaves with 4–6 lateral vein pairs and 0–5 mucronate coarse teeth per side; tiny buds, dark strip-shredding bark; small shallow cup with STRONGLY regularly bumpy scales.",
+      "then": "Quercus vaseyana"
+    },
+    {
+      "if": "Frequently cross-shaped rounded lobes (but not always), thick yellowish hairy twigs, and harsh stellate-hairy undersides.",
+      "then": "Quercus stellata"
+    },
+    {
+      "if": "Broad duck-foot leaf, narrow at base and widened into 3–5 distal bristle-tipped lobes; dark, blocky bark.",
+      "then": "Quercus marilandica"
+    },
+    {
+      "if": "Long chestnut-like blade with many evenly spaced teeth lacking bristles; side veins run toward those teeth; gray flaky bark.",
+      "then": "Quercus muehlenbergii"
+    },
+    {
+      "if": "Very broad lobed leaves with deep middle sinuses plus huge acorns with a long fringed/mossy cup rim.",
+      "then": "Quercus macrocarpa"
+    },
+    {
+      "if": "Mostly unlobed variable evergreen leaves of a planted landscape oak with comparatively deep cups; no demonstrated native target-zone population.",
+      "then": "Quercus polymorpha (nonlocal planted comparison)"
+    }
+  ],
+  "curation_status": {
+    "version": "2.3-quercus-post-blackjack-photo-visual",
+    "last_reviewed": "2026-10-08",
+    "visual_polish_scope": "Photo-specific proof arrow locations, portrait crop fixes, full photo zoom, explicit missing microscopic structures; no taxonomy/range/media count changes.",
+    "photo_gap_audit": "six zero-image species remain",
+    "last_visual_reviewed": "2026-10-11"
+  },
+  "b065_eastern_comparison": {
+    "selection_mode": "B065 eastern-oak comparison cleanup",
+    "species_ids": [],
+    "species_count": 0,
+    "nonlocal_comparisons": [
+      "quercus-lyrata",
+      "quercus-michauxii",
+      "quercus-nigra",
+      "quercus-phellos"
+    ],
+    "anchors": [
+      "quercus-fusiformis",
+      "quercus-buckleyi",
+      "quercus-stellata"
+    ]
+  },
+  "b065_study_strategy": {
+    "priority": [
+      "white-oak vs red-oak group",
+      "leaf shape and bristle tips",
+      "leaf underside pubescence",
+      "acorn cup depth",
+      "acorn maturation timing",
+      "native habitat/range"
+    ],
+    "warning": "All four B065 taxa are Texas natives, but their native Texas ranges are eastern/coastal rather than the Central Texas target zone. Landscape occurrence around Austin/Hays does not make them target-zone native."
+  },
+  "b065_comparison_lesson": {
+    "quick_split": [
+      "Q. lyrata — overcup nearly encloses acorn; rounded-lobed white-oak leaf.",
+      "Q. michauxii — huge rounded-toothed leaf with gray pubescent underside; large sweet acorn.",
+      "Q. nigra — variable wedge/spatula-shaped leaf, often broad shallowly 3-lobed at tip.",
+      "Q. phellos — narrow willow-like entire leaves with a tiny bristle tip."
+    ]
+  },
+  "diagnostic_comparison_groups": [
+    {
+      "title": "Texas red oak ↔ Shumard oak",
+      "species_ids": [
+        "quercus-buckleyi",
+        "quercus-shumardii"
+      ],
+      "where_to_look_first": "Compare verified ripe acorn caps, terminal bud SCALE margins and many adult leaf surfaces. UT Austin measurements show Buckley cups can also be shallow bowl-shaped, so a claim that every Texas red cup is deeper than every Shumard cup is unreliable.",
+      "buckleyi": "Usually smaller dry limestone site tree; adult leaves often ~7–9 bristle-tipped lobes, grayish/reddish terminal buds with densely SHORT-CILIATE scale margins; green acorn/cup shown in local reference. Ripe Q. buckleyi cups may be shallow bowl-shaped: UT Austin specimen range 5–10.5 mm deep × 10–21 mm wide, about basal third nut.",
+      "shumardii": "Usually larger tree, more mesic settings; broad shallow cup common, buds may be conspicuously angular; leaf underside tufts overlap with Buckley. Both are red oaks and may hybridize.",
+      "caution": "DO NOT treat mature cup depth as a binary distinction. UT Austin describes measured Buckley acorn cups as shallow bowl-like; compare size/shape WITH mm scale, bud-margin short cilia at 10–20× and habitat/fruit together. Current Buckley green fruit and Shumard developing green fruit are not measured ripe cups.",
+      "critical_photo_roles": [
+        "Buckley current local 02 shows GREEN fruit/cup scales; obtain RIPE brown nut with ruler before measuring",
+        "Buckley local 04 and 05 match upper vs lower leaf views (observation 404035822) but NOT microscopic vein-axil hairs",
+        "Buckley terminal bud margins densely short-ciliate (UT Austin): obtain 10–20× scale-fringe macro with mm ruler",
+        "Shumard existing external bud/green fruit context cannot prove 5-angled buds at measured scale",
+        "Both species may have lower vein-axil tufts; do not use as species-exclusive character"
+      ],
+      "primary_reference": "https://w3.biosci.utexas.edu/prc/K12/pdf/Quercus%20buckleyi",
+      "photo_reference_addendum": "The Red Butte Garden and Jerusalem Botanical Gardens ripe-brown-acorn and bud images can be studied on their own sites through the learner's external study links, but not republished. FNA: Q. buckleyi ciliate scales are on apical half of 3–7 mm buds; usual goblet/cup 5–11.5 mm high, 10–18 mm wide (rare saucer), overlaps some Shumard and regional Buckley bowl forms.",
+      "cup_morphology_citation": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501014"
+    },
+    {
+      "title": "Escarpment live oak ↔ Southern live oak",
+      "species_ids": [
+        "quercus-fusiformis",
+        "quercus-virginiana"
+      ],
+      "where_to_look_first": "Compare known-provenance adult specimens, multiple mature leaves and attached RIPENED acorns WITH their cups, ideally a ruler. Both taxa can make pointed nuts, especially when young; leaf habit, pubescence, acorn and regional origin must be combined.",
+      "fusiformis": "Often limestone-motte tree, acorns frequently more slender/fusiform and dark brown striped; our new Tamaulipas photo shows DETACHED brown nuts, so it proves nut shape but NOT cup depth. Often appressed stellate hairs beneath; juvenile leaves may have teeth.",
+      "virginiana": "Larger sprawling evergreen tree in coastal/eastern settings, often more rounded/oblong ripe nuts, but the new Q. virginiana photograph also shows POINTED GREEN developing nuts. Florida fruit/flower photographs are valid provisional study material, not proof of strict Central Texas occurrence.",
+      "caution": "Q. virginiana remains taxon-concept/range UNRESOLVED and excluded from native metrics. Southern/coastal sources provide stronger concept context than planted Central Texas broad-name live oaks. Acorn pointedness alone is not binary; close genetic relatives, overlap, and hybrid/intermediate specimens require multi-organ evaluation.",
+      "critical_photo_roles": [
+        "Q. fusiformis new mature detached acorn shape is visible, but attached cup depth has not been shown",
+        "Q. virginiana green acorns with scaly cups show some pointed apices: immature tips are not species-exclusive",
+        "same-scale ripe brown fruit + attached cup measurements from documented origins",
+        "leaf underside appressed stellate hairs under 10–20x from both",
+        "terminal buds and adult twig + habitat with known origins"
+      ]
+    },
+    {
+      "title": "Lacey oak ↔ White shin oak",
+      "species_ids": [
+        "quercus-laceyi",
+        "quercus-sinuata-var-breviloba"
+      ],
+      "where_to_look_first": "Growth habit + bark and adult leaf surfaces, then fruit.",
+      "laceyi": "Often small tree; typically broad, bluish/glaucous leaf with rounded or notched apex, light papery bark; acorns barrel-like.",
+      "sinuata": "Usually thicket-forming, multi-stemmed shrub on dry limestone; highly variable leaf lobing and small nut in very shallow cupule.",
+      "caution": "Leaves can overlap in shape and glaucousness; a shrubby shoot or one leaf is insufficient.",
+      "critical_photo_roles": [
+        "mature sun-leaf upper/lower pair",
+        "whole shrub vs tree habit",
+        "ripe cupule depth macro"
+      ]
+    },
+    {
+      "title": "Post oak ↔ Blackjack oak",
+      "species_ids": [
+        "quercus-stellata",
+        "quercus-marilandica"
+      ],
+      "where_to_look_first": "Lobe-tip awns first: post oak has ROUNDED/non-bristled lobes (white oak), blackjack has small bristles/awns (red oak). Then compare terminal buds, twigs, lower leaf surfaces and mature bark.",
+      "stellata": "Usually yellowish thick (2–5 mm) twigs densely covered in stellate hairs; buds reddish, mostly ≤4 mm; adult leaves 40–150 mm with 3–5 side veins, often cross-shaped, lobes rounded; underside crowded yellowish glands and 6–8-rayed stellate hairs; bark gray/scaly. First-year acorns, saucer cup 7–12 mm deep.",
+      "marilandica": "Leaves 70–200 mm and very broad near the top, distal 3–5 lobes with tiny bristles/awns; mature upper surface shiny. Terminal bud conspicuously tawny pubescent, 5–10 mm, 5-angled; mature bark dark irregular/rectangular blocks. Second-year acorns, turbinate cup 6–10 mm high with looser scale tips at rim.",
+      "caution": "Do not use cross-shaped silhouette or 'hairy leaves' alone: both can produce overlapping outlines and occur on poor dry uplands. FNA reports putative post×blackjack hybrids. A worn-off leaf-tip bristle or juvenile leaf can mislead.",
+      "critical_photo_roles": [
+        "same-scale adult leaf tips: rounded non-bristled vs bristle macro",
+        "post thick stellate-hairy yellow twig vs blackjack tawny 5-angled bud",
+        "underside stellate plus yellowish glandular hair macro vs scattered/scurfy underside",
+        "ripe acorn cup in side profile, post annual vs blackjack biennial annotated as phenology not image-only proof",
+        "mature bark from known adult trees"
+      ],
+      "photo_evidence_note": "Current genus photo cards have manually reviewed arrows to post oak rounded lobe, blackjack broad distal lobes, and blackjack bud tawny surface hairs. The true micro-awn shot is linked to UT Austin externally (rights unverified), not reproduced. Post twig hairs still not proved, and all length measurements remain unverified without rulers.",
+      "photo_status": "partial_real_visual_proof_not_all_macros"
+    },
+    {
+      "title": "Chinkapin oak ↔ Bur oak ↔ Eastern swamp chestnut oak",
+      "species_ids": [
+        "quercus-muehlenbergii",
+        "quercus-macrocarpa",
+        "quercus-michauxii"
+      ],
+      "where_to_look_first": "Regularly toothed leaf with ~10–14 nearly parallel veins and no red-oak bristle (chinkapin) vs broad leaf with very deep middle sinuses ('waist') and fewer lateral veins (bur). Best reproductive test: chinkapin's smaller non-fringed cup vs bur's oversized shaggy-rimmed cup.",
+      "muehlenbergii": "FNA adult leaf usually 50–150 mm, ~10–14 near-parallel veins with sharp forward-facing but NON-bristled teeth. Pale underside with tiny appressed stellate hairs. Acorn typically 15–20 mm; cup 4–12 mm deep, 8–22 mm broad, often tuberculate without a soft fringe. One-year maturity.",
+      "macrocarpa": "Adult leaf often 70–150 mm, sometimes far larger; 4–5 lateral veins/side, deep middle/proximal sinuses near midrib and broad distal blade. Nut 25–50 mm; cup 15–50 mm deep and often encloses 1/2–7/8 nut, soft 5–10 mm or longer fringe near rim. Corky wings may occur on older twigs. One-year maturity.",
+      "michauxii": "Swamp chestnut oak Q. michauxii (eastern nonlocal comparison) has larger/broader leaves with coarse rounded teeth. Current new leaf photo shows those teeth; a verified underside hair macro and large shallow-cup acorn are still missing. Do not confuse with chinkapin oak's narrower 10–14 nearly parallel lateral veins and forward-pointing teeth.",
+      "caution": "Western/northern bur oak forms may have reduced fringe and size; immature fruit lacks full cup morphology. The existing chinkapin photo shows IMMATURE acorns, not a fully ripe-cup confirmation. Leaf shape varies on seedlings and shoots.",
+      "critical_photo_roles": [
+        "matched adult leaf blades at same scale, count side veins and deep middle sinuses",
+        "sharp antrorse tooth without bristle close-up vs rounded lobes",
+        "ripe nut with attached cup and ruler; inspect fringe length, cup size, proportion nut enclosed",
+        "lower-leaf appressed stellate hairs, same magnification",
+        "chinkapin mature cup currently missing; photo status stays incomplete for this role"
+      ]
+    },
+    {
+      "title": "Vasey oak ↔ Escarpment live oak",
+      "species_ids": [
+        "quercus-vaseyana",
+        "quercus-fusiformis"
+      ],
+      "where_to_look_first": "Margins and cup-scale texture rather than only evergreen habit.",
+      "vaseyana": "Typically 3–5 coarse mucro-tipped teeth per side; dark strip-exfoliating bark; shallow cup with strongly tuberculate scales.",
+      "fusiformis": "Leaf usually entire or only sparsely toothed; acorn spindle-like with deeper cup and thickened keeled scales, not the strongly regular tubercles of Vasey oak.",
+      "caution": "Juvenile live oak leaves may also have teeth; rely on mature branches plus fruit.",
+      "critical_photo_roles": [
+        "mature leaf margin close-ups",
+        "cupule scale texture macros",
+        "lower-leaf hair microscopy"
+      ]
+    },
+    {
+      "title": "Lacey oak ↔ White shin oak ↔ Vasey oak — three-way limestone key",
+      "species_ids": [
+        "quercus-laceyi",
+        "quercus-sinuata-var-breviloba",
+        "quercus-vaseyana"
+      ],
+      "where_to_look_first": "First decide: deciduous blue-glaucous broad leaf, deciduous thicket with flat cup scales, or narrow evergreen/subevergreen leaf with strongly bumpy cup scales. Confirm with adult leaves, twigs, buds, and a ripe cup.",
+      "laceyi": "Deciduous broad blue-green/glaucous leaf usually 40–90 × 30–60 mm; 6–9 secondary veins; often 1.5–3 mm buds; barrel-like acorn 13–15 mm, 4–7 mm deep moderately tuberculate cup.",
+      "sinuata": "Usually low deciduous multi-stem thicket; leaf often 30–60 × 20–40 mm, 7–11 secondary veins; bud 2–3 mm; small acorn generally 7–12 mm with shallow cup and flattened NONtuberculate scales.",
+      "vaseyana": "Evergreen/subevergreen narrower leaf typically 20–60 × 10–20 mm, 4–6 secondary veins; bud only 1–1.5 mm; cup 3–4 mm deep and strongly regularly tuberculate; dark bark exfoliates in strips.",
+      "caution": "Lacey blue-green color and leaf lobing vary with exposure; shin underside hairiness varies by sun/shade; Vasey can have entire margins. Measurements and cup texture overlap in some individuals. Do not identify from just one leaf.",
+      "critical_photo_roles": [
+        "same-scale adult leaf upper and lower comparison for all three",
+        "match cup rim and cup scales (moderate tubercles vs flat vs strong tubercles)",
+        "buds and bark same scale",
+        "habitat / whole-shrub or tree specimen-context images"
+      ]
+    },
+    {
+      "title": "Eastern look-alikes: water oak ↔ willow oak ↔ blackjack oak",
+      "species_ids": [
+        "quercus-nigra",
+        "quercus-phellos",
+        "quercus-marilandica"
+      ],
+      "where_to_look_first": "Compare mature leaves from several twigs: wedge/spoon-shaped with variable apical widening (water), long entire willow-like blade (willow), thick broad duck-foot with 3–5 awned distal lobes (blackjack).",
+      "nigra": "Highly variable often spatulate/wedge-shaped blades widest near apex, with occasional shallow apical lobes, mostly thin; small biennial acorns.",
+      "phellos": "Long narrow willow-like entire blades, typically unlobed; tiny bristle tip and small biennial acorns.",
+      "marilandica": "Broad leathery top-heavy blades with awned lobes, very dark blocky bark, pubescent 5-angled buds; shares some leaf outline with water oak.",
+      "caution": "Leaf shape varies on all oaks; water oak can produce very different leaves on one tree. Neither Q. nigra nor Q. phellos is certified target-zone native in this learner.",
+      "critical_photo_roles": [
+        "matched mature leaf lengths/widths with rulers",
+        "same-tree water-oak leaf variability",
+        "tiny terminal bristles/awns macro",
+        "acorn cup comparisons"
+      ]
+    }
+  ],
+  "visual_comparison": {
+    "title": "Central Texas oaks: compare the structures",
+    "subtitle": "Start with a real photograph, then confirm the species by lobe tips, lower-surface hairs, buds or cupules. Each caption separates visible context from characters that still need a diagnostic macro.",
+    "memory_rule": "Post vs blackjack: NO BRISTLE + yellow stellate twigs vs BRISTLE + big tawny 5-angled bud. Chinkapin vs bur: REGULAR TEETH + MANY VEINS vs DEEP MIDLEAF WAIST + MOSSY FRINGED CUP. (Other core oak pairs stay in this gallery.)",
+    "items": [
+      {
+        "label": "Texas red oak — deeper cup, dry limestone",
+        "scientific_name": "Quercus buckleyi",
+        "image_role": "Existing curated oak photo; reference context (cup macro still needed)",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-buckleyi/images/01-curated-reference.jpg",
+        "caption": "Adult leaves typically have 7–9 sharply bristle-tipped lobes. To distinguish Shumard reliably, obtain mature cup profiles: Texas red oak is commonly deeper-cupped and has ciliate terminal-bud scales. This reference photo is not treated as cup-depth proof.",
+        "creator": "Linda Jo Conn",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/taxa/167640",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Texas red oak — actual acorn cup, scales visible",
+        "scientific_name": "Quercus buckleyi",
+        "image_role": "Existing locally stored green acorn and scaly cup macro; mature dimensions NOT established",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-buckleyi/images/02-curated-reference.jpg",
+        "caption": "This verified Eric Keith photograph shows a GREEN acorn still attached to its twig, with clearly overlapping cup scales and prominent cupule texture. Green fruit does not establish final cup depth: UT Austin specimens describe the mature Q. buckleyi cup as a shallow bowl often covering roughly basal third. Photograph has no ruler.",
+        "creator": "Eric Keith",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/taxa/167640",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Texas red oak — upper leaf surface",
+        "scientific_name": "Quercus buckleyi",
+        "image_role": "Adult upper (adaxial) leaf, dark-green bristle-tipped lobes",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-buckleyi/images/04-same-tree-field-view-2.jpg",
+        "caption": "Same-observation foliage view: darker upper leaf face, deeply cut lobes and many fine bristle tips. Pair with the following photograph of the paler UNDERSIDE of a leaf from the same photographed tree. Neither picture magnifies microscopic hairs.",
+        "creator": "Harrison",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/observations/404035822",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Southern live oak — leathery leaves and green acorn cups",
+        "scientific_name": "Quercus virginiana",
+        "image_role": "Developing green acorns, cup scale texture, adult evergreen leaf shape",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Quercus_virginiana%E2%80%94acorns.jpg/960px-Quercus_virginiana%E2%80%94acorns.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "caption": "Original photo attributed to Quercus virginiana shows green, still DEVELOPING fruit with rough pale cups and narrow glossy evergreen leaves. At least one nut is pointed—so a pointed immature nut does NOT distinguish escarpment live oak. Photo locality was not provided; it is not native-range evidence.",
+        "creator": "KATHERINE WAGNER-REISS",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_virginiana%E2%80%94acorns.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution-sharealike"
+      },
+      {
+        "label": "Southern live oak — male catkin detail in Florida",
+        "scientific_name": "Quercus virginiana",
+        "image_role": "Florida provenance spring reproductive anatomy: clustered staminate flowers",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Quercus_virginiana_kz08.jpg/960px-Quercus_virginiana_kz08.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "caption": "Male catkin on Q. virginiana photographed in Matheson Hammock County Park, Miami, Florida. Compare with the escarpment live-oak catkin on the neighboring card to learn reproductive parts—not to claim these flowers uniquely identify a species.",
+        "creator": "Krzysztof Ziarnek (Kenraiz)",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_virginiana_kz08.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution-sharealike"
+      },
+      {
+        "label": "Southern live oak — Miami evergreen crown context",
+        "scientific_name": "Quercus virginiana",
+        "image_role": "Labeled cultivated tree showing evergreen crown and branching",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Quercus_virginiana_41zz.jpg/960px-Quercus_virginiana_41zz.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "caption": "Evergreen canopy of a labeled Quercus virginiana in Fairchild Tropical Botanic Garden, Miami. This is a cultivated tree used only for habit context; it does not prove a wild occurrence in Hays County or exclude Q. fusiformis in Central Texas.",
+        "creator": "David J. Stang",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_virginiana_41zz.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution-sharealike"
+      },
+      {
+        "label": "Texas red oak — underside of leaf",
+        "scientific_name": "Quercus buckleyi",
+        "image_role": "Adult lower (abaxial) leaf surface, from matching field observation",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-buckleyi/images/05-same-tree-field-view-3.jpg",
+        "caption": "Same-observation underside view: paler lower surface, veins, and bristle-tipped lobes. Fine vein-axil tufts may occur in BOTH Texas red and Shumard oak and are NOT visible at this photograph's magnification. A true 10–20× macro is still requested.",
+        "creator": "Harrison",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/observations/404035822",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Texas red oak — adult glossy, bristle-tipped leaf",
+        "scientific_name": "Quercus buckleyi",
+        "image_role": "Verified mature leaf-lobe profile; no acorn or bud in this image",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Quercus_buckleyi_leaf.jpg",
+        "caption": "This confirmed Q. buckleyi leaf has conspicuous bristle-tipped lobes, deep sinuses, glossy surface and raised veins. Bud margins, acorn-cup depth and lower vein-axil hairs are NOT pictured. Texas red oak fruit and bud photo references exist at Red Butte Garden, but their reuse rights are not granted for this gallery.",
+        "creator": "georgiakharper; cropped by Chiswick Chap",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_buckleyi_leaf.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution"
+      },
+      {
+        "label": "Shumard oak — larger leaf, saucer cup",
+        "scientific_name": "Quercus shumardii",
+        "image_role": "Deeply lobed foliage and twig context",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-shumardii/images/02-reference.jpg",
+        "caption": "Compare adult bristle-tipped blades, then flip them to inspect lower vein-axil tufts; both species can have some tufts. Look for the broad, shallow, saucer-like ripe acorn cup to distinguish Shumard from Texas red oak.",
+        "creator": "DouglasGoldman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_shumardii12.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "Shumard oak — green developing acorn cups and scale rim",
+        "scientific_name": "Quercus shumardii",
+        "image_role": "Developing acorns seen end-on: broad shallow cup and overlapping scales",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_shumardii_ac_sJoUMVxCMGcw.jpeg",
+        "caption": "Green developing Shumard acorns viewed from the distal tip show thick, pale cup rims and small overlapping cup scales. This is NOT a ripe-acorn cup-depth measurement. Compare mature fruit from same-scale side profiles before using deeper Texas red vs shallower Shumard as a definitive key.",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-shumardii/",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution"
+      },
+      {
+        "label": "Shumard oak — terminal bud cluster and bud scales",
+        "scientific_name": "Quercus shumardii",
+        "image_role": "Terminal and axillary bud closeup with imbricate scales",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_shumardii_e_ubSkBBCU0OXo.jpe",
+        "caption": "Clustered reddish-brown Shumard oak buds show overlapping bud scales and twig context. The image cannot measure bud length or prove five-angled bud shape or presence/absence of ciliate scale margins. Obtain a matched macro of Texas red oak bud-scale cilia.",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-shumardii/",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution"
+      },
+      {
+        "label": "Escarpment live oak — verify pointed nut",
+        "scientific_name": "Quercus fusiformis",
+        "image_role": "Existing species reference image; mature acorn macro still required",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-fusiformis/images/01-curated-reference.jpg",
+        "caption": "Subevergreen leathery leaves may show dense appressed stellate hairs below. Most helpful final test is a ripe, relatively spindle-pointed nut in a deep funnel/goblet cup. Strict southern live oak is a separate unresolved comparison in this learner.",
+        "creator": "Donovan Moxley",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/taxa/167647",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Escarpment live oak — elongated detached brown acorns",
+        "scientific_name": "Quercus fusiformis",
+        "image_role": "Nut shape: several mature-looking detached acorns; cupule NOT present",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/QFusiformis.jpg/960px-QFusiformis.jpg",
+        "caption": "Seven detached Quercus fusiformis nuts from Tamaulipas, showing often elongated, two-tone brown acorn bodies with pointed ends. These are MATURE-looking nuts with NO cups or ruler. Pointed tips alone are not decisive: young southern live oak fruit can also be pointed. Compare attached ripe cups when available.",
+        "creator": "MartínezFlores",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:QFusiformis.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution-sharealike"
+      },
+      {
+        "label": "Escarpment live oak — male catkin flowers",
+        "scientific_name": "Quercus fusiformis",
+        "image_role": "Existing licensed local spring staminate catkin / twig photo",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-fusiformis/images/02-curated-reference.jpg",
+        "caption": "Actual existing photo: hanging clusters of male catkins on leafy twigs in spring. The structure is oak staminate inflorescences, not acorn cups or female flowers; do not use it to diagnose live-oak species on its own.",
+        "creator": "Rose Cooper",
+        "license": "CC BY-NC-ND",
+        "source_page": "https://www.inaturalist.org/taxa/167647",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Lacey oak — glaucous rounded leaves",
+        "scientific_name": "Quercus laceyi",
+        "image_role": "Same-observation field photo; verify leaf and bark view",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-laceyi/images/03-same-tree-field-view-1.jpg",
+        "caption": "Lacey oak: 6–9 side veins, rounded/retuse leaf tip, strongly blue-glaucous adult leaves; erect stellate leaf hairs shed with age. Ripe cup is 4–7 mm deep with MODERATELY raised scales, nut barrel-like. Photo is a field view, not guaranteed scale or fruit macro.",
+        "creator": "Kane Sandoval",
+        "license": "CC BY",
+        "source_page": "https://www.inaturalist.org/observations/96109629",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "White shin oak — low limestone thicket",
+        "scientific_name": "Quercus sinuata var. breviloba",
+        "image_role": "Existing curated species reference photo; habit/cup confirmation pending",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-sinuata-var-breviloba/images/01-curated-reference.jpg",
+        "caption": "White shin oak: often deciduous multi-stem limestone thicket, 7–11 lateral veins per side, pale flaky bark. Sun leaves may show appressed stellate hairs; shade leaves may look smoother. Mature cupule scales are FLAT, not strongly bumpy. This image needs fruit-role verification.",
+        "creator": "Andy Blair",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/taxa/242521",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Vasey oak — few teeth and bumpy cup scales",
+        "scientific_name": "Quercus vaseyana",
+        "image_role": "Existing curated species reference; tuberculate cup detail still needed",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-vaseyana/images/02-curated-reference.jpg",
+        "caption": "Vasey oak: 4–6 secondary veins per side and narrow evergreen/subevergreen leaves sometimes with 3–5 coarse teeth each side, sometimes entire. Very small buds (1–1.5 mm), dark bark shredding in strips; mature cup scales strongly and regularly BUMPY. Cup-scale macro is still missing.",
+        "creator": "Curren Frasch",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/taxa/1552806",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Post oak — rounded, non-bristled leaf lobes",
+        "scientific_name": "Quercus stellata",
+        "image_role": "Leaf lobe-tip profile and pale underside",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus-stellata-leaves--Bruce-Kirchoff--CC-BY-NC.jpg",
+        "caption": "Actual photographed post oak upper/lower leaf surfaces show a broad rounded lobe at the arrow. No projecting red-oak bristle here. Pale underside is visible but the individual glandular / stellate hairs are NOT resolved. This is a VERIFIED leaf-tip diagnostic, not a hair micrograph.",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY-NC 2.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-stellata/",
+        "study_use": "yes",
+        "public_reuse": "review",
+        "image_fit": "cover",
+        "image_focus": "center",
+        "markers": [
+          {
+            "label": "Rounded lobe — no bristle",
+            "label_x": 52,
+            "label_y": 7,
+            "target_x": 33,
+            "target_y": 49
+          }
+        ],
+        "diagnostic_verification": {
+          "status": "visible_structure_verified",
+          "target": "broad round lobe tip",
+          "image_native_dimensions": "600x450, aspect 4:3",
+          "arrow_position_verified_in_original": true,
+          "photo_anatomy_not_proven": [
+            "stellate hairs as separate arms",
+            "twig bud scales"
+          ],
+          "verified_on": "2026-10-11"
+        }
+      },
+      {
+        "label": "Blackjack oak — 3 broad distal bristle-tipped lobes",
+        "scientific_name": "Quercus marilandica",
+        "image_role": "Upper adult blade and distal lobes",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marilandica__okwbBNc0WpTI.jpg",
+        "caption": "The broad apical blade has multiple shallow projecting lobes; the original photo includes some pointed lobe corners. Zoom to inspect the minute terminal bristles: they are NOT sufficiently resolved at small card size for a macro-level proof. This image demonstrates blade outline, not magnified bristle anatomy.",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution",
+        "image_fit": "cover",
+        "image_focus": "bottom",
+        "markers": [
+          {
+            "label": "Broad distal lobes (zoom for awns)",
+            "label_x": 7,
+            "label_y": 10,
+            "target_x": 50,
+            "target_y": 73
+          }
+        ],
+        "diagnostic_verification": {
+          "status": "leaf_shape_verified_microscopic_brutiles_pending",
+          "target": "broad apical lobe region",
+          "image_native_dimensions": "750x1000 portrait, card focuses lower portion",
+          "arrow_position_verified_in_focused_card": true,
+          "micro_awns_visible_at_thumbnail": false,
+          "verified_on": "2026-10-11"
+        }
+      },
+      {
+        "label": "Blackjack oak — tawny pubescent terminal buds",
+        "scientific_name": "Quercus marilandica",
+        "image_role": "Terminal and lateral winter buds close-up",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marolandica__PVCxoy7rqkDv.jpe",
+        "caption": "This genuine Q. marilandica winter twig shows a cluster of rust-colored terminal buds. Fine tawny hairs are visibly projecting from the terminal bud surface at the arrow. No ruler is shown and the five-angled bud geometry is NOT proven; the photo does prove bud pubescence.",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution",
+        "image_fit": "cover",
+        "image_focus": "top",
+        "markers": [
+          {
+            "label": "Tawny hairs on bud",
+            "label_x": 57,
+            "label_y": 11,
+            "target_x": 42,
+            "target_y": 39
+          }
+        ],
+        "diagnostic_verification": {
+          "status": "visible_structure_verified",
+          "target": "fine tawny hairs on terminal bud",
+          "image_native_dimensions": "portrait; card focuses upper half to avoid cropping out bud",
+          "arrow_position_verified_in_focused_card": true,
+          "unproven": [
+            "bud length",
+            "five-angled section"
+          ],
+          "verified_on": "2026-10-11"
+        }
+      },
+      {
+        "label": "Post oak — rounded lobes and hairy twig",
+        "scientific_name": "Quercus stellata",
+        "image_role": "Existing curated oak reference; bud/hair macro still needed",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-stellata/images/01-curated-reference.jpg",
+        "caption": "Post oak: often cruciform but NOT always. Examine its ROUND lobe tips (no tiny red-oak awns), thick yellowish STELLATE-hairy twigs, and small reddish buds typically ≤4 mm. Mature undersides have yellowish glandular and small star-like hairs; an ordinary leaf photo does not prove the trichomes.",
+        "creator": "paddymcg",
+        "license": "CC BY-NC",
+        "source_page": "https://www.inaturalist.org/taxa/1552804",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Post oak — attached acorn and scaled cup",
+        "scientific_name": "Quercus stellata",
+        "image_role": "Acorn, cupule and neighboring bud context",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_stellata_4_riWD77DjyHEn.jpg",
+        "caption": "Scaly cup encircles a mature-looking dark nut; adjacent reddish-brown buds are visible. This photograph does not provide a length scale or diagnostic leaf-hair resolution.",
+        "creator": "Douglas Goldman, USDA",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-stellata/",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      {
+        "label": "Blackjack oak — bristled duck-foot blade",
+        "scientific_name": "Quercus marilandica",
+        "image_role": "Lobed foliage and leaf surfaces",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-marilandica/images/01-foliage-reference.jpg",
+        "caption": "Blackjack: broad 'duck-foot' leaves with 3–5 shallow distal lobes ending in tiny BRISTLES, glossy upper surface and much larger tawny pubescent terminal buds (5–10 mm, often five-angled). Mature bark breaks into very dark blocks. Bud macro remains to be sourced.",
+        "creator": "Krzysztof Ziarnek (Kenraiz)",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_marilandica_kz01.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "Blackjack oak — acorn, cupule scales and twig",
+        "scientific_name": "Quercus marilandica",
+        "image_role": "Attached acorn and scaled cup profile",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marilandica__mqZFApyZAfab.jpg",
+        "caption": "Grayish acorn in a deep scaly cup on the twig. The cup and its scale texture are clear, while age, precise ripeness and size cannot be established without a ruler and observation date.",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution"
+      },
+      {
+        "label": "Blackjack oak — foliage alongside trunk",
+        "scientific_name": "Quercus marilandica",
+        "image_role": "Adult foliage and bark context",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-marilandica/images/03-leaf-trunk-reference.jpg",
+        "caption": "Use this licensed image to connect adult leaf shape with trunk context; pronounced black rectangular blocks often develop on mature bark. This is NOT a bud closeup—request that separately for the 5–10 mm tawny five-angled terminal buds.",
+        "creator": "Traumrune / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Montagnac-Quercus-marilandica_02.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "Chinkapin oak — chestnut-like regular teeth",
+        "scientific_name": "Quercus muehlenbergii",
+        "image_role": "Toothed leaves and immature acorn cups",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-muehlenbergii/images/01-leaves-acorns.jpg",
+        "caption": "Chinkapin oak: elongated adult leaf with ~10–14 near-parallel lateral veins terminating in regularly spaced pointed but NON-bristled marginal teeth. Current image includes IMMATURE acorn cups only. A ripe, smaller, non-fringed cup is the missing final proof.",
+        "creator": "Jim Conrad",
+        "license": "Public Domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_muehlenbergii-leaves-immature-acorns.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "Chinkapin oak — mature brown acorns and gray cup scales",
+        "scientific_name": "Quercus muehlenbergii",
+        "image_role": "Mature acorn cupule texture side-by-side teaching photo",
+        "image_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_muehlenbergi_5QYiVht8Ucco.jpe",
+        "caption": "Brown, mature chinkapin oak nuts are capped by compact gray, knobby cupules WITHOUT long soft shaggy projections. Notice the rough close-appressed scales. Compare bur oak's soft fringe. The image does NOT include a measuring ruler or verify nut length.",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-muehlenbergii/",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution"
+      },
+      {
+        "label": "Chinkapin oak — adult leaf with regularly spaced teeth",
+        "scientific_name": "Quercus muehlenbergii",
+        "image_role": "Adult tooth pattern and leaf veins",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Quercus_muehlenbergii_5444930.jpg/960px-Quercus_muehlenbergii_5444930.jpg",
+        "caption": "Adult leaf with an elongated blade and repeated marginal teeth supplied by nearly parallel secondary veins. Pointed teeth here do NOT carry a red-oak terminal bristle. Leaf underside minute stellate hairs and a ruler are NOT visible.",
+        "creator": "Rob Routledge, Sault College, Bugwood.org",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_muehlenbergii_5444930.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution"
+      },
+      {
+        "label": "Bur oak — deep middle leaf sinuses",
+        "scientific_name": "Quercus macrocarpa",
+        "image_role": "Adult leaf architecture: deepest sinuses in the middle/proximal blade",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-macrocarpa/images/02-leaves.jpg",
+        "caption": "The deep sinuses that almost meet at the midrib form a narrow midleaf 'waist'; compare the regular teeth and ~10–14 side-vein pairs of chinkapin oak. Look for broad, shallowly lobed distal half. The acorn/fringe is demonstrated on the adjacent bur-oak card.",
+        "creator": "JBCLM",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_hojas_JBCLM.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "White oak — rounded non-bristled lobes and fallen brown acorns",
+        "scientific_name": "Quercus alba",
+        "image_role": "Fall color upper/lower leaves and loose brown acorns",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Quercus_alba_fallen-leaves_acorns.jpg/960px-Quercus_alba_fallen-leaves_acorns.jpg",
+        "caption": "Eastern white oak. Multiple FALLEN leaves show rounded, non-bristled lobes and pale lower sides. Brown acorns are loose on the ground: this does not prove an attached cup or cup dimensions. Compare bur oak's deep midleaf waist and post oak's thick fuzzy twigs. NONLOCAL comparison in this Hays learner.",
+        "creator": "Dcrjsr",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_alba_fallen-leaves_acorns.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "Overcup oak — developing acorn engulfed by cup",
+        "scientific_name": "Quercus lyrata",
+        "image_role": "Deep overcup acorn, adult lobed foliage",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg/960px-Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg",
+        "caption": "Eastern overcup oak, Q. lyrata, from a botanical collection. The large knobby cup nearly envelops a GREEN DEVELOPING acorn; compare the fringed mossy rim of bur oak cups. Lobes of overcup oak are rounded and irregular. Planted arboretum photo is NOT evidence of local native range.",
+        "creator": "KATHERINE WAGNER-REISS",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution-sharealike"
+      },
+      {
+        "label": "Swamp chestnut oak — wide regularly rounded leaf teeth",
+        "scientific_name": "Quercus michauxii",
+        "image_role": "Adult leaf face with coarse, rounded marginal teeth",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/QuercusMichauxiiLeaf.jpg/960px-QuercusMichauxiiLeaf.jpg",
+        "caption": "An eastern lowland comparator with broad leaves and relatively coarse rounded teeth, distinct from the narrow, regularly saw-toothed chinkapin oak. Dense gray hairs UNDER the leaf and the larger ripe acorn are not documented by this photo. NONLOCAL comparison under project range rules.",
+        "creator": "Chhe",
+        "license": "Public Domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:QuercusMichauxiiLeaf.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "Water oak — variable wedge-shaped leaf with broad tip",
+        "scientific_name": "Quercus nigra",
+        "image_role": "USDA water oak leaf laid against bark; mature leaf outline",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Quercus_nigra_leafbark.jpg/960px-Quercus_nigra_leafbark.jpg",
+        "caption": "A characteristic WATER oak blade tapering strongly toward its petiole and broadest toward its shallowly lobed/apical end. Other leaf shapes can grow on the SAME water-oak tree; this is a face, not a definitive single-leaf key. Compare blackjack oak's thicker broader dark leaves and willow oak's entire narrow blades. NONLOCAL comparison.",
+        "creator": "USDA (archival public-domain reference)",
+        "license": "Public Domain (U.S.)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_nigra_leafbark.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "Willow oak — long unlobed willow-like leaves",
+        "scientific_name": "Quercus phellos",
+        "image_role": "Unlobed narrow leaf blade and twig habit",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Quercus_phellos-leaves.jpg",
+        "caption": "Willow oak makes many long, slender, unlobed leaves on woody oak twigs. The terminal red-oak bristle is minute and NOT resolved in this field photo. Compare water oak's often spatulate apical expansion. Acorn/cup photo still pending. NONLOCAL comparison under present project criteria.",
+        "creator": "Aaron Fidler (Afidler)",
+        "license": "Public Domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_phellos-leaves.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      },
+      {
+        "label": "Bur oak — projecting soft cupule fringe on green fruit",
+        "scientific_name": "Quercus macrocarpa",
+        "image_role": "Close-up of shaggy soft cup rim (DEVELOPING acorns, not ripe)",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Quercus_macrocarpa_15-p.bot-quercus.macro-009.jpg/960px-Quercus_macrocarpa_15-p.bot-quercus.macro-009.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "caption": "Clear soft, outward-pointing projections around green/developing bur oak acorn cups. Compare the compact nonfringed chinkapin oak cup above. These acorns are NOT mature brown fruit; no ruler is shown.",
+        "creator": "Gilles Ayotte / Bibliothèque de l'Université Laval",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_15-p.bot-quercus.macro-009.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes-with-attribution-and-sharealike"
+      },
+      {
+        "label": "Bur oak — huge fringed acorn cup",
+        "scientific_name": "Quercus macrocarpa",
+        "image_role": "Mature acorns and mossy-fringed cups",
+        "image_url": "content/taxa/Fagaceae/Quercus/quercus-macrocarpa/images/01-nrcs-reference.jpg",
+        "caption": "Bur oak: large ripe acorn with a thick cup whose rim develops soft shaggy projections 5–10 mm or longer; cup may enclose most of nut. Adult leaves often develop deep middle waists and broad ends, but size and fringe vary by population.",
+        "creator": "USDA NRCS",
+        "license": "Public Domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes"
+      }
+    ],
+    "overlay_note": "No unverified arrows or structural claims are drawn onto photographs. Several inherited core photos are generic reference/field views and require direct photo-by-photo diagnostic verification before labelling as bud, underside, or mature acorn macros. The southern-live-oak comparison still has no image; do not silently substitute escarpment live oak imagery.",
+    "reviewed_on": "2026-10-08",
+    "sources": [
+      {
+        "scope": "Red vs white oak characters",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=127839"
+      },
+      {
+        "scope": "Texas red oak character details",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501014"
+      },
+      {
+        "scope": "Escarpment live oak",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501031"
+      },
+      {
+        "scope": "Lacey oak",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501053"
+      },
+      {
+        "scope": "Post oak",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501087"
+      },
+      {
+        "scope": "Vasey oak",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501094"
+      },
+      {
+        "scope": "Shumard and Texas red oak field key",
+        "url": "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=106"
+      },
+      {
+        "scope": "Chinkapin oak",
+        "url": "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=101"
+      },
+      {
+        "scope": "Bur oak",
+        "url": "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=98"
+      },
+      {
+        "scope": "Blackjack oak FNA morphology",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501060"
+      },
+      {
+        "scope": "Chinkapin oak FNA morphology",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417084"
+      },
+      {
+        "scope": "Bur oak FNA morphology",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501058"
+      }
+    ],
+    "educational_reference_links": [
+      {
+        "title": "UT Austin BIO 406D: post oak versus blackjack oak mature leaves",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fag/quercus_marilandica.htm",
+        "policy": "Link only; image rights not verified for redistribution."
+      }
+    ],
+    "oak_pair_photo_upgrade": {
+      "species": [
+        "quercus-stellata",
+        "quercus-marilandica"
+      ],
+      "five_external_images": true,
+      "licenses": [
+        "CC BY-NC 2.0",
+        "CC BY-NC 4.0",
+        "CC BY 2.0"
+      ],
+      "source": "NC State Extension Gardener Plant Toolbox",
+      "roles_now_visible": [
+        "rounded lobe-tip / underside contrast",
+        "post oak acorn cup",
+        "blackjack lobe margins",
+        "tawny blackjack buds",
+        "blackjack attached cup and nut"
+      ],
+      "photos_still_needed": [
+        "post twig stellate-hair true macro",
+        "paired abaxial hairs under 10x–20x",
+        "bud lengths with mm ruler",
+        "same-scale lobe-tip bristles",
+        "accurately measured, verifiably ripe fruit"
+      ],
+      "storage": "External directly linked images, not locally mirrored; offline availability is not claimed."
+    },
+    "chinkapin_bur_photo_upgrade": {
+      "reviewed_on": "2026-10-08",
+      "new_cards": 3,
+      "live_diagnostic_roles": [
+        "chinkapin mature brown acorn and gray tuberculate nonfringed cup",
+        "chinkapin regular teeth on mature leaf",
+        "bur oak prominent soft cup scale fringe in developing green fruit"
+      ],
+      "still_missing": [
+        "ripe acorn side-by-side with millimeter rulers",
+        "paired 20x underside stellate trichomes",
+        "bark/bud comparators in matched scale"
+      ],
+      "media_storage": "External URL referenced in gallery. Not mirrored in private repository."
+    },
+    "redoak_paired_photo_upgrade": {
+      "reviewed_on": "2026-10-08",
+      "added_exact_species_images": 3,
+      "buckleyi": {
+        "added_roles": [
+          "adult bristle-tipped leaf"
+        ],
+        "still_missing": [
+          "mature licensed acorn and goblet cup profile",
+          "licensed bud ciliate scales macro"
+        ],
+        "image_rights_guardrail": "Red Butte Garden has both strong photographs but retains copyright: external study link only, never display its photo without authorization."
+      },
+      "shumardii": {
+        "added_roles": [
+          "developing green acorn cup scale detail",
+          "terminal bud cluster"
+        ],
+        "still_missing": [
+          "ripe brown nut and cup with ruler",
+          "measured five-angled buds and underside vein-axil trichomes"
+        ]
+      },
+      "study_only_link": "https://redbuttegarden.org/plants/species/759/",
+      "proof_note": "A photograph of a developing green acorn does not verify ripe cup depth or scale.",
+      "storage": "external verified HTTP image URL; not physically mirrored for offline use"
+    },
+    "buckleyi_local_gallery_audit_20261008": {
+      "photo_cards_added": 3,
+      "source": "Already installed local photos, physically viewed via authenticated repository media",
+      "confirmed_roles": [
+        "green attached acorn and clearly exposed cup scale pattern",
+        "upper adult leaf",
+        "same-observation adult underside"
+      ],
+      "rights": "Existing CC BY-NC sources, image files unchanged",
+      "missing_roles": [
+        "Mature brown cup with millimeter ruler",
+        "ciliate terminal bud scale 10-20x macro",
+        "verified underside vein axil tuft macro"
+      ],
+      "scientific_caution": "UT Austin specimen description calls Buckley cups shallow bowl-like; do not overstate deeper-cupped as species-exclusive"
+    },
+    "study_only_photo_links": [
+      {
+        "label": "Texas red oak — ripe brown acorns with attached cups",
+        "species": "Quercus buckleyi",
+        "url": "https://redbuttegarden.org/plants/species/759/",
+        "look_for": "Scroll to acorn photographs: brown ripe nuts on twig and overlapping cup scales. Useful taxon-matched fruit reference, but NO ruler; do not infer dimensions.",
+        "reuse": "External visual study only. Photo rights not confirmed for reuse; image not copied or embedded.",
+        "kind": "unlicensed_external_photo_study"
+      },
+      {
+        "label": "Texas red oak — terminal bud cluster",
+        "species": "Quercus buckleyi",
+        "url": "https://redbuttegarden.org/plants/species/759/",
+        "look_for": "Find the twig with gray-brown bud cluster. Inspect whether hairs are visible at the bud-scale edges; source image does not prove FNA's apical-half cilia at 10–20×.",
+        "reuse": "External visual study only. Photo rights not confirmed for reuse; image not copied or embedded.",
+        "kind": "unlicensed_external_photo_study"
+      },
+      {
+        "label": "Texas red oak — loose mature nuts and cups",
+        "species": "Quercus buckleyi",
+        "url": "https://jbg.gardenexplorer.org/taxon-4307.aspx",
+        "look_for": "Botanical collection photo with brown nuts and detached cups on dark background; note broad nut shape and tight cap scales. No ruler.",
+        "reuse": "External visual study only. Judith Marcus source photo copyright not verified for reuse; image not copied or embedded.",
+        "kind": "unlicensed_external_photo_study"
+      },
+      {
+        "label": "Blackjack oak vs post oak — UT Austin leaf-tip macro (clear bristles; original site)",
+        "species": "Quercus marilandica / Quercus stellata",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/fag/quercus_marilandica.htm",
+        "kind": "unlicensed_external_photo_study",
+        "look_for": "Look for the three short bristles projecting at blackjack's lobe tips (young leaf), and the adjacent post-oak photo without bristles. The actual image demonstrates the feature more clearly than generic foliage views.",
+        "reuse": "LINK ONLY: UT Austin educational images are not confirmed CC-licensed; not embedded or copied."
+      }
+    ],
+    "study_only_intro": "Some excellent oak close-ups cannot be copied without a confirmed license. The links below open the original botanical collection photos for field study; they are not part of our distributed learner gallery.",
+    "redoak_pair_macro_recheck_20261008": {
+      "result": "no_new_clear-license_ripe-acorn_or_bud-cilia_macro",
+      "photo_count_unchanged": true,
+      "last_checked": "2026-10-08",
+      "notes": "Added source links only, retained 26 licensed genus cards; FNA ciliate bud scales require optical 10–20× and measured mature cup still requires a new image. Distinguish shallow-bowl regional measurements vs FNA most common cup/goblet form; morphology overlaps Shumard."
+    },
+    "live_oak_photo_upgrade": {
+      "reviewed_on": "2026-10-08",
+      "added_cards": 5,
+      "new_q_virginiana_species_images": 3,
+      "new_q_fusiformis_species_images": 1,
+      "existing_fusiformis_catkin_role_verified": true,
+      "scientific_guardrail": "Quercus virginiana is learner-approved but strict native-range/taxon-concept remains UNRESOLVED and native metrics excluded.",
+      "image_media": "external stable Wikimedia Commons previews + one pre-existing local photo; photo credits/licenses retained",
+      "remaining_roles": [
+        "ripe attached and measured live-oak cups",
+        "matched abaxial hairs",
+        "buds"
+      ]
+    },
+    "eastern_comparison_fast_fill_20261008": {
+      "species": [
+        "quercus-alba",
+        "quercus-lyrata",
+        "quercus-michauxii",
+        "quercus-nigra",
+        "quercus-phellos"
+      ],
+      "added_cards": 5,
+      "license": "Wikimedia Commons individual CC or author-public-domain",
+      "source_verified": true,
+      "images_physically_mirrored": false,
+      "important": "All five are NONLOCAL comparison species / FAIL_TARGET_ZONE unchanged. Single image makes them recognizable, not botanically finished."
+    },
+    "post_blackjack_photo_proof_20261011": {
+      "verdict": "three_existing_licensed_photos_reviewed",
+      "verified_visible": [
+        "post oak round bristleless lobe — annotated",
+        "blackjack broad top-heavy apical lobes — annotated",
+        "blackjack terminal bud tawny surface hairs — annotated"
+      ],
+      "not_yet_proven": [
+        "blackjack bristles under useful macro enlargement (UT only, link only)",
+        "post twig stellate hair rays",
+        "post leaf abaxial 6–8 arm stellate and yellowish glandular hairs",
+        "bud sizes in millimeters",
+        "measured mature cup profiles"
+      ],
+      "display": "Blackjack bud image focused to top; blackjack leaf focused to bottom; photos open full resolution on click; post leaf has coordinate-verified arrow.",
+      "new_photographs": 0,
+      "rights_guardrail": "No source photo copied without confirmed CC terms; old photo credits retained.",
+      "last_reviewed": "2026-10-11"
+    }
+  },
+  "photo_backfill_priorities": {
+    "audit_date": "2026-10-08",
+    "zero_images": [],
+    "high_priority": [
+      {
+        "species": [
+          "quercus-buckleyi",
+          "quercus-shumardii"
+        ],
+        "image_roles": [
+          "mature acorn and cupule, same scale",
+          "lower leaf vein-axil tufts",
+          "terminal bud-scale cilia"
+        ],
+        "why": "Current galleries do not establish the most reliable red-oak pair separation",
+        "status": "local_cup_photo_promoted_remaining_fruit_and_bud_macros",
+        "new_images": 3,
+        "remaining": "Matched ripe fruit with ruler and microscopic bud scale cilia/axil hairs; Buckley acorn copyrighted study source linked only.",
+        "updated_on": "2026-10-08",
+        "work_done_2026_10_08": "Visually inspected Buckley local JPEG 02 developing green cup, 04 upper leaf and 05 underside, added 3 genus photo cards; UT Austin measured cup caution appended; licensed mature/bud macro still missing."
+      },
+      {
+        "species": [
+          "quercus-fusiformis",
+          "quercus-virginiana"
+        ],
+        "image_roles": [
+          "mature nut profile with scales",
+          "leaf underside stellate hair macro",
+          "matched adult leaves"
+        ],
+        "why": "Live-oak taxon-concept comparison is unresolved; strict virginiana lacks images",
+        "status": "partially_filled_virginiana_from_zero_20261008",
+        "work_done": "Q. virginiana 0→3 licensed photo refs; fusiformis one mature detached nut; existing flowering branch identified. Still lacks measured cups/hairs."
+      },
+      {
+        "species": [
+          "quercus-laceyi",
+          "quercus-sinuata-var-breviloba",
+          "quercus-vaseyana"
+        ],
+        "image_roles": [
+          "habit and bark",
+          "mature leaf underside",
+          "cup depth / cup-scale tubercles"
+        ],
+        "why": "Edwards Plateau white oak silhouettes overlap"
+      },
+      {
+        "species": [
+          "quercus-muehlenbergii",
+          "quercus-michauxii"
+        ],
+        "image_roles": [
+          "paired leaf teeth and underside hairs",
+          "mature acorn cup"
+        ],
+        "why": "Eastern comparison is a no-image card"
+      },
+      {
+        "species": [
+          "quercus-laceyi",
+          "quercus-sinuata-var-breviloba",
+          "quercus-vaseyana"
+        ],
+        "image_roles": [
+          "cupule scale texture same magnification: moderately tuberculate / flat / strongly tuberculate",
+          "bud size with millimeter ruler",
+          "secondary-vein counts on intact adult sun leaves",
+          "sun vs shade abaxial stellate hairs under loupe"
+        ],
+        "why": "Three-way Edwards Plateau limestone oak differential strengthened by FNA; generic field photographs cannot establish these small traits"
+      },
+      {
+        "species": [
+          "quercus-stellata",
+          "quercus-marilandica"
+        ],
+        "image_roles": [
+          "round vs bristle lobe tip with matching 10× magnification",
+          "post oak stellate-haired yellow twig vs blackjack 5–10 mm tawny 5-angled terminal bud",
+          "abaxial glandular + stellate hairs comparison",
+          "matched mature acorn cups and dark bark"
+        ],
+        "why": "Current available gallery photos show real foliage/habit, but microhair and terminal-bud proof require additional exact-species licensed macros.",
+        "work_done_2026_10_08": "Five vetted external display images added; exact macros with measuring scales remain.",
+        "status": "partially_filled_pending_microphotos"
+      },
+      {
+        "species": [
+          "quercus-muehlenbergii",
+          "quercus-macrocarpa"
+        ],
+        "image_roles": [
+          "chinkapin adult leaf teeth and 10–14 side veins vs bur deep waist",
+          "MATURE chinkapin acorn/cup, not existing immature photo",
+          "bur cup fringe 5–10 mm with scale; paired cupule and acorn measurements",
+          "underside stellate hair comparison same magnification"
+        ],
+        "why": "Bur mature fruit/leaf photos already exist; chinkapin only has immature acorn/cup imagery. Prioritize licensing a ripe chinkapin fruit macro.",
+        "status": "partial_ripe_chinkapin_and_bur_fringe_now_illustrated",
+        "updated_on": "2026-10-08",
+        "note": "NC State mature brown chinkapin acorns and CC-BY leaf, Université Laval CC-BY-SA green bur cup fringe now in gallery; matched ruler/trichome macros still needed."
+      }
+    ],
+    "guardrail": "Photo backlog is a request, not permission to add generic replacements. Exact taxon, image rights, photographed structure, and source provenance must be checked before any species gallery update.",
+    "one_photo_provisional_missing_roles": [
+      {
+        "species": "quercus-alba",
+        "remaining": [
+          "fresh attached leaves and shallow acorn cup",
+          "bark and terminal bud"
+        ],
+        "focus": "White oak leaf/fruit contrast with bur and post oak"
+      },
+      {
+        "species": "quercus-lyrata",
+        "remaining": [
+          "brown ripe nearly engulfed acorn cup",
+          "underside leaf hairs, bark"
+        ],
+        "focus": "Overcup vs bur oak cup rim, former has no long mossy fringe"
+      },
+      {
+        "species": "quercus-michauxii",
+        "remaining": [
+          "lower leaflet dense hair closeup",
+          "ripe acorn shallow cup"
+        ],
+        "focus": "Swamp chestnut vs chinkapin tooth shape/underside hairs"
+      },
+      {
+        "species": "quercus-nigra",
+        "remaining": [
+          "same tree leaf-shape variability",
+          "small ripe two-year acorn/cup"
+        ],
+        "focus": "Water oak vs blackjack vs willow oak"
+      },
+      {
+        "species": "quercus-phellos",
+        "remaining": [
+          "tiny terminal bristle macro",
+          "small acorn/cup and twig buds"
+        ],
+        "focus": "Willow oak vs water oak"
+      }
+    ]
+  },
+  "diagnostic_reference_notes": [
+    {
+      "taxon": "Quercus laceyi",
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501053"
+    },
+    {
+      "taxon": "Quercus sinuata var. breviloba",
+      "source": "Flora of North America (Q. sinuata species plus varietal key)",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501084"
+    },
+    {
+      "taxon": "Quercus vaseyana",
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501094"
+    }
+  ]
+}

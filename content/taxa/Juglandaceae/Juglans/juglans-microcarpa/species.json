@@ -1,0 +1,90 @@
+{
+  "id": "juglans-microcarpa",
+  "entry_type": "species",
+  "family": "Juglandaceae",
+  "genus": "Juglans",
+  "species": "microcarpa",
+  "scientific_name": "Juglans microcarpa",
+  "authority": "Berland.",
+  "common_name": "Little Walnut / Texas Walnut",
+  "look_here_first": "Start with fruit size and leaflet narrowness. Little walnut is the smallest-fruited local walnut: fruits about 1.4–2.3 cm and nuts about 1.1–1.7 cm, with 17–25 narrow leaflets. It is usually a shrub or small tree rather than a massive canopy tree.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Bandera",
+    "Comal"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County field collection between Five Mile Dam and Blanco Shoals; Bandera County riparian documentation explicitly lists little walnut; Comal County historical national-champion record near Fischer documents the species.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "shrub or small tree, generally to about 10 m",
+      "17–25 narrow lanceolate leaflets",
+      "leaflets usually about 0.8–1.1 cm wide",
+      "fruit about 1.4–2.3 cm",
+      "nut about 1.1–1.7 cm with longitudinal grooves and relatively smooth surfaces between grooves",
+      "riparian along creeks and rivers"
+    ],
+    "comparison_training": "J. major has fewer, broader leaflets and larger 2–3.5 cm fruits; J. nigra has much larger 3.5–8 cm fruits and a coarsely warty nut surface."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Juglans microcarpa",
+      "Juglans major",
+      "Juglans nigra"
+    ],
+    "key_distinctions": "J. major has fewer, broader leaflets and larger 2–3.5 cm fruits; J. nigra has much larger 3.5–8 cm fruits and a coarsely warty nut surface."
+  },
+  "taxonomic_note": "Accepted by current Kew/POWO. Flora of North America warns that central Texas intermediates occur among local walnut species; use multiple characters on atypical material.",
+  "tags": [
+    "Juglandaceae",
+    "Juglans",
+    "Little Walnut / Texas Walnut",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b035",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Diagnostic roles defined; exact reusable image lock remains later visual-polish work.",
+  "images": [
+    {
+      "file": "images/01-habit-multistem-small-tree.jpg",
+      "role": "Whole multi-stem shrub/small-tree habit in rocky habitat",
+      "creator": "Jim (jimmex)",
+      "license": "CC0 1.0",
+      "source_page": "https://www.inaturalist.org/photos/436522536",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-leaves-small-green-fruits.jpg",
+      "role": "Pinnately compound foliage with small developing green fruits; strong size-and-leaf recognition view",
+      "creator": "Charlie Meador (s_pi_ky)",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/275885457",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-male-catkin-twig.jpg",
+      "role": "Male catkin close-up on twig; reproductive structure view",
+      "creator": "Jo Roberts (bacchusrock)",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/366129933",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

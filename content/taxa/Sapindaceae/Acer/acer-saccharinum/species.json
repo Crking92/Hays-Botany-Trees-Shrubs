@@ -1,0 +1,105 @@
+{
+  "id": "acer-saccharinum",
+  "entry_type": "species",
+  "family": "Sapindaceae",
+  "genus": "Acer",
+  "species": "saccharinum",
+  "scientific_name": "Acer saccharinum",
+  "authority": "L.",
+  "common_name": "Silver maple",
+  "synonyms": [
+    "Acer dasycarpum Ehrh."
+  ],
+  "taxonomic_note": "POWO accepts Acer saccharinum L.; Acer dasycarpum is an older synonym, not a second learner concept.",
+  "look_here_first": "Find an opposite SIMPLE leaf with very deep, sharp, angular/V-shaped sinuses and a conspicuously pale to silvery lower face. Check multiple mature leaves, not a single atypical blade; confirm opposite twig nodes and paired samaras when present.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool row 13; 2026-10-07 taxonomy and diagnostic review; scientific-review-allium-acer-2026-10-07.md",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas state-native under POWO/source-pool review, but a three-project-target-county native audit is not complete. Do not count in confirmed-native metrics."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Fast-growing deciduous tree, often associated with moist bottomlands; site alone does not prove ID.",
+    "leaves": "Opposite, simple, palmately 3–5-lobed; lobes often long and sharply pointed, separated by conspicuously deep sinuses. Lower surface silvery or whitish; sparse hairs may also occur.",
+    "flowers": "Small early-season flowers may open before leaves; seasonal timing is supportive, not decisive.",
+    "fruits": "Paired winged samaras, often ripening in spring; inspect wing shape with scale.",
+    "best_field_traits": [
+      "opposite SIMPLE leaf with very deep V-shaped sinuses",
+      "silvery/pale abaxial surface; some hairs possible",
+      "long pointed lobes, check several mature leaves",
+      "paired winged samaras, frequently early in season"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Acer grandidentatum",
+      "Acer rubrum",
+      "Acer negundo",
+      "Acer saccharum"
+    ],
+    "key_distinctions": "Acer grandidentatum typically has broader lobes, less deeply incised sinuses, and may have short hairs below; leaf-surface pubescence overlaps. Acer negundo has compound leaves. Acer rubrum can show lobing but generally lacks silver maple's combination of extreme sinus depth and conspicuously silvery underside."
+  },
+  "images": [
+    {
+      "file": "images/acer-saccharinum-leaves.jpg",
+      "role": "Mature foliage and deep leaf sinuses; photograph not a controlled underside macro",
+      "creator": "Simon Eugster",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acer_saccharinum_leaves.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/acer-saccharinum-samaras.jpg",
+      "role": "Paired samaras in fruit; Illinois provenance; add scale and fruit-season notes later",
+      "creator": "Jason Sturner",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acer_saccharinum_samaras_Churchill_Woods_Glen_Ellyn_Illinois.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-12",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    {
+      "priority": 1,
+      "role": "Matched upper/lower leaf views",
+      "target": "deep angular sinuses and silvery abaxial surface with scale"
+    },
+    {
+      "priority": 2,
+      "role": "Spring buds and flowers",
+      "target": "opposite twigs, flower timing relative to leaf-out"
+    },
+    {
+      "priority": 2,
+      "role": "Mature samaras",
+      "target": "paired fruit wings with scale and branch attachment"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-approved-source-pool-2026-10-10",
+    "taxonomy_identity_checked": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_reviewed": false,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

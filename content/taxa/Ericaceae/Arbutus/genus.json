@@ -1,0 +1,142 @@
+{
+  "rank": "genus",
+  "name": "Arbutus",
+  "family": "Ericaceae",
+  "common_group": "madrones",
+  "project_scope": {
+    "installed_canonical_species": [
+      "arbutus-xalapensis"
+    ],
+    "canonical_species_count": 1,
+    "source_pool_species": [
+      "Arbutus xalapensis"
+    ],
+    "native_target_zone_calculated": true,
+    "source_of_native_status": "content/taxa/Ericaceae/Arbutus/arbutus-xalapensis/species.json",
+    "note": "Single-species genus study lesson uses identified neighboring taxa as references, not learner-approved new species. No new canonical species or nativity changes."
+  },
+  "genus_recognition": {
+    "look_here_first": "Mature Texas madrone has dramatically peeling outer bark exposing smooth cream/pink/salmon/orange inner bark. Pair it with simple leathery evergreen leaves, pale URN-shaped flower clusters and orange/red berry-like fruit; never diagnose a seedling from bark alone.",
+    "source_order": "habit → leaf/stem architecture → flower structure → fruit/seed → specialist comparison"
+  },
+  "morphological_comparison_matrix": [
+    {
+      "character": "bark",
+      "Arbutus xalapensis": "smooth exfoliating multi-colored trunk/limbs in mature plants",
+      "comparison_reference": "Vaccinium arboreum lacks this characteristic dramatic madrone bark; Diospyros older bark may peel in plates differently"
+    },
+    {
+      "character": "leaf",
+      "Arbutus xalapensis": "simple alternate leathery evergreen blade, often entire or toothed",
+      "comparison_reference": "Vaccinium may have smaller narrower evergreen/semi-evergreen leaves; use flower and bark"
+    },
+    {
+      "character": "flower shape",
+      "Arbutus xalapensis": "drooping pale urn-shaped (urceolate) flowers clustered on branch ends",
+      "comparison_reference": "Vaccinium also urn-like; Diospyros tubular separate family and anther characters"
+    },
+    {
+      "character": "stamens",
+      "Arbutus xalapensis": "poricidal anthers opening via terminal pores, characteristic Ericaceae",
+      "comparison_reference": "Diospyros not Ericaceae; examine flower section/anther tips"
+    },
+    {
+      "character": "fruit",
+      "Arbutus xalapensis": "round fleshy orange-red berry-like fruit in clusters",
+      "comparison_reference": "Vaccinium fruit usually dark/black at maturity, other planted Arbutus may red; fruit color not alone"
+    },
+    {
+      "character": "distribution and age",
+      "Arbutus xalapensis": "wild Hill Country canyon/rocky woodland and sometimes nurse-tree associations",
+      "comparison_reference": "A. unedo landscape planting; provenance and age required to use bark/habitat"
+    }
+  ],
+  "local_lookalike_reference_names": [
+    "Vaccinium arboreum",
+    "Arbutus unedo",
+    "Diospyros texana"
+  ],
+  "visual_id_sequence": [
+    "1. Inspect entire plant habit and growth form.",
+    "2. Zoom to stem node and complete mature leaf with ruler.",
+    "3. Inspect close flower and reproductive parts, labeling all structures rather than flower color alone.",
+    "4. Confirm mature fruit architecture with macro and seed view.",
+    "5. Compare the nearest confuser against matched structural photos; keep ambiguous IDs at genus."
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "panel": 1,
+      "show": "old trunk bark with scale and exfoliating outer layer"
+    },
+    {
+      "priority": "critical",
+      "panel": 2,
+      "show": "young twig and mature leaf underside with venation"
+    },
+    {
+      "priority": "critical",
+      "panel": 3,
+      "show": "pale urn-shaped open flowers and closed buds"
+    },
+    {
+      "priority": "high",
+      "panel": 4,
+      "show": "dissected flower with pores at anther tips"
+    },
+    {
+      "priority": "high",
+      "panel": 5,
+      "show": "young vs ripe fruit with leaf context"
+    },
+    {
+      "priority": "high",
+      "panel": 6,
+      "show": "side-by-side Vaccinium and Arbutus bark/flower/leaf"
+    }
+  ],
+  "existing_canonical_photo_inventory": [
+    {
+      "path": "content/taxa/Ericaceae/Arbutus/arbutus-xalapensis/images/arbutus-xalapensis_bark-mature-habit_00-13-10.0.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    },
+    {
+      "path": "content/taxa/Ericaceae/Arbutus/arbutus-xalapensis/images/arbutus-xalapensis_immature-fruits-evergreen-leaves_00-13-21.0.jpg",
+      "role": "Existing species-level asset, verify exact diagnostics and reuse rights before public release"
+    }
+  ],
+  "scientific_cautions": [
+    "Existing Joey Santore video frames PRIVATE STUDY ONLY, not cleared for public use. Find nonrestricted equivalent before public-facing website use. Existing USFWS public domain bark photo in species metadata.",
+    "A canonical species's current target-zone nativity and learner approval are scientific metadata; comparing other related taxa must not install them or change their statuses.",
+    "Flower color, single leaf and ecology alone never resolve difficult look-alikes; photo comparisons should show same scale and source provenance."
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Existing Joey Santore video frames PRIVATE STUDY ONLY, not cleared for public use. Find nonrestricted equivalent before public-facing website use. Existing USFWS public domain bark photo in species metadata."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Confirm exact congener/look-alike traits before adding hard numeric boundaries; reconcile accepted synonyms."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Existing canonical species anatomy, photo provenance and scientific status",
+      "path": "content/taxa/Ericaceae/Arbutus/arbutus-xalapensis/species.json"
+    },
+    {
+      "title": "Canonical family recognition and visual comparisons",
+      "path": "content/taxa/Ericaceae/family.json"
+    }
+  ],
+  "curation_status": {
+    "version": "genus-github-backfill-2026-10-11",
+    "reviewed_at": "2026-10-11",
+    "comparison_rows": 6,
+    "photo_panels": 6,
+    "visual_status": "shot requests + existing metadata only, no new image assets downloaded",
+    "species_installs": 0,
+    "range_changes": 0
+  }
+}

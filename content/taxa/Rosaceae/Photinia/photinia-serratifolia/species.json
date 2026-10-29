@@ -1,0 +1,36 @@
+{
+  "id": "photinia-serratifolia",
+  "family": "Rosaceae",
+  "genus": "Photinia",
+  "species": "serratifolia",
+  "scientific_name": "Photinia serratifolia",
+  "common_name": "Chinese photinia",
+  "look_here_first": "Look for glossy, finely toothed evergreen leaves and branched clusters of white flowers; a planted introduced comparison.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Photinia%20serratifolia",
+  "images": [
+    {
+      "file": "images/inat-263176307.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) hansoes, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/263176307",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

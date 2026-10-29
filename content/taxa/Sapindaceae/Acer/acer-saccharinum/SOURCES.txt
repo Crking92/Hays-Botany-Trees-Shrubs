@@ -1,0 +1,12 @@
+Acer saccharinum — approved Master Plant Pool row 13; learner-approved and taxonomy reviewed 2026-10-07.
+Target-zone range: UNRESOLVED. Texas state-native is not a 3-target-county PASS; exclude from confirmed-native metrics.
+POWO accepted name: https://powo.science.kew.org/taxon/1892-2
+Go Botany leaf-hair nuance: https://gobotany.nativeplanttrust.org/species/acer/saccharinum/
+Minnesota DNR: https://www.dnr.state.mn.us/trees/silver-maple.html
+Diagnostic handoff: research-drafts/scientific-review-allium-acer-2026-10-07.md
+
+Exact-species photo sources (provisional):
+https://commons.wikimedia.org/wiki/File:Acer_saccharinum_leaves.jpg | Simon Eugster | CC BY-SA 3.0 | Mature foliage and deep leaf sinuses; photograph not a controlled underside macro
+https://commons.wikimedia.org/wiki/File:Acer_saccharinum_samaras_Churchill_Woods_Glen_Ellyn_Illinois.jpg | Jason Sturner | CC BY 2.0 | Paired samaras in fruit; Illinois provenance; add scale and fruit-season notes later
+
+Diagnostic gaps: matched mature upper/lower leaf, measured sinus, opposite twig/bud, mature paired samaras.

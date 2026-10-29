@@ -1,0 +1,104 @@
+{
+  "id": "vitis-berlandieri",
+  "entry_type": "species",
+  "family": "Vitaceae",
+  "genus": "Vitis",
+  "species": "berlandieri",
+  "scientific_name": "Vitis berlandieri",
+  "authority": "Planch.",
+  "common_name": "Berlandier's grape / Heller's grape",
+  "synonyms": [
+    "Vitis cinerea var. helleri (L.H.Bailey) M.O.Moore",
+    "Vitis helleri (L.H.Bailey) Small",
+    "Vitis cordifolia var. helleri L.H.Bailey"
+  ],
+  "taxonomic_note": "Current Kew/POWO accepts Vitis berlandieri as a species and places Vitis cinerea var. helleri in synonymy. Flora of North America still treats the same concept as Vitis cinerea var. helleri. Learner uses V. berlandieri canonically and preserves the Heller's-grape names as aliases.",
+  "look_here_first": "Start with the lower leaf surface and fruit bloom. Berlandier/Heller's grape has a lower leaf surface that remains visible—sparsely webby/hairy to nearly glabrous—not a solid white felt. Branchlets are slightly angled and usually lack red-banded nodes; ripe berries are conspicuously glaucous and the fruiting clusters are comparatively short and compact.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Kerr",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — UT Plant Resources Center Purola Preserve and a Coleman Ranch flora document Vitis cinerea var. helleri / Vitis berlandieri as native wild grape. Kerr County — the Kerr Wildlife Management Area vascular flora vouchers Vitis cinerea var. helleri; the Heller type material is also from Kerrville. Bexar County — Berlandier type/isotype specimens of Vitis berlandieri were collected at/near San Antonio and the San Antonio River.",
+    "range_guardrail": "Historical sources split or lump this concept differently. County evidence is accepted only when it clearly refers to the Heller/berlandieri concept, not generic Vitis cinerea."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "high-climbing woody vine of limestone canyons, slopes and floodplains",
+      "branchlets slightly angled, arachnoid/webby, not densely short-hairy",
+      "nodes usually not red-banded",
+      "leaves cordate with acute apex",
+      "lower leaf surface sparsely hirtellous and arachnoid to nearly glabrous, blade surface visible",
+      "berries moderately to heavily glaucous",
+      "fruiting clusters relatively compact and shorter than other Vitis cinerea varieties",
+      "strong association with Edwards Plateau limestone"
+    ],
+    "comparison_training": "Vitis mustangensis: Mustang grape has dense white/rust wool completely concealing the leaf underside and larger, less-glaucous berries. Vitis cinerea: Current/FNA var. cinerea has distinctly angled branchlets densely hirtellous plus arachnoid, more consistently hairy lower leaf surfaces and only slightly glaucous berries; in Texas it is primarily eastern. Vitis palmata: V. palmata has uniformly red/purple branchlets and usually deeply 3–5-lobed glabrous leaves."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Vitis mustangensis",
+      "Vitis cinerea",
+      "Vitis palmata"
+    ],
+    "key_distinctions": "Mustang grape has dense white/rust wool completely concealing the leaf underside and larger, less-glaucous berries. Current/FNA var. cinerea has distinctly angled branchlets densely hirtellous plus arachnoid, more consistently hairy lower leaf surfaces and only slightly glaucous berries; in Texas it is primarily eastern. V. palmata has uniformly red/purple branchlets and usually deeply 3–5-lobed glabrous leaves."
+  },
+  "tags": [
+    "Vitaceae",
+    "Vitis",
+    "Berlandier's grape / Heller's grape",
+    "Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b025",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.\n13 Oct 2026 photo enrichment: two additional exact-species reusable photographs. No range or species taxonomy modification; fine detail macros and arrows still pending.",
+  "images": [
+    {
+      "file": "images/vitis-berlandieri-provisional-face.jpg",
+      "role": "Vine / leaf recognizable face",
+      "creator": "Joachim Schmid",
+      "license": "CC BY 3.0 DE",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_Berlandieri.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/vitis-berlandieri-leaf-underside.jpg",
+      "role": "Leaf underside of accepted Berlandier/Heller grape concept; note sparse webby hairs; French cultivated reference, not local provenance",
+      "creator": "Pancrat",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_dessous_feuille.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/vitis-berlandieri-texas-second-view.jpg",
+      "role": "Second Texas documented exact species V. berlandieri recognition photo; morphology comparison photo",
+      "creator": "Joachim Schmid",
+      "license": "CC BY 3.0 DE",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_in_Texas.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_enrichment",
+    "image_count": 3,
+    "filled_at": "2026-10-06",
+    "note": "Three real licensed photographs intended after curation; original plus two targeted additional views. Physical count must be verified in final pipeline report."
+  }
+}

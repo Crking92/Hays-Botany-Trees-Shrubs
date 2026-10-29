@@ -1,0 +1,232 @@
+{
+  "rank": "family",
+  "name": "Viburnaceae",
+  "common_name": "Viburnum / elder family",
+  "lineage_context": {
+    "order": "Dipsacales",
+    "batch": "Dipsacales",
+    "close_project_families": [
+      "Caprifoliaceae"
+    ],
+    "teaching_goal": "Use opposite leaves + small 5-part epigynous flowers + inferior ovary + drupaceous fruit, then split Sambucus from Viburnum by compound versus simple leaves and fruit-stone architecture."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas project-pool module across Sambucus and Viburnum",
+    "note": "The source pool has four rows but only three current species concepts because Sambucus nigra subsp. canadensis is a synonym of accepted Sambucus canadensis."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at the node: both project genera have opposite leaves. Then inspect broad cymose or paniculate flower clusters with small usually regular 5-part flowers above an inferior ovary. Confirm with a fleshy drupaceous fruit.",
+    "vegetative": "Woody shrubs or small trees in the project pool. Sambucus has opposite pinnately compound leaves; Viburnum has opposite simple leaves.",
+    "reproductive": "Flowers are typically small, epigynous and 5-merous, with a 5-lobed rotate to campanulate corolla and 5 stamens. Ovary is inferior.",
+    "fruit": "Fleshy and drupaceous. Sambucus fruits contain several hard pyrenes; Viburnum commonly matures a one-stoned drupe.",
+    "field_tip": "Opposite leaves + broad cluster of small regular flowers + inferior ovary + drupe gets the family. Then compound leaf = Sambucus; simple leaf = Viburnum."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_009",
+    "teaching_order": "opposite node → compound-vs-simple leaf → flat/broad flower cluster → inferior ovary → drupe/pyrenes → Caprifoliaceae tie-breaker",
+    "intro": "This is a nice visual family because the two project genera separate before you ever need a microscope: elder has compound leaves; viburnum has simple leaves.",
+    "steps": [
+      {
+        "title": "1 · Start with the opposite node",
+        "photo_role": "paired leaf attachment",
+        "look_for": "Leaves arising in opposite pairs on a woody stem.",
+        "why_it_matters": "The shared Dipsacales starting point gets you into the right neighborhood.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Compound leaf? Think Sambucus",
+        "photo_role": "elder pinnate leaf",
+        "look_for": "A single opposite leaf divided into multiple leaflets along a rachis.",
+        "why_it_matters": "Separates elder from Viburnum immediately.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Simple leaf? Think Viburnum",
+        "photo_role": "Viburnum rufidulum simple leaf + rusty bud/twig",
+        "look_for": "One undivided leaf blade per petiole; in rusty blackhaw, look for rusty hairs/scurf on buds, petioles or young surfaces.",
+        "why_it_matters": "Provides the local Viburnum door before flowering.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Read the whole flower cluster",
+        "photo_role": "broad cyme/panicle",
+        "look_for": "Many small 5-part regular flowers arranged in a broad terminal cluster rather than a few large tubular flowers.",
+        "why_it_matters": "A useful contrast with many Lonicera flowers in Caprifoliaceae.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Confirm the inferior ovary",
+        "photo_role": "single flower side view / diagram",
+        "look_for": "Perianth and stamens attached above the ovary.",
+        "why_it_matters": "Connects the family to its Dipsacales lineage and separates lookalikes with superior ovaries.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "6 · Finish with the fruit stone pattern",
+        "photo_role": "Sambucus vs Viburnum cut fruit",
+        "look_for": "Sambucus fruit with several pyrenes versus Viburnum's typically single-stoned drupe.",
+        "why_it_matters": "Fruit anatomy gives a durable genus tie-breaker after flowering.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "7 · Taxonomy card: elderberry duplicate",
+        "photo_role": "accepted-name comparison card",
+        "look_for": "Sambucus nigra subsp. canadensis → accepted Sambucus canadensis; retain Sambucus nigra as a separate Old World species concept.",
+        "why_it_matters": "Prevents the source pool from double-counting American elderberry.",
+        "status": "taxonomy_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Viburnaceae vs Caprifoliaceae",
+        "rule": "Both often start with opposite leaves and inferior ovaries. Project Viburnaceae is entirely woody, with broad clusters of small regular flowers and drupaceous fruits. Caprifoliaceae includes tubular/zygomorphic honeysuckles and the herbaceous valerian dry-fruit lineage."
+      },
+      {
+        "title": "Sambucus vs Lonicera",
+        "rule": "Sambucus has pinnately compound leaves and broad clusters of many small regular flowers; Lonicera has simple leaves and more conspicuous tubular/funnelform flowers."
+      },
+      {
+        "title": "Viburnum vs Symphoricarpos",
+        "rule": "Both are opposite-leaved shrubs with fleshy fruits. Viburnum combines simple leaves with broad 5-part flower clusters and typically a one-stoned drupe; Symphoricarpos has smaller bell/funnel flowers and berry-like fruits with a different internal seed/nutlet plan."
+      }
+    ],
+    "caveat": "Do not count Sambucus nigra subsp. canadensis as an additional current American elderberry taxon; current Kew synonymizes it under Sambucus canadensis.",
+    "part_specific_photo_handoff": [
+      {
+        "species_reference": "Sambucus canadensis",
+        "plain": "one leaf divided into leaflets",
+        "formal": "opposite pinnately compound leaf; rachis and leaflets",
+        "photo_role": "whole leaf with node and leaflet attachments visible",
+        "media_status": "needs_anatomy_verified_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Point out that several leaflets belong to one compound leaf; do not confuse leaflets with separate leaves."
+      },
+      {
+        "species_reference": "Viburnum rufidulum",
+        "plain": "one undivided leaf and rusty fuzz",
+        "formal": "simple blade; ferruginous pubescence",
+        "photo_role": "matched leaf-node and young twig/bud macro",
+        "media_status": "needs_anatomy_verified_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Compare one simple blade per petiole with elderberry's leaflets; inspect rusty hairs at high magnification."
+      },
+      {
+        "species_reference": "Sambucus canadensis",
+        "plain": "flower parts sit above seed-bearing swelling",
+        "formal": "inferior ovary; epigynous insertion",
+        "photo_role": "flower side-view or longitudinal dissection",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Identify ovary position from floral insertion, not a front-view flower alone."
+      },
+      {
+        "species_reference": "Sambucus canadensis and Viburnum rufidulum",
+        "plain": "several hard pieces versus one stone inside fruit",
+        "formal": "multiple pyrenes versus single-stoned drupe",
+        "photo_role": "matched mature-fruit dissections",
+        "media_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "caption_goal": "Count pyrenes in cut mature fruit, not from external fruit color."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 2,
+    "current_teaching_genus_count": 2,
+    "genera": [
+      {
+        "genus": "Sambucus",
+        "source_taxa_count": 3,
+        "current_taxa_count": 2,
+        "fast_cue": "opposite pinnately compound leaves + broad flat-topped flower clusters + dark drupaceous fruits with multiple pyrenes",
+        "role": "elder door"
+      },
+      {
+        "genus": "Viburnum",
+        "source_taxa_count": 1,
+        "current_taxa_count": 1,
+        "fast_cue": "opposite simple leaves + broad 5-part flower clusters + one-stoned drupe",
+        "role": "viburnum door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Sambucus nigra subsp. canadensis",
+    "Sambucus canadensis",
+    "Sambucus nigra",
+    "Viburnum rufidulum"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Sambucus nigra subsp. canadensis",
+      "current_name": "Sambucus canadensis",
+      "note": "Current Kew treats the subspecies name as a synonym of accepted Sambucus canadensis; do not double-count."
+    },
+    {
+      "source_name": "Sambucus canadensis",
+      "current_name": "Sambucus canadensis",
+      "note": "Accepted current species and native to Texas under Kew."
+    },
+    {
+      "source_name": "Sambucus nigra",
+      "current_name": "Sambucus nigra",
+      "note": "Accepted separate species with an Old World native range; retain as source/comparison, not the local native elder anchor."
+    },
+    {
+      "source_name": "Viburnum rufidulum",
+      "current_name": "Viburnum rufidulum",
+      "note": "Accepted current species and native to Texas under Kew."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Sambucus compound vs Viburnum simple leaf",
+      "annotation_goal": "label rachis/leaflets versus single blade"
+    },
+    {
+      "priority": 1,
+      "structure": "inferior ovary",
+      "annotation_goal": "show flower parts arising above ovary"
+    },
+    {
+      "priority": 1,
+      "structure": "Sambucus multi-pyrene vs Viburnum one-stone fruit",
+      "annotation_goal": "cut-fruit comparison"
+    },
+    {
+      "priority": 2,
+      "structure": "Viburnum rufidulum rusty hairs/scurf",
+      "annotation_goal": "label rusty bud/twig/leaf-surface character"
+    },
+    {
+      "priority": 2,
+      "structure": "Sambucus nigra subsp. canadensis → Sambucus canadensis taxonomy card",
+      "annotation_goal": "prevent duplicate current concept"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Sambucus canadensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321978-2"
+    },
+    {
+      "source": "Plants of the World Online — Sambucus nigra subsp. canadensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:978604-1"
+    },
+    {
+      "source": "Plants of the World Online — Sambucus nigra",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30122169-2"
+    },
+    {
+      "source": "Plants of the World Online — Viburnum rufidulum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30314446-2"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-009",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_leaf_and_fruit_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

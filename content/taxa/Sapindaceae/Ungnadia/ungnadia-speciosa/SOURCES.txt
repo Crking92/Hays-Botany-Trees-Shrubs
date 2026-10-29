@@ -1,0 +1,49 @@
+UNGNADIA SPECIOSA ENDL. — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+
+## Taxonomy
+Kew Plants of the World Online — accepted Ungnadia speciosa Endl.; native in Texas:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:785564-1
+
+## Strict target-zone range
+Travis — UT Plant Resources Center Sapindaceae index to Travis County herbarium specimens; three Ungnadia speciosa specimens:
+https://w3.biosci.utexas.edu/prc/specimens/Sapindaceae.html
+
+Williamson — UT Plant Resources Center, Vascular Plants of Williamson County:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Ungnadia%20speciosa
+
+Kerr — Texas Parks and Wildlife, vascular flora of Kerr Wildlife Management Area; Ungnadia speciosa listed with voucher collections:
+https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf
+
+Decision: PASS — Travis, Williamson, Kerr.
+
+## Morphology
+UT Plant Resources Center Williamson County treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Ungnadia%20speciosa
+
+Native Plant Society of Texas:
+https://www.npsot.org/posts/native-plant/ungnadia-speciosa/
+
+Key learner cues:
+- alternate odd-pinnately compound leaves
+- pink spring flowers
+- distinctive 3-lobed woody capsule
+- large shiny dark seeds
+- distinguish from Aesculus by alternate pinnate vs opposite palmate leaves
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — Relict Madrones in the Desert / Native Plants of the Ft. Worth Prairie Region
+https://www.youtube.com/watch?v=4zKfoRtl4Co
+ungnadia-speciosa_three-carpelled-fruit_00-11-11.0.jpg @ 00:11:11.0
+Texas buckeye fruiting branch. The dark, three-lobed capsule is visible in place on the twig, giving useful fruit habit and foliage context.
+https://www.youtube.com/watch?v=N4yq5Z1_0Eo
+ungnadia-speciosa_three-lobed-fruit-seed-source-label_20-35.jpg @ 20:35
+Opened Texas buckeye capsule with a dark seed visible inside. Use this with the fruiting-branch view to connect the three-lobed capsule to its seed structure.
+Rights: private study only; public reuse not cleared. User confirms private learner. Existing scientific/range status preserved.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:27:38.122462+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/49462286
+https://www.inaturalist.org/observations/31593785
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

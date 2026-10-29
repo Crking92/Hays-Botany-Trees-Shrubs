@@ -1,0 +1,28 @@
+Quercus buckleyi — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501014
+https://powo.science.kew.org/taxon/284107-2
+
+PROJECT TRACKER DIAGNOSTIC
+Deciduous red oak with 7–9 deeply cut lobes ending in sharp bristle/awn tips; glossy mostly glabrous leaves; biennial acorns.
+
+PHOTO METHOD
+Run the genus-level DOWNLOAD-TARGETED-QUERCUS-PHOTOS.bat.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations from Aug–Dec when possible
+3) all-season multi-photo observations as fallback
+
+image-sources.csv is generated automatically.
+JOEY SANTORE SPECIES LAYER
+Video: West Texas Native Plant Landscaping (Pro Jahb)
+Video ID: mA0uMKVyswA
+Record jvid-mA0uMKVyswA-004 @ 05:26 — direct Quercus buckleyi field view; crown habit and lobed leaves.
+
+Secondary tentative habitat frame:
+Video: The Texas Smoke Tree & the Edwards Plateau
+Video ID: emV8NAIgttg
+Record jvid-emV8NAIgttg-009 @ 09:11 — Joey says “probably Quercus buckleyi”; rock-wall/limestone chasmophyte context. Preserve this identification as tentative.
+Rights: extracted Joey frames are private-study assets; public reuse is not assumed.

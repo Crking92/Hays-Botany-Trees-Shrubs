@@ -1,0 +1,89 @@
+{
+  "id": "elaeagnus-angustifolia",
+  "family": "Elaeagnaceae",
+  "genus": "Elaeagnus",
+  "species": "angustifolia",
+  "scientific_name": "Elaeagnus angustifolia",
+  "common_name": "Russian olive",
+  "look_here_first": "Inspect narrow silvery-scaled leaves, silvery twigs, small yellowish fragrant tubular flowers, and olive-like fruits.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_056": "2026-10-18"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/323646-1",
+  "images": [
+    {
+      "file": "images/inat-162161981.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) harris204l, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/162161981",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review056-c3158dc55459559.jpg",
+      "role": "Recognize · dense silvery leaves on spreading branch; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Silvery foliage across branch and close twig/leaf view",
+      "creator": "Cody Stricker",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6399506554",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/670727226/original.jpg",
+      "source_determination": "Elaeagnus angustifolia",
+      "source_observation_id": "6399506554",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/elaeagnus-angustifolia/gbif-016088404653b8.jpg",
+      "archive_image_sha256": "287bffe585a9899823fcd2825027bf5b5ae96c941aea45cbe6f809983133a1f5",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review056-ac7bd25db857b6c.jpg",
+      "role": "Look closer · narrow silver-gray leaves on twigs; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Silvery foliage across branch and close twig/leaf view",
+      "creator": "Craig Hensley",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4935626282",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232580462/original.jpg",
+      "source_determination": "Elaeagnus angustifolia",
+      "source_observation_id": "4935626282",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/elaeagnus-angustifolia/gbif-60e509e2edff45.jpg",
+      "archive_image_sha256": "21a294aff3e0007a30cfaaa0afc870bc507ce7b475e734f1c0c30804ebb62882",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "ulmus-parvifolia",
+  "entry_type": "species",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "species": "parvifolia",
+  "scientific_name": "Ulmus parvifolia",
+  "authority": "",
+  "common_name": "Chinese elm",
+  "synonyms": [],
+  "taxonomic_note": "Accepted taxon; Asian native and introduced/naturalized in North America.",
+  "look_here_first": "Look at bark and leaf texture together: Chinese elm has distinctive exfoliating mottled tan/orange/gray bark and small glossy, mostly singly serrate leaves; it flowers and fruits in late summer-fall.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "Kew/POWO accepts Ulmus parvifolia but gives its native range in East Asia, not North America. Flora of North America treats it as introduced and notes that it naturalizes readily in disturbed woods/sites. Texas regional invasive-species material (Quiet Invasion, Houston-Galveston region) treats Chinese elm as invasive and describes natural/spread impacts. The project source pool contains two user observations marked wild, supporting encounter value but not native status.",
+    "range_guardrail": "Native-range status remains FAIL regardless of how commonly the species is encountered. Retention is a separate learner-role recommendation.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "INVASIVE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "introduced Asian elm, often planted and sometimes naturalized",
+      "mature bark exfoliates in irregular plates creating mottled tan, orange, gray and olive patches",
+      "leaves small, dark, lustrous/glabrous above, mostly singly serrate",
+      "twigs generally not corky-winged",
+      "flowers in late summer to early fall",
+      "small glabrous samara; seed nearly fills samara",
+      "disturbed-site escape/naturalization makes it a useful field comparison"
+    ],
+    "elm_training": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ulmus crassifolia",
+      "Ulmus pumila",
+      "Ulmus alata"
+    ],
+    "key_distinctions": "Ulmus crassifolia: Both can have small leaves and fall reproduction. Cedar elm has rough hairy leaves, often corky twigs, and hairy samaras; Chinese elm has exfoliating mottled bark, glossy smoother leaves, and glabrous samaras. Ulmus pumila: Siberian elm also has small leaves but lacks Chinese elm's distinctive lacebark exfoliation and has different samara/flowering timing. Ulmus alata: Winged elm has regular corky wings and spring reproduction rather than mottled exfoliating bark and fall reproduction."
+  },
+  "tags": [
+    "Ulmaceae",
+    "Ulmus",
+    "Chinese elm",
+    "Introduced comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-008",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-04",
+    "photo_reviewed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_015": "2026-10-16"
+  },
+  "photo_note": "Ulmus photo backfill 2026-10-04: lacebark plus small-leaf/samara combination chosen to separate Chinese elm from cedar elm. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "images/ulmus-parvifolia-bark.jpg",
+      "role": "mottled exfoliating lacebark",
+      "creator": "Ronnie Nijboer",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RN_Ulmus_parvifolia_bark.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review015-21a9a2c7e463350.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Serrated small elm leaves with hand scale and close winged fruit clusters; complements existing exfoliating bark",
+      "creator": "natgrace18",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6178886407",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622232215/original.jpg",
+      "source_determination": "Ulmus parvifolia",
+      "source_observation_id": "6178886407",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/ulmus-parvifolia/gbif-fa217dbc77e4a6.jpg",
+      "archive_image_sha256": "8a12f6469d88f185980938ce6fb194f5bb6acd365dcd47a080fbd08044be8af1",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review015-aadf77baa3fc215.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Serrated small elm leaves with hand scale and close winged fruit clusters; complements existing exfoliating bark",
+      "creator": "takalani.nelu",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110470380",
+      "media_source_url": "https://bs.plantnet.org/image/o/a637cbcf1ab2b589d612268e5354b0acd6cf035d",
+      "source_determination": "Ulmus parvifolia",
+      "source_observation_id": "5110470380",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/ulmus-parvifolia/plantnet-via-gbif-1450beecbd0e5d.jpg",
+      "archive_image_sha256": "d6b4e857fed90b8e50b5ad4e3999a398536c4063816fc24fc9c0586e78cfd041",
+      "image_dimensions": [
+        800,
+        800
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "external_study_references": [
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/RN_Ulmus_parvifolia_bark.JPG",
+      "role": "exfoliating mottled lacebark",
+      "creator": "Ronnie Nijboer",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:RN_Ulmus_parvifolia_bark.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://cdn.plantatlas.org/img/plants/USF/Ulmus_parvifolia.jpg",
+      "role": "small leaves and samaras",
+      "creator": "Florida Plant Atlas",
+      "license": "source-site terms",
+      "source_page": "https://florida.plantatlas.usf.edu/plant/species/479",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ]
+}

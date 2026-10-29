@@ -1,0 +1,136 @@
+{
+  "id": "quercus-alba",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus alba",
+  "authority": "L.",
+  "common_name": "White oak",
+  "look_here_first": "Rounded lobes, light gray scaly bark, shallow unfringed acorn cups.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON"
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "Five to seven rounded bristleless leaf lobes",
+      "Pale gray flaky bark",
+      "Shallow unfringed acorn cups",
+      "Acorns mature in one season"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus macrocarpa",
+      "Quercus stellata",
+      "Quercus muehlenbergii"
+    ],
+    "key_distinctions": "Bur oak has fringed cups and a deep midleaf waist; post oak has cross-shaped leaves; chinkapin oak has toothed leaves."
+  },
+  "images": [
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Quercus_alba_fallen-leaves_acorns.jpg/960px-Quercus_alba_fallen-leaves_acorns.jpg",
+      "role": "White oak fallen mature leaves, both surfaces, with multiple brown acorns against trunk",
+      "creator": "Dcrjsr",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_alba_fallen-leaves_acorns.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "media_storage": "external_direct_url",
+      "image_verified": "Source file page, photographer/license and actual thumbnail checked 2026-10-08",
+      "diagnostic_visibility": "Actual image inspected: rounded non-bristled lobes, brown narrow acorns, pale underside on fallen leaves in Duke Forest; not an attached acorn cup or fresh upper/lower macro.",
+      "limitations": "Leaves are autumn/fallen, not fresh spring foliage; acorns lying on ground, not attached to the source tree; NOT measured.",
+      "exact_taxon": "Quercus alba"
+    },
+    {
+      "file": "images/library-review011-40aad4d321c543f.jpg",
+      "role": "Rounded-lobed mature white oak leaf held for scale, showing sinuses and lobe shape; acorn and bud details not shown in this local photo; botanical identity remains source-determined",
+      "requested_diagnostic_view": "Clean rounded-lobed mature leaf image; no acorn view; original unsaved record preserved",
+      "creator": "natgrace18",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5198956848",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519458354/original.jpg",
+      "source_determination": "Quercus alba",
+      "source_observation_id": "5198956848",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/quercus-alba/gbif-072741756818a7.jpg",
+      "archive_image_sha256": "a11ce484ea517da2e3285484e143555065375665b9402222753a109993903db8",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review038-aacee43620d154e.jpg",
+      "role": "Mature oak trunk showing furrowed grey bark; distinguish together with rounded leaf lobes, not by bark alone; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Mature gray-white oak trunk bark to complement leaf-lobe photo",
+      "creator": "Raymond Cantwell",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110451822",
+      "media_source_url": "https://bs.plantnet.org/image/o/50204ef73cfcfff47d753438eca78120129a513a",
+      "source_determination": "Quercus alba",
+      "source_observation_id": "5110451822",
+      "library_release_tag": "hays-photo-library-seed-plantnet-20261015",
+      "library_archive_file": "staged_images/quercus-alba/plantnet via gbif-83b42ceec97727.jpg",
+      "archive_image_sha256": "4823d4446fdf22ec4a3b9e99686747c04f1842c6672b07734b79fbcf2d897147",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional-one-photo-ready",
+    "image_count": 1,
+    "photo_media_kind": "external_licensed_exact_species",
+    "last_reviewed": "2026-10-08",
+    "note": "One confirmed diagnostic/recognition photo installed; more habit/reproductive/macro views still needed. Nonlocal comparison role and range status unchanged."
+  },
+  "diagnostic_image_plan": [
+    "leaf",
+    "bark",
+    "acorn",
+    "twig"
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "last_visual_reviewed": "2026-10-08",
+    "visual_status": "one-photo-study-ready",
+    "manual_library_install_011": "2026-10-16",
+    "manual_library_install_038": "2026-10-17"
+  },
+  "photo_fast_fill_2026_10_08": {
+    "status": "one_licensed_recognition_photo_added",
+    "images_added": 1,
+    "still_missing": "Mature fruit, bud and underside macro roles according to diagnostic_image_plan",
+    "photo_physically_mirrored": false,
+    "verified_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Quercus_alba_fallen-leaves_acorns.jpg/960px-Quercus_alba_fallen-leaves_acorns.jpg",
+    "license": "CC BY 3.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_alba_fallen-leaves_acorns.jpg",
+    "guardrail": "Do not infer target-zone native occurrence or exact characters not visible in the source image."
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

@@ -1,0 +1,199 @@
+{
+  "rank": "genus",
+  "family": "Vitaceae",
+  "name": "Cissus",
+  "common_group": "sorrelvines and grape-ivies",
+  "project_scope": {
+    "canonical_species_ids": [
+      "cissus-trifoliata"
+    ],
+    "canonical_species_count": 1,
+    "source_pool": "Master Plant Pool row 269, 15 wild-tagged iNaturalist observations, PASS verified Travis Bexar Comal",
+    "no_new_taxa": true,
+    "related_genus_lessons": [
+      "Vitis",
+      "Parthenocissus"
+    ],
+    "note": "Single-species Cissus lesson; compares installed Vitis species. Parthenocissus under an independent active work claim; do not overwrite that lesson."
+  },
+  "look_here_first": "FIRST locate the node: Cissus trifoliata has relatively fleshy foliage usually divided into THREE leaflets (sometimes deeply three-parted), whereas Vitis typically has ONE simple leaf, even if deeply lobed. Then check unbranched tendril, red/brown warty stem nodes, small greenish flower clusters, and dark berries. Do not identify Cissus from three lobes alone.",
+  "shared_genus_recognition": [
+    "Woody-based scrambling or climbing vine in the grape family, Vitaceae",
+    "Leaves alternate, with the common regional Cissus trifoliata possessing three-parted or trifoliolate foliage; trace leaflet stalks to the main petiole to separate leaflets from lobes",
+    "Tendrils usually slender and unbranched, commonly opposite foliage on shoots; nodes can be swollen/warty or reddish",
+    "Flowers small greenish in clusters, much less conspicuous than passionflowers; fruit dark berries"
+  ],
+  "decision_sequence": [
+    "1. Find a whole leaf attachment and count separately jointed leaflets; a lobe is part of one continuous blade, not a separate leaflet.",
+    "2. Follow the petiole to a Cissus leaflet joint, then find the opposite tendril and inspect branching.",
+    "3. Check flexible to woody reddish node and glossy/thicker leaflet texture; compare with Vitis simple leaf or Parthenocissus thinner radiating leaflets.",
+    "4. Inspect flowers and fruit only in conjunction with leaf architecture; round berries alone do not prove a genus.",
+    "5. If variation or photo cropping hides nodes and leaflet joints, keep ID at Vitaceae until a full shoot is visible."
+  ],
+  "lookalike_matrix": [
+    {
+      "trait": "Leaves",
+      "Cissus trifoliata": "Usually 3 separately jointed leaflets or deep 3-parted foliage, often somewhat fleshy",
+      "Vitis spp.": "ONE simple, palmate-veined leaf blade even when deeply 3–5 lobed",
+      "Parthenocissus spp.": "Usually 5 (sometimes 3 or 7) distinct leaflets from one palmately divided leaf"
+    },
+    {
+      "trait": "Tendrils",
+      "Cissus trifoliata": "Normally simple/unbranched",
+      "Vitis spp.": "Often forked/branched opposite a leaf",
+      "Parthenocissus spp.": "Branched; in some taxa adhesive discs aid climbing"
+    },
+    {
+      "trait": "Stems",
+      "Cissus trifoliata": "Often reddish and swollen/warty at nodes",
+      "Vitis spp.": "Woody grape stems with species-specific tomentum/branchlet colors",
+      "Parthenocissus spp.": "Climbing vine; compare stem/attachment rather than color only"
+    },
+    {
+      "trait": "Reproductive structures",
+      "Cissus trifoliata": "Small greenish flower clusters, dark berries",
+      "Vitis spp.": "Tiny flowers and familiar grape clusters",
+      "Parthenocissus spp.": "Small greenish flowers and blue-black berries"
+    },
+    {
+      "trait": "Habit",
+      "Cissus trifoliata": "Low scrambling or climbing vine; often fleshy leaves",
+      "Vitis spp.": "Vigorous woody lianas climbing tree crowns",
+      "Parthenocissus spp.": "Climbing or trailing woody vines, some attaching by adhesive tendrils"
+    }
+  ],
+  "lookalike_cautions": [
+    "Do not mistake a deeply three-lobed Vitis blade for a three-leaflet Cissus leaf. Inspect the leaflet junction at petiole.",
+    "Virginia creeper / thicket creeper can be 3-foliolate at juvenile nodes; leaflet count must be combined with tendril type and stem architecture.",
+    "Leaf arrangement and tendril attachment matter more than fruit color alone.",
+    "Cissus trifoliata has a verified native-range PASS; do not automatically confer the same county status on unreviewed Cissus species."
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": 1,
+      "role": "Three-parted versus distinctly trifoliolate mature leaf with separate leaflets attached to main petiole",
+      "status": "FIELD_PHOTO_PRIORITY"
+    },
+    {
+      "priority": 1,
+      "role": "Stem node showing unbranched tendril insertion, swollen/warty reddish stem",
+      "status": "FIELD_PHOTO_PRIORITY"
+    },
+    {
+      "priority": 1,
+      "role": "Side-by-side leaf attachment and tendril of Cissus versus Vitis mustangensis",
+      "status": "COMPARISON_PRIORITY"
+    },
+    {
+      "priority": 2,
+      "role": "Greenish tiny flower cluster and axillary position",
+      "status": "FINAL_POLISH"
+    },
+    {
+      "priority": 2,
+      "role": "Blue-black mature berry cluster with scale",
+      "status": "FINAL_POLISH"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Sorrelvine versus grapevine — three-parted versus one simple leaf",
+    "subtitle": "Learn leaf junction, tendril and node first; dark grapes are not diagnostic.",
+    "memory_rule": "CISSUS = often THREE separate leaflets, WARTY RED node, SIMPLE tendril. VITIS = ONE blade, leaf-opposed often FORKED tendril, inspect UNDERSIDE.",
+    "items": [
+      {
+        "label": "Texas sorrelvine — leaf and node",
+        "scientific_name": "Cissus trifoliata",
+        "image_url": "content/taxa/Vitaceae/Cissus/cissus-trifoliata/images/cissus-trifoliata-provisional-face.jpg",
+        "caption": "First count the leaflet joints instead of lobes; trace the vine's node to find the tendril.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata1.jpg",
+        "creator": "DouglasGoldman",
+        "license": "CC BY-SA 4.0",
+        "photo_status": "PHYSICAL_IMAGE_PRESENT"
+      },
+      {
+        "label": "Grapevine — one simple leaf",
+        "scientific_name": "Vitis mustangensis",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-mustangensis/images/vitis-mustangensis-provisional-face.jpg",
+        "caption": "Grape leaves can be lobed, but they remain a single blade. Flip a leaf to see if Mustang's underside is white-felted.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_mustangensis.jpg",
+        "creator": "Ddal",
+        "license": "CC BY-SA 3.0",
+        "photo_status": "PHYSICAL_IMAGE_PRESENT"
+      },
+      {
+        "label": "Sorrelvine — second Texas foliage view",
+        "scientific_name": "Cissus trifoliata",
+        "image_url": "content/taxa/Vitaceae/Cissus/cissus-trifoliata/images/cissus-trifoliata-texas-leaves-2.jpg",
+        "image_role": "Texas sorrelvine foliage, recognition",
+        "caption": "Search for the common three-leaflet form; some shoots instead have a single three-lobed blade. Distinguish leaflet joints carefully.",
+        "creator": "DouglasGoldman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata2.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "Sorrelvine — third Texas shoot view",
+        "scientific_name": "Cissus trifoliata",
+        "image_url": "content/taxa/Vitaceae/Cissus/cissus-trifoliata/images/cissus-trifoliata-texas-node-3.jpg",
+        "image_role": "Additional Texas plant shoot angle",
+        "caption": "Check node, petiole attachment and slender unbranched tendril if fully visible. No precise node-arrow coordinates are claimed for this photo.",
+        "creator": "DouglasGoldman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata3.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "Grape comparison — Mustang grape foliage",
+        "scientific_name": "Vitis mustangensis",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-mustangensis/images/vitis-mustangensis-north-texas-leaves.jpg",
+        "image_role": "Single grape leaf comparison",
+        "caption": "Vitis leaf is a single continuous blade even where deeply lobed. Sorrelvine usually has three leaflets; inspect the petiole.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:VItis_mustangensis.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      }
+    ],
+    "final_polish_backlog": [
+      "Matched same-scale Texas photographs of full petiole and leaflet joints",
+      "True in-focus unbranched tendril and warty node with arrows independently checked",
+      "Matched Vitis underside and tendril branching comparisons",
+      "Flowers and fruit with scale and attribution"
+    ]
+  },
+  "scientific_sources": [
+    {
+      "title": "Canonical Cissus trifoliata species card",
+      "path": "content/taxa/Vitaceae/Cissus/cissus-trifoliata/species.json"
+    },
+    {
+      "title": "Cissus trifoliata FNA",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250047325"
+    },
+    {
+      "title": "Vitaceae family lesson",
+      "path": "content/taxa/Vitaceae/family.json"
+    },
+    {
+      "title": "Texas photograph and licensing",
+      "url": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata1.jpg"
+    },
+    {
+      "title": "FNA Cissus trifoliata morphology, synonyms and simple versus trifoliolate leaves",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250047325"
+    }
+  ],
+  "curation_status": {
+    "version": "cissus-photo-2026-10-13",
+    "canonical_species_count": 1,
+    "range_changes": 0,
+    "species_installs": 0,
+    "visual_status": "3 installed Cissus photos; linked 5 photos (including 2 Vitis comparator photos); morphology-first field-ready provisional",
+    "no_unverified_arrows": true,
+    "taxonomy_synonyms_reconciled": true,
+    "species_images_installed": 3,
+    "visual_photo_panels": 5
+  },
+  "taxonomy_note": "Cissus incisa Des Moulins is a synonym of the accepted Cissus trifoliata under Flora of North America; make no duplicate canonical C. incisa card. C. trifoliata leaves are USUALLY three-foliolate, SOMETIMES simple but three-lobed, rarely unlobed. Leaf architecture alone is best read with tendril and node.",
+  "fna_congener_note": "FNA recognizes Cissus verticillata as another species in the flora, generally with simple unlobed hairy blades, unlike glabrous trifoliolate / simple 3-lobed C. trifoliata. Not a target for canonical installation without source pool and range review."
+}

@@ -1,0 +1,179 @@
+{
+  "rank": "family",
+  "name": "Juglandaceae",
+  "common_name": "Walnut family",
+  "project_scope": {
+    "selection_mode": "Central Texas Juglans microcarpa reference module",
+    "note": "Built as the companion family to the existing Fagaceae oak module."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the long alternate pinnately compound leaf, then confirm male catkins and a nut enclosed by a husk.",
+    "leaves": "Pinnately compound, exstipulate, often aromatic/resinous.",
+    "flowers": "Unisexual; male flowers commonly in catkins, female flowers in short terminal clusters.",
+    "fruit": "One-seeded nut enclosed by a fleshy or fibrous outer husk.",
+    "twig": "Juglans may show chambered pith.",
+    "field_tip": "Confirm alternate compound leaves plus a husked nut. Split the genera with fruit and twig pith: Carya usually has a sutured splitting husk and solid pith; Juglans an indehiscent husk and chambered pith. Catkins alone are not diagnostic."
+  },
+  "visual_lesson": {
+    "status": "reference_first_pass",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Little walnut becomes easy when you pair the long compound leaf with the husked nut and stop using catkins alone.",
+    "steps": [
+      {
+        "title": "1 · See the Texas Hill Country form",
+        "photo_role": "little walnut habit / foliage",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_microcarpa_300812335.jpg",
+        "image_label": "Juglans microcarpa",
+        "image_credit": "CC0 · James H. Thomas",
+        "look_for": "A woody plant with long odd-pinnately compound leaves and many narrow leaflets.",
+        "why_it_matters": "Sets the local Juglans architecture.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Inspect twig and buds",
+        "photo_role": "Juglans microcarpa buds/twig",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_microcarpa.jpg",
+        "image_label": "Juglans microcarpa twig",
+        "image_credit": "CC BY-SA 2.0 · Jerry Friedman",
+        "look_for": "Walnut-type twig/bud architecture; chambered pith is a useful secondary character when visible.",
+        "why_it_matters": "Adds a non-leaf winter/structural clue.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "3 · Learn the catkin context",
+        "photo_role": "male catkin",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_microcarpa.jpg",
+        "image_label": "Juglans microcarpa male catkin",
+        "image_credit": "CC BY-SA 2.0 · Jerry Friedman",
+        "look_for": "Slender male catkins on older wood.",
+        "why_it_matters": "Useful supporting evidence, but not enough by itself because oaks also have catkins.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "4 · Finish with the husked nut",
+        "photo_role": "little walnut fruit",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_microcarpa_436522536.jpg",
+        "image_label": "Juglans microcarpa Texas reference",
+        "image_credit": "CC0 · Jim",
+        "look_for": "A small globose fruit with an outer husk surrounding a hard nut.",
+        "why_it_matters": "This is the decisive local Juglandaceae fruit pattern.",
+        "status": "rights_cleared_family_reference"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Juglandaceae vs Fagaceae",
+        "rule": "Walnuts have pinnately compound leaves + husked nuts; local oaks have simple leaves + acorns in cupules."
+      },
+      {
+        "title": "Catkins are not enough",
+        "rule": "Both walnuts and oaks make male catkins, so always combine them with leaf and fruit architecture."
+      }
+    ],
+    "caveat": "Use aroma only from naturally handled foliage; do not damage plants solely for an odor test."
+  },
+  "curation_status": {
+    "version": "1.2-juglans-installed-photo-routing",
+    "last_reviewed": "2026-10-14",
+    "visual_lock": "reference_first_pass",
+    "juglans_photo_anchors": 4,
+    "anatomy_arrow_review_pending": true
+  },
+  "family_confusion_polish": {
+    "reviewed": "2026-10-12",
+    "look_here_first": "Find a mature husked nut and a twig cross-section. Juglandaceae typically has alternate pinnately compound leaves and separate male catkins/female flowers, but neither leaf type nor catkins alone proves family. Compare fruit architecture and twig pith.",
+    "side_by_side": [
+      {
+        "taxon": "Carya (pecan/hickory)",
+        "leaf": "Alternate pinnately compound",
+        "fruit": "Nut enclosed in a husk typically splitting along sutures",
+        "twig": "Pith generally solid",
+        "route": "Split mature husk; inspect pith"
+      },
+      {
+        "taxon": "Juglans (walnut)",
+        "leaf": "Alternate pinnately compound",
+        "fruit": "Nut enclosed in a husk usually not splitting into regular valves",
+        "twig": "Pith characteristically chambered",
+        "route": "Cut fallen twig to see pith; examine fruit"
+      }
+    ],
+    "confusable_families": [
+      {
+        "family": "Fagaceae",
+        "separation": "Oak acorn has a distinct cupule at its base rather than a husk enclosing the whole nut; local Quercus leaves are simple."
+      },
+      {
+        "family": "Oleaceae",
+        "separation": "Fraxinus may have pinnate leaves but opposite nodes and single winged samaras, not husked nuts."
+      },
+      {
+        "family": "Sapindaceae",
+        "separation": "Aesculus has opposite palmately compound leaves and a dehiscent capsule; Sapindus has alternate pinnate leaves but drupaceous soapberry fruit, not a hard husked nut."
+      },
+      {
+        "family": "Anacardiaceae",
+        "separation": "Rhus may have alternate pinnate leaves, but its small drupes do not contain the large Juglandaceae nut within a thick husk."
+      }
+    ],
+    "exceptions": "Husk dehiscence can be immature, damaged or variable; confirm with mature fruit and twig pith, not a single fruit. Male catkins also occur in unrelated families.",
+    "genus_routing": "Carya: splitting husk and usually solid pith; Juglans: generally non-splitting husk and chambered pith. Preserve existing Juglans microcarpa reference and Carya genus lessons.",
+    "diagnostic_visual_roles": [
+      "Matched mature Carya and Juglans husks, intact and opened, with suture arrows",
+      "Cross-cut Carya solid pith versus Juglans chambered pith at the same scale",
+      "Leaf node with alternate pinnate attachment versus opposite Fraxinus and Aesculus",
+      "Acorn cupule versus walnut enclosing husk, labeled cutaways",
+      "Sapindus drupe and Rhus drupe versus Carya/Juglans nuts, matched fruit cross-sections"
+    ],
+    "photo_status": "Diagnostic Photo Polish to source exact rights-cleared macros; existing family reference images retained."
+  },
+  "juglans_visual_extension": {
+    "title": "Juglandaceae: whole leaf, walnut husk, twig pith",
+    "look_here_first": "Confirm compound leaf arrangement, then the husked nut. On a naturally fallen twig show Juglans chambered pith vs Carya solid pith. Compare mature husk splitting (usually Carya) with a walnut husk that normally stays whole.",
+    "reference_photo_anchors": [
+      {
+        "taxon_id": "juglans-microcarpa",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-microcarpa/images/02-leaves-small-green-fruits.jpg",
+        "image_role": "Narrow leaflets and developing small green fruit in same view",
+        "creator": "Charlie Meador (s_pi_ky)",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/275885457",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-microcarpa",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-microcarpa/images/03-male-catkin-twig.jpg",
+        "image_role": "Staminate catkin context, not a species-level fruit key",
+        "creator": "Jo Roberts (bacchusrock)",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/366129933",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-major",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-major/images/juglans-major-provisional-face.jpg",
+        "image_role": "Foliage with developing fruits; provisional face, not shell sculpture",
+        "creator": "Whitney Cranshaw, Colorado State University",
+        "license": "CC BY 3.0 US",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_major_foliagenuts.jpg",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-nigra",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-nigra/images/02-leaf-fruit.jpg",
+        "image_role": "Compound leaf and large green-husked fruit",
+        "creator": "Rohit Naniwadekar",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_nigra_11.jpg",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      }
+    ],
+    "visual_missing": [
+      "matched Juglans vs Carya twig pith close-up",
+      "same-scale mature husked walnut vs splitting pecan/hickory husk",
+      "cleaned nut shell sculpture macro",
+      "labelled compound leaf rachis and leaflet"
+    ],
+    "technical_caution": "Husk is not the fruit wall: walnut fruit is a nut, while husk derives from floral surrounding tissues. Neither male catkins nor compound leaves alone establish family."
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "ilex-decidua",
+  "entry_type": "species",
+  "family": "Aquifoliaceae",
+  "genus": "Ilex",
+  "species": "decidua",
+  "scientific_name": "Ilex decidua",
+  "authority": "Walter",
+  "common_name": "Possumhaw / deciduous holly",
+  "synonyms": [],
+  "taxonomic_note": "Accepted species. Kew recognizes var. decidua and var. mulleri; the learner remains species-level.",
+  "look_here_first": "Ask whether the holly is deciduous. Possumhaw drops its leaves and often leaves dense red-orange drupes exposed along pale gray twigs in winter.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "range_guardrail": "Landscape plantings are not used as county-native evidence.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays — project Hays native-source list plus naturally occurring Purola Preserve material. Travis — Pace Bend Park/native central-Texas documentation. Williamson — UT Plant Resources Center county treatment.",
+      "source_document": "content/taxa/Aquifoliaceae/Ilex/ilex-decidua/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous shrub or small tree",
+      "pale gray twiggy branches",
+      "alternate simple leaves, elliptic to obovate/spatulate",
+      "thin-textured leaves with shallow crenate to crenate-serrate margins",
+      "small axillary white flowers; plants primarily dioecious",
+      "female plants bear red to orange-red drupes clustered along twigs",
+      "fruit commonly persists after leaf drop"
+    ],
+    "comparison_training": "Within local hollies, deciduous winter-bare fruiting twigs are the fastest field separator."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ilex vomitoria",
+      "Ilex opaca"
+    ],
+    "key_distinctions": "Yaupon is evergreen with much smaller leathery leaves and low crenate teeth. American holly is an evergreen tree with much larger thick leaves bearing stiff spine-tipped teeth."
+  },
+  "tags": [
+    "Aquifoliaceae",
+    "Ilex",
+    "Possumhaw",
+    "Central Texas",
+    "Holly comparison",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-b017",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "joey_enhanced": true,
+    "video_study_media_count": 1,
+    "media_only_update": "gallery-backfill-027",
+    "joey_original_frame_preserved": true,
+    "source_photo_role_count": 4,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "media_install_verified_at": "2026-10-13"
+  },
+  "photo_note": "Learner gallery pairs the saved Joey fruiting-twig frame with reusable exact-species foliage/twig context. Whole-plant habit, bud detail, and bark remain useful future targets.\nMedia-only photo backfill: Jo​​ey Santore 19:50 source-labelled possumhaw fruit frame remains the first photo; supplementary CC-cleared deciduous twig/leaf, full habit and leafless winter fruit views. Existing range/taxonomic decisions preserved.",
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "19:50",
+      "record_id": "N4yq5Z1_0Eo-29",
+      "role": "Red fruit arranged along a twig.",
+      "source_taxon": "Ilex decidua",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/ilex-decidua_red-fruit-source-label_19-50.jpg"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/ilex-decidua_red-fruit-source-label_19-50.jpg",
+      "role": "Joey Santore field video source-labelled red drupes on Ilex decidua winter twig",
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo&t=1190s",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "caption": "Source-labeled Joey Santore field video frame of *Ilex decidua* showing red drupes along a woody winter fruiting twig. Compared with yaupon, the diagnostic seasonal cue is leafless fruiting possumhaw; verify season and leaf persistence.",
+      "diagnostic_roles": [
+        "red drupes",
+        "woody fruiting twig",
+        "winter field cue"
+      ],
+      "source_record_id": "N4yq5Z1_0Eo-29",
+      "timestamp": "19:50",
+      "changes": "Original saved video frame preserved unmodified in private learner; photographer's rights not cleared for public reuse.",
+      "source_video_id": "N4yq5Z1_0Eo"
+    },
+    {
+      "file": "images/01-summer-leaf-twig.jpg",
+      "role": "Summer deciduous leaves and twig soft crenate/serrate margins",
+      "creator": "David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_decidua_5zz.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-habit.jpg",
+      "role": "Whole mature possumhaw plant showing deciduous tree habit",
+      "creator": "James Steakley",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_decidua.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-winter-fruit.jpg",
+      "role": "Leafless winter branch loaded with bright red/orange drupes",
+      "creator": "Eric Hunt",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_decidua_4.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Whole shrub/tree habit, leaf close-up, twig/bud detail, and bark context."
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 4,
+    "photo_files_present": 4,
+    "verified_at": "2026-10-13",
+    "private_study_joey_frame_preserved": true,
+    "note": "Four physically installed photos: preserved Joey Santore original video still, summer leaf twig, complete mature habit, and winter fruiting photo. Same-scale leaf margin and drupe pyrene microscopy remain final polish."
+  },
+  "native_metrics_excluded": true
+}

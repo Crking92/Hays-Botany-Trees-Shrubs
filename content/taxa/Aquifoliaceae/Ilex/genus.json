@@ -1,0 +1,386 @@
+{
+  "rank": "genus",
+  "name": "Ilex",
+  "family": "Aquifoliaceae",
+  "common_group": "hollies",
+  "project_scope": {
+    "selection_mode": "Three already installed canonical species; genus lesson added independently of species installer",
+    "species_ids": [
+      "ilex-decidua",
+      "ilex-opaca",
+      "ilex-vomitoria"
+    ],
+    "species_count": 3,
+    "source_pool": "Genus Study Index row 8; canonical manifest",
+    "native_status_boundary": "Ilex opaca is retained as a nursery-trade/encounter comparison, not confirmed target-zone native; preserve all species range statuses"
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Start on an intact twig, not the red fruit. First ask whether leaves drop in winter. On evergreen plants, compare leaf size, thickness and whether marginal teeth are rounded scallops or sharp, stiff spine tips. For genus confirmation, inspect tiny axillary flowers and a mature drupe with several hard pyrenes.",
+    "shared_traits": [
+      "Woody shrubs or trees with alternate, simple, stipulate-appearing but typically inconspicuous stipule structures; branchlets may carry clustered flowers and fruit.",
+      "Small usually 4–5-parted axillary flowers, often functionally unisexual on different individuals (usually dioecious).",
+      "Fruit is a small fleshy drupe containing multiple hard pyrenes, not a botanically true berry.",
+      "All three species may bear red fruit; red berries alone do not prove species or even genus."
+    ],
+    "image_first_guidance": "Match winter twig silhouette to close-up of the leaf margin, then add fruit/flower anatomy confirmation; for leafless possumhaw seek a documented seasonal comparison."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "winter leaf persistence",
+      "Ilex decidua": "DECIDUOUS: often leafless while fruit persists in winter",
+      "Ilex vomitoria": "Evergreen: small leaves usually persist",
+      "Ilex opaca": "Evergreen: large thick leaves persist",
+      "weight": "PRIMARY first split"
+    },
+    {
+      "character": "leaf length / general scale",
+      "Ilex decidua": "Moderate, thin elliptic–obovate/spatulate leaves; larger than typical yaupon",
+      "Ilex vomitoria": "Small, commonly ca. 1–4 cm long",
+      "Ilex opaca": "Large, thick evergreen leaves, markedly larger than typical yaupon",
+      "weight": "PRIMARY; use a ruler"
+    },
+    {
+      "character": "margin armature / tooth shape",
+      "Ilex decidua": "Soft shallow crenate to crenate-serrate teeth; not sharp spines",
+      "Ilex vomitoria": "Low rounded crenate/scalloped teeth; not strongly spiny",
+      "Ilex opaca": "Stiff, sharp, spine-tipped marginal teeth on many mature leaves",
+      "weight": "PRIMARY macro after winter persistence"
+    },
+    {
+      "character": "leaf texture / habit",
+      "Ilex decidua": "Relatively thin deciduous foliage; shrub/small tree, pale gray twigs",
+      "Ilex vomitoria": "Small leathery leaves, often multistemmed shrub to small tree",
+      "Ilex opaca": "Very leathery large glossy leaves; evergreen tree, often pyramidal when young",
+      "weight": "SUPPORTING"
+    },
+    {
+      "character": "flowers and sexual architecture",
+      "Ilex decidua": "Small axillary, usually functionally unisexual flowers; identify pistillate vs staminate structures",
+      "Ilex vomitoria": "Small axillary unisexual white flowers; dioecious",
+      "Ilex opaca": "Small axillary unisexual pale flowers; dioecious",
+      "weight": "GENUS confirmation, not primary species separator"
+    },
+    {
+      "character": "fruit and pyrenes",
+      "Ilex decidua": "Red/orange drupes frequently remain visible on leafless winter twigs",
+      "Ilex vomitoria": "Persistent bright red drupes among small evergreen leaves",
+      "Ilex opaca": "Red drupes among large evergreen spiny leaves",
+      "weight": "SECONDARY; fruit color shared and insufficient"
+    }
+  ],
+  "look_here_first_sequence": [
+    {
+      "step": 1,
+      "look": "full winter twig plus matched growing-season leaf",
+      "decision": "If winter deciduous with orange/red drupes on bare twigs, favor I. decidua; confirm soft toothed thin leaves from appropriate season."
+    },
+    {
+      "step": 2,
+      "look": "evergreen shoot with ruler at mid-stem leaves",
+      "decision": "Small 1–4 cm blades with low rounded crenations favor I. vomitoria; very large thick blades with rigid spine-tipped teeth favor I. opaca."
+    },
+    {
+      "step": 3,
+      "look": "leaf margin at macro scale and lower leaf surface",
+      "decision": "Separate rounded crenations from stiff spines; damaged, juvenile and shade leaves may vary."
+    },
+    {
+      "step": 4,
+      "look": "flower sex plus ripe drupe cross-section",
+      "decision": "Verify staminate vs pistillate flowers and the multiple pyrenes to reinforce Ilex; do not treat fruiting sex as a species split."
+    },
+    {
+      "step": 5,
+      "look": "ambiguous urban ornamental or juvenile sterile shoot",
+      "decision": "Mark Ilex sp. or cultivated-holly comparison pending flowering/leaf characters; landscape planting is not evidence of native range."
+    }
+  ],
+  "cautions": [
+    "I. opaca is already retained as a canonical LOOKALIKE_COMPARISON; its Texas state-level range does not qualify it as confirmed native in the project's target counties. Do not include in native-only counts.",
+    "Some American holly leaves vary in spine count, including nearly spineless older branches. Require overall blade size/texture and twig context, not one tooth.",
+    "Leaf margins of many hollies change between juvenile and mature branches; use several mature, intact leaves.",
+    "Only pistillate plants with successful pollination bear abundant fruit; absence of red drupes does not exclude any of these species.",
+    "Possumhaw's winter fruit display is seasonal and sex-specific. An in-leaf summer possumhaw may need leaf texture and twig comparison.",
+    "The fruit is a drupe with hard pyrenes; teach the botanical distinction from true berries.",
+    "No original species taxonomy, range state, or media attribution was changed in this lesson."
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Ilex cornuta (Chinese holly), ornamental encounter",
+      "separate": "Check horn-like leaf teeth, proportions and planted context; do not equate spines with I. opaca alone."
+    },
+    {
+      "taxon": "Ilex crenata (Japanese holly), ornamental encounter",
+      "separate": "Small crenate evergreen leaves can mimic yaupon; check fruit color/architecture, leaf arrangement and nursery origin; avoid a county-native inference."
+    },
+    {
+      "taxon": "Diospyros texana / D. virginiana (Ebenaceae)",
+      "separate": "Follow calyx and fruit: Diospyros produces larger berry-type fruits with a conspicuous persistent calyx, not multiple hard holly pyrenes."
+    },
+    {
+      "taxon": "non-Ilex shrubs with red drupes",
+      "separate": "Require alternate leaves, Ilex axillary flowers and drupe pyrenes; red fruit is a poor first clue."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "role": "seasonal winter pair",
+      "targets": [
+        "I. decidua",
+        "I. vomitoria",
+        "I. opaca"
+      ],
+      "show": "same context fruiting and leaf persistence, especially bare decidua vs evergreen twigs; annotate time of year and plant sex"
+    },
+    {
+      "priority": "critical",
+      "role": "matched leaves with scale and margin macro",
+      "targets": [
+        "all three"
+      ],
+      "show": "leaf size, soft/rounded crenations vs sharp rigid spine-tipped teeth, arrows at single tooth"
+    },
+    {
+      "priority": "high",
+      "role": "intact twig node and leaf arrangement",
+      "targets": [
+        "all three"
+      ],
+      "show": "alternate leaf attachment, petiole, evergreen/deciduous cue where season appropriate"
+    },
+    {
+      "priority": "high",
+      "role": "small staminate versus pistillate flowers",
+      "targets": [
+        "I. vomitoria",
+        "I. opaca"
+      ],
+      "show": "functional stamens versus ovary/staminodes; matched scale; teach dioecy rather than species split"
+    },
+    {
+      "priority": "high",
+      "role": "cut mature drupe and pyrenes",
+      "targets": [
+        "all three"
+      ],
+      "show": "hard internal pyrenes and fleshy fruit wall, label drupe not berry; protect source rights"
+    },
+    {
+      "priority": "secondary",
+      "role": "horticultural look-alike side-by-side",
+      "targets": [
+        "I. opaca",
+        "I. cornuta",
+        "I. crenata"
+      ],
+      "show": "leaf teeth and fruit type using reliable exact-taxon photos; comparison taxa NOT automatically native"
+    }
+  ],
+  "existing_media_reuse": {
+    "family_module": "content/taxa/Aquifoliaceae/family.json contains sourced example photographs and references for decidua, vomitoria and opaca flowers/fruit",
+    "status": "reuse leads only; genus lesson has no newly verified photo assets",
+    "owner": "Diagnostic Photo Polish; keep existing credit/license and overlay provenance"
+  },
+  "dependencies": [
+    {
+      "owner": "Diagnostic Photo Polish",
+      "scope": "all three Ilex",
+      "detail": "Match leaf-margin close-ups and seasonal deciduous-vs-evergreen twigs; add true pyrene cross-section and staminate/pistillate flower photos with source rights."
+    },
+    {
+      "owner": "Taxonomy + Diagnostic Review",
+      "scope": "I. opaca and cultivated holly confusions",
+      "detail": "Preserve existing LOOKALIKE_COMPARISON and non-target range labels; assess unusual urban cultivars or spineless material on structural characters, not origin assumptions."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Existing canonical species accounts",
+      "paths": [
+        "content/taxa/Aquifoliaceae/Ilex/ilex-decidua/species.json",
+        "content/taxa/Aquifoliaceae/Ilex/ilex-opaca/species.json",
+        "content/taxa/Aquifoliaceae/Ilex/ilex-vomitoria/species.json"
+      ],
+      "supports": "leaf persistence, margins, flowers, fruit, settled range labels"
+    },
+    {
+      "source": "Aquifoliaceae family visual lesson",
+      "path": "content/taxa/Aquifoliaceae/family.json",
+      "supports": "pyrenes, functionally unisexual small flowers, exact existing photo-source pointers"
+    }
+  ],
+  "curation_status": {
+    "version": "1.2-ilex-preserve-joey-private-fruit-frame",
+    "last_reviewed": "2026-10-13",
+    "structural_lesson": "three-species comparison complete",
+    "visual_lock": "matched diagnostic leaf/pyrene macros not acquired by this lane",
+    "species_installation": "none; three existing canonical concepts preserved",
+    "visual_items": 7,
+    "visual_marker_total": 6,
+    "license_credits_verified": true,
+    "photo_install_note": "4 new Yaupon physical images queued separately; genus photos are linkable original-source references, independent of installer completion",
+    "video_frame": "N4yq5Z1_0Eo @ 19:50 installed to possumhaw genus gallery as private-study photograph; no public reuse permission"
+  },
+  "visual_comparison": {
+    "title": "Three local Ilex teaching types · look at the leaf FIRST",
+    "subtitle": "Compare yaupon's SMALL round-toothed evergreen leaves with possumhaw's winter BARE fruiting twigs and American holly's larger stiff-spined leaves. Yaupon pistillate flower shows what actually makes the drupes. All photos are exact-species, licensed original sources.",
+    "memory_rule": "SMALL + EVERGREEN + rounded crenations = Yaupon. WINTER BARE + red drupes = Possumhaw. BIG + rigid spines = American holly (nursery/encounter comparison).",
+    "items": [
+      {
+        "label": "Yaupon · mature small evergreen leaves",
+        "scientific_name": "Ilex vomitoria",
+        "image_role": "Small evergreen leaves, crenate margins and developing green drupes",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ilex_vomitoria_3zz.jpg/960px-Ilex_vomitoria_3zz.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_3zz.jpg",
+        "creator": "David J. Stang",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "caption": "Low, rounded SCALLOPS on small oval evergreen blades, unlike a large sharp American-holly spine. Developing green drupes visible near the lower middle of twig.",
+        "markers": [
+          {
+            "label": "small elliptic leaf",
+            "label_x": 3,
+            "label_y": 16,
+            "target_x": 26,
+            "target_y": 45
+          },
+          {
+            "label": "young green drupes",
+            "label_x": 47,
+            "label_y": 74,
+            "target_x": 41,
+            "target_y": 57
+          }
+        ],
+        "visual_status": "whole leaf and green drupes inspected in original preview; fine margin tooth arrow awaits better true edge macro"
+      },
+      {
+        "label": "Yaupon · gray bark and leafy red-fruit twigs",
+        "scientific_name": "Ilex vomitoria",
+        "image_role": "Pale smooth-gray bark and small alternate evergreen leaves among red drupes",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ilex_vomitoria_%282020%29.jpg/960px-Ilex_vomitoria_%282020%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_(2020).jpg",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "image_fit": "contain",
+        "caption": "A useful stem-level view: the main twig at upper right is smooth PALE GRAY, with smaller evergreen leaves and red drupes on the branches.",
+        "markers": [
+          {
+            "label": "pale gray woody twig",
+            "label_x": 48,
+            "label_y": 4,
+            "target_x": 87,
+            "target_y": 24
+          }
+        ],
+        "visual_status": "pale central fork visibly verified in source 960px photograph"
+      },
+      {
+        "label": "Yaupon · whole tree and heavy winter fruit",
+        "scientific_name": "Ilex vomitoria",
+        "image_role": "Cultivated upright mature evergreen specimen carrying many red drupes",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Ilex_vomitoria_in_Wilmington%2C_North_Carolina.jpg/960px-Ilex_vomitoria_in_Wilmington%2C_North_Carolina.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_in_Wilmington,_North_Carolina.jpg",
+        "creator": "Staniulis (Angelita dela Rosa)",
+        "license": "CC0 1.0",
+        "image_fit": "contain",
+        "caption": "Entire fruiting yaupon tree at an urban college. It illustrates one cultivated mature habit and persistent evergreen fruiting foliage; canopy silhouettes vary widely with pruning/cultivars, so do NOT use shape as sole species criterion.",
+        "markers": [],
+        "visual_status": "full cultivated specimen visually verified; not a target-zone native range voucher"
+      },
+      {
+        "label": "Yaupon · female flower and green ovary",
+        "scientific_name": "Ilex vomitoria",
+        "image_role": "Pistillate flower stigma, swollen ovary and reduced stamens (staminodes)",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ilex_vomitoria%2C_Yaupon_Holly%2C_pistillate_flowers%2C_Green_Farmacy_Garden%2C_Fulton%2C_Md%2C_Helen_Lowe_Metzman_2019-10-23-17.20.38_ZS_PMax_UDR_%2849426959648%29.jpg/960px-Ilex_vomitoria%2C_Yaupon_Holly%2C_pistillate_flowers%2C_Green_Farmacy_Garden%2C_Fulton%2C_Md%2C_Helen_Lowe_Metzman_2019-10-23-17.20.38_ZS_PMax_UDR_%2849426959648%29.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria,_Yaupon_Holly,_pistillate_flowers,_Green_Farmacy_Garden,_Fulton,_Md,_Helen_Lowe_Metzman_2019-10-23-17.20.38_ZS_PMax_UDR_(49426959648).jpg",
+        "creator": "Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab",
+        "license": "Public Domain",
+        "image_fit": "contain",
+        "caption": "This is a PISTILLATE (female) flower. The obvious green bulge in the center is the functional ovary that matures into the drupe; slender stamens around it are nonfunctional staminodes, explaining dioecy.",
+        "markers": [
+          {
+            "label": "functional green ovary",
+            "label_x": 3,
+            "label_y": 12,
+            "target_x": 49,
+            "target_y": 45
+          }
+        ],
+        "visual_status": "central ovary verified in photomacrograph, exact arrows pointing at visible green bulge"
+      },
+      {
+        "label": "Possumhaw · bare winter fruiting twig",
+        "scientific_name": "Ilex decidua",
+        "image_role": "Entirely leafless twig in winter with abundant red drupes",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ilex_decidua_4.jpg/960px-Ilex_decidua_4.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_decidua_4.jpg",
+        "creator": "Eric Hunt",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "caption": "January Arkansas shot: red/orange drupes persist on BARE twigs, a strong seasonal separator from evergreen yaupon. Female-fruiting season only; summer possumhaw may carry leaves.",
+        "markers": [
+          {
+            "label": "winter leafless fruiting twig",
+            "label_x": 3,
+            "label_y": 14,
+            "target_x": 52,
+            "target_y": 52
+          }
+        ],
+        "visual_status": "exact species winter fruiting twig visually verified in photo; licensed source image reused as external comparison"
+      },
+      {
+        "label": "Joey Santore field frame · possumhaw red drupes",
+        "scientific_name": "Ilex decidua",
+        "image_role": "Source-labelled winter fruiting twig showing red drupes",
+        "image_url": "content/taxa/Aquifoliaceae/Ilex/ilex-decidua/images/ilex-decidua_red-fruit-source-label_19-50.jpg",
+        "image_fit": "contain",
+        "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo&t=1190s",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private project study only — public reuse/redistribution NOT cleared",
+        "caption": "An already-installed 19:50 Joey Santore video still of possumhaw (Ilex decidua). Look for the arrangement of red drupes on branches, then compare against evergreen leafy yaupon. Joey's frame is preserved; it is not a new licensed web photograph.",
+        "markers": [],
+        "visual_status": "original private learner video frame preserved physically; no guessed arrow endpoints; do not publish outside private learner"
+      },
+      {
+        "label": "American holly · stiff sharp leaf spines",
+        "scientific_name": "Ilex opaca",
+        "image_role": "Large glossy thick evergreen leaves with rigid spine-tipped marginal teeth",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/B50_Ilex_opaca_%28American_Holly%29_Close-up.jpg/960px-B50_Ilex_opaca_%28American_Holly%29_Close-up.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:B50_Ilex_opaca_(American_Holly)_Close-up.jpg",
+        "creator": "Alouis21",
+        "license": "CC BY-SA 3.0",
+        "image_fit": "contain",
+        "caption": "Stiff SHARP spine tips project from the leaf margin on these much larger leathery leaves. This is an encounter/nursery comparison; not certified target-zone native.",
+        "markers": [
+          {
+            "label": "rigid leaf spine tips",
+            "label_x": 3,
+            "label_y": 10,
+            "target_x": 56,
+            "target_y": 55
+          }
+        ],
+        "visual_status": "brightly lit sharply toothed Ilex opaca leaves visually verified; marker targets one prominent tooth"
+      }
+    ],
+    "overlay_note": "Annotations are separate learner overlays on the original photos; copyright credits retained. CC BY-SA photos require same-license terms for any adapted graphics. Original media for the two cross-species panels are remote photos rather than additional installed species files. Joey Santore's *Ilex decidua* photo is a saved original video frame licensed ONLY for private study; the publicly reusable CC images remain individually credited. No new Joey rights assumed.",
+    "study_only_intro": "Original-site supporting botanical views still awaiting licensed paired-macro installation:",
+    "study_only_photo_links": [
+      {
+        "label": "UT Austin BIO406D yaupon: smooth bark, leaves, flowers, fruit and habit",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/aqu/ilex_vomitoria.htm",
+        "look_for": "Locally valuable anatomy and male flower macro; compare flower sex visually",
+        "reuse": "source-only; UT photography reuse rights not confirmed"
+      },
+      {
+        "label": "Yaupon leaf drawing and habitat information from UF IFAS",
+        "url": "https://ask.ifas.ufl.edu/publication/ST311",
+        "look_for": "Leaf-margin shape and botanical terminology, without cultivar substitutions",
+        "reuse": "site reference only"
+      }
+    ]
+  }
+}

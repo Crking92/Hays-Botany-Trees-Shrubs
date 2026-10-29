@@ -1,0 +1,8 @@
+Master Plant Pool row 299; workflow/INSTALLER_PREFLIGHT_QUEUE_2026-10-15.json batch mass-02. POWO accepted Cornus drummondii C.A.Mey. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:271556-1 ; morphology https://landscapeplants.oregonstate.edu/plants/cornus-drummondii . Photo Douglas Goldman CC BY-SA 4.0 https://commons.wikimedia.org/wiki/File:CornusD1.jpg ; shows white drupes and red pedicels, not leaf hairs. Exact direct https://upload.wikimedia.org/wikipedia/commons/b/b1/CornusD1.jpg . Internal range UNRESOLVED; no target county PASS claimed. Verify installed image and rights after Action.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Cornus drummondii
+Creator: Mark Watson; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110543645
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/cornus-drummondii/plantnet-via-gbif-bfcb598a6a9eaa.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

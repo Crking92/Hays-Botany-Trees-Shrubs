@@ -1,0 +1,19 @@
+Scientific review reused: reports/sambucus-scientific-review-2026-10-13.md
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321978-2
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:978604-1
+https://w3.biosci.utexas.edu/prc/K12/pages/Sambucus%20nigra%20canadensis.html
+
+Photo source: https://commons.wikimedia.org/wiki/File:Sambucus_canadensis_003.JPG
+Creator: H. Zell
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: width-limited thumbnail and installer JPEG optimization; no arrows or overlays. Retain attribution and ShareAlike for adaptations.
+Photo checked: 2026-10-14. Photographed outside Texas; original Commons page identifies Sambucus canadensis. Visually checked shallow lobed flowers and exposed stamens. This flower view does not independently distinguish S. nigra s.s. Leaf/node, whole head, and fruit-stone photos remain needed.
+
+Preferred user-photo check: observation 310773056, photo 560924879. Individual iNaturalist photo license null; attribution all rights reserved. Preferred CC BY rights gate not met. No personal image downloaded or installed.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 696882282 https://www.inaturalist.org/photos/696882282 | 380891646 | images/glass-root-garden-696882282-flowering-habit.jpg
+- 696882344 https://www.inaturalist.org/photos/696882344 | 380891682 | images/glass-root-garden-696882344-flower-head-leaves.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

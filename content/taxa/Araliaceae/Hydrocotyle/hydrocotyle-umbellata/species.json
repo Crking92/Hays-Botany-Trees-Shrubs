@@ -1,0 +1,406 @@
+{
+  "id": "hydrocotyle-umbellata",
+  "family": "Araliaceae",
+  "genus": "Hydrocotyle",
+  "species": "umbellata",
+  "scientific_name": "Hydrocotyle umbellata",
+  "common_name": "Manyflower marshpennywort",
+  "look_here_first": "FIRST, FLIP A ROUND LEAF: the leaf stalk (PETIOLE) enters the UNDERSIDE AWAY FROM THE EDGE (PELTATE), with many veins radiating like an umbrella and scalloped (CRENATE) lobes. THEN FIND THE FLOWER STALK: usually a dense, many-flowered white-green terminal UMBEL-LIKE CLUSTER with many distinct flower stalklets. Whorled pennywort H. verticillata instead usually has clearly separated TIERS of a few flowers along its main stalk. Photograph the entire reproductive axis before assigning species; neither a coin-shaped leaf nor wet habitat alone is enough.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "manual_library_install_047": "2026-10-17",
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_id_text_reviewed": "2026-10-20",
+    "finished_field_id_pass": "PASS_IN_PROGRESS",
+    "required_to_finish": [
+      "True underside of leaf with petiole insertion inside blade edge still missing",
+      "Matched whole inflorescence axes H. umbellata vs H. verticillata still needed for tricky specimens",
+      "Mature flattened two-part mericarp with mm reference and exposed creeping runner root nodes still not clearly photographed",
+      "Exact license version of archived Michelle W CC BY photo still requires source-specific check"
+    ],
+    "archived_sam_image_license_verified": "2026-10-20, GBIF occurrence 6234372459 individual media CC BY 4.0",
+    "photo_install_checked": "2026-10-20",
+    "annotated_gallery_pixel_review": "2026-10-20 full-size committed JPEG reopened and manually checked: both corrected yellow arrows terminate on green scalloped margin and central true crowded white flower umbel. No underside petiole claims.",
+    "field_training_status": "READY_FOR_PRACTICAL_FIELD_RECOGNITION_WITH_DOCUMENTED_MICRO_PHOTO_GAPS"
+  },
+  "photo_note": "2026-10-20: Two existing original photos inspected; 4 distinct iNaturalist research-grade Texas photo-specific CC-licensed candidates installed after actual pixel contact-sheet screening. Existing Sam Kieschnick original license CC BY 4.0 verified in GBIF media record. Remaining underside-petiole and mature schizocarp structures are explicitly unverified. The first arrow JPEG failed pixel QA and was regenerated from SHA-verified upstream with corrected leaf-margin and umbel targets.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:843746-1",
+  "images": [
+    {
+      "file": "images/inat-104164500.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Michelle W. （鍾偉瑋）, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/104164500",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/library-review047-4d65eaa1eccd134.jpg",
+      "role": "Rounded peltate pennywort leaves showing central petiole attachment and tiny round white-green flower umbels; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Actual archived source photos visually screened and chosen for distinct botanical parts. Exact identification provisional.",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_note": "Verified exact image GBIF 6234372459 individual media license 2026-10-20; rightsHolder Sam Kieschnick.",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6234372459",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/638686449/original.jpg",
+      "source_determination": "Hydrocotyle umbellata",
+      "source_observation_id": "6234372459",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/hydrocotyle-umbellata/gbif-6c381ce0add2f9.jpg",
+      "archive_image_sha256": "c44454974ab8a5b6a191f873f629e0e38ca4ef8df37aab49cf440a9cb77f1d3a",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "CC BY 4.0: attribution and modification notice required, public web use allowed",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/annikaml-653715689-wet-mat.jpg",
+      "role": "Recognize it · peltate rounded leaves rising individually from low wet mud; petioles and wet-ground field context, NOT root nodes proven.",
+      "creator": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individually licensed photo license_code=cc-by from exact species iNaturalist observation. Do not assert license version until media page checked.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/653715689",
+      "source_observation_page": "https://www.inaturalist.org/observations/358354146",
+      "source_photo_id": "653715689",
+      "image_dimensions": [
+        1400,
+        1142
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/653715689/original.jpg",
+      "original_image_sha256": "b4d8cfc0ca89bab1740a1c99be0a0e80e938f3fe9d7d3afbea236b393dd24900",
+      "study_use": "Credited educational reuse under photo-specific CC BY",
+      "public_reuse": "Licensable for public site with original author attribution and applicable CC license conditions",
+      "modifications": "Resized/reencoded, EXIF removed; no anatomical arrows",
+      "anatomy_arrows": "none",
+      "photo_review": "Source photo inspected in real 32-photo Texas contact sheet. Source species determination research-grade, anatomical fruit maturity and backside petiole insertion not independently proven."
+    },
+    {
+      "file": "images/sam-633285519-leaf-and-head-arrows.jpg",
+      "role": "Look closer · two anatomically inspected arrows: scalloped edge of right round leaf and dense manyflowered umbel held above finger. Top view reveals converging veins; underside petiole connection not shown.",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individually licensed photo license_code=cc-by from exact species iNaturalist observation. Do not assert license version until media page checked.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/633285519",
+      "source_observation_page": "https://www.inaturalist.org/observations/347336246",
+      "source_photo_id": "633285519",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/633285519/original.jpg",
+      "original_image_sha256": "022c3e19e77786933366cd2d0d2099342f58ecd79a2bc4ff398defcf2a7d101b",
+      "study_use": "Credited educational reuse under photo-specific CC BY",
+      "public_reuse": "Licensable for public site with original author attribution and applicable CC license conditions",
+      "modifications": "Resized/reencoded, EXIF removed; manual anatomical yellow arrows",
+      "anatomy_arrows": "2026-10-20 manually corrected after opening actual committed full-size JPEG. Arrow 1 targets right round-leaf scallop at (.770,.220), arrow 2 centers on real flower umbel at (.465,.665).",
+      "photo_review": "Actual 1050x1400 gallery JPEG and 32-photo source sheet visually inspected; first arrows pointed toward background stem/hand and were corrected using original photo's unaltered bytes and SHA. Neither leaf underside nor ripe fruit shown.",
+      "manual_arrow_review": "2026-10-20-corrected-visual-readback"
+    },
+    {
+      "file": "images/annikaml-511737621-young-fruit-umbel.jpg",
+      "role": "Confirm clue · stalked cluster of developing green reproductive bodies beside thumb for scale; these are not mature measured mericarps.",
+      "creator": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individually licensed photo license_code=cc-by from exact species iNaturalist observation. Do not assert license version until media page checked.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/511737621",
+      "source_observation_page": "https://www.inaturalist.org/observations/284728301",
+      "source_photo_id": "511737621",
+      "image_dimensions": [
+        1400,
+        1053
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/511737621/original.jpg",
+      "original_image_sha256": "0c56ba20563c7f50f7a1258ad66bec0900119103218966a91fcc3d8e6703fd34",
+      "study_use": "Credited educational reuse under photo-specific CC BY",
+      "public_reuse": "Licensable for public site with original author attribution and applicable CC license conditions",
+      "modifications": "Resized/reencoded, EXIF removed; no anatomical arrows",
+      "anatomy_arrows": "none",
+      "photo_review": "Source photo inspected in real 32-photo Texas contact sheet. Source species determination research-grade, anatomical fruit maturity and backside petiole insertion not independently proven."
+    },
+    {
+      "file": "images/saltyhiker-678611366-flower-head.jpg",
+      "role": "Look closer · crowd of small separate white five-petaled flowers carried on fine stalklets; do not infer entire axis/other tier count from this tight view.",
+      "creator": "(c) saltyhiker, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individually licensed photo license_code=cc-by from exact species iNaturalist observation. Do not assert license version until media page checked.",
+      "source_platform": "iNaturalist exact-species research-grade observation",
+      "source_page": "https://www.inaturalist.org/photos/678611366",
+      "source_observation_page": "https://www.inaturalist.org/observations/371422093",
+      "source_photo_id": "678611366",
+      "image_dimensions": [
+        1400,
+        1032
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/678611366/original.jpg",
+      "original_image_sha256": "b174c8d412f09daa6a76287600974805e30efc6ff1c3e389e0d62ae0f30cba35",
+      "study_use": "Credited educational reuse under photo-specific CC BY",
+      "public_reuse": "Licensable for public site with original author attribution and applicable CC license conditions",
+      "modifications": "Resized/reencoded, EXIF removed; no anatomical arrows",
+      "anatomy_arrows": "none",
+      "photo_review": "Source photo inspected in real 32-photo Texas contact sheet. Source species determination research-grade, anatomical fruit maturity and backside petiole insertion not independently proven."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "complete_text_six_photo_gallery_partial_anatomy_verified",
+    "image_count": 6,
+    "filled_at": "2026-10-16",
+    "note": "Six credited physical photos; amended and visually checked yellow arrows on leaf scallops and crowded umbel. Family and genus key pair validated botanically from local UT treatment. Underside petiole attachment, full H. verticillata flowering axis pairing and mature 2-mericarps still unillustrated."
+  },
+  "common_names": [
+    "Manyflower marshpennywort",
+    "Dollarweed",
+    "Umbrella water pennywort",
+    "Manyflower pennywort"
+  ],
+  "authority": "L.",
+  "entry_type": "species",
+  "taxonomic_note": "Kew POWO accepts Hydrocotyle umbellata L. in Araliaceae; older floras list Apiaceae/Umbelliferae. Published native range includes Texas at STATE level, but the user's BONAP county-zone approval is intentionally not audited here. Do not infer confirmed Hays County nativity from a Texas-level statement or from photographs.",
+  "morphology_keys": {
+    "recognition": [
+      "Perennial low aquatic or damp-ground herb, with creeping underground/ground-level whitish rhizomes or stolons and fibrous roots at the nodes.",
+      "Glossy round to slightly broadly scalloped leaves elevated on long upright petioles; petiole joins UNDERSIDE away from leaf edge (peltate), principal veins radiate outward.",
+      "Leaves alternate on runner; blade margins CRENATE (shallow rounded scallops) and often shallowly broadly lobed.",
+      "Whitish star-like individual flowers are small but numerous, clustered at the top of a separate long leafless stalk in an umbel-like dense terminal head.",
+      "Flower cluster usually several to many pedicellate flowers, not several distinctly isolated short whorls up and down the same axis as in H. verticillata.",
+      "Mature fruit a small laterally flattened ribbed SCHIZOCARP splitting into two one-seeded mericarps, not the capsule of Dichondra and not an Asteraceae cypsela.",
+      "Flowering axis architecture and fruit base/rib detail matter for separating nearly identical water pennyworts, not just the round leaf."
+    ],
+    "habit": "Rhizomatous perennial that roots freely at nodes, able to form stands in wet soils, ditch margins and shallow water. UT Austin Williamson flora measured foliage/flowering shoots up to about 25 cm tall.",
+    "stem": "Creeping underground to shallow exposed horizontal rhizome, often pale white, UT Williamson treatment ~1.2–1.5 mm thick with internodes ~20–60 mm and many adventitious roots at nodes.",
+    "leaf_arrangement": "Alternate, arising singly from rhizome nodes; no true opposite leaf pairs.",
+    "leaf": "Simple, orbicular/peltate disc with shallow broad crenate lobes (round scallops) and glossy green upper face; UT local 13–63 mm across; 12–16 principal veins radiate from center. Older/younger shoots vary.",
+    "petiole": "Long slender upright cylindrical stalk, UT Williamson account ca. 130–260 mm, white at underground base, green aboveground; attaches to lower blade surface not its margin.",
+    "leaf_attachment": "PELTATE: junction/umbilicus is on the underside of the blade, toward its center or slightly off center. Compare Dichondra and Centella whose petiole enters an open notch at the outer blade margin.",
+    "flowers": "Many tiny bisexual white to greenish-white flowers at the top of a long axillary flowering stalk. Each locally measured individual flower ~3 mm across, 5 separate star-spread petals, 5 stamens, 2 styles, and an inferior ovary. Calyx teeth/sepals absent or minute, DO NOT mislabel green structures as five leafy sepals.",
+    "inflorescence": "Usually one many-flowered dense terminal, umbel-like cluster (botanical Williamson treatment calls the short densely packed axis a condensed raceme with 30+ helically alternate flowers) on a leafless long peduncle. Each flower on a separate pedicel; clusters ~10–15 mm across locally. A small number of additional tiers is possible: count/spacing across the full axis, not only its apex.",
+    "flowering_stalk": "Peduncle commonly similar height to its paired leaf stalk. Pedicels spread out from compressed axis of umbel-like cluster; individually ~4–5.5 mm at anthesis in Williamson treatment, often elongating in fruit.",
+    "fruit": "Small dry SCHIZOCARP of two one-seeded D-shaped MERICARPS, laterally flattened, weakly ribbed to clearly ribbed depending on maturity/light; the same UT flora reports individual mericarp ~2 × 1.4–1.6 mm. FNA/GoBotany keys note a conspicuously notched/corrugated basal contour as supporting clue versus H. verticillata. Only claim mm sizes on measured real photographs.",
+    "habitat": "Moist lawn depressions, ditches, spring margins, ponds, slow margins of riparian waters, and sandy/organic saturated soils; may grow into shallow water.",
+    "season": "Fresh shoots and flowering are favored by adequate moisture and mild/warm weather; timing changes with rainfall, irrigation, drought and frost.",
+    "special_caution": "Hydrocotyle umbellata is NOT a composite-headed Asteraceae, not a capsule-bearing Dichondra, and not inherently a single 'water pennywort' species: several wetland Hydrocotyle look nearly identical when sterile."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Hydrocotyle verticillata",
+      "Hydrocotyle ranunculoides",
+      "Hydrocotyle bonariensis",
+      "Centella erecta",
+      "Centella asiatica",
+      "Dichondra carolinensis",
+      "Dichondra recurvata",
+      "Calyptocarpus vialis",
+      "Phyla nodiflora"
+    ],
+    "look_here_first": "Do TWO quick checks before bothering with species-level pennywort comparisons: (1) does the leaf stalk enter near the CENTER of the underside (peltate) or at the BASE/NOTCH? (2) is the flowering stalk ONE terminal many-flowered spray, or an elongated axis with several spaced whorls/branches?",
+    "field_comparison_matrix": [
+      {
+        "taxon": "Hydrocotyle umbellata",
+        "group": "primary",
+        "leaf": "Peltate, round, often broader shallow scallops",
+        "reproductive": "Dense many-flowered mostly terminal simple umbel-like cluster; pedicellate florets; usually 15–35+ flowers",
+        "most_useful": "Photograph whole flowering stalk, count density and tiers"
+      },
+      {
+        "taxon": "Hydrocotyle verticillata",
+        "group": "priority local sibling",
+        "leaf": "Also peltate, glossy and round; often near identical",
+        "reproductive": "Several distinct separated VERTICILS/whorls along a spike-like axis; commonly a handful of flowers in each",
+        "most_useful": "Stalk from bottom to top, not just topmost group"
+      },
+      {
+        "taxon": "Hydrocotyle ranunculoides",
+        "group": "wetland look-alike",
+        "leaf": "Not truly peltate; deeply notched/open to attachment at basal edge; larger irregular lobes",
+        "reproductive": "Small umbels of pale flowers, often floating/emergent",
+        "most_useful": "Flip blade, locate petiole at deep sinus"
+      },
+      {
+        "taxon": "Hydrocotyle bonariensis",
+        "group": "secondary coastal-region comparison",
+        "leaf": "Peltate and round, can be larger",
+        "reproductive": "Distinctly COMPOUND / branching flower structure, rays which can themselves bear spaced tiers",
+        "most_useful": "Look for branched rays/whorled distal racemes, sandy or saline coastal habitat"
+      },
+      {
+        "taxon": "Centella erecta",
+        "group": "low wet-ground look-alike",
+        "leaf": "Kidney-shaped, stalk at basal notch (NOT peltate), edges scalloped",
+        "reproductive": "Smaller fewer-flowered umbels rather than large distal spray",
+        "most_useful": "Trace petiole insertion and flower cluster size"
+      },
+      {
+        "taxon": "Centella asiatica",
+        "group": "horticultural/secondary confusion",
+        "leaf": "Kidney to heart, basal notch attachment; not peltate",
+        "reproductive": "Very small clusters close below leaf canopy",
+        "most_useful": "Petiole insertion; do not assume locally native or widespread"
+      },
+      {
+        "taxon": "Dichondra carolinensis",
+        "group": "common creeping groundcover comparison",
+        "leaf": "Kidney, petiole joins basal notch; margin almost smooth, not scalloped",
+        "reproductive": "Tiny solitary five-lobed whitish/green flower and two-lobed capsule",
+        "most_useful": "Notch vs central attachment + solitary vs multi-flower cluster"
+      },
+      {
+        "taxon": "Dichondra recurvata",
+        "group": "common creeping groundcover comparison",
+        "leaf": "Kidney, entire margin; not peltate",
+        "reproductive": "Tiny solitary five-lobed axillary flower, recurved pedicel in fruit",
+        "most_useful": "Notch vs central attachment; fruit stalk may hook"
+      },
+      {
+        "taxon": "Calyptocarpus vialis",
+        "group": "turf creeping comparison",
+        "leaf": "Opposite and toothed, ovate/triangular rather than centrally stalked circle",
+        "reproductive": "Tiny yellow composite DAISY head with rays/discs, not white umbel",
+        "most_useful": "Opposite leaves + yellow head"
+      },
+      {
+        "taxon": "Phyla nodiflora",
+        "group": "wet lawn comparison",
+        "leaf": "Opposite, generally toothed upper blade rather than peltate circle",
+        "reproductive": "Elongate/pale lilac-white BUTTON of packed flowers at end of slender stalk",
+        "most_useful": "Nonpeltate opposite leaves and dense cylinder/button"
+      }
+    ],
+    "disambiguation_key": [
+      {
+        "if": "Petiole enters underside at blade center or inside margin (peltate), small white flowers in clusters",
+        "then": "Likely Hydrocotyle—inspect full flower stalk"
+      },
+      {
+        "if": "Peltate AND one crowded upper many-flowered cluster (a few low extra tiers possible)",
+        "then": "Favors Hydrocotyle umbellata; verify mature fruit/whole shoot"
+      },
+      {
+        "if": "Peltate AND multiple spaced flower tiers along an elongate unbranched axis",
+        "then": "Favors Hydrocotyle verticillata"
+      },
+      {
+        "if": "Peltate AND long branched primary umbels that bear their own whorled flower lines",
+        "then": "Consider Hydrocotyle bonariensis"
+      },
+      {
+        "if": "Leaf split down almost to petiole at edge, clearly NOT peltate, aquatic/wet",
+        "then": "Consider H. ranunculoides or Centella; check flowers and leaf lobing"
+      },
+      {
+        "if": "Kidney-shaped, margin entire, pale solitary five-lobed flower",
+        "then": "Dichondra, not Hydrocotyle umbellata"
+      },
+      {
+        "if": "Opposite leaves and tiny yellow composite heads",
+        "then": "Straggler daisy (Calyptocarpus vialis)"
+      },
+      {
+        "if": "Opposite leaves and button cluster at end of a stalk",
+        "then": "Frogfruit (Phyla nodiflora)"
+      }
+    ],
+    "species_certainty_warning": "Entire flower axis is best for H. umbellata versus H. verticillata. H. umbellata may have additional whorls and H. verticillata may have crowded terminal whorls; base of ripe fruits plus full flowering stalk should resolve borderline specimens. Do not force ID from sterile leaf."
+  },
+  "family_genus_teaching": {
+    "family": "Current Kew places Hydrocotyle within ARALIACEAE (order Apiales), a historical member of Apiaceae/Umbelliferae in older manuals. Its fruit splits into two dry one-seeded MERICARPS; the whitish tiny flowers each have five petals and stamens, not Asteraceae florets.",
+    "genus": "Hydrocotyle wetland creepers root at nodes; local H. umbellata and H. verticillata both have long-petioled, round PELTATE blades. Cluster arrangement, not a single leaf, separates them.",
+    "species": "Hydrocotyle umbellata usually has a dense terminal group of many pedicellate five-petal flowers, fruit flattened and two-part. Contrast H. verticillata with spaced small whorls on the flowering stalk.",
+    "crew_prompt": "Flip one leaf and show exactly where its petiole meets the underside; then photograph the WHOLE flowering axis, not only the top white cluster."
+  },
+  "ecological_notes": {
+    "habitat": "Wet/marshy ground, spring/stream edges, pond margins, low irrigation depressions and shallow floating mats. Locally appropriate planting needs actual wet habitat and verified provenance.",
+    "regional_range": "Kew POWO confirms Texas as state-level native; current project county/target-zone BONAP decision remains intentionally unverified.",
+    "management": "Rhizomatous water/edge vegetation can spread rapidly where consistently wet. Do not treat a native-looking wetland carpet as confirmed native or problematic without species and local restoration goals.",
+    "ecological_relationships": "Wetland cover can provide aquatic edge complexity; no invented Lepidoptera larval-host or specialty bee numerical counts. Link to dashboards only if verifiable species-level numbers exist."
+  },
+  "scientific_sources": [
+    {
+      "source": "Kew POWO (accepted name / state-level range)",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:843746-1"
+    },
+    {
+      "source": "UT Austin PRC — Williamson County Hydrocotyle umbellata",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Hydrocotyle%20umbellata.html"
+    },
+    {
+      "source": "UT Austin PRC — H. verticillata var. triradiata",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Hydrocotyle%20verticillata%20triradiata.html"
+    },
+    {
+      "source": "Go Botany — Hydrocotyle genus dichotomous key",
+      "url": "https://gobotany.nativeplanttrust.org/dkey/hydrocotyle/"
+    },
+    {
+      "source": "University of Florida IFAS — Hydrocotyle comparison",
+      "url": "https://plant-directory.ifas.ufl.edu/plant-directory/hydrocotyle-species/"
+    },
+    {
+      "source": "Texas A&M Galveston — Hydrocotyle bonariensis",
+      "url": "https://txmarspecies.tamug.edu/vegdetails.cfm?scinameID=Hydrocotyle+bonariensis"
+    },
+    {
+      "source": "North Carolina State Wetland Field Guide",
+      "url": "https://harvest.cals.ncsu.edu/plantguidedb/index.cfm?ViewPlantID=10626"
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "existing",
+      "role": "Recognize it — dense white flower clusters",
+      "status": "Existing physical Michelle W photo checked at actual pixel level: many white 5-petal flowers on distinct green pedicels; background black; entire stalk and leaf absent.",
+      "needed": "Flower spray with 10–30 distinct flowers, no yellow disk."
+    },
+    {
+      "priority": "existing",
+      "role": "Look closer — top of round peltate leaves with flowering umbels",
+      "status": "Existing physical Sam Kieschnick image checked: central radiating leaf veins + scallops + several flower heads. It is an above-blade leaf view, NOT a clear underside stem insertion.",
+      "needed": "Round glossy scalloped blade, point where veins converge."
+    },
+    {
+      "priority": "critical",
+      "role": "Confirm peltate leaf underside",
+      "status": "MISSING VERIFIED PHOTOGRAPH",
+      "needed": "Flip leaf: petiole entering underside inside blade margin, show 1 cm reference. NOT rim/base of leaf."
+    },
+    {
+      "priority": "critical",
+      "role": "Full flowering axis comparison to H. verticillata",
+      "status": "MISSING MATCHED SCALABLE PHOTO",
+      "needed": "Whole peduncle/cluster from leaf axil to top, whether tiers along length; document any extra umbels."
+    },
+    {
+      "priority": "high",
+      "role": "Stem/rhizome root at node",
+      "status": "MISSING VERIFIED PHOTOGRAPH",
+      "needed": "Horizontal runner crossing damp soil and roots growing from nodes; avoid ripping plant unnecessarily."
+    },
+    {
+      "priority": "high",
+      "role": "Mature ribbed flattened fruit",
+      "status": "MISSING VERIFIED MACRO",
+      "needed": "A fruit from front/side with a mm ruler showing two mericarps, longitudinal ribs and base indentation."
+    },
+    {
+      "priority": "high",
+      "role": "Compare H. verticillata flower tiers",
+      "status": "Existing genus text comparison; side-by-side full stalk photographs outstanding.",
+      "needed": "Both species at same scale; note 15–35+ crowded vs spaced few-flowered tiers."
+    }
+  ]
+}

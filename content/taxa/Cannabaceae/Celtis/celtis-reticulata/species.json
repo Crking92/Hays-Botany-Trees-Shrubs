@@ -1,0 +1,85 @@
+{
+  "id": "celtis-reticulata",
+  "entry_type": "species",
+  "genus": "Celtis",
+  "species": "reticulata",
+  "scientific_name": "Celtis reticulata",
+  "common_name": "Netleaf Hackberry",
+  "synonyms": [
+    "Celtis laevigata var. reticulata"
+  ],
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Williamson",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS"
+  },
+  "look_here_first": "Rough leaf surface plus strongly raised netlike veins beneath; unarmed woody plant.",
+  "curation_status": {
+    "version": "1.1-b091+b130-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "lookalikes_reviewed": true,
+    "visual_reviewed": true,
+    "visual_status": "provisional-learner-ready",
+    "last_visual_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "family": "Cannabaceae",
+  "taxonomic_note": "Current Kew POWO accepts Celtis reticulata as a species. Celtis laevigata var. reticulata is a homotypic synonym and the B091 source row is folded into this canonical species.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "small to medium unarmed tree",
+      "shorter thicker leaves",
+      "upper leaf surface distinctly rough/scabrous",
+      "lower surface with strongly raised netlike veins",
+      "margins entire or sparsely toothed above middle",
+      "dry rocky upland habitat",
+      "reddish-orange to purple fruit"
+    ],
+    "comparison_training": "Compared with C. laevigata, netleaf hackberry has thicker rougher leaves and much more conspicuous reticulate venation beneath. C. lindheimeri differs by dense white tomentum on the leaf underside."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — licensed exact-species Wikimedia/Flickr set",
+    "target_count": 3,
+    "visual_priority": "whole/form + rough/net-veined foliage + secondary field context",
+    "remaining_polish": "Replace/add a closer labeled underside-venation or fruit macro later if a stronger licensed Texas image is found."
+  },
+  "images": [
+    {
+      "file": "images/01-field-form.jpg",
+      "role": "whole/form field reference",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_reticulata_2.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-texas-detail.jpg",
+      "role": "Texas field/detail reference",
+      "creator": "Patrick Alexander",
+      "license": "CC0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_reticulata_-_Flickr_-_aspidoscelis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-field-reference.jpg",
+      "role": "secondary exact-species field view",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_reticulata_4.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "rank": "genus",
+  "name": "Hydrocotyle",
+  "family": "Araliaceae",
+  "species": [
+    "Hydrocotyle bonariensis",
+    "Hydrocotyle umbellata",
+    "Hydrocotyle verticillata"
+  ],
+  "look_here_first": "Flip round leaf to test peltate petiole attachment, then photograph the WHOLE reproductive axis: H. umbellata crowded terminal cluster; H. verticillata small spaced whorls on main axis; H. bonariensis main umbel rays split into secondary axes each with its own whorls. Old H. verticillata var. triradiata = H. bonariensis at Kew, verify voucher before species approval.",
+  "shared_traits": [
+    "Creeping moist-ground/wetland herbs rooting from rhizomes/stolons at nodes. Both current project species have round-to-orbicular leaf blades.",
+    "Central underside petiole insertion (peltate), radiating palmate veins and shallow crenate/scalloped margins in H. umbellata and H. verticillata; not all Hydrocotyle worldwide are peltate.",
+    "Small white to greenish flowers, with five separate short petals and stamens; flower group is NOT an Asteraceae head.",
+    "Dry flattened two-part schizocarp made of mericarps and often faint ribs; not a single solid seed/capsule.",
+    "Vegetative similarity requires reproductive-axis scrutiny, ideally with full stalk and 1-mm fruit close-ups."
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Peltate leaf shape",
+      "umbellata": "Round shallowly lobed, crenate, glossy",
+      "verticillata": "Round/kidney-like shallowly lobed, crenate, glossy",
+      "strength": "shared, not sufficient"
+    },
+    {
+      "character": "Inflorescence axis",
+      "umbellata": "Usually a condensed terminal large umbel-like cluster; a few additional tiers possible",
+      "verticillata": "Several clearly separated verticillate whorls on axis; often 2–12 tiers",
+      "strength": "high, look at FULL axis"
+    },
+    {
+      "character": "Number per cluster",
+      "umbellata": "Frequently 15–35+ tiny flowers together, roughly 30+ in local UT treatment",
+      "verticillata": "Usually fewer flowers per individual whorl; local var triradiata often 4–8",
+      "strength": "moderate; counts vary"
+    },
+    {
+      "character": "Fruit",
+      "umbellata": "Flattened 2-mericarps; base frequently more deeply notched",
+      "verticillata": "Flattened, 2-mericarps; base often more broadly rounded",
+      "strength": "supporting only, 1-mm photo needed"
+    },
+    {
+      "character": "Local size",
+      "umbellata": "UT Williamson leaves 13–63 mm across",
+      "verticillata": "UT Williamson var triradiata leaves ~21–35 x 24–40 mm",
+      "strength": "weak, considerable overlap"
+    }
+  ],
+  "overlap_cautions": [
+    "Umbellata may produce additional whorls; inspect the whole axis.",
+    "Crowded upper whorls of verticillata may appear as a single cluster.",
+    "Use fruit only as supporting evidence; leaves alone do not distinguish the species.",
+    "Precise verticillata measurements from UT Austin refer to var. triradiata.",
+    "CURRENT TAXONOMY WARNING: older H. verticillata var. triradiata names in local floras are assigned to H. bonariensis by Kew POWO; do not silently merge variety claims into accepted H. verticillata.",
+    "Inflorescence may branch in H. verticillata; use a full fertile specimen and consider H. bonariensis when terminal rays themselves bear whorls."
+  ],
+  "lookalikes": [
+    {
+      "taxon": "Hydrocotyle ranunculoides",
+      "priority": "high wetland comparison",
+      "separator": "Leaf has an open deep notch to petiole, NOT peltate like umbellata; may float on water, blade more boldly lobed."
+    },
+    {
+      "taxon": "Hydrocotyle bonariensis",
+      "priority": "extended coastal/wetland comparison",
+      "separator": "Peltate leaves but compound/brached inflorescence with secondary whorls/rays, unlike typical simple terminal umbel."
+    },
+    {
+      "taxon": "Centella erecta",
+      "priority": "high wetland groundcover comparison",
+      "separator": "Leaves rounded, scalloped but petiole joins blade at a BASAL NOTCH, not centrally from underneath."
+    },
+    {
+      "taxon": "Centella asiatica",
+      "priority": "extended, horticultural/common-name comparison",
+      "separator": "Nonpeltate kidney blades with petiole at basal notch, few-flowered tiny ground-hugging umbels; do not infer Hays nativity."
+    },
+    {
+      "taxon": "Dichondra carolinensis",
+      "priority": "high low-mat comparison",
+      "separator": "Petiole joins basal kidney notch, blade mostly ENTIRE, solitary five-lobed green/cream flower and 2-lobed capsule."
+    },
+    {
+      "taxon": "Dichondra recurvata",
+      "priority": "high low-mat comparison",
+      "separator": "Kidney, nonpeltate, smooth margin and solitary small flowers; mature pedicel recurved in fruit."
+    },
+    {
+      "taxon": "Calyptocarpus vialis",
+      "priority": "easy turf comparison",
+      "separator": "Opposite toothed leaves and tiny YELLOW composite heads; not peltate."
+    },
+    {
+      "taxon": "Phyla nodiflora",
+      "priority": "easy wet-lawn comparison",
+      "separator": "Opposite leaves, small pale compact button/spike of many flowers raised on stalk, not peltate."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    "Large round leaf flipped to show petiole attached inside lower leaf face (both project species).",
+    "Whole rooting rhizome plus node roots—not inferred from standing leaf stalks alone.",
+    "Complete flowering axes at matched scale; umbellata crowded terminal vs verticillata spaced tiers.",
+    "Close flower faces with five petals, and each subcluster pedicels.",
+    "Measured mature fruits showing two flattened mericarps, ribbing and base shape.",
+    "Leaf base of Dichondra/Centella showing stalk attaching at notch, NOT leaf center."
+  ],
+  "handoffs": [
+    "Both species already have canonical learner cards; continue targeted existing-card photo/anatomy improvement only.",
+    "Separate worker lanes should not overwrite these user-directed finished-pass records; respect current manifest, current claims and verified photo-source rights.",
+    "County BONAP native-zone decisions deferred; do not upgrade approval based on Texas-level distribution."
+  ],
+  "sources": [
+    "content/taxa/Araliaceae/family.json",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Hydrocotyle%20umbellata.html",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Hydrocotyle%20verticillata%20triradiata.html",
+    "https://gobotany.nativeplanttrust.org/dkey/hydrocotyle/"
+  ],
+  "curation_status": {
+    "status": "genus_pair_key_filled_taxon_exception_hold",
+    "reviewed_on": "2026-10-20",
+    "remaining_photo_gap": "Need fully verified three-way H. umbellata vs verticillata vs bonariensis flowering axes + mature fruit macros",
+    "photo_pair_upgrade": "2026-10-20 (umbellata 6 photos, verticillata 6 photos, taxonomic variety exception retained)",
+    "bonariensis_comparison_added": "2026-10-20 manual requested; provisional taxon and county HOLD"
+  },
+  "curated_on": "2026-10-20",
+  "crew_quick_field_key": [
+    "1 · Is petiole attached UNDER leaf inside perimeter? No → look at Dichondra, Centella or H. ranunculoides, not H. umbellata/verticillata.",
+    "2 · If round peltate leaf, show main flower stalk from base to tip and count clusters.",
+    "3 · One dense many-flowered terminal cluster mostly → H. umbellata (check whole stalk and fruit).",
+    "4 · Several separated small whorls along axis → H. verticillata (check subtle crowded/extra tiers).",
+    "5 · Branched compound arrangement with secondary rays/whorls → investigate H. bonariensis.",
+    "6 · Sterile pennywort or damaged inflorescence → retain Hydrocotyle sp. rather than force an exact name."
+  ],
+  "photo_pair_training": [
+    {
+      "species_id": "hydrocotyle-umbellata",
+      "image_index": 0,
+      "anatomy": "White five-petaled flowers in a crowded manyflowered cluster (existing photo)",
+      "limitation": "Tight photo does not show entire axis or round leaf"
+    },
+    {
+      "species_id": "hydrocotyle-umbellata",
+      "image_index": 1,
+      "anatomy": "Round shallowly crenate leaf with central converging veins and crowded cluster (existing)",
+      "limitation": "Top of blade cannot by itself prove attachment on underside"
+    },
+    {
+      "species_id": "hydrocotyle-verticillata",
+      "anatomy": "Licensed source-identified Texas photo with 2 manually validated whorl arrows (top/middle and lower clusters) and peltate-like leaf top",
+      "limitation": "Shows real tiers, but this iNaturalist research-grade source is not an independent reproductive voucher under Kew's var. triradiata = H. bonariensis disagreement.",
+      "image_index": 2
+    }
+  ],
+  "taxonomy_exception_20261020": {
+    "status": "HOLD_FOR_RECONCILIATION_accepted_species_vs_historical_variety",
+    "issue": "Kew POWO 2026 accepts Hydrocotyle verticillata Thunb., BUT synonymizes Hydrocotyle verticillata var. triradiata (A.Rich.) Fernald with H. bonariensis, while the older local UT Williamson County flora still describes that variety within H. verticillata.",
+    "crew_rule": "Do not treat older var. triradiata descriptions or photos, or source-labeled iNaturalist images alone, as a fully verified voucher of accepted H. verticillata. A reproductive voucher or taxonomic expert may be needed for unusual branched stalks.",
+    "sources": [
+      "https://powo.science.kew.org/taxon/843759-1",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1105522-2",
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Hydrocotyle%20verticillata%20triradiata.html"
+    ]
+  },
+  "crew_photo_comparison_activity": {
+    "title": "Dollarweed or whorled pennywort? Look at the whole inflorescence.",
+    "umbellata": {
+      "species_id": "hydrocotyle-umbellata",
+      "image_index": 1,
+      "look_for": "Crowded many-flowered terminal white umbel held near round peltate leaf, long flower stalk not in full view."
+    },
+    "verticillata": {
+      "species_id": "hydrocotyle-verticillata",
+      "image_index": 2,
+      "look_for": "Separated whorls along flowering/fruiting axis annotated from source-labeled research-grade image."
+    },
+    "critical_warning": "Inflorescence structure is a strong genus-comparison clue, NOT species proof in every plant; modern Kew H. bonariensis synonyms include older H. verticillata var. triradiata. Check full reproductive branching, fruit and voucher when needed.",
+    "crew_prompt": "If you can only see a round leaf, leave it Hydrocotyle sp. Photograph the whole flowering stalk and leaf underside. Does it have one crowded terminal head or multiple separated small whorls?"
+  },
+  "three_species_field_key_20261020": [
+    {
+      "species": "Hydrocotyle umbellata",
+      "photo_key": "One dense crowded terminal flower group; whole stalk normally simple"
+    },
+    {
+      "species": "Hydrocotyle verticillata",
+      "photo_key": "Several small interrupted whorls along main flower axis; can rarely branch; taxon concept caution"
+    },
+    {
+      "species": "Hydrocotyle bonariensis",
+      "photo_key": "COMPOUND umbel, with distinct primary rays each capable of carrying secondary whorls along their length; source-labeled reference images require voucher review"
+    }
+  ],
+  "training_photo_three_way": {
+    "umbellata": {
+      "species_id": "hydrocotyle-umbellata",
+      "image_index": 3,
+      "visible": "crowded flowering umbel; check original photo pixels"
+    },
+    "verticillata": {
+      "species_id": "hydrocotyle-verticillata",
+      "image_index": 2,
+      "visible": "two manually arrowed, separated upper and lower flowering tiers, iNaturalist research-grade source identification"
+    },
+    "bonariensis": {
+      "species_id": "hydrocotyle-bonariensis",
+      "image_index": 1,
+      "visible": "near-terminal branched primary umbel rays and clusters; exact compound distal axis pending fully confirmed source pixel review"
+    },
+    "caution": "Three-way comparison is a field observation teaching key, NOT a genus taxonomic revision, BONAP range approval, or accepted-voucher determination."
+  }
+}

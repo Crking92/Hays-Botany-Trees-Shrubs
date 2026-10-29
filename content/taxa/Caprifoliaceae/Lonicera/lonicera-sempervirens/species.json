@@ -1,0 +1,162 @@
+{
+  "id": "lonicera-sempervirens",
+  "entry_type": "species",
+  "family": "Caprifoliaceae",
+  "genus": "Lonicera",
+  "species": "sempervirens",
+  "scientific_name": "Lonicera sempervirens",
+  "authority": "L.",
+  "common_name": "Coral honeysuckle / trumpet honeysuckle",
+  "synonyms": [],
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_SOURCE_POOL",
+    "source_pool": "Hays Botany Master Plant Pool",
+    "source_pool_row": 659,
+    "source_count": "see Master Plant Pool authoritative row",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "NATIVE_RANGE_UNRESOLVED",
+    "confirmed_target_counties": [],
+    "include_in_native_only_metrics": false,
+    "range_basis": "Native in Texas at state level, project 3-qualifying-county native proof still unresolved; cultivation is not a native county occurrence."
+  },
+  "look_here_first": "Find TERMINAL whorls of LONG narrow trumpet-shaped flowers, usually ~38–48 mm. The top pair of opposite leaves/bracts often FUSES into a round disk below the head. But this is also possible in white/Texas honeysuckle—measure the narrow elongated trumpet versus L. albiflora's short two-lipped flower.",
+  "morphology_keys": {
+    "habit": "Woody perennial twining or trailing vine with opposite simple oval to elliptic leaves; terminal upper pair often connate and perfoliate, bluish/glaucous underside possible.",
+    "leaf_arrangement": "Opposite simple leaves with entire to near-entire margins; petiole lengths and fused terminal bracts vary by species.",
+    "flower": "Showy cluster of long narrow tubular 5-lobed corollas in terminal whorls, often red/orange outside and yellow inside; tube is far longer relative to small lobes.",
+    "fruit": "Red-orange to scarlet berries; not unique among native comparison.",
+    "diagnostic_sequence": [
+      "Follow the flower stalk to determine AXILLARY paired flowers versus TERMINAL whorls.",
+      "Check one lateral flower: short two-lipped (~17–20 mm) / long tubular (~38–48 mm) / long strongly two-lipped (~45–57 mm).",
+      "Examine whether fused terminal bracts occur; do NOT use fused bracts alone for native pair.",
+      "If berries are ripe, note red-or-orange vs black—but berries are supporting evidence."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Lonicera albiflora",
+      "Lonicera japonica",
+      "Campsis radicans"
+    ],
+    "key_distinctions": "Long mostly cylindrical 38–48 mm terminal trumpet flowers versus shorter white 17–20 mm clearly two-lipped L. albiflora; leaf fusion alone cannot decide. Against Japanese honeysuckle, terminal whorls versus axillary paired strongly bilabiate flowers; berries red not black. Trumpetvine Campsis has compound leaves and aerial rootlets."
+  },
+  "tags": [
+    "honeysuckle",
+    "Caprifoliaceae",
+    "opposite simple leaves",
+    "vine / shrub",
+    "Hays learner",
+    "NATIVE_RANGE_UNRESOLVED"
+  ],
+  "images": [
+    {
+      "file": "images/01-coral-honeysuckle-flower-and-vine.jpg",
+      "role": "Coral honeysuckle exact-species field face; flower arrangement / vine context",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_285692515.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution or CC0",
+      "caption": "Alex Abair, iNaturalist observation 165073759, Florida 2023, CC BY 4.0. Confirm terminal flower structure and red/orange narrow trumpet where visible; not a Hays County native-range voucher.",
+      "diagnostic_roles": [
+        "coral honeysuckle face",
+        "tubular corolla where visible"
+      ],
+      "source_photo_id": "285692515",
+      "source_observation_id": "165073759"
+    },
+    {
+      "file": "images/02-coral-honeysuckle-flower-close.jpg",
+      "role": "Additional exact-species live corolla/head view",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_285692603.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution or CC0",
+      "caption": "Alex Abair, same source observation 165073759, Florida 2023, CC BY 4.0. Photo candidate for flower tube / terminal cluster comparison; not a measured macro.",
+      "diagnostic_roles": [
+        "flower cluster",
+        "narrow trumpet corolla where visible"
+      ],
+      "source_photo_id": "285692603",
+      "source_observation_id": "165073759"
+    },
+    {
+      "file": "images/03-coral-honeysuckle-foliage.jpg",
+      "role": "USDA botanical foliage photo illustrating opposite simple leaves and vines",
+      "creator": "Robert H. Mohlenbrock, USDA SCS",
+      "license": "Public Domain (US Government)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_NRCS-003.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution or CC0",
+      "caption": "USDA NRCS / Robert H. Mohlenbrock federal work, public domain. Dedicated Lonicera sempervirens leaves file; look for opposite simple leaves; do not imply underside morphology macro or attached ripe fruit is shown.",
+      "diagnostic_roles": [
+        "opposite simple leaves",
+        "foliage"
+      ],
+      "source_photo_id": "",
+      "source_observation_id": ""
+    },
+    {
+      "file": "images/04-coral-honeysuckle-ripe-red-fruit.jpg",
+      "role": "Mature scarlet-to-red coral honeysuckle fruit in the field; compare against Japanese honeysuckle dark fruit",
+      "creator": "R. A. Nonenmacher",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_012c.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution/share-alike as required",
+      "caption": "Mature Lonicera sempervirens fruit photographed in Onondaga County, New York, by R. A. Nonenmacher (CC BY-SA 4.0). Contrast the red fruit with black-fruited introduced L. japonica; red fruit is also produced by L. albiflora, so it DOES NOT separate the native pair. Nonlocal photo does not establish target-zone county nativity.",
+      "diagnostic_roles": [
+        "ripe red berry",
+        "fruit-bearing leafy twig",
+        "contrast Japanese honeysuckle black fruit"
+      ],
+      "source_photo_id": ""
+    }
+  ],
+  "diagnostic_photo_needs": [
+    {
+      "priority": "high",
+      "role": "full intact flowering shoot with axillary versus terminal origin arrow",
+      "status": "first photos provide face/flower evidence; measured insertion point macro remains final polish"
+    },
+    {
+      "priority": "high",
+      "role": "individual flower profile with ruler and clearly identified corolla tube and lips",
+      "status": "measured comparison across native pair remains final polish"
+    },
+    {
+      "priority": "high",
+      "role": "fused upper terminal leaf/bract pair on albiflora and sempervirens",
+      "status": "paired macro final polish; leaf fusion alone insufficient"
+    },
+    {
+      "priority": "medium",
+      "role": "mature berries with source-verified taxon and same-scale size",
+      "status": "final polish"
+    },
+    {
+      "priority": "medium",
+      "role": "whole reproductive plant and young hairy stem",
+      "status": "additional local verified field photos final polish"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "diagnostic_photo_polish",
+    "image_count": 4,
+    "photo_files_present": 4,
+    "verified_at": "2026-10-13",
+    "note": "All existing and new licensed exact-species photographs physically downloaded and confirmed. Specialized measured same-scale corolla comparisons, perfoliate bract arrows and flower-insertion macros remain for final polish."
+  },
+  "curation_status": {
+    "species_concept_reviewed": "2026-10-12",
+    "learner_approved": true,
+    "range_certification": "UNRESOLVED",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "photo_install": "verified after successful curation job 38487277303",
+    "scientific_source": "reports/lonicera-scientific-review-2026-10-12.md",
+    "photo_install_verified": "2026-10-13"
+  }
+}

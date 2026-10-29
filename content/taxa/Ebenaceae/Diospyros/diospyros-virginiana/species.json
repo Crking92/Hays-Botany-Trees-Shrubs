@@ -1,0 +1,188 @@
+{
+  "id": "diospyros-virginiana",
+  "entry_type": "species",
+  "family": "Ebenaceae",
+  "genus": "Diospyros",
+  "species": "virginiana",
+  "scientific_name": "Diospyros virginiana",
+  "authority": "L.",
+  "common_name": "American persimmon",
+  "synonyms": [],
+  "taxonomic_note": "Accepted species and Texas-native at state scale.",
+  "look_here_first": "Start with leaf size, bark, and ripe fruit: much larger leaves than Texas persimmon, dark blocky/checkered mature bark, and yellow-orange to reddish ripe fruit rather than black.",
+  "county_occurrences_target_zone": [
+    "Travis"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis is the only qualifying target-zone county retained in the latest review. Williamson is documented in older evidence but is outside the project target-county list; cultivated/rootstock records are excluded.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous tree",
+      "leaves much larger than Diospyros texana",
+      "dark blocky mature bark",
+      "flowers on current-season growth",
+      "larger yellow-orange to reddish ripe fruit"
+    ],
+    "comparison_training": "D. texana has smaller thick leaves, pale smooth peeling bark, and black fruit.",
+    "field_comparison": "Mature bark deeply checkered/blackish; leaves normally larger (approx. 3.5–8 cm in USDA description) and often pointed; ripe berries yellowish-orange to reddish; calyx persists (often 4 broad lobes). Texas persimmon usually smaller blunt leaves and smooth gray bark with ripe black berry."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Diospyros texana"
+    ],
+    "key_distinctions": "Large leaves plus dark blocky bark plus orange/red fruit versus small leaves, pale peeling bark, and black fruit."
+  },
+  "tags": [
+    "Ebenaceae",
+    "Diospyros",
+    "American persimmon",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.1-two-diagnostic-comparison-panels",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-12",
+    "photo_metadata_count": 3,
+    "photo_files_present": 1,
+    "visual_panels": 2,
+    "diagnostic_arrows": 4
+  },
+  "diagnostic_image_needs": [
+    "whole tree",
+    "large leaf",
+    "blocky bark",
+    "flower",
+    "orange/red fruit",
+    "D. texana comparison"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/diospyros-virginiana-provisional-face.jpg",
+      "role": "Sapling growth form and alternate persimmon leaves; ripe orange fruit needed later.",
+      "creator": "Vince Hale",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Diospyros_virginiana_453142203.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc0"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Common_Persimmon_Bark.jpg/960px-Common_Persimmon_Bark.jpg",
+      "role": "close-up of thick deeply block-fissured mature bark",
+      "creator": "Jryandoherty",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Common_Persimmon_Bark.jpg",
+      "source_status": "externally linked Wikimedia licensed image; physical image not stored in repo",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/2/22/DIOSPYROS_VIRGINIANA_calyx_atop_ripe_fruit.jpg",
+      "role": "orange-yellow ripe fruit and conspicuous persistent green calyx",
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:DIOSPYROS_VIRGINIANA_calyx_atop_ripe_fruit.jpg",
+      "source_status": "externally linked Wikimedia CC0 image; physical image not stored in repo",
+      "study_use": "yes",
+      "public_reuse": "cc0"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "visual_comparison": {
+    "title": "American persimmon: darker bark, orange fruit",
+    "version": "2026-10-12-american-persimmon-compare-to-texas",
+    "subtitle": "Comparison species only for strict native county counts; the plant remains approved in the learner.",
+    "memory_rule": "AMERICAN = BLOCKY DARK MATURE BARK + ORANGE/YELLOW RIPE FRUIT.",
+    "items": [
+      {
+        "label": "MATURE BARK",
+        "scientific_name": "Diospyros virginiana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Common_Persimmon_Bark.jpg/960px-Common_Persimmon_Bark.jpg",
+        "image_fit": "contain",
+        "image_role": "close-up of thick deeply block-fissured mature bark",
+        "creator": "Jryandoherty",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Common_Persimmon_Bark.jpg",
+        "caption": "Thick dark bark subdivided into irregular quadrangular plates. Compare with Texas persimmon's smooth pale trunk; young trees may not show mature bark yet.",
+        "markers": [
+          {
+            "label": "square bark plates",
+            "label_x": 6,
+            "label_y": 15,
+            "target_x": 48,
+            "target_y": 46
+          },
+          {
+            "label": "deep fissure",
+            "label_x": 72,
+            "label_y": 79,
+            "target_x": 55,
+            "target_y": 60
+          }
+        ]
+      },
+      {
+        "label": "RIPE FRUIT + CALYX",
+        "scientific_name": "Diospyros virginiana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/DIOSPYROS_VIRGINIANA_calyx_atop_ripe_fruit.jpg",
+        "image_fit": "contain",
+        "image_role": "orange-yellow ripe fruit and conspicuous persistent green calyx",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:DIOSPYROS_VIRGINIANA_calyx_atop_ripe_fruit.jpg",
+        "caption": "Large yellow-orange ripe fruit and broad, leaf-like persistent calyx. Do not equate an immature green fruit with any particular persimmon species.",
+        "markers": [
+          {
+            "label": "large retained calyx",
+            "label_x": 55,
+            "label_y": 8,
+            "target_x": 57,
+            "target_y": 27
+          },
+          {
+            "label": "orange berry",
+            "label_x": 5,
+            "label_y": 85,
+            "target_x": 45,
+            "target_y": 66
+          }
+        ]
+      }
+    ],
+    "overlay_note": "Four major-structure annotations visually matched to original photographs. Bark and fruit differences are strongest in mature examples, not seedlings. Commons CC0/CC BY-SA license metadata retained."
+  },
+  "curated_species_gallery_status": {
+    "previous_local_photos_preserved": 1,
+    "commons_source_photos_added": 2,
+    "linked_external_photos": 2,
+    "source_and_license_checked": true,
+    "new_binary_stored": 0,
+    "disclaimer": "These are species-specific licensed external links; original one-photo provisional local file retained."
+  }
+}

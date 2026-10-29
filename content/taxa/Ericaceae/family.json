@@ -1,0 +1,79 @@
+{
+  "rank": "family",
+  "name": "Ericaceae",
+  "common_name": "Heath / blueberry family",
+  "project_scope": {
+    "selection_mode": "Texas madrone + sparkleberry reference module",
+    "note": "Texas madrone is now the canonical clickable Ericaceae anchor. Sparkleberry remains a reference/breadth comparison pending separate strict county review."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On local woody taxa, start with alternate exstipulate leaves and fused flowers, then inspect the anthers for apical pores.",
+    "flower": "Corolla commonly fused and urn-, bell-, or tube-shaped; stamens commonly 5–10.",
+    "anthers": "Poricidal anthers and anther appendages are high-value characters.",
+    "ovary": "Position varies across the family.",
+    "fruit": "Capsule, berry, or drupe depending on lineage.",
+    "field_tip": "Poricidal anthers are a stronger family clue than bark or berry color."
+  },
+  "visual_lesson": {
+    "status": "reference_first_pass",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Texas madrone and sparkleberry make a great pair because they look different as plants but share the same Ericaceae reproductive language.",
+    "steps": [
+      {
+        "title": "1 · Start with Texas madrone habit",
+        "photo_role": "Texas madrone whole plant",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Texas_madrone_tree_arbutus_xalapensis.jpg",
+        "image_label": "Arbutus xalapensis",
+        "image_credit": "Public Domain · Gary M. Stolz / USFWS",
+        "look_for": "Woody evergreen/semi-evergreen architecture and distinctive smooth exfoliating trunk.",
+        "why_it_matters": "Gives a memorable local family anchor without using bark as the sole ID.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "arbutus-xalapensis"
+      },
+      {
+        "title": "2 · Add madrone fruit",
+        "photo_role": "Texas madrone fruits",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Texas_madrone_or_marina_strawberry_tree_plant_fruits_arbutus_xalapensis.jpg",
+        "image_label": "Arbutus xalapensis fruits",
+        "image_credit": "Public Domain · Gary M. Stolz / USFWS",
+        "look_for": "Clusters of fleshy reddish fruit.",
+        "why_it_matters": "Shows one Ericaceae fruit form while reminding you fruit type varies.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "arbutus-xalapensis"
+      },
+      {
+        "title": "3 · Compare sparkleberry",
+        "photo_role": "Vaccinium arboreum habit",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vaccinium_arboreum.jpg",
+        "image_label": "Vaccinium arboreum",
+        "image_credit": "CC BY-SA 3.0 · James Steakley",
+        "look_for": "A very different woody Vaccinium form with the same fused-flower family framework.",
+        "why_it_matters": "Prevents overfitting Ericaceae to madrone bark or one growth form.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "4 · Zoom to the anther pores",
+        "photo_role": "poricidal anther diagram",
+        "look_for": "Pollen exits through small pores at the tips of the anthers rather than long slits.",
+        "why_it_matters": "Poricidal anthers are one of the best technical Ericaceae confirmations.",
+        "status": "diagram_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Ericaceae vs Rosaceae",
+        "rule": "Rosaceae commonly has free petals plus a hypanthium; Ericaceae commonly has a fused corolla and poricidal anthers."
+      },
+      {
+        "title": "Ericaceae vs Ebenaceae",
+        "rule": "Both can be woody with fused flowers and fleshy fruit; Ericaceae anther architecture is the stronger tie-breaker."
+      }
+    ],
+    "caveat": "Ovary position and fruit type vary across Ericaceae, so neither should be memorized as one fixed family rule."
+  },
+  "curation_status": {
+    "version": "1.1-canonical-anchor",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "canonical_madrone_anchor_live"
+  }
+}

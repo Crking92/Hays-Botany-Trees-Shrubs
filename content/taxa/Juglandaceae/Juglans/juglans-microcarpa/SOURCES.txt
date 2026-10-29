@@ -1,0 +1,35 @@
+JUGLANS MICROCARPA — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Scope: media-only; preserve settled PASS taxonomy/range.
+
+Existing project media checked first:
+- Joey/external record j010-007 points to the Spadefoot Nursery Juglans microcarpa page and a Joey Santore dried-fruit/nut image.
+- That page remains a useful photo lead, but the exact embedded file-to-photographer/license mapping is not durable enough for this automated install. It is retained for later photo polish rather than guessed.
+
+Selected exact-species iNaturalist photos:
+1) iNaturalist photo 436522536; observation 244695767
+   Creator: Jim (iNaturalist user jimmex)
+   License: CC0 1.0
+   Source: https://www.inaturalist.org/photos/436522536
+   License/provenance verification: https://commons.wikimedia.org/wiki/File:Juglans_microcarpa_436522536.jpg
+   Role: whole multi-stem shrub/small-tree habit in rocky habitat.
+   Download mirror: https://upload.wikimedia.org/wikipedia/commons/6/62/Juglans_microcarpa_436522536.jpg
+
+2) iNaturalist photo 275885457; observation 159560040
+   Creator: Charlie Meador (iNaturalist user s_pi_ky)
+   License: CC BY 4.0
+   Source: https://www.inaturalist.org/photos/275885457
+   License/provenance verification: https://commons.wikimedia.org/wiki/File:Juglans_microcarpa_275885457.jpg
+   Role: pinnately compound foliage plus small developing green fruits.
+   Download mirror: https://upload.wikimedia.org/wikipedia/commons/5/57/Juglans_microcarpa_275885457.jpg
+
+3) iNaturalist photo 366129933; observation 207017529
+   Creator: Jo Roberts (iNaturalist user bacchusrock)
+   License: CC BY 4.0
+   Source: https://www.inaturalist.org/photos/366129933
+   License/provenance verification: https://commons.wikimedia.org/wiki/File:Juglans_microcarpa_366129933.jpg
+   Role: male catkin close-up on twig.
+   Download mirror: https://upload.wikimedia.org/wikipedia/commons/7/73/Juglans_microcarpa_366129933.jpg
+
+Fast-fill note:
+These three exact-species views cover habit, fruit/leaf architecture, and reproductive structure. A later polish pass can add the existing Joey dried-nut anatomy image once its direct file and attribution are unambiguously locked. No taxonomy or range conclusions are changed.

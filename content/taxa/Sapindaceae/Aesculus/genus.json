@@ -1,0 +1,203 @@
+{
+  "rank": "genus",
+  "name": "Aesculus",
+  "family": "Sapindaceae",
+  "project_scope": {
+    "species_ids": [
+      "aesculus-glabra",
+      "aesculus-pavia"
+    ],
+    "learner_admission": "approved Master Plant Pool; both range UNRESOLVED; var. pavia represented by species-level A. pavia"
+  },
+  "look_here_first": "Buckeye identification starts with opposite palmately compound leaves; species separation starts with a mature capsule and the degree of stamen exsertion, not flower color.",
+  "comparison": [
+    {
+      "character": "Mature capsule",
+      "glabra": "Usually short-prickly or warty (rarely nearly smooth).",
+      "pavia": "Usually smooth and leathery."
+    },
+    {
+      "character": "Stamens versus petals",
+      "glabra": "Conspicuously exserted, about 2× petal length.",
+      "pavia": "Included to barely exserted, roughly petal length."
+    },
+    {
+      "character": "Flowers",
+      "glabra": "Generally paler greenish-yellow, less tubular; color secondary.",
+      "pavia": "Usually red tubular flowers, but var. flavescens yellow; color unreliable."
+    },
+    {
+      "character": "Leaves",
+      "glabra": "Opposite, palmately compound, 5–7 toothed leaflets.",
+      "pavia": "Opposite, palmately compound, usually 5 (to 7) toothed leaflets; substantial overlap."
+    }
+  ],
+  "cautions": [
+    "Aesculus × bushii (glabra × pavia) can be intermediate; do not force ID from one trait.",
+    "Aesculus pavia var. pavia is an infraspecific source record represented by species-level A. pavia, not an extra card.",
+    "Aesculus pavia var. flavescens can be yellow-flowered; do not use color as primary separator.",
+    "Both species are Texas-native at state scale in POWO, but target-zone county PASS has not been established."
+  ],
+  "visual_status": "Genus photo-led lesson with five physically verified images; calibrated separating-character pairs pending.",
+  "genus_diagnostics": {
+    "look_here_first": "Find OPPOSITE, PALMATELY COMPOUND leaves (several leaflets meeting at one petiole tip). For species ID compare a mature CAPSULE surface and a side-on flower showing STAMENS relative to PETALS.",
+    "shared_structure_examples": [
+      {
+        "term": "palmately compound leaf",
+        "plain": "Five to seven leaflets radiating from one stalk tip.",
+        "photo_role": "leaf and opposite twig node",
+        "why": "Recognize buckeyes; leaf count overlaps and does not split species."
+      },
+      {
+        "term": "terminal panicle",
+        "plain": "Branched upright cluster of flowers at the shoot tip.",
+        "photo_role": "whole flower cluster with intact side-view blossoms",
+        "why": "Shows where to examine stamens and petals."
+      },
+      {
+        "term": "stamen exsertion",
+        "plain": "How far pollen-bearing filaments project beyond petals.",
+        "photo_role": "matched flower side profiles",
+        "why": "Usually strongly projecting in glabra, included or barely projecting in pavia."
+      },
+      {
+        "term": "leathery capsule",
+        "plain": "Rounded fruit husk enclosing large buckeye seeds.",
+        "photo_role": "matched ripe capsules with scale",
+        "why": "Usually short-warty/prickly in glabra versus smooth in pavia; variation and hybrids require caution."
+      }
+    ],
+    "confusable_genera": [
+      {
+        "genus": "Ungnadia",
+        "distinction": "Mexican buckeye has PINNATE leaves with leaflets along a central axis, and a three-valved capsule; Aesculus has palmately compound leaves."
+      },
+      {
+        "genus": "Acer",
+        "distinction": "Some maples also have opposite leaves, but Aesculus has palmately compound leaves and rounded capsules, not paired samaras."
+      }
+    ]
+  },
+  "study_strategy": {
+    "teaching_order": [
+      "Inspect opposite leaf nodes and leaflet attachment",
+      "Compare mature capsules at equal scale",
+      "Examine stamens relative to petals in side-view flowers",
+      "Use habit, buds and range only as supporting context"
+    ],
+    "warning": "Flower color and leaflet number overlap; A. pavia var. flavescens may have yellow flowers, and Aesculus × bushii can be intermediate."
+  },
+  "comparison_cards": [
+    {
+      "title": "Glabra versus pavia: fruit husk",
+      "taxon_ids": [
+        "aesculus-glabra",
+        "aesculus-pavia"
+      ],
+      "look_here_first": "Inspect several fully mature capsules for short prickles or warts versus a smooth surface.",
+      "difference": "Typical A. glabra husks are warty or short-prickly; A. pavia is usually smooth.",
+      "caution": "A. glabra can be nearly smooth and hybrid A. × bushii may be intermediate. The current glabra photo shows a finely textured husk, not conspicuous long spines.",
+      "photo_roles": [
+        "matched ripe capsule side views",
+        "husk surface macro"
+      ]
+    },
+    {
+      "title": "Glabra versus pavia: flower side view",
+      "taxon_ids": [
+        "aesculus-glabra",
+        "aesculus-pavia"
+      ],
+      "look_here_first": "Compare the length of stamens projecting past the petal tips, not flower color.",
+      "difference": "A. glabra often has stamens roughly twice petal length; A. pavia stamens usually near petal length or barely exserted.",
+      "caution": "Select similar-stage flowers; one oblique photo is not a measured stamen-to-petal ratio.",
+      "photo_roles": [
+        "matched flower side macros with scale",
+        "full terminal panicles"
+      ]
+    }
+  ],
+  "visual_comparison": {
+    "status": "five installed exact-species files physically and visually checked; matched measurement macros pending",
+    "teaching_order": "leaf node → flower side → capsule surface → compare species",
+    "items": [
+      {
+        "species_id": "aesculus-glabra",
+        "scientific_name": "Aesculus glabra",
+        "image_url": "content/taxa/Sapindaceae/Aesculus/aesculus-glabra/images/aesculus-glabra-flowers.jpg",
+        "image_role": "flower/panicle",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "public_reuse": "yes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Aesculus%20glabra%20003.JPG",
+        "observed_anatomy": "Several pale tubular flowers with protruding anthers and buds visible; no ruler.",
+        "caption": "Flower close-up shows stamens extending past petals; ratio not measured.",
+        "visual_status": "installed_verified; annotation_pending",
+        "markers": []
+      },
+      {
+        "species_id": "aesculus-glabra",
+        "scientific_name": "Aesculus glabra",
+        "image_url": "content/taxa/Sapindaceae/Aesculus/aesculus-glabra/images/aesculus-glabra-fruit.jpg",
+        "image_role": "capsule surface",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "public_reuse": "yes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Aesculus%20glabra%20009.JPG",
+        "observed_anatomy": "Rounded hanging capsule with finely textured/warty-looking husk; no clear long spines.",
+        "caption": "Fruit context; macro texture and maturity need further confirmation.",
+        "visual_status": "installed_verified; annotation_pending",
+        "markers": []
+      },
+      {
+        "species_id": "aesculus-pavia",
+        "scientific_name": "Aesculus pavia",
+        "image_url": "content/taxa/Sapindaceae/Aesculus/aesculus-pavia/images/aesculus-pavia-flowers.jpg",
+        "image_role": "flower/panicle",
+        "creator": "Alex Abair",
+        "license": "CC BY 4.0",
+        "public_reuse": "yes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Aesculus%20pavia%20352510526.jpg",
+        "observed_anatomy": "Erect flower panicle with tubular blossoms and protruding stamens visible; not calibrated.",
+        "caption": "Flowering architecture; ratio not independently measured.",
+        "visual_status": "installed_verified; annotation_pending",
+        "markers": []
+      },
+      {
+        "species_id": "aesculus-pavia",
+        "scientific_name": "Aesculus pavia",
+        "image_url": "content/taxa/Sapindaceae/Aesculus/aesculus-pavia/images/aesculus-pavia-fruit.jpg",
+        "image_role": "capsule surface",
+        "creator": "David J. Stang",
+        "license": "CC BY-SA 4.0",
+        "public_reuse": "yes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Aesculus%20pavia%202zz.jpg",
+        "observed_anatomy": "Several smooth-looking brown rounded capsules on branches with leaves.",
+        "caption": "Fruit-husk surface comparison, not a seed dissection.",
+        "visual_status": "installed_verified; annotation_pending",
+        "markers": []
+      },
+      {
+        "species_id": "aesculus-pavia",
+        "scientific_name": "Aesculus pavia",
+        "image_url": "content/taxa/Sapindaceae/Aesculus/aesculus-pavia/images/aesculus-pavia-leaf.jpg",
+        "image_role": "leaflet attachment",
+        "creator": "Derek Ramsey",
+        "license": "CC BY-SA 2.5",
+        "public_reuse": "yes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Red%20Buckeye%20Aesculus%20pavia%20Leaf%20Closeup%202700px.JPG",
+        "observed_anatomy": "Leaflets radiate from a shared attachment; serrate leaflet margins visible.",
+        "caption": "Palmate leaf architecture, not species-level confirmation.",
+        "visual_status": "installed_verified; annotation_pending",
+        "markers": []
+      }
+    ],
+    "photo_gaps": [
+      "Matched ripe fruit-husk macros with millimeter scale, both species",
+      "Matched side-on flowers with measured stamen and petal lengths",
+      "Opposite leaf nodes for both species at same scale",
+      "Voucher-confirmed Aesculus × bushii hybrid comparison"
+    ],
+    "handoff": "Diagnostic Photo Polish: acquire same-perspective rights-cleared mature fruit and flower macros; no arrows until actual image target coordinates checked. Taxonomy + Diagnostic Review: retain smooth glabra variation and hybrid caution."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "quercus-polymorpha",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "polymorpha",
+  "scientific_name": "Quercus polymorpha",
+  "authority": "Schltdl. & Cham.",
+  "common_name": "Mexican white oak / Monterrey oak",
+  "taxonomic_note": "Accepted species. Native in the United States only in far southern Texas near the Mexican border; not native in the current Central Texas target zone.",
+  "look_here_first": "Look for the mostly unlobed to shallowly toothed, leathery evergreen to semi-evergreen leaves. The acorn cup is deeper than in Shumard oak and may enclose roughly half the nut.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "Kew accepts Texas as native, but Flora of North America describes the U.S. occurrence as a small natural grove about 30 km from the international border. No exact native target-zone counties were established in this review.",
+    "range_guardrail": "Planted Central Texas trees do not count toward native-range qualification.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "LOOKALIKE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen to semi-evergreen oak in cultivation",
+      "leaves usually unlobed or shallowly toothed rather than deeply lobed",
+      "leaf shape highly variable",
+      "acorns borne 1–2 on a stalk",
+      "cup hemispheric to funnel-shaped and relatively deep",
+      "cup may enclose about half the nut"
+    ],
+    "comparison_training": "Use as a common landscape comparison against local native oaks; do not interpret planted Central Texas specimens as native occurrences."
+  },
+  "tags": [
+    "Fagaceae",
+    "Quercus",
+    "Mexican white oak",
+    "Monterrey oak",
+    "Nursery comparison",
+    "Target-zone range fail"
+  ],
+  "curation_status": {
+    "version": "1.0-b077+b116-visual",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-03",
+    "visual_reviewed": true,
+    "visual_status": "usable-partial",
+    "photo_metadata_count": 4,
+    "last_visual_reviewed": "2026-10-04",
+    "photo_files_present": 2,
+    "manual_library_install_014": "2026-10-16"
+  },
+  "photo_strategy": {
+    "method": "B116 existing-material-first visual lock",
+    "target_count": "2 strong diagnostic views now; add twig/bud or additional fruit macro only where it materially improves field ID",
+    "visual_priority": "diagnostic structure over generic habit",
+    "public_release_guardrail": "Current sources are authorized for private study; re-check exact reuse rights before any public release."
+  },
+  "images": [
+    {
+      "file": "https://www.vivainord.it/wp-content/uploads/2021/11/Quercus-polymorpha_monterrey_oak_with_acorns-scaled.jpg",
+      "role": "leaves and acorns — mostly unlobed leathery foliage with deep cupules",
+      "creator": "Vivai Nord / photographer not verified",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.vivainord.it/variet%C3%A0/quercus-polymorpha/",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://static.inaturalist.org/photos/16717165/large.jpg",
+      "role": "mature bark — coarse vertically ridged trunk",
+      "creator": "iNaturalist/ArgentiNat contributor not verified",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.argentinat.org/taxa/167662-Quercus-polymorpha",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/library-review014-b6cca1a3b7401f4.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Leaf venation and reproductive twig/near-leaf detail; source-based taxon identity only",
+      "creator": "Daniel Atha",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6499946430",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/716993588/original.jpg",
+      "source_determination": "Quercus polymorpha",
+      "source_observation_id": "6499946430",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/quercus-polymorpha/gbif-4e390442df5dd9.jpg",
+      "archive_image_sha256": "81bef32d7e2a7296b1a43223376c87d2a6648a7357ce1ff5cd1cfe6d6b7e628a",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review014-6bc66fa8c43ab11.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Leaf venation and reproductive twig/near-leaf detail; source-based taxon identity only",
+      "creator": "Texas Bird Family",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5216032802",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/519723139/original.jpg",
+      "source_determination": "Quercus polymorpha",
+      "source_observation_id": "5216032802",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/quercus-polymorpha/gbif-4b69712191b31d.jpg",
+      "archive_image_sha256": "6bfe0491b06a198b34b4e406201bb69179f3e6b469217fde03e3f1a512218405",
+      "image_dimensions": [
+        1400,
+        933
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "photo_note": "B116 adds two real diagnostic source images to the learner. These make the page visually usable for private study; a future twig/bud or additional mature-fruit macro may still improve oak separation. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

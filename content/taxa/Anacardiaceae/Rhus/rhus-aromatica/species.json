@@ -1,0 +1,125 @@
+{
+  "id": "rhus-aromatica",
+  "entry_type": "species",
+  "family": "Anacardiaceae",
+  "genus": "Rhus",
+  "species": "aromatica",
+  "scientific_name": "Rhus aromatica",
+  "authority": "Aiton",
+  "common_name": "Fragrant sumac",
+  "synonyms": [
+    "Rhus trilobata Nutt.",
+    "Rhus aromatica var. flabelliformis Shinners",
+    "Rhus aromatica subsp. flabelliformis (Shinners) R.E.Brooks",
+    "Rhus canadensis var. trilobata (Nutt.) A.Gray ex J.M.Coult.",
+    "Rhus aromatica var. aromatica"
+  ],
+  "taxonomic_note": "Current Kew accepts Rhus aromatica Aiton and treats Rhus trilobata Nutt. and Rhus canadensis var. trilobata as synonyms of Rhus aromatica var. aromatica. Older Texas literature also uses R. aromatica var./subsp. flabelliformis. The learner keeps one species-level canonical entry and records those historical names as synonyms.",
+  "look_here_first": "Count leaflets first: fragrant sumac has exactly 3. The leaflets are often fan-shaped, lobed or coarsely toothed on a low suckering deciduous shrub.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays — UT PRC Purola natural flora; Travis — UT herbarium under R. aromatica var. flabelliformis; Williamson — UT PRC county treatment.",
+      "source_document": "content/taxa/Anacardiaceae/Rhus/rhus-aromatica/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "low winter-deciduous clump-forming or suckering shrub",
+      "leaves exactly 3-foliolate",
+      "leaflets often fan-shaped, lobed or coarsely toothed",
+      "compact yellowish flowers appear before or with new leaves",
+      "female plants produce dark-red hairy drupes"
+    ],
+    "habit": "Low deciduous suckering shrub.",
+    "leaf_arrangement": "Alternate; exactly three leaflets.",
+    "leaf_morphology": "Ovate to obovate/fan-shaped leaflets, often shallowly to deeply lobed and crenate/coarsely toothed.",
+    "inflorescence": "Compact yellowish catkin-like clusters before or with leaf-out.",
+    "fruit": "Dark-red hairy drupes.",
+    "safety_comparison": "The Anacardiaceae audit explicitly warns against 'leaves of three = poison ivy.' Use habit, leaflet shape/petiolules and fruit architecture; do not test by sap contact."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Rhus virens",
+      "Toxicodendron radicans"
+    ],
+    "key_distinctions": "R. aromatica = exactly 3 leaflets, often fan-shaped/lobed/toothed, low suckering shrub. R. microphylla has many much smaller leaflets on a compound leaf and belongs to drier western/southwestern habitats."
+  },
+  "tags": [
+    "Anacardiaceae",
+    "Rhus",
+    "Fragrant sumac",
+    "Central Texas",
+    "Poison-ivy comparison"
+  ],
+  "curation_status": {
+    "version": "1.1-b066-taxonomy",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "photo_note": "Reusable flower and three-leaf habit images recorded.",
+  "images": [
+    {
+      "file": "images/01-flowers.jpg",
+      "role": "Early flower clusters",
+      "creator": "Sten Porse",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhus-aromatica-flowers.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-three-leaf-habit.jpg",
+      "role": "Three-leaflet habit / historical Rhus trilobata label",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhus_aromatica_(R._trilobata)_(5020619321).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rhus_aromatica_fruit.jpg",
+      "role": "red hairy fruit cluster / diagnostic drupe view",
+      "creator": "SyGrnwd",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhus_aromatica_fruit.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "native_metrics_excluded": true
+}

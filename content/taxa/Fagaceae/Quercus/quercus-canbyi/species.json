@@ -1,0 +1,136 @@
+{
+  "id": "quercus-canbyi",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "canbyi",
+  "scientific_name": "Quercus canbyi",
+  "authority": "Trel.",
+  "common_name": "Canby oak",
+  "taxonomic_note": "Accepted species. Current Kew native range is northeastern Mexico (Nuevo León and Tamaulipas), not Texas.",
+  "look_here_first": "Think glossy narrow red-oak-type foliage: Canby oak has dark glossy evergreen to semi-evergreen leaves with serrated to bristle-tipped margins and a distinctly horticultural landscape presence in Texas.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "Current Kew POWO lists the native range as Nuevo León and Tamaulipas, Mexico, with no native Texas distribution.",
+    "range_guardrail": "Cultivated Texas occurrences do not satisfy the native-range rule.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "LOOKALIKE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen to semi-evergreen tree",
+      "dark glossy leaves",
+      "leaf margins serrated to bristle-tipped",
+      "often narrower-leaved than common Central Texas native red oaks",
+      "red-oak-group acorns maturing in the second season",
+      "commonly encountered as a landscape tree rather than wild native"
+    ],
+    "comparison_training": "Retain only as a nursery/landscape comparison. It is not a project-native oak."
+  },
+  "tags": [
+    "Fagaceae",
+    "Quercus",
+    "Canby oak",
+    "Nursery comparison",
+    "Non-native to Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b077+b116-visual",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-03",
+    "visual_reviewed": true,
+    "visual_status": "usable-partial",
+    "photo_metadata_count": 4,
+    "last_visual_reviewed": "2026-10-04",
+    "photo_files_present": 2,
+    "manual_library_install_014": "2026-10-16"
+  },
+  "photo_strategy": {
+    "method": "B116 existing-material-first visual lock",
+    "target_count": "2 strong diagnostic views now; add twig/bud or additional fruit macro only where it materially improves field ID",
+    "visual_priority": "diagnostic structure over generic habit",
+    "public_release_guardrail": "Current sources are authorized for private study; re-check exact reuse rights before any public release."
+  },
+  "images": [
+    {
+      "file": "https://images.squarespace-cdn.com/content/v1/65959595d74edc6c6da9d6ee/3475ab54-c751-487d-8ae4-63fd8f1e3afd/large%2B-%2B2024-12-09T081653.445.jpeg",
+      "role": "spring flowers / catkin-like inflorescences / young leaves",
+      "creator": "Spadefoot Nursery / exact photographer not recorded in archive",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://www.spadefootnursery.com/trees-m-thru-z/mexican-red-oak-quercus-canbyi",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://arbolmax.mx/wp-content/uploads/2025/10/acfe5a37cf0bab12be408f1518b4c2923df1cc99.jpg",
+      "role": "glossy lobed leaves and developing acorn",
+      "creator": "Arbolmax / photographer not verified",
+      "license": "rights-unverified-private-study",
+      "source_page": "https://arbolmax.mx/encino-duraznillo-quercus-canbyi/",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/library-review014-eac3310e1990fca.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Narrow green oak leaf in hand and young tree growth habit",
+      "creator": "Liliana Ramírez-Freire",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4103325712",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273047165/original.jpg",
+      "source_determination": "Quercus canbyi",
+      "source_observation_id": "4103325712",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/quercus-canbyi/gbif-5dcc10364b769c.jpg",
+      "archive_image_sha256": "1581d4e2390880c9ebfd1cdce5f974a3455a6d910f92e8ab58e71c9533226dee",
+      "image_dimensions": [
+        1400,
+        646
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review014-2297091517c9402.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Narrow green oak leaf in hand and young tree growth habit",
+      "creator": "Liliana Ramírez-Freire",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4103325712",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/273047264/original.jpg",
+      "source_determination": "Quercus canbyi",
+      "source_observation_id": "4103325712",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/quercus-canbyi/gbif-c62664741cf827.jpg",
+      "archive_image_sha256": "a65232ac0061f544288d5b07a6ad12e81ded3b17d983336c38cbaca63a14b540",
+      "image_dimensions": [
+        646,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "photo_note": "B116 reuses the already-indexed exact Canby oak source first, then adds a second real leaf/acorn view. These make the page visually usable for private study; a bark/twig close-up may still improve separation. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

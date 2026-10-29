@@ -1,0 +1,141 @@
+{
+  "rank": "family",
+  "name": "Rosaceae",
+  "common_name": "Rose family",
+  "project_scope": {
+    "selection_mode": "Central Texas fruit-architecture visual module",
+    "note": "Rubus trivialis and Prunus mexicana are now canonical clickable Central Texas Rosaceae anchors, giving the learner an aggregate-drupelet branch and a single-drupe branch."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look for stipules and a hypanthium, then identify the fruit architecture.",
+    "flower": "Usually radial, often 5 sepals + 5 petals, with several to many stamens around a hypanthium.",
+    "fruit": "Locally important forms include drupes, pomes, aggregate drupelets and aggregate achenes.",
+    "field_tip": "The family becomes much easier once you stop at 'many stamens' and ask what the fruit becomes."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Rosaceae is a fruit-architecture family: the flower plan repeats, but the fruit changes dramatically.",
+    "steps": [
+      {
+        "title": "1 · Start with a Prunus flower",
+        "photo_role": "Mexican plum flowers",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Prunus_mexicana.jpg",
+        "image_label": "Prunus mexicana flowers",
+        "image_credit": "Public Domain",
+        "look_for": "Five petals and many stamens arranged around a cup-like hypanthium.",
+        "why_it_matters": "The hypanthium is the structural thread to learn first.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "prunus-mexicana"
+      },
+      {
+        "title": "2 · Follow one carpel to a drupe",
+        "photo_role": "Mexican plum fruit + leaves",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Prunus_mexicana-fruits-leaves.jpg",
+        "image_label": "Prunus mexicana fruit",
+        "image_credit": "Public Domain",
+        "look_for": "One fleshy fruit with one hard stone/endocarp.",
+        "why_it_matters": "That is the Prunus-style drupe branch of Rosaceae.",
+        "status": "canonical_anchor_reference_image",
+        "anchor_species_id": "prunus-mexicana"
+      },
+      {
+        "title": "3 · Ask the fruit question",
+        "photo_role": "fruit architecture key",
+        "look_for": "Drupe? Aggregate drupelets? Aggregate achenes? Pome?",
+        "why_it_matters": "Fruit architecture is the fastest route through local Rosaceae diversity.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Keep stipules in the mental model",
+        "photo_role": "leaf-base / stipule check",
+        "look_for": "Paired stipules at the leaf base when visible.",
+        "why_it_matters": "Stipules plus hypanthium help separate Rosaceae from Ranunculaceae.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · See the local bramble branch",
+        "photo_role": "Southern dewberry / aggregate drupelets",
+        "anchor_species_id": "rubus-trivialis",
+        "look_for": "A prickly trailing cane with stipulate 3–5-foliolate leaves, a shallow hypanthium, many free stamens/pistils, and a black aggregate of drupelets.",
+        "why_it_matters": "Adds a real canonical local Rosaceae anchor and shows the family is much broader than Prunus drupes.",
+        "status": "canonical_anchor_photo_polish_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Rosaceae vs Ranunculaceae",
+        "rule": "Rosaceae usually has stipules and a hypanthium; Ranunculaceae usually lacks both and commonly has free carpels directly on the receptacle."
+      },
+      {
+        "title": "Rosaceae vs Fabaceae",
+        "rule": "Fabaceae produces a legume from one carpel; Rosaceae uses hypanthium-based fruit architectures instead."
+      }
+    ],
+    "caveat": "Use the shared hypanthium/many-stamen flower plan, then let fruit architecture separate the local branches: Prunus = one drupe from one carpel; Rubus = aggregate drupelets from many free carpels."
+  },
+  "curation_status": {
+    "version": "1.3-family-confusion-polish",
+    "last_reviewed": "2026-10-08",
+    "visual_lock": "family_confusion_text_complete_diagnostic_visual_roles_pending"
+  },
+  "family_confusion_cleanup": {
+    "version": "1.0-structure-and-fruit-comparisons",
+    "updated": "2026-10-08",
+    "field_question": "Where is the hypanthium, how are the carpels arranged, and what fruit type develops?",
+    "look_here_first": [
+      "Inspect a flower in side view for the hypanthium (floral cup), stamens around its rim, and carpel/ovary position; a cup alone is not definitive.",
+      "Check the leaf base for stipules when present; do not treat their absence as an absolute exclusion.",
+      "Follow fruit development: a single stony drupe, aggregate drupelets, aggregate achenes, or a pome can all belong to Rosaceae."
+    ],
+    "comparison_matrix": [
+      {
+        "confusable": "Ranunculaceae",
+        "separate": "Compare a Rosaceae hypanthium with the usually separate floral organs and free carpels on a receptacle in Ranunculaceae; inspect stipules as a supporting clue, not a universal key."
+      },
+      {
+        "confusable": "Fabaceae",
+        "separate": "Inspect the gynoecium and mature fruit: a typical legume develops from one carpel and splits along sutures; Rosaceae includes multiple distinct fruit architectures, including a Prunus drupe from one carpel."
+      },
+      {
+        "confusable": "Rhamnaceae",
+        "separate": "Do not identify by a floral cup alone: examine the stamens (often opposite petals and usually equal in number in Rhamnaceae), floral disc, ovary, and fruit anatomy against Rosaceae."
+      }
+    ],
+    "exception_locks": [
+      "Hypanthium shape and degree of ovary enclosure vary; Prunus and Rubus have superior ovaries while typical pome-bearing Crataegus/Malus have inferior ovaries.",
+      "Petal count, thorniness, and many stamens are not independently diagnostic.",
+      "Some Rosaceae have reduced or absent petals; fruit anatomy and floral architecture remain important."
+    ],
+    "genus_routing_cues": [
+      "Prunus: one carpel developing one fleshy drupe with a stony endocarp.",
+      "Rubus: many free carpels developing an aggregate of small drupelets.",
+      "Geum: numerous achenes, often with persistent hooked or elongated styles.",
+      "Crataegus/Malus: pome, with accessory fleshy hypanthium tissue surrounding a multi-carpellate core."
+    ],
+    "diagnostic_visual_roles": [
+      {
+        "priority": 1,
+        "shot": "matched flower side/cutaway",
+        "labels": "hypanthium | stamens | carpels | superior ovary (Prunus/Rubus) | inferior ovary (Crataegus/Malus)"
+      },
+      {
+        "priority": 1,
+        "shot": "four-way fruit section and external comparison",
+        "labels": "Prunus stone | Rubus drupelets | Geum achenes | Crataegus/Malus pome core"
+      },
+      {
+        "priority": 1,
+        "shot": "leaf-base macro",
+        "labels": "stipules | petiole | stem node"
+      },
+      {
+        "priority": 2,
+        "shot": "same-scale Rosaceae vs Ranunculaceae vs Fabaceae vs Rhamnaceae flower and fruit panel",
+        "labels": "hypanthium | carpel number | stamen insertion | ovary position | fruit type"
+      }
+    ],
+    "photo_acquisition_owner": "Diagnostic Photo Polish; use canonical Prunus mexicana and Rubus trivialis study references before new licensed assets.",
+    "taxonomy_handoff": "No species or native-range decisions changed."
+  }
+}

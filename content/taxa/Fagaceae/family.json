@@ -1,0 +1,282 @@
+{
+  "rank": "family",
+  "name": "Fagaceae",
+  "common_name": "Beech / oak family",
+  "project_scope": {
+    "selection_mode": "core-local-learning set",
+    "genera_currently_curated": [
+      "Quercus"
+    ],
+    "note": "This is the initial Fagaceae family file for the current Hays Botany ID build. Future genera should be merged into it, not blindly replace it."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "If fruit is present, find the nut and cupule first. In local Quercus this means an acorn sitting in a scaly cup. Then read mature leaves, buds/twigs, bark and cupule details.",
+    "leaves": "Alternate simple leaves with stipules; local oak species vary strongly in lobing, margins, underside hairs and persistence.",
+    "flowers": "Unisexual; staminate flowers commonly in catkins. Flowers are less useful than fruit/vegetative characters for routine local oak ID.",
+    "fruit": "A nut associated with a cupule; in Quercus the acorn/cup is decisive family confirmation.",
+    "field_tip": "Simple leaf + acorn/cupule is the fast family pattern. Use leaf, bud, bark and cupule for species.",
+    "look_here_first_sequence": [
+      {
+        "order": 1,
+        "formal": "cupule and nut",
+        "plain": "a hard acorn sitting in its scaly cup",
+        "look": "Examine a mature attached acorn; follow the cup scales to the nut base.",
+        "why": "A true oak acorn cup is not a walnut husk, Prunus fleshy drupe or willow capsule."
+      },
+      {
+        "order": 2,
+        "formal": "alternate simple leaves and terminal buds",
+        "plain": "one leaf per node, and a cluster of scaly buds at a twig tip",
+        "look": "Use several mature leaves and twig tips from the SAME tree; inspect upper and lower leaf surfaces.",
+        "why": "Separates local Quercus from compound-leaved Juglandaceae and supports species-level routing; leaf shape alone is unreliable."
+      },
+      {
+        "order": 3,
+        "formal": "bristle-tipped vs rounded lobes; abaxial indumentum",
+        "plain": "tiny sharp points on some leaf tips, plus hairs on the leaf underside",
+        "look": "Inspect lobe tips and the underside with a hand lens; bristles often suggest red-oak group, but not a universal family rule.",
+        "why": "Routes oak groups, then needs buds and cupules to resolve variable leaves."
+      },
+      {
+        "order": 4,
+        "formal": "unisexual flowers in staminate catkins",
+        "plain": "dangling pollen-bearing flower strings",
+        "look": "Confirm with fruit or twig/leaf suite; catkins also occur in walnuts and willows.",
+        "why": "Useful supporting clue, not a stand-alone family diagnosis."
+      }
+    ],
+    "important_exceptions": "This Central Texas lesson routes the canonical Quercus pool, not every Fagaceae genus: chestnuts and beeches also make cupule-associated nuts but not typical single-acorn oak cups. Oak leaves can be entire, toothed or lobed, deciduous or evergreen. Juvenile shoots, shade, drought and hybridization alter leaves; red-oak bristles and bud clusters are aids, not universal or sufficient by themselves.",
+    "genus_routing": "Current canonical Fagaceae representatives are Quercus. First verify the acorn/cupule; for Quercus use mature leaf lobe tips, abaxial hairs, terminal buds, cupule shape/scale texture and habitat together. Compare Q. buckleyi (bristle-tipped red oak), Q. fusiformis (live-oak leaf/catkin context), Q. stellata (rounded lobes and twig traits) and Q. marilandica (broad distal bristle-tipped lobes and tawny buds). Do not imply these four are the only family members."
+  },
+  "curation_status": {
+    "version": "2.0-visual-family-module",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "first_pass_complete"
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "attached nut + cupule → leaf tips/underside → bud cluster/twig → male catkins as supporting clue → walnut/Prunus/willow fruit contrasts",
+    "intro": "Oaks are easiest when the acorn teaches the family and the leaf/bud/cup teaches the species.",
+    "steps": [
+      {
+        "title": "1 · Find the cupule",
+        "photo_role": "acorn and cup",
+        "anchor_species_id": "quercus-fusiformis",
+        "look_for": "A nut seated in a scaly cupule.",
+        "why_it_matters": "The acorn + cupule combination is the strongest local Fagaceae cue.",
+        "status": "exact_cupule_photo_role_pending",
+        "photo_warning": "Existing Q. fusiformis anchor is not evidence of a visible cupule; use the verified Q. marilandica acorn-and-cup image below for that exact role."
+      },
+      {
+        "title": "2 · Read the mature leaf",
+        "photo_role": "leaf architecture",
+        "anchor_species_id": "quercus-buckleyi",
+        "look_for": "Simple alternate leaf; note lobes, tips, margin and underside.",
+        "why_it_matters": "Leaf architecture narrows local oak groups quickly.",
+        "status": "prior_photo_audit_verified_2026_10_08",
+        "anchor_image_index": 6,
+        "photo_warning": "External CC BY 4.0 leaf photograph: bristle-tipped lobes and venation visible; no underside hairs, buds or acorns."
+      },
+      {
+        "title": "3 · Check the twig and bud",
+        "photo_role": "buds and twig",
+        "anchor_species_id": "quercus-laceyi",
+        "look_for": "Bud size/shape, clustering and twig pubescence.",
+        "why_it_matters": "Bud/twig traits remain useful when acorns are absent.",
+        "status": "bud_photo_role_pending",
+        "photo_warning": "Existing Q. laceyi images have not been confirmed here to show diagnostic bud-scale detail."
+      },
+      {
+        "title": "4 · Compare bark + leaf + cup",
+        "photo_role": "whole-tree integration",
+        "anchor_species_id": "quercus-stellata",
+        "look_for": "Use several characters together instead of forcing one leaf shape.",
+        "why_it_matters": "Oaks hybridize and vary; multi-character ID is safer.",
+        "status": "matched_multiview_photo_pending",
+        "photo_warning": "Do not use a single Q. stellata reference photo as proof of leaf, bark AND cupule anatomy."
+      },
+      {
+        "title": "5 · See the scaly cup on an actual oak nut",
+        "photo_role": "attached acorn, cupule scales and twig macro",
+        "anchor_species_id": "quercus-marilandica",
+        "anchor_image_index": 5,
+        "look_for": "The hard acorn is held at its base by a separate cup with overlapping scales. Follow the cup rim around the nut; do not mistake the whole walnut husk for an oak cup.",
+        "why_it_matters": "This photograph supplies the actual cupule view missing from the generic first step. Nut ripeness and dimensions cannot be determined without a scale.",
+        "status": "prior_photo_audit_verified_2026_10_08",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "6 · Compare bristle tips and bud hairs",
+        "photo_role": "separate mature leaf and terminal-bud macro examples",
+        "anchor_species_id": "quercus-marilandica",
+        "anchor_image_index": 4,
+        "look_for": "Tawny hairs on the clustered terminal buds and twig; compare a separate adult leaf photograph for the broad, distal bristle-tipped lobes.",
+        "why_it_matters": "A real bud macro can resolve an oak when leaves are variable. The bud image alone does not prove the leaf-lobe character.",
+        "status": "prior_photo_audit_verified_2026_10_08",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "7 · Inspect a broad bristle-tipped leaf",
+        "photo_role": "mature upper leaf face and distal bristle-tipped lobes",
+        "anchor_species_id": "quercus-marilandica",
+        "anchor_image_index": 3,
+        "look_for": "Leaf blade broadest toward its tip, with projecting distal lobes; minute bristle tips are small and require magnification.",
+        "why_it_matters": "Contrast with Q. stellata rounded lobes; do not identify from a single leaf, especially on sprouts or hybrids.",
+        "status": "prior_photo_audit_verified_2026_10_08",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Fagaceae vs Juglandaceae",
+        "rule": "Local oaks have simple leaves + acorn/cupule. Walnuts have pinnately compound leaves + a husked nut. Both can have catkins."
+      },
+      {
+        "title": "Fagaceae vs Rosaceae (Prunus)",
+        "rule": "An oak nut is seated in a distinct scaly cupule. A plum/cherry has a fleshy drupe around a hard endocarp (stone), without an oak cup. Leaves can overlap; inspect attached fruit and twig."
+      },
+      {
+        "title": "Fagaceae vs Salicaceae (Salix/Populus)",
+        "rule": "Both can have unisexual catkins and alternate simple leaves. Local Salicaceae releases numerous silky-haired seeds from split dry capsules; Quercus bears a single hard acorn seated in a scaly cupule."
+      }
+    ],
+    "caveat": "Catkins alone do not distinguish oaks from walnuts; use leaf architecture and fruit. This is a Quercus-led local family lesson, not a claim that all Fagaceae have oak-style acorns. A photo is only evidence for structures actually resolved in it; annotations remain pending.",
+    "representative_species": [
+      "quercus-fusiformis",
+      "quercus-buckleyi",
+      "quercus-stellata",
+      "quercus-marilandica"
+    ],
+    "diagnostic_photo_needs": [
+      {
+        "priority": 1,
+        "role": "same-scale comparison: oak cupule vs walnut husk vs Prunus drupe",
+        "target": "cupule rim/scales vs entire husk vs fleshy pericarp/stone",
+        "status": "needs_matched_photo"
+      },
+      {
+        "priority": 2,
+        "role": "terminal bud clusters and bud-scale hairs, Quercus buckleyi vs Q. shumardii and Q. stellata vs Q. marilandica",
+        "target": "terminal bud, scale margin, twig hairs, ruler",
+        "status": "needs_matched_macro"
+      },
+      {
+        "priority": 3,
+        "role": "adaxial vs abaxial leaf surfaces on same tree",
+        "target": "bristle tip, vein axil tufts, stellate hairs with magnification",
+        "status": "needs_macro"
+      },
+      {
+        "priority": 4,
+        "role": "male catkins and female flower to attached acorn sequence",
+        "target": "staminate flower, pistillate flower, cupule development",
+        "status": "needs_labeled_series"
+      },
+      {
+        "priority": 5,
+        "role": "cupule scales and mature cup depth with ruler",
+        "target": "cup scale texture, mature acorn and rim, same-tree evidence",
+        "status": "needs_matched_macro"
+      }
+    ],
+    "photo_role_map": [
+      {
+        "species_id": "quercus-buckleyi",
+        "media_status": "external_reference",
+        "path_or_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Quercus_buckleyi_leaf.jpg",
+        "species_image_index": 6,
+        "diagnostic_role": "adult leaf with bristle-tipped lobes",
+        "visible_anatomy": "Upper glossy blade, deep sinuses, veins, bristle tips; no underside or acorn",
+        "creator": "georgiakharper; crop Chiswick Chap",
+        "license": "CC BY 4.0",
+        "public_reuse": "yes-with-attribution",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_buckleyi_leaf.jpg",
+        "caption": "Find the tiny bristle at a lobe tip; then inspect several leaves and a cupule.",
+        "future_arrow_target": "bristle at terminal lobe tip",
+        "annotation_status": "annotation_pending",
+        "evidence": "species.json image audit dated 2026-10-08; not newly image-inspected this run"
+      },
+      {
+        "species_id": "quercus-marilandica",
+        "media_status": "external_reference",
+        "path_or_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marilandica__mqZFApyZAfab.jpg",
+        "species_image_index": 5,
+        "diagnostic_role": "attached acorn and scaly cupule",
+        "visible_anatomy": "Acorn, cup, overlapping scales and twig; ripeness and dimensions unproven",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "public_reuse": "yes-with-attribution",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+        "caption": "The cup surrounds the acorn base; follow its overlapping scales.",
+        "future_arrow_target": "cupule rim and scales",
+        "annotation_status": "annotation_pending",
+        "evidence": "species.json image audit dated 2026-10-08; not newly image-inspected this run"
+      },
+      {
+        "species_id": "quercus-marilandica",
+        "media_status": "external_reference",
+        "path_or_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marolandica__PVCxoy7rqkDv.jpe",
+        "species_image_index": 4,
+        "diagnostic_role": "terminal bud cluster and twig pubescence",
+        "visible_anatomy": "Tawny pubescence on terminal buds; no ruler or proven five-angled cross section",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "public_reuse": "yes-with-attribution",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+        "caption": "Inspect the tawny hairs on the buds; do not infer bud dimensions.",
+        "future_arrow_target": "tawny terminal bud",
+        "annotation_status": "annotation_pending",
+        "evidence": "species.json image audit dated 2026-10-08; not newly image-inspected this run"
+      },
+      {
+        "species_id": "quercus-marilandica",
+        "media_status": "external_reference",
+        "path_or_url": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_marilandica__okwbBNc0WpTI.jpg",
+        "species_image_index": 3,
+        "diagnostic_role": "distal bristle-tipped leaf lobes",
+        "visible_anatomy": "Broad upper leaf surface with projecting distal lobes; minute bristles small, no underside",
+        "creator": "Bruce Kirchoff",
+        "license": "CC BY 2.0",
+        "public_reuse": "yes-with-attribution",
+        "source_page": "https://plants.ces.ncsu.edu/plants/quercus-marilandica/",
+        "caption": "Broad blade with distal lobes; magnify to inspect the bristle tips.",
+        "future_arrow_target": "outermost distal lobe tip",
+        "annotation_status": "annotation_pending",
+        "evidence": "species.json image audit dated 2026-10-08; not newly image-inspected this run"
+      },
+      {
+        "species_id": "quercus-fusiformis",
+        "media_status": "installed_file",
+        "path_or_url": "content/taxa/Fagaceae/Quercus/quercus-fusiformis/images/02-curated-reference.jpg",
+        "species_image_index": 1,
+        "diagnostic_role": "staminate catkins and evergreen foliage",
+        "visible_anatomy": "Pendant male catkins, narrow leathery leaves and twigs; no cupule, underside hair or bud macro",
+        "creator": "Rose Cooper",
+        "license": "CC BY-NC-ND",
+        "public_reuse": "review",
+        "source_page": "https://www.inaturalist.org/taxa/167647",
+        "caption": "Pollen-bearing catkins support oak identification but do not prove the family alone.",
+        "future_arrow_target": "male catkin",
+        "annotation_status": "annotation_pending",
+        "evidence": "species.json installed-JPEG audit dated 2026-10-08; public reuse not cleared"
+      },
+      {
+        "species_id": "quercus-buckleyi",
+        "media_status": "installed_file",
+        "path_or_url": "content/taxa/Fagaceae/Quercus/quercus-buckleyi/images/02-curated-reference.jpg",
+        "species_image_index": 1,
+        "diagnostic_role": "developing green acorn and overlapping cup scales",
+        "visible_anatomy": "Attached green acorn and cup scales; mature cup depth not established",
+        "creator": "Eric Keith",
+        "license": "CC BY-NC",
+        "public_reuse": "review",
+        "source_page": "https://www.inaturalist.org/taxa/167640",
+        "caption": "Overlapping cup scales visible; immature acorn cannot establish mature cup depth.",
+        "future_arrow_target": "cup scales",
+        "annotation_status": "annotation_pending",
+        "evidence": "species.json installed-JPEG audit dated 2026-10-08; public reuse not cleared"
+      }
+    ],
+    "photo_coverage_note": "Four previously audited external anatomical views mapped to precise roles, plus two previously audited installed but reuse-restricted images. Photo anatomy evidence is inherited from 2026-10-08 species.json audits, not newly verified by opening images in this run. External URL does not equal installed; no arrows verified or installed."
+  }
+}

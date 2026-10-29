@@ -1,0 +1,103 @@
+{
+  "id": "juglans-major",
+  "entry_type": "species",
+  "family": "Juglandaceae",
+  "genus": "Juglans",
+  "species": "major",
+  "scientific_name": "Juglans major",
+  "authority": "(Torr.) A.Heller",
+  "common_name": "Arizona Walnut / Arizona Black Walnut",
+  "look_here_first": "Start with the middle-sized fruit and leaflet count. Arizona walnut usually carries 9–15 broader leaflets and fruits about 2–3.5 cm across—larger than little walnut but far smaller than typical black walnut fruit.",
+  "county_occurrences_target_zone": [
+    "Bandera",
+    "Real",
+    "Uvalde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Bandera County Lost Maples / Edwards Plateau documentation; Real County spring-fed fen and Roaring Springs documentation; Uvalde County wild-collection associate documentation from Frio River headwaters.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "tree generally 5–18 m",
+      "9–15 lanceolate to lance-ovate leaflets",
+      "leaflets commonly 1.5–3.4 cm wide",
+      "fruit about 2–3.5 cm",
+      "nut 1.8–2.7 cm, deeply longitudinally grooved but relatively smooth between grooves",
+      "streams, rocky canyon sides, springs and mesic canyon woodland"
+    ],
+    "comparison_training": "J. microcarpa has 17–25 much narrower leaflets and tiny fruit; J. nigra has 15–23 leaflets plus much larger 3.5–8 cm fruit and coarsely warty nut sculpture."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Juglans microcarpa",
+      "Juglans major",
+      "Juglans nigra"
+    ],
+    "key_distinctions": "J. microcarpa has 17–25 much narrower leaflets and tiny fruit; J. nigra has 15–23 leaflets plus much larger 3.5–8 cm fruit and coarsely warty nut sculpture."
+  },
+  "taxonomic_note": "Accepted by current Kew/POWO. Flora of North America warns that central Texas intermediates occur among local walnut species; use multiple characters on atypical material.",
+  "tags": [
+    "Juglandaceae",
+    "Juglans",
+    "Arizona Walnut / Arizona Black Walnut",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b035",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/juglans-major-provisional-face.jpg",
+      "role": "Foliage and developing nuts recognizable face",
+      "creator": "Whitney Cranshaw, Colorado State University",
+      "license": "CC BY 3.0 US",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_major_foliagenuts.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6195961598-17e3910f5.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "9–15 leaflets, leaflet undersides, bark and mature husked walnut fruit",
+      "creator": "CK2AZ",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6195961598",
+      "gbif_occurrence_id": "6195961598",
+      "source_determination": "Juglans major (Torr.) A.Heller",
+      "accepted_target": "Juglans major",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636920346/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

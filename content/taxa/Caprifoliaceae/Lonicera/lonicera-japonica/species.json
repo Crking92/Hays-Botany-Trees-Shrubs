@@ -1,0 +1,147 @@
+{
+  "id": "lonicera-japonica",
+  "entry_type": "species",
+  "family": "Caprifoliaceae",
+  "genus": "Lonicera",
+  "species": "japonica",
+  "scientific_name": "Lonicera japonica",
+  "authority": "Thunb.",
+  "common_name": "Japanese honeysuckle",
+  "synonyms": [],
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_SOURCE_POOL",
+    "source_pool": "Hays Botany Master Plant Pool",
+    "source_pool_row": 658,
+    "source_count": "see Master Plant Pool authoritative row",
+    "target_zone_status": "INTRODUCED_NON_NATIVE",
+    "learner_role": "INVASIVE_COMPARISON",
+    "confirmed_target_counties": [],
+    "include_in_native_only_metrics": false,
+    "range_basis": "Native to East Asia, introduced in Texas; NON_NATIVE/INVASIVE learner comparison; exclude entirely from Texas-native metrics."
+  },
+  "look_here_first": "FOLLOW ONE FLOWER STALK BACK TO ITS NODE. In Japanese honeysuckle, flowers are paired, two at a time, arising from LEAF AXILS along the shoot rather than a terminal whorl. The strongly two-lipped flowers start pale white and may age yellow. The mature berries turn dark/black (the others red).",
+  "morphology_keys": {
+    "habit": "Evergreen to semievergreen twining vine with opposite distinct elliptic to ovate short-petiolate leaves and usually hairy young stems; common escaped/invasive Texas vine.",
+    "leaf_arrangement": "Opposite simple leaves with entire to near-entire margins; petiole lengths and fused terminal bracts vary by species.",
+    "flower": "Paired axillary flowers with long strongly two-lipped white fading-yellow corollas ~45–57 mm and projecting reproductive parts; not terminal condensed whorls.",
+    "fruit": "Dark nearly black mature berries commonly ~6–8 mm, supporting Japanese honeysuckle compared with the two red-fruited native species.",
+    "diagnostic_sequence": [
+      "Follow the flower stalk to determine AXILLARY paired flowers versus TERMINAL whorls.",
+      "Check one lateral flower: short two-lipped (~17–20 mm) / long tubular (~38–48 mm) / long strongly two-lipped (~45–57 mm).",
+      "Examine whether fused terminal bracts occur; do NOT use fused bracts alone for native pair.",
+      "If berries are ripe, note red-or-orange vs black—but berries are supporting evidence."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Lonicera albiflora",
+      "Lonicera sempervirens"
+    ],
+    "key_distinctions": "Versus both natives, AXILLARY pairs rather than TERMINAL condensed whorls. White-yellow aging and fragrance support but do not prove ID. Dark ripe berries rather than red; small hairs on young petioles/stems. Keep explicit introduced label."
+  },
+  "tags": [
+    "honeysuckle",
+    "Caprifoliaceae",
+    "opposite simple leaves",
+    "vine / shrub",
+    "Hays learner",
+    "INVASIVE_COMPARISON"
+  ],
+  "images": [
+    {
+      "file": "images/01-japanese-honeysuckle-axillary-flowers.jpg",
+      "role": "Japanese honeysuckle flowers/leaves in one view: learn where flower pairs originate at leaf axils",
+      "creator": "NY State IPM Program at Cornell University",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_japonica_-_flowers,_leaves_(18870815578).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, retain credit/license",
+      "source_photo_id": "18870815578",
+      "source_observation_id": "",
+      "caption": "Cornell NY State IPM Program, CC BY 2.0; white/yellow flower aging is visible as field context. Inspect leaf axils for paired flowers; don't mistake a 2-flowered axillary cyme for a terminal cluster. Introduced invasive comparison, not a native.",
+      "diagnostic_roles": [
+        "axillary flowers",
+        "paired floral clusters",
+        "flower color aging",
+        "opposite simple leaves"
+      ]
+    },
+    {
+      "file": "images/02-japanese-honeysuckle-leaf.jpg",
+      "role": "Japanese honeysuckle leaf macro; compare petiole, simple leaf and opposite node",
+      "creator": "Qwert1234",
+      "license": "Public Domain (creator dedication)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_japonica,_Leaf.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes, retain credit/license",
+      "source_photo_id": "",
+      "source_observation_id": "",
+      "caption": "Qwert1234, Fukushima Japan 2009, public domain. Species leaf-view portrait; do not claim petiole gland hairs are resolved without a dedicated stem macro.",
+      "diagnostic_roles": [
+        "simple elliptic leaf",
+        "leaf and petiole"
+      ]
+    },
+    {
+      "file": "images/03-japanese-honeysuckle-black-fruit.jpg",
+      "role": "Japanese honeysuckle dark ripe berries; contrast with red-fruited native honeysuckles",
+      "creator": "Qwert1234",
+      "license": "Public Domain (creator dedication)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_japonica,_Fruit.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes, retain credit/license",
+      "source_photo_id": "",
+      "source_observation_id": "",
+      "caption": "Qwert1234, Fukushima Japan 2009, public domain. Ripe dark berries support Japanese honeysuckle against both locally native red-fruited comparisons; do not ID from berry shade without verifying flower and leaf structure.",
+      "diagnostic_roles": [
+        "blackish berries",
+        "fruit-bearing twig"
+      ]
+    }
+  ],
+  "diagnostic_photo_needs": [
+    {
+      "priority": "high",
+      "role": "full intact flowering shoot with axillary versus terminal origin arrow",
+      "status": "first photos provide face/flower evidence; measured insertion point macro remains final polish"
+    },
+    {
+      "priority": "high",
+      "role": "individual flower profile with ruler and clearly identified corolla tube and lips",
+      "status": "measured comparison across native pair remains final polish"
+    },
+    {
+      "priority": "high",
+      "role": "fused upper terminal leaf/bract pair on albiflora and sempervirens",
+      "status": "paired macro final polish; leaf fusion alone insufficient"
+    },
+    {
+      "priority": "medium",
+      "role": "mature berries with source-verified taxon and same-scale size",
+      "status": "first-pass black-berry photo acquired; matched native berries pending"
+    },
+    {
+      "priority": "medium",
+      "role": "whole reproductive plant and young hairy stem",
+      "status": "additional local verified field photos final polish"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_first_pass",
+    "image_count": 3,
+    "photo_files_present": 3,
+    "verified_at": "2026-10-13",
+    "note": "Exact-species licensed photographs installed and verified in canonical GitHub folder. Specialist same-scale corolla, terminal/axillary node arrows and fruit comparisons still pending final-polish. Preserve separate native-range labels."
+  },
+  "curation_status": {
+    "species_concept_reviewed": "2026-10-12",
+    "learner_approved": true,
+    "range_certification": "INTRODUCED_NON_NATIVE",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_install": "verified 2026-10-13",
+    "scientific_source": "reports/lonicera-scientific-review-2026-10-12.md",
+    "photo_install_verified": "2026-10-13"
+  }
+}

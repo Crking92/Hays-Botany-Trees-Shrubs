@@ -1,0 +1,161 @@
+{
+  "rank": "family",
+  "name": "Moraceae",
+  "common_name": "Mulberry / fig family",
+  "lineage_context": {
+    "order": "Rosales",
+    "batch": "Rosales",
+    "close_project_families": [
+      "Urticaceae",
+      "Cannabaceae",
+      "Ulmaceae",
+      "Rhamnaceae"
+    ],
+    "teaching_goal": "For the local Morus/Maclura pool, combine woody habit, milky latex, stipules, tiny unisexual flowers and multiple fruits; then split mulberry from Osage-orange by infructescence shape."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas family-first module across Morus and Maclura",
+    "note": "The four source taxa include native/local Morus and Maclura anchors plus introduced Morus alba as a comparison; species nativity remains a separate lane."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On a local woody plant, check for milky latex and stipules, then look for tiny unisexual flowers packed into heads/spikes and a multiple fruit made from an entire inflorescence rather than one ovary.",
+    "vegetative": "Local genera are deciduous trees or shrubs with alternate simple leaves and stipules. Leaves may be entire, toothed or lobed. Milky latex is a strong local clue.",
+    "reproductive": "Flowers are tiny and unisexual, with a reduced sepaloid perianth and no showy corolla. Flowers are crowded into heads or spikes; local fruiting structures become obvious multiple fruits.",
+    "fruit": "Individual one-seeded fruits are combined with fleshy perianth/receptacle tissue into a syncarp/multiple fruit—elongate in Morus and large globose in Maclura.",
+    "field_tip": "Woody + milky latex + tiny unisexual flower clusters + a whole-inflorescence fruit is the local Moraceae package."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_006",
+    "teaching_order": "woody habit + latex → stipule/node → tiny unisexual inflorescence → multiple fruit → Morus-vs-Maclura → Rosales comparison",
+    "intro": "Mulberries and Osage-orange look nothing alike at fruiting size, but they share the same family trick: lots of tiny flowers packed together, later forming one multiple fruit.",
+    "steps": [
+      {
+        "title": "1 · Confirm the woody latex clue",
+        "photo_role": "fresh twig/leaf petiole showing white latex",
+        "look_for": "Milky sap from a freshly damaged local Morus or Maclura twig/leaf.",
+        "why_it_matters": "Separates the local family quickly from Celtis and Ulmus lookalikes.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "2 · Find the stipule scar at the node",
+        "photo_role": "young node / stipule macro",
+        "look_for": "Alternate leaf with a stipule or stipule scar associated with the bud/node.",
+        "why_it_matters": "Adds a structural clue that is safer than leaf shape alone.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Shrink your attention to the flowers",
+        "photo_role": "staminate and pistillate inflorescences",
+        "look_for": "Tiny greenish unisexual flowers crowded into spikes or heads instead of one showy flower.",
+        "why_it_matters": "Explains how the later multiple fruit is assembled.",
+        "status": "rights_safe_reference_pending"
+      },
+      {
+        "title": "4 · Read the fruit as an inflorescence",
+        "photo_role": "fruit close-up + diagram of many flower units",
+        "look_for": "Many one-seeded flower units fused/crowded into a single fleshy multiple fruit.",
+        "why_it_matters": "This is the family confirmation that separates a mulberry or Osage-orange from a simple berry or drupe.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Morus door: elongated mulberry syncarp",
+        "photo_role": "Morus leaf + elongated fruit",
+        "look_for": "Toothed or lobed leaf and an elongated berry-like multiple fruit built from a cylindrical pistillate inflorescence.",
+        "why_it_matters": "Covers Texas mulberry, red mulberry and introduced white mulberry in one genus-level architecture.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Maclura door: giant globose syncarp",
+        "photo_role": "Maclura pomifera leaf/twig + Osage-orange fruit",
+        "look_for": "Woody thorny tree architecture and a large globose, wrinkled multiple fruit.",
+        "why_it_matters": "The fruit is unmistakable, but tying it back to family structure makes the lesson transferable.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Moraceae vs Urticaceae",
+        "rule": "Both have tiny often unisexual flowers and can share stipule/cystolith traits. Local Moraceae is woody, strongly latex-bearing and makes multiple fruits; local Urticaceae is herbaceous and ends in individual achenes."
+      },
+      {
+        "title": "Moraceae vs Cannabaceae",
+        "rule": "Celtis is woody and Rosales-adjacent but makes individual fleshy drupes and lacks the local Moraceae latex + multiple-fruit package."
+      },
+      {
+        "title": "Moraceae vs Ulmaceae",
+        "rule": "Ulmus makes dry samaras; local Moraceae makes fleshy multiple fruits assembled from many flowers."
+      }
+    ],
+    "caveat": "Moraceae is globally diverse and latex/fruit architecture vary. For this project, the Morus/Maclura combination is intentionally local rather than a universal key to every fig-family genus.",
+    "reconciliation_2026_10_14": {
+      "status": "canonical_text_reconciled_visual_annotation_pending",
+      "look_here_first": "On a woody plant, check for milky latex and stipules, then tiny unisexual flowers packed into heads/spikes; confirm a fleshy multiple fruit made from an entire inflorescence.",
+      "local_confusion": "Urticaceae; Cannabaceae; Ulmaceae; Rhamnaceae",
+      "photo_handoff": "Lock latex macro, node/stipule macro, flower-cluster-to-multiple-fruit sequence, Morus-vs-Maclura infructescence, and Moraceae-vs-Celtis-vs-Ulmus fruit card.\n2026-10-14 VERIFIED VISUAL CARD ROLES: Maclura pomifera 4 exact installed JPEGs inspected: (1) images/osage-orange-leaves.jpg—alternate glossy mostly entire simple leaves, H. Zell (Llez), CC BY-SA 3.0; arrows pending at one blade margin and petiole/node (stipules/thorn/latex NOT shown); (2) images/osage-orange-male-head.jpg—dense staminate clusters with visible dark anther tips, Gmihail, CC BY-SA 3.0 RS; arrow pending to one exposed anther; (3) images/osage-orange-female-head.jpg—small spherical pistillate head with conspicuous long threadlike styles, Gmihail, CC BY-SA 3.0 RS; arrow pending to styles/head; (4) images/osage-orange-fruit-surface.jpg—many tightly packed surface units on one green multiple fruit, JMK, CC BY-SA 4.0; arrow pending to one surface unit; DOES NOT prove internal seed structure. All are installed_verified; attribution/share-alike required; no arrow coordinates verified. Canonical paths: content/taxa/Moraceae/Maclura/maclura-pomifera/images/<filename>; exact source pages and credits remain in canonical Maclura species.json/genus.json. Caption sequence: 'Glossy entire leaves' → 'male pollen-bearing heads' → 'female head with threadlike styles' → 'one large fruit made from many flower units'. Next Diagnostic Photo Polish: actual axillary thorn+stipule node, non-destructive existing latex break, Morus multiple fruit beside Maclura, Celtis single drupe vs Morus/Maclura multiple fruit; avoid using cultivated photo as Hays nativity evidence.",
+      "photo_verification_note": "Only images explicitly identified as inspected in the existing audit are verified. Proposed arrow targets remain annotation_pending; no new image files installed."
+    }
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Morus",
+        "fast_cue": "toothed/lobed leaves + cylindrical flower clusters → elongated mulberry multiple fruit",
+        "role": "primary mulberry door"
+      },
+      {
+        "genus": "Maclura",
+        "fast_cue": "woody thorny tree + very large globose wrinkled multiple fruit",
+        "role": "Osage-orange door"
+      }
+    ]
+  },
+  "teaching_cautions": [
+    "Morus alba is an introduced comparison in the source pool; do not let its abundance turn it into a native anchor.",
+    "Do not call a mulberry or Osage-orange fruit a single berry; it is a multiple fruit assembled from many flowers.",
+    "Do not use leaf lobing by itself to separate Morus species."
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Morus/Maclura milky latex",
+      "annotation_goal": "show latex emerging from petiole/twig break"
+    },
+    {
+      "priority": 1,
+      "structure": "tiny unisexual inflorescence → multiple fruit",
+      "annotation_goal": "connect individual flowers to fruit units"
+    },
+    {
+      "priority": 1,
+      "structure": "Morus vs Maclura infructescence",
+      "annotation_goal": "elongated vs large globose multiple fruit"
+    },
+    {
+      "priority": 2,
+      "structure": "stipule / stipule scar at node",
+      "annotation_goal": "label stipule relation to leaf and bud"
+    },
+    {
+      "priority": 2,
+      "structure": "Moraceae vs Celtis vs Ulmus fruit card",
+      "annotation_goal": "multiple fruit vs drupe vs samara"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Moraceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10583"
+    },
+    {
+      "source": "Plants of the World Online — Moraceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000043-2/general-information"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-006",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_local_latex_and_multiple_fruit_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

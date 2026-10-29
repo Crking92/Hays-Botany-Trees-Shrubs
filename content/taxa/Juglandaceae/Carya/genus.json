@@ -1,0 +1,131 @@
+{
+  "rank": "genus",
+  "name": "Carya",
+  "family": "Juglandaceae",
+  "common_name": "hickories / pecan",
+  "project_scope": {
+    "selection_mode": "Genus comparison lesson from live Master Plant Pool and existing Juglandaceae family module",
+    "included_source_pool_taxa": ["Carya aquatica", "Carya illinoinensis"],
+    "admission_note": "Both taxa are present in the approved Master Plant Pool. This lesson does not install, promote, or change range status for either species."
+  },
+  "shared_genus_characters": {
+    "look_here_first": "Start with the alternate pinnately compound leaf, then confirm a husked nut. For species ID, move quickly to the mature husk + nut rather than relying on leaflet count.",
+    "vegetative": "Woody Juglandaceae with alternate odd-pinnately compound leaves and aromatic/resinous foliage; male flowers occur in catkins.",
+    "reproductive": "Unisexual flowers; mature fruit is a nut enclosed by a husk that splits along sutures.",
+    "genus_confirmation": "Compound leaf + catkins + a sutured husk around a hard nut places the plant in the local hickory/pecan doorway rather than an oak or walnut look-alike."
+  },
+  "species_comparison_matrix": [
+    {
+      "taxon": "Carya aquatica",
+      "common_name": "water hickory",
+      "look_first": "Mature nut shape and husk thickness",
+      "fruit": "Nut characteristically compressed and 2-angled, with a rough/warty surface; husk comparatively thin.",
+      "leaf": "Usually fewer leaflets than pecan, but counts overlap and should remain supporting evidence only.",
+      "best_separator": "A mature compressed, angled, rough nut inside a thin husk is the strongest project teaching character.",
+      "caution": "Do not identify water hickory from leaflet number alone."
+    },
+    {
+      "taxon": "Carya illinoinensis",
+      "common_name": "pecan",
+      "look_first": "Mature nut shape and husk thickness",
+      "fruit": "Nut uncompressed and not 2-angled, comparatively smooth and elongate; husk distinctly thicker than in water hickory.",
+      "leaf": "Often carries more leaflets than water hickory, but the ranges overlap.",
+      "best_separator": "Use the elongate smooth uncompressed nut plus the thick husk; leaflet number is secondary.",
+      "caution": "Ornamental/managed pecans may be encountered outside obviously natural settings, so habitat is not a diagnostic character."
+    }
+  ],
+  "decision_sequence": [
+    "Confirm Juglandaceae/Carya architecture: alternate pinnately compound leaves + catkins + husked nut.",
+    "Photograph or collect a naturally fallen mature fruit when available; do not force the species ID from foliage alone.",
+    "Compressed, 2-angled, rough/warty nut + thin husk → C. aquatica door.",
+    "Uncompressed, unangled, smoother elongate nut + thick husk → C. illinoinensis door.",
+    "Use leaflet count only as supporting evidence.",
+    "If fruit characters are intermediate, do not force the ID; C. aquatica and C. illinoinensis are documented to hybridize."
+  ],
+  "overlap_and_cautions": [
+    "Leaflet counts overlap and are not the primary separator.",
+    "Both species can occur in wet bottomland/riparian settings, so habitat alone is unsafe.",
+    "Carya aquatica and C. illinoinensis can hybridize; intermediate fruit characters deserve a Genus Diagnostic Review handoff rather than a forced species label.",
+    "Flower color and general tree silhouette are low-value characters for this comparison."
+  ],
+  "realistic_lookalikes": [
+    {
+      "lookalike": "Juglans spp. (walnuts)",
+      "separate_by": "Stay with fruit architecture: Carya husks split along sutures around a hickory/pecan nut; use the existing Juglandaceae family lesson for walnut twig/pith and fruit context."
+    },
+    {
+      "lookalike": "other pinnately compound trees",
+      "separate_by": "Require reproductive confirmation with catkins and the husked nut rather than identifying from compound leaves alone."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "same-scale mature fruit comparison",
+      "target": "C. aquatica vs C. illinoinensis",
+      "labels": ["husk thickness", "nut compression", "2 angles", "nut surface", "elongate pecan form"],
+      "purpose": "Teach the strongest species separator directly."
+    },
+    {
+      "priority": 1,
+      "role": "opened husk + extracted nut side-by-side",
+      "target": "both species",
+      "labels": ["husk suture", "thin husk", "thick husk", "compressed nut", "uncompressed nut"],
+      "purpose": "Make husk thickness and nut geometry visible in one frame."
+    },
+    {
+      "priority": 2,
+      "role": "whole compound leaf, same scale",
+      "target": "both species",
+      "labels": ["rachis", "terminal leaflet", "lateral leaflets"],
+      "purpose": "Teach leaflet-count tendency while explicitly showing why it is secondary."
+    },
+    {
+      "priority": 2,
+      "role": "twig + male catkin context",
+      "target": "representative Carya",
+      "labels": ["catkin", "compound leaf attachment", "twig"],
+      "purpose": "Genus/family confirmation rather than species separation."
+    },
+    {
+      "priority": 2,
+      "role": "intermediate-fruit caution card",
+      "target": "suspected C. aquatica × C. illinoinensis material if project media becomes available",
+      "labels": ["intermediate husk", "intermediate nut geometry", "do not force ID"],
+      "purpose": "Teach the documented hybridization caution."
+    }
+  ],
+  "media_routing": {
+    "existing_project_media": "Reuse any exact Carya fruit/nut or leaf media already present in project/user material when it clearly shows the diagnostic role.",
+    "acquisition_owner": "Diagnostic Photo Polish",
+    "instruction": "Highest-value acquisition is a same-scale mature fruit/nut comparison. Do not prioritize generic whole-tree glamour images over fruit geometry."
+  },
+  "diagnostic_review_handoffs": [
+    "If a specimen has intermediate C. aquatica/C. illinoinensis fruit characters, route the exact observation to Taxonomy + Diagnostic Review because hybridization is documented.",
+    "Species taxonomy/range certification and canonical installation remain outside this genus lesson lane."
+  ],
+  "sources": [
+    {
+      "source": "Existing project Juglandaceae family module",
+      "path": "content/taxa/Juglandaceae/family.json",
+      "supports": "family recognition architecture and walnut look-alike context"
+    },
+    {
+      "source": "Flora of North America — Carya aquatica",
+      "url": "https://efloras.org/",
+      "supports": "water-hickory morphology, fruit characters, and hybridization context"
+    },
+    {
+      "source": "Flora of North America — Carya illinoinensis",
+      "url": "https://efloras.org/",
+      "supports": "pecan morphology and fruit characters"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-comparison-builder",
+    "last_reviewed": "2026-10-07",
+    "structural_lesson": "complete",
+    "visual_lock": "diagnostic fruit comparison pending",
+    "species_installation": "independent"
+  }
+}

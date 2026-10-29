@@ -1,0 +1,253 @@
+{
+  "rank": "family",
+  "name": "Rhamnaceae",
+  "common_name": "Buckthorn family",
+  "lineage_context": {
+    "order": "Rosales",
+    "batch": "Rosales",
+    "close_project_families": [
+      "Rosaceae",
+      "Ulmaceae",
+      "Cannabaceae",
+      "Moraceae",
+      "Urticaceae"
+    ],
+    "teaching_goal": "Use the small hypanthium/disc flower with stamens opposite the petals as the family-level door, then split local genera by armature, venation and fruit type."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas family-first module across six source-pool genera / five current accepted genus concepts",
+    "note": "The raw pool carries Ziziphus obtusifolia and Condaliopsis obtusifolia as separate source concepts. Current Kew treats Z. obtusifolia as a synonym of Condaliopsis obtusifolia, so the legacy name is retained only as provenance."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Do not start with thorns. Start with a small 4–5-part flower and look for a conspicuous nectar disc/hypanthium with the stamens positioned opposite the petals. Then use fruit architecture—drupe versus capsule—and stipules/armature to enter the genus.",
+    "vegetative": "Mostly shrubs or small trees in the local pool. Leaves are simple, usually alternate, with stipules; stipules may become spines in some genera. Venation may be pinnate or strongly 3-veined from near the base.",
+    "reproductive": "Flowers are usually small and radial, commonly 4–5-merous. Petals may be tiny or absent. A nectar disc is usually conspicuous, and the stamens are antipetalous—opposite the petals rather than alternating with them.",
+    "fruit": "Highly useful but variable: local genera include dry capsules and fleshy drupes. Ovary position also varies across the family, so fruit + genus architecture is safer than an ovary-position absolute.",
+    "field_tip": "The unusual clue is stamens opposite the petals. Pair that with a disc/hypanthium and a one-seed-per-locule fruit plan; then decide capsule or drupe."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_006",
+    "teaching_order": "small disc flower → stamens opposite petals → stipule/thorn + venation → capsule-vs-drupe → genus doors → Rosales comparison",
+    "intro": "Buckthorns are easy to miss because the flowers are tiny. The flower geometry is the giveaway: a conspicuous disc and stamens sitting directly in front of the petals.",
+    "steps": [
+      {
+        "title": "1 · Find the floral disc",
+        "photo_role": "small flower face + side macro",
+        "look_for": "Tiny 4–5-part flower with a broad nectar disc filling or lining the floral cup.",
+        "why_it_matters": "The disc is a repeatable Rhamnaceae clue when the shrub itself looks generic.",
+        "status": "rights_safe_reference_pending"
+      },
+      {
+        "title": "2 · Check where the stamens sit",
+        "photo_role": "flower-face macro / labeled diagram",
+        "look_for": "Stamens opposite the petals, often tucked against small hooded petals.",
+        "why_it_matters": "Antipetalous stamens are one of the best family-level confirmation characters.",
+        "status": "macro_or_diagram_pending"
+      },
+      {
+        "title": "3 · Read the node and basal veins",
+        "photo_role": "leaf base + stipule/thorn + venation",
+        "look_for": "Simple leaf, stipule or stipular spine when present, and either pinnate or strong basal 3-vein architecture.",
+        "why_it_matters": "This routes the plant toward Colubrina, thorny condalia/lotebush doors, Frangula or Ceanothus.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "4 · Split capsule from drupe",
+        "photo_role": "dry capsule beside fleshy drupe",
+        "look_for": "Colubrina/Ceanothus-type dry fruits versus fleshy one- or several-stoned drupes in Condalia, Condaliopsis and Frangula.",
+        "why_it_matters": "Fruit is the fastest local genus sorter once family is known.",
+        "status": "comparison_card_pending"
+      },
+      {
+        "title": "5 · Colubrina door: 3-veined + capsule",
+        "photo_role": "Colubrina texensis leaf + mature capsule",
+        "look_for": "Unarmed shrub, leaves strongly 3-veined from near the base, and a dry capsular fruit.",
+        "why_it_matters": "Separates Texas snakewood from the thorny drupe-bearing local doors.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Condalia / Condaliopsis door: thorny + drupe",
+        "photo_role": "thorn/short-shoot + flower + drupe",
+        "look_for": "Thorny shrub architecture and small fleshy drupes; use accepted genus/taxonomy rather than old lotebush names alone.",
+        "why_it_matters": "These are likely field confusions in dry Central Texas shrubland.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "7 · Frangula and Ceanothus exceptions",
+        "photo_role": "Frangula drupe + Ceanothus flower/fruit",
+        "look_for": "Frangula is unarmed and drupe-bearing; Ceanothus tends toward showier clustered flowers and a dry lobed capsule.",
+        "why_it_matters": "Prevents 'thorny buckthorn' from becoming a false family rule.",
+        "status": "reference_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Rhamnaceae vs Rosaceae",
+        "rule": "Both can be woody with 5-part flowers, but Rhamnaceae commonly has a strong nectar disc and stamens opposite the petals; Rosaceae usually has stamens alternating with petals and often many stamens."
+      },
+      {
+        "title": "Rhamnaceae vs Cannabaceae/Ulmaceae",
+        "rule": "Celtis and Ulmus are recognized more readily by leaf venation plus drupe/samara. Rhamnaceae confirmation comes from the disc flower with antipetalous stamens and family-specific capsule/drupe doors."
+      },
+      {
+        "title": "Rhamnaceae vs Moraceae",
+        "rule": "Local Moraceae has milky latex, minute unisexual inflorescences and multiple fruits; Rhamnaceae lacks the mulberry/Osage-orange multiple-fruit plan and uses the small disc flower."
+      }
+    ],
+    "caveat": "Rhamnaceae varies in leaf arrangement, ovary position, petals and fruit type. Never teach thorns, alternate leaves or drupes as universal; the disc + antipetalous-stamen clue is the better family anchor.",
+    "anatomy_examples": [
+      {
+        "species": "Condalia hookeri",
+        "part": "flower center",
+        "plain_label": "Stamens face petals around nectar disc",
+        "botanical_label": "antipetalous stamens; nectar disc; hypanthium",
+        "photo_role": "Exact-species front and oblique flower macro; matched Schaefferia cuneifolia reproductive flower at same scale",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "look_for": "Magnify a correctly identified flower from the face and side. Locate the nectar disc and floral cup, then check stamen position only where individual petals are actually visible. Do not infer opposite stamens from petal-less flowers.",
+        "caption": "Inspect the tiny flower's disc and cup; only call stamens antipetalous when the petals are visible."
+      },
+      {
+        "species": "Colubrina texensis",
+        "part": "leaf and mature fruit",
+        "plain_label": "Three strong basal veins and dry splitting fruit",
+        "botanical_label": "triplinerved lamina; dehiscent capsule",
+        "photo_role": "Exact-species leaf underside and opened capsule; matched Celtis leaf and drupe",
+        "photo_status": "needs_photo",
+        "annotation_status": "annotation_pending",
+        "look_for": "Trace the three major veins from near the leaf base on a correctly identified Texas snakewood, then compare an intact and opened ripe dry capsule. A Celtis leaf can share the vein pattern; compare its fleshy drupe.",
+        "caption": "Three basal veins suggest Colubrina, but the dry capsule is the useful tie-breaker against a similarly veined Celtis."
+      }
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "source_genus_count": 6,
+    "current_teaching_genus_count": 5,
+    "genera": [
+      {
+        "genus": "Colubrina",
+        "fast_cue": "strong basal 3-vein leaf + unarmed shrub + dry capsule",
+        "role": "primary local capsule door"
+      },
+      {
+        "genus": "Condalia",
+        "fast_cue": "thorny/short-shoot shrub + small flowers + one-stoned drupe",
+        "role": "primary local drupe door"
+      },
+      {
+        "genus": "Condaliopsis",
+        "source_alias": "Ziziphus obtusifolia source row",
+        "fast_cue": "thorny lotebush architecture + fleshy drupe",
+        "role": "current-name/taxonomy door"
+      },
+      {
+        "genus": "Frangula",
+        "fast_cue": "unarmed shrub/tree + pinnate venation + multi-stoned drupe",
+        "role": "unarmed drupe door"
+      },
+      {
+        "genus": "Ceanothus",
+        "fast_cue": "clustered, relatively showy flowers + dry lobed capsule",
+        "role": "flower/fruit exception"
+      },
+      {
+        "genus": "Ziziphus",
+        "fast_cue": "source-only legacy placement for Ziziphus obtusifolia",
+        "role": "taxonomy provenance; not an independent current project concept"
+      }
+    ]
+  },
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Ziziphus obtusifolia",
+      "current_name": "Condaliopsis obtusifolia",
+      "note": "Current Kew accepts Condaliopsis obtusifolia; do not double-count the source Ziziphus row."
+    },
+    {
+      "source_name": "Condaliopsis obtusifolia",
+      "current_name": "Condaliopsis obtusifolia",
+      "note": "Accepted current concept in the project pool."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "antipetalous stamens + nectar disc",
+      "annotation_goal": "label petal, opposite stamen and disc"
+    },
+    {
+      "priority": 1,
+      "structure": "Colubrina 3-veined leaf + capsule",
+      "annotation_goal": "trace basal veins and show capsule opening"
+    },
+    {
+      "priority": 1,
+      "structure": "Condalia/Condaliopsis thorn + drupe",
+      "annotation_goal": "show stipular/short-shoot armature and fleshy fruit"
+    },
+    {
+      "priority": 1,
+      "structure": "Ziziphus obtusifolia → Condaliopsis obtusifolia taxonomy card",
+      "annotation_goal": "source name → current accepted name"
+    },
+    {
+      "priority": 2,
+      "structure": "Frangula vs Ceanothus fruit",
+      "annotation_goal": "drupe versus dry lobed capsule"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Rhamnaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10763"
+    },
+    {
+      "source": "Plants of the World Online — Rhamnaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:50033316-1/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Condaliopsis obtusifolia",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:717172-1"
+    },
+    {
+      "source": "Plants of the World Online — Condalia hookeri",
+      "url": "https://powo.science.kew.org/taxon/295989-2"
+    },
+    {
+      "source": "Plants of the World Online — Colubrina texensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:717125-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-006",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_taxonomy_card_ready_local_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  },
+  "family_confusion_polish": {
+    "reviewed": "2026-10-12",
+    "status": "text_ready_photo_locks_pending",
+    "look_here_first": "Find the nectar disc in a small flower and check for stamens opposite petals; then confirm fruit type. Thorns, basal three-vein leaves and drupes alone are not proof.",
+    "separators": [
+      "Rosaceae: compare petal-to-stamen placement, stamen number, hypanthium and fruit.",
+      "Celtis/Cannabaceae: compare a Colubrina dry capsule with a Celtis one-stoned drupe; basal leaf veins overlap.",
+      "Ulmaceae: contrast flat winged Ulmus samaras with Rhamnaceae drupes or capsules.",
+      "Sapindaceae: check opposite/compound leaf nodes and paired samaras rather than a generic woody habit."
+    ],
+    "genus_doors": [
+      "Colubrina: basal-three-veined leaves plus dry capsule.",
+      "Condalia/Condaliopsis: thorny short shoots plus drupes; confirm current key; Ziziphus source name is alias only.",
+      "Frangula: unarmed and multi-stoned drupe.",
+      "Ceanothus: clustered flowers and dry lobed capsule."
+    ],
+    "visual_locks": [
+      "Labeled antipetalous stamen and nectar disc flower macro versus Rosaceae flower center.",
+      "Colubrina capsule versus Celtis drupe cross-section with matching basal leaf veins.",
+      "Condalia/Condaliopsis twig thorn and fruit comparisons.",
+      "Frangula drupe stones versus Ceanothus dry capsule.",
+      "Ulmus samara and Sapindaceae opposite/compound leaf negative comparisons."
+    ],
+    "media": "Use existing project/Calvin/Joey diagnostic references first; image acquisition belongs to Diagnostic Photo Polish.",
+    "taxonomy": "Preserve accepted names and existing range labels."
+  }
+}

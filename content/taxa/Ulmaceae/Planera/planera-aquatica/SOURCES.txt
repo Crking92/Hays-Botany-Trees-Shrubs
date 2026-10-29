@@ -1,0 +1,9 @@
+Phase3 Master Plant Pool preflight candidate, source row(s) 895
+Accepted scientific-name reference https://powo.science.kew.org/results?q=Planera%20aquatica
+Exact Commons species photograph https://commons.wikimedia.org/wiki/File:Planera_aquatica%2C_Water_Elm%2C_Leaves.jpg
+Download URL https://commons.wikimedia.org/wiki/Special:Redirect/file/Planera%20aquatica%2C%20Water%20Elm%2C%20Leaves.jpg
+Photographer Anonkiwi
+Individual CC/public-domain license CC BY-SA 4.0
+Visible photo content Provisional photographed leaves of water elm; distinctive spiny fruits and bark not included
+Taxonomic/photo caution Louisiana specimen; no BONAP target-zone nativity determination from this image.
+No inferred county nativity. Visual diagnostic review not certified yet.

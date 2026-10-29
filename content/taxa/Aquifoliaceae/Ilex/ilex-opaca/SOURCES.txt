@@ -1,0 +1,12 @@
+PHOTO FAST-FILL 020 — Ilex opaca
+Date: 2026-10-05
+Temporary one-photo learner coverage from exact-species compatible media.
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+## Media-only gallery backfill 027 (2026-10-13)
+Preserve prior 1-photo American holly gallery and scientific classification as nursery/encounter look-alike, NOT confirmed target-zone native. New licensed exact photos:
+- Dcrjsr, CC BY 3.0 (leafy flowering branch): https://commons.wikimedia.org/wiki/File:Ilex_opaca_American_holly_flowers.jpg
+- USDA Natural Resources Conservation Service, public domain (green fruit & large spiny foliage): https://commons.wikimedia.org/wiki/File:Ilex_opaca_USDA.jpg
+- Alouis21, CC BY-SA 3.0 (high-value SHARP spine leaf margin): https://commons.wikimedia.org/wiki/File:B50_Ilex_opaca_(American_Holly)_Close-up.jpg
+These are field/photo reference images, not local native-range evidence. No verified Joey Santore American-holly frame exists in canonical project records at the time of this backfill; do not invent a Joey video frame for this taxon. All provenance preserved in image-sources.csv.

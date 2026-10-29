@@ -1,0 +1,9 @@
+{
+  "family": "Araliaceae",
+  "version": "1.0",
+  "updated": "2026-10-07",
+  "look_first": "For project Hydrocotyle, start with creeping node-rooting stems and centrally peltate leaves, then inflorescence architecture and flattened ribbed fruit.",
+  "confusable": [{"family":"Apiaceae","tie_breaker":"This is partly a circumscription trap: older floras often placed Hydrocotyle in Apiaceae. Current project taxonomy follows Araliaceae. Recognize the Hydrocotyle morphology package first, then apply current family placement."}],
+  "exceptions": ["Do not teach Araliaceae as woody-only; the project representatives are creeping wetland herbs."],
+  "visuals": ["peltate leaf underside", "rooting node", "H. umbellata simple or proliferous umbel vs H. verticillata stacked verticils", "flattened ribbed fruit", "older Apiaceae to current Araliaceae taxonomy card"]
+}

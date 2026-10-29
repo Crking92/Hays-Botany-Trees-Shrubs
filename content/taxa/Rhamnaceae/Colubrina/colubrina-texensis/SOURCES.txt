@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Colubrina%20texensis
+Source research-grade observation: https://www.inaturalist.org/observations/276039205
+Photo: https://www.inaturalist.org/photos/495816962
+Attribution: (c) Douglas Goldman, some rights reserved (CC BY-SA)
+License: CC BY-SA; Attribution; ShareAlike requirements
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

@@ -1,0 +1,147 @@
+{
+  "id": "lonicera-albiflora",
+  "entry_type": "species",
+  "family": "Caprifoliaceae",
+  "genus": "Lonicera",
+  "species": "albiflora",
+  "scientific_name": "Lonicera albiflora",
+  "authority": "Torr. & A.Gray",
+  "common_name": "Western white honeysuckle / Texas honeysuckle",
+  "synonyms": [
+    "Lonicera dumosa (historical synonym; concept review if encountered)"
+  ],
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_SOURCE_POOL",
+    "source_pool": "Hays Botany Master Plant Pool",
+    "source_pool_row": 657,
+    "source_count": "see Master Plant Pool authoritative row",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "NATIVE_RANGE_UNRESOLVED",
+    "confirmed_target_counties": [],
+    "include_in_native_only_metrics": false,
+    "range_basis": "Native to Texas at state level under Kew/POWO and regional floras. BONAP/NAPA 3-target-county threshold not certified in this pass; no native-only county tally."
+  },
+  "look_here_first": "Usually an arching shrub or scrambling vine. Start at a TERMINAL flowering shoot: pale 2-lipped relatively short flowers, usually 17–20 mm, with connate/perfoliate terminal floral bracts. A leaf pair fused beneath the inflorescence does NOT prove coral honeysuckle; both share it.",
+  "morphology_keys": {
+    "habit": "Shrubby, arching or scrambling growth; leafy stems opposite, simple, usually short-petiolate; upper fused terminal bracts possible.",
+    "leaf_arrangement": "Opposite simple leaves with entire to near-entire margins; petiole lengths and fused terminal bracts vary by species.",
+    "flower": "Cream or white short clearly two-lipped corollas usually about 17–19.5 mm long in condensed terminal inflorescences; petals fused into corolla; calyx sits above inferior ovary.",
+    "fruit": "Red-orange to scarlet berries about 6.5–10 mm; fruit color does not separate from coral honeysuckle.",
+    "diagnostic_sequence": [
+      "Follow the flower stalk to determine AXILLARY paired flowers versus TERMINAL whorls.",
+      "Check one lateral flower: short two-lipped (~17–20 mm) / long tubular (~38–48 mm) / long strongly two-lipped (~45–57 mm).",
+      "Examine whether fused terminal bracts occur; do NOT use fused bracts alone for native pair.",
+      "If berries are ripe, note red-or-orange vs black—but berries are supporting evidence."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Lonicera sempervirens",
+      "Lonicera japonica"
+    ],
+    "key_distinctions": "Versus L. sempervirens, short strongly two-lipped cream flowers (~17–20 mm) versus the long (~38–48 mm) mostly tubular coral trumpet with short lobes. Both can show a fused upper pair. Versus L. japonica, albiflora flowering clusters are terminal and berries red, while japonica has axillary flower pairs and black berries."
+  },
+  "tags": [
+    "honeysuckle",
+    "Caprifoliaceae",
+    "opposite simple leaves",
+    "vine / shrub",
+    "Hays learner",
+    "NATIVE_RANGE_UNRESOLVED"
+  ],
+  "images": [
+    {
+      "file": "images/01-texas-honeysuckle-live.jpg",
+      "role": "First exact-species field recognition image (white honeysuckle); use to learn field appearance only until flowering structure inspected",
+      "creator": "Patrick Alexander (aspidoscelis)",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_albiflora_-_Flickr_-_aspidoscelis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution or CC0",
+      "caption": "Patrick Alexander, CC0 1.0. Lonicera albiflora; one of two exact species Commons photographs; no assertion that a measured corolla, ripe berry, or Texas voucher is visible.",
+      "diagnostic_roles": [
+        "recognizable plant",
+        "species concept photo"
+      ],
+      "source_photo_id": "",
+      "source_observation_id": ""
+    },
+    {
+      "file": "images/02-albiflora-reference.jpg",
+      "role": "Second exact-species reference view for Western white honeysuckle; compare foliage/flower structure when visible",
+      "creator": "Patrick Alexander (aspidoscelis)",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_albiflora_-_Flickr_-_aspidoscelis_(1).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution or CC0",
+      "caption": "Lonicera albiflora, Upper Ash Spring, Doña Ana County, New Mexico, 2010-09-08, Patrick Alexander CC0. Not a Hays County voucher. Structural inspection should focus on opposite leaves and a terminal flowering shoot where visible; a measurement cannot be established from this image.",
+      "diagnostic_roles": [
+        "exact-species field reference",
+        "opposite leaf context where visible"
+      ],
+      "source_photo_id": "49950310781",
+      "source_observation_id": ""
+    },
+    {
+      "file": "images/03-texas-origin-flowering-branch.jpg",
+      "role": "Texas-origin flowering honeysuckle branch; teaching regional white-flower form and leaf context",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_albiflora.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution/share-alike as required",
+      "caption": "Lonicera albiflora flowering branch photographed in Denton County, Texas, May 2004, by sonnia hill (CC BY 2.0). Use the pale short flowers, opposite leaves and overall cluster as the key teaching context. Denton is NOT one of the project's counted native counties. No graduated ruler is visible; do not assert an actual 17–20 mm measurement from the photo.",
+      "diagnostic_roles": [
+        "pale short-flowered inflorescence",
+        "opposite leaf context",
+        "Texas-origin field recognition"
+      ],
+      "source_photo_id": "50050159888"
+    }
+  ],
+  "diagnostic_photo_needs": [
+    {
+      "priority": "high",
+      "role": "full intact flowering shoot with axillary versus terminal origin arrow",
+      "status": "first photos provide face/flower evidence; measured insertion point macro remains final polish"
+    },
+    {
+      "priority": "high",
+      "role": "individual flower profile with ruler and clearly identified corolla tube and lips",
+      "status": "measured comparison across native pair remains final polish"
+    },
+    {
+      "priority": "high",
+      "role": "fused upper terminal leaf/bract pair on albiflora and sempervirens",
+      "status": "paired macro final polish; leaf fusion alone insufficient"
+    },
+    {
+      "priority": "medium",
+      "role": "mature berries with source-verified taxon and same-scale size",
+      "status": "final polish"
+    },
+    {
+      "priority": "medium",
+      "role": "whole reproductive plant and young hairy stem",
+      "status": "additional local verified field photos final polish"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "diagnostic_photo_polish",
+    "image_count": 3,
+    "photo_files_present": 3,
+    "verified_at": "2026-10-13",
+    "note": "All existing and new licensed exact-species photographs physically downloaded and confirmed. Specialized measured same-scale corolla comparisons, perfoliate bract arrows and flower-insertion macros remain for final polish."
+  },
+  "curation_status": {
+    "species_concept_reviewed": "2026-10-12",
+    "learner_approved": true,
+    "range_certification": "UNRESOLVED",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_install": "verified after successful curation job 38487277303",
+    "scientific_source": "reports/lonicera-scientific-review-2026-10-12.md",
+    "photo_install_verified": "2026-10-13"
+  }
+}

@@ -1,0 +1,9 @@
+Source pool Phase3 accepted/preflight candidate; source row(s) 675.
+Taxonomy working-name reference https://powo.science.kew.org/results?q=Magnolia%20grandiflora
+Exact source photograph https://commons.wikimedia.org/wiki/File:Magnolia_grandiflora_132792796.jpg
+Direct photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Magnolia%20grandiflora%20132792796.jpg
+Original photo creator Alex Abair
+Photo file-level license CC BY 4.0
+Provisional photo role Provisional dissected flower bud view; intact tree habit, evergreen leaves and aggregate fruit still need photos.
+Caution Florida image is a dissected Magnolia grandiflora bud; no target-county native status inferred; cultivated comparisons permitted.
+No county nativity inference. Photo shows nonlocal or cultivated material when noted; do not claim locally native provenance.

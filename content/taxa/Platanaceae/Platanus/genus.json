@@ -1,0 +1,27 @@
+{
+  "rank": "genus",
+  "family": "Platanaceae",
+  "name": "Platanus",
+  "common_group": "Sycamores / plane trees",
+  "project_scope": {
+    "selection_mode": "B056 singleton genus anchor",
+    "species_ids": [
+      "platanus-occidentalis"
+    ],
+    "species_count": 1
+  },
+  "study_strategy": {
+    "priority": [
+      "exfoliating bark",
+      "leaf size and lobing",
+      "petiole-enclosed bud",
+      "stipular scar",
+      "spherical fruiting heads"
+    ],
+    "warning": "Bark is highly distinctive on mature trees, but young trees are easier to confirm with leaves, bud position, and fruiting heads."
+  },
+  "curation_status": {
+    "version": "1.0-b056",
+    "last_reviewed": "2026-10-03"
+  }
+}

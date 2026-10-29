@@ -1,0 +1,115 @@
+{
+  "id": "carya-aquatica",
+  "family": "Juglandaceae",
+  "genus": "Carya",
+  "species": "aquatica",
+  "scientific_name": "Carya aquatica",
+  "common_name": "Water hickory",
+  "look_here_first": "Deciduous tree with pinnate alternate leaves and elongated narrow toothed leaflets; inspect small hickory nuts, husk seams and twigs.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "manual_library_install_041": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/47778-2",
+  "images": [
+    {
+      "file": "images/inat-169620436.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) abelkinser, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/169620436",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review041-6bf3834c7d629cb.jpg",
+      "role": "Compound hickory foliage with long narrow leaflets in growing crown; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Mimi Posey",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6413949830",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648427065/original.jpg",
+      "source_determination": "Carya aquatica",
+      "source_observation_id": "6413949830",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/carya-aquatica/gbif-d892e9680a45f6.jpg",
+      "archive_image_sha256": "0808250a203c98060467ea7b5c6cf114a1a19e3fcd3a3b944b7276cabfd069a7",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review041-6cb3c24e259e30a.jpg",
+      "role": "Narrow leaflet arrangement with hanging yellowish reproductive catkins; full exact ID provisional; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Mimi Posey",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6414070733",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653005736/original.jpg",
+      "source_determination": "Carya aquatica",
+      "source_observation_id": "6414070733",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/carya-aquatica/gbif-32d03a63f07634.jpg",
+      "archive_image_sha256": "0acffb8b49f09c736acc36fdc603dfc002d4286df196df4ce9130ee45684ae58",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review041-1ce843e763e28e7.jpg",
+      "role": "Rough-surfaced husked water hickory fruit held in hand for scale; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "lanechaffin",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5920074313",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/489873499/original.jpg",
+      "source_determination": "Carya aquatica",
+      "source_observation_id": "5920074313",
+      "library_release_tag": "hays-photo-library-mass-38984897722",
+      "library_archive_file": "staged_images/carya-aquatica/gbif-2ff9670d4229b2.jpg",
+      "archive_image_sha256": "1beb0373802bcdd7a89f5d2a9f5a77fc1d8e710c7288761c5074460e45689bc8",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

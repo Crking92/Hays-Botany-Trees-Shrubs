@@ -1,0 +1,11 @@
+Master Plant Pool row 12; approved installer preflight mass-01.
+POWO accepted species: https://powo.science.kew.org/taxon/927504-1
+Exact photo: A. Barra, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Acer_palmatum.jpg
+Do not assign cultivar/subspecies from image. Native metrics excluded.
+
+LIBRARY-FIRST IMAGE SELECTION 015 2026-10-16T16:51:06.682166+00:00
+Acer palmatum
+Creator: Yushin Hozumi; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5109964378
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/acer-palmatum/plantnet-via-gbif-187dafda44c26d.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

@@ -1,0 +1,18 @@
+Acer grandidentatum — approved Master Plant Pool row 10; learner-approved and taxonomy reviewed 2026-10-07.
+Target-zone range: UNRESOLVED. Texas state-native is not a 3-target-county PASS; exclude from confirmed-native metrics.
+POWO accepted name: https://powo.science.kew.org/taxon/1798-2
+USFS species review: https://research.fs.usda.gov/feis/species-reviews/acegra
+NPSOT Texas native: https://www.npsot.org/posts/native-plant/acer-grandidentatum/
+Diagnostic handoff: research-drafts/scientific-review-allium-acer-2026-10-07.md
+
+Exact-species photo sources (provisional):
+https://commons.wikimedia.org/wiki/File:Acer_grandidentatum_leaves_ZionNP.jpg | Quinn Dombrowski | CC BY-SA 2.0 | Mature green leaf and broad palmate lobes; Utah provenance, provisional diagnostic overview, not a leaf-underside macro
+
+Diagnostic gaps: matched mature upper/lower leaf, measured sinus, opposite twig/bud, mature paired samaras.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:59:22.619433+00:00
+Acer grandidentatum Nutt. ex Torr. & A.Gray
+https://www.gbif.org/occurrence/5938370523
+Troy Murphy | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Opposite palmate foliage both sides, buds, bark and paired samaras
+No anatomy arrows; no scientific or native-range changes.

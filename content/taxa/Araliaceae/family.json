@@ -1,0 +1,172 @@
+{
+  "rank": "family",
+  "name": "Araliaceae",
+  "common_name": "Ginseng / ivy family",
+  "lineage_context": {
+    "order": "Apiales",
+    "batch": "Asterid residuals",
+    "close_project_families": [
+      "Apiaceae"
+    ],
+    "teaching_goal": "Teach the project Hydrocotyle pennyworts as creeping wetland herbs with peltate orbicular leaves, axillary umbel-type inflorescences and strongly flattened ribbed fruits, while explaining the older Apiaceae/Hydrocotyloideae placement."
+  },
+  "taxonomy_scope": {
+    "project_teaching_treatment": "Current Kew: Hydrocotyle in Araliaceae, order Apiales.",
+    "historical_note": "Older floras commonly treat Hydrocotyle in Apiaceae/Umbelliferae. Preserve that placement as source/search provenance, not as a second project family."
+  },
+  "project_scope": {
+    "selection_mode": "Hydrocotyle umbellata + Hydrocotyle verticillata",
+    "note": "Both are accepted current species and current Kew native ranges include Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the creeping stem and leaf attachment. Project Hydrocotyle roots at nodes and carries nearly round peltate leaves on long petioles.",
+    "vegetative": "Creeping perennial wetland herbs, rooting at nodes. Leaves simple, usually peltate in the two project species, with radiating primary veins and membranous stipules.",
+    "reproductive": "Tiny bisexual flowers in axillary pedunculate umbels or superposed whorls. Calyx teeth minute or obsolete; petals small.",
+    "fruit": "Strongly laterally compressed, ribbed schizocarp-like fruit with two mericarps; stylopodium reduced/obsolete.",
+    "field_tip": "Creeping pennywort + centrally peltate round leaf + tiny umbel/whorled umbel + flattened ribbed fruit = project Araliaceae/Hydrocotyle."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_031",
+    "teaching_order": "creeping node/root → peltate leaf → simple umbel vs verticillate spike → tiny flower → flattened ribbed fruit → Apiaceae-placement card",
+    "intro": "Pennywort looks like a tiny aquatic umbrella. The leaf gets attention first, but the arrangement of the flower clusters is what separates the two project species.",
+    "steps": [
+      {
+        "title": "1 · Find the peltate attachment",
+        "photo_role": "leaf top/underside",
+        "look_for": "Petiole enters near the center of a round blade, with veins radiating outward.",
+        "why_it_matters": "Fast whole-plant project cue.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "2 · Follow the runner to a rooting node",
+        "photo_role": "creeping stem macro",
+        "look_for": "Slender horizontal stem rooting where nodes contact wet substrate.",
+        "why_it_matters": "Confirms the pennywort growth form.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · H. umbellata door",
+        "photo_role": "inflorescence macro",
+        "look_for": "A simple or proliferous umbrella-like umbel on a slender peduncle rather than multiple stacked flower whorls.",
+        "why_it_matters": "Primary project split from H. verticillata.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "4 · H. verticillata door",
+        "photo_role": "inflorescence axis macro",
+        "look_for": "An interrupted spike of several small umbels/verticils stacked along the peduncle.",
+        "why_it_matters": "The 'verticillata' name becomes a visible memory aid.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "5 · Flatten the fruit concept",
+        "photo_role": "fruit macro/diagram",
+        "look_for": "Broadly ellipsoid fruit compressed side-to-side with conspicuous ribs.",
+        "why_it_matters": "Adds reproductive confirmation after the tiny flowers disappear.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "6 · Explain the family-name change",
+        "photo_role": "taxonomy card",
+        "look_for": "Older Apiaceae/Umbelliferae references → current Kew Araliaceae for Hydrocotyle.",
+        "why_it_matters": "Prevents older keys from looking like a project error.",
+        "status": "taxonomy_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Hydrocotyle project species",
+        "rule": "H. umbellata centers on a simple/proliferous umbel; H. verticillata forms an interrupted vertical series of flower whorls/umbels."
+      },
+      {
+        "title": "Araliaceae/Hydrocotyle vs Apiaceae",
+        "rule": "The project follows the current Kew placement of Hydrocotyle in Araliaceae, but older Apiaceae morphology references remain useful because family circumscription changed."
+      }
+    ],
+    "caveat": "Do not identify the two pennywort species from leaf shape alone; their peltate leaves overlap strongly. Inflorescence architecture is much safer."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Hydrocotyle",
+        "taxa_count": 2,
+        "fast_cue": "creeping wetland herb + peltate round leaf + tiny umbel-type inflorescence + flattened ribbed fruit",
+        "role": "pennywort door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Hydrocotyle umbellata",
+    "Hydrocotyle verticillata"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Hydrocotyle umbellata",
+      "current_name": "Hydrocotyle umbellata",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "source_name": "Hydrocotyle verticillata",
+      "current_name": "Hydrocotyle verticillata",
+      "note": "Accepted by current Kew; native range includes Texas."
+    },
+    {
+      "older_family": "Apiaceae / Umbelliferae",
+      "current_family": "Araliaceae",
+      "note": "Current Kew places Hydrocotyle in Araliaceae; retain older placement only as search/morphology provenance."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "H. umbellata vs H. verticillata inflorescence",
+      "annotation_goal": "simple/proliferous umbel versus stacked verticils"
+    },
+    {
+      "priority": 1,
+      "structure": "peltate leaf",
+      "annotation_goal": "label central petiole attachment and radiating veins"
+    },
+    {
+      "priority": 1,
+      "structure": "rooting node",
+      "annotation_goal": "label stolon/stem node, adventitious roots and petiole"
+    },
+    {
+      "priority": 2,
+      "structure": "flattened ribbed fruit",
+      "annotation_goal": "label ribs and lateral compression"
+    },
+    {
+      "priority": 2,
+      "structure": "Apiaceae→Araliaceae card",
+      "annotation_goal": "older versus current family placement"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Hydrocotyle",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:40115-1/general-information"
+    },
+    {
+      "source": "POWO — Hydrocotyle umbellata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:843746-1/general-information"
+    },
+    {
+      "source": "POWO — Hydrocotyle verticillata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:843759-1/general-information"
+    },
+    {
+      "source": "Flora of China — Hydrocotyle older Apiaceae treatment",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=2&taxon_id=115990"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Araliaceae/Hydrocotyle frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-031",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_inflorescence_split_taxonomy_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

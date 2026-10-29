@@ -1,0 +1,18 @@
+Quercus vaseyana — SOURCES
+Reviewed: 2026-09-30
+
+BOTANICAL SOURCES
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501094
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:284116-2/general-information
+
+PROJECT TRACKER DIAGNOSTIC
+Evergreen/subevergreen shrub or small tree with narrow leathery leaves bearing a few coarse mucronate teeth, dark bark exfoliating in strips, and a shallow strongly tuberculate acorn cup.
+
+PHOTO METHOD
+Run the genus-level DOWNLOAD-TARGETED-QUERCUS-PHOTOS.bat.
+The downloader uses the public iNaturalist API and prefers:
+1) curated taxon-reference images
+2) multi-photo Central Texas/Texas observations from Aug–Dec when possible
+3) all-season multi-photo observations as fallback
+
+image-sources.csv is generated automatically.

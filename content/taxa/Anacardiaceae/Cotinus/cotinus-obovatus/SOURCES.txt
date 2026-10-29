@@ -1,0 +1,8 @@
+Master Plant Pool row 306; workflow/INSTALLER_PREFLIGHT_QUEUE_2026-10-15.json batch mass-02. POWO accepted Cotinus obovatus Raf. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69506-1 ; morphology https://landscapeplants.oregonstate.edu/plants/cotinus-obovatus . Photo David J. Stang CC BY-SA 4.0 https://commons.wikimedia.org/wiki/File:Cotinus_obovatus_2zz.jpg ; shows leaves, not panicle. Direct https://upload.wikimedia.org/wikipedia/commons/0/09/Cotinus_obovatus_2zz.jpg . Internal range UNRESOLVED; no county PASS claimed. Verify image bytes and gallery after Action.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Cotinus obovatus
+Creator: Joseph Aubert; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5133418281
+Stored archive: hays-photo-library-mass-38901179535 :: staged_images/cotinus-obovatus/gbif-708aa6774cbe8f.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

@@ -1,0 +1,10 @@
+Ulmus alata winged elm leaf photo local install. Existing source: https://commons.wikimedia.org/wiki/File:Ulmus_alata_071007c.jpg
+Disputed corky twig photo excluded: https://commons.wikimedia.org/wiki/File:Winged_Elm_Ulmus_alata_2009-05-10.jpg
+County/range decisions preserved; leaf image not proof of node characters.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:59:22.619433+00:00
+Ulmus alata Michx.
+https://www.gbif.org/occurrence/6130078202
+Becky Dill | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Corky twig wings, leaf nodes, sharply double-serrate leaves and spring samaras
+No anatomy arrows; no scientific or native-range changes.

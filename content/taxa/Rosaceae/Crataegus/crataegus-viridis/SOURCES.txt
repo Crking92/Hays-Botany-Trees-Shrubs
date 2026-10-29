@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:724481-1
+Source research-grade observation: https://www.inaturalist.org/observations/39314202
+Photo: https://www.inaturalist.org/photos/62355237
+Attribution: (c) Jennifer Ogle, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 028 2026-10-16T18:22:18.572489+00:00
+Crataegus viridis
+Creator: lanechaffin; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6251632584
+Stored archive: hays-photo-library-mass-38944876482 :: staged_images/crataegus-viridis/gbif-c5acbce68d7f6a.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 028 2026-10-16T18:22:18.572489+00:00
+Crataegus viridis
+Creator: lanechaffin; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/6251517596
+Stored archive: hays-photo-library-mass-38944876482 :: staged_images/crataegus-viridis/gbif-57c0c3b99c6b3c.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

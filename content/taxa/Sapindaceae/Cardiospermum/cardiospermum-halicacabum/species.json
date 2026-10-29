@@ -1,0 +1,65 @@
+{
+  "id": "cardiospermum-halicacabum",
+  "entry_type": "species",
+  "family": "Sapindaceae",
+  "genus": "Cardiospermum",
+  "species": "halicacabum",
+  "scientific_name": "Cardiospermum halicacabum",
+  "authority": "L.",
+  "common_name": "Balloon vine / heartseed",
+  "look_here_first": "LOOK HERE FIRST: Climbing tendrilled vine, divided leaflets and inflated papery three-lobed capsules. Open a mature fruit to see three dark rounded seeds, each with a pale heart-shaped scar.",
+  "taxonomy_notes": "Accepted Cardiospermum halicacabum L. per Master Plant Pool 2026-10-14 name review; do not assume subspecies or merge with C. corindum.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 187",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "No new county audit or invasive designation."
+  },
+  "morphology_keys": {
+    "habit": "Slender tendrilled climbing vine; numerous hanging papery fruits.",
+    "leaves_attachment": "Alternate compound leaves with lobed or divided leaflets.",
+    "flower_reproductive": "Small pale flowers; detailed macro still needed.",
+    "fruit_seed": "Inflated papery three-part capsule; round dark seeds with pale heart-shaped hilar mark.",
+    "stem_bud": "Thin climbing stems with tendrils; exact node photo needed."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cardiospermum corindum: similar balloonlike fruits; compare capsule and leaflet details using a verified regional key.",
+      "Cardiospermum grandiflorum: also inflated fruits; inspect size and surface of mature capsules and flowers."
+    ],
+    "key_distinctions": "Use the inflated three-lobed capsule, divided leaves, tendrils and seed scar together; genus look-alikes require a reproductive key."
+  },
+  "diagnostic_image_needs": [
+    "staged_source_pending_action: habit and unripe capsules (H. Zell).",
+    "staged_source_pending_action: opened fruit and seeds (H. Zell).",
+    "needs_photo: small flower close-up and tendril/leaflet node.",
+    "annotation_pending: verify anatomy before arrows."
+  ],
+  "photo_status": "staged_source_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/cardiospermum-halicacabum-habit-fruit-commons.jpg",
+      "role": "Climbing vine with inflated immature capsules",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cardiospermum_halicacabum_05.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike"
+    },
+    {
+      "file": "images/cardiospermum-halicacabum-open-fruit-commons.jpg",
+      "role": "Opened capsule with dark seeds",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cardiospermum_halicacabum_08.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution and ShareAlike"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  }
+}

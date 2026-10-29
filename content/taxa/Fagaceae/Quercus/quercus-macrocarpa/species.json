@@ -1,0 +1,212 @@
+{
+  "id": "quercus-macrocarpa",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "macrocarpa",
+  "scientific_name": "Quercus macrocarpa",
+  "authority": "",
+  "common_name": "Bur oak",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Inspect fruit first when present: bur oak has a large nut buried deeply in a broad mossy cup with soft projecting scale tips forming a shaggy fringe. Without fruit, look for a broad fiddle-shaped leaf with VERY deep middle/proximal sinuses (a narrow waist), then much shallower distal lobes or teeth. Corky wings on some older twigs provide a supporting character.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays qualify; Bell, Williamson out-of-zone and excluded from PASS. Previous evidence preserved in range_audit; third approved county pending.",
+    "range_guardrail": "Purola Preserve separately lists its Q. macrocarpa occurrence as introduced at that site, so that local planted occurrence is not used as Hays native evidence.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for county boundary/count correction; prior locality evidence not independently reexamined",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Bell",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays"
+      ],
+      "excluded_counties": [
+        "Bell",
+        "Williamson"
+      ],
+      "reason": "Old PASS required 3 approved counties, but only 1 in stored evidence are inside zone. Not an assertion that other local wild populations are absent.",
+      "original_range_basis": "Kew/POWO accepts Quercus macrocarpa and lists Texas in its native range. Hays County — the project Hays County native-source list (Wildflower Center printable list compiled/managed by NPSOT Hill Country Chapter) includes Q. macrocarpa. Bell County — Fort Cavazos identifies Bur oak as native to the installation. Williamson County — a county archaeological/environmental survey describes historical bottomland forests containing Q. macrocarpa.",
+      "source_document": "content/taxa/Fagaceae/Quercus/quercus-macrocarpa/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone and minimum three native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "large deciduous white-oak-group tree",
+      "large leaves often broadest toward tip with deep middle sinuses creating a waist",
+      "upper blade often shallowly lobed beyond the deep middle sinuses",
+      "twigs may develop corky wings/ridges",
+      "very large acorns",
+      "cupule commonly encloses one-half or more of nut and bears long soft fringe around rim",
+      "acorns mature in one season",
+      "Adult leaf often 70–150 × 50–130 mm but highly variable (occasionally 310 × 160 mm), deepest sinuses near middle or basal two-thirds, sometimes almost reaching midrib; distal portion broad and less deeply lobed.",
+      "Leaf underside pale to whitish with dense minute appressed stellate hairs; hairs alone may overlap with other white oaks.",
+      "Twigs 2–4 mm, may bear flat radiating corky wings/ridges; buds 2–5(–6) mm, usually glabrous.",
+      "Acorns large: nut generally 25–50 mm long, cup ~15–50 mm deep × 20–60 mm wide enclosing half to seven-eighths or more of nut.",
+      "Cup scales near rim may project 5–10 mm or longer SOFT awns forming unmistakable mossy fringe (fringe reduced in some northern/western populations).",
+      "One-year acorn maturation; common on limestone/calcareous clays, bottomlands and riparian slopes, but can also occur on prairies/dry slopes."
+    ],
+    "oak_training": "Use leaf architecture plus bark/twig/buds and mature acorn/cupule; never identify an oak from leaf silhouette alone."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus muehlenbergii",
+      "Quercus alba",
+      "Quercus lyrata"
+    ],
+    "key_distinctions": "Quercus muehlenbergii: Chinkapin oak has chestnut-like regularly toothed leaves and a non-fringed bowl-like cup; bur oak has deep midleaf sinuses and the diagnostic mossy/fringed cup. Quercus alba: White oak has regular rounded lobes down the blade and a shallow non-fringed cup; bur oak's middle sinuses and oversized fringed cup are decisive. Quercus lyrata: Overcup oak has a cup that can nearly enclose the nut but lacks bur oak's characteristic long mossy fringe and differs in leaf form."
+  },
+  "tags": [
+    "Fagaceae",
+    "Quercus",
+    "Bur oak",
+    "Oak comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-007+b116-visual",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "visual_reviewed": true,
+    "visual_status": "usable-partial",
+    "photo_metadata_count": 4,
+    "last_visual_reviewed": "2026-10-08",
+    "photo_files_present": 3
+  },
+  "photo_note": "Three licensed physical photographs verified: lobed leaves, mature acorns and green acorns with fringed cups. Whole-tree habit and stronger bark/bud views remain follow-up.",
+  "photo_strategy": {
+    "method": "B116 existing-material-first visual lock",
+    "target_count": "2 strong diagnostic views now; add twig/bud or additional fruit macro only where it materially improves field ID",
+    "visual_priority": "diagnostic structure over generic habit",
+    "public_release_guardrail": "Current sources are authorized for private study; re-check exact reuse rights before any public release."
+  },
+  "images": [
+    {
+      "file": "images/01-nrcs-reference.jpg",
+      "role": "Mature acorns with fringed cups — NRCS photograph",
+      "creator": "USDA NRCS",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-leaves.jpg",
+      "role": "Lobed leaves with deep middle sinuses",
+      "creator": "JBCLM",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_hojas_JBCLM.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-acorn-cup.jpg",
+      "role": "Green acorns and long-fringed cups with leaf surfaces",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_(5108085936).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Quercus_macrocarpa_15-p.bot-quercus.macro-009.jpg/960px-Quercus_macrocarpa_15-p.bot-quercus.macro-009.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+      "role": "Bur oak developing green acorns with long soft fringe on cupule rim, side and basal close-up",
+      "creator": "Gilles Ayotte / Bibliothèque de l'Université Laval",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_15-p.bot-quercus.macro-009.jpg",
+      "platform": "Wikimedia Commons / Université Laval",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-and-sharealike",
+      "media_storage": "external_direct_url",
+      "image_verified": "Licensed Commons source plus visual web image retrieval 2026-10-08; exact link to 960px preview",
+      "diagnostic_visibility": "Soft pale scales project outward prominently at the cup rim of at least three green developing acorns; no ruler and these are NOT ripe brown nuts",
+      "age_stage": "developing green fruit",
+      "scientific_name_verified": "Quercus macrocarpa"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "Three licensed physical photographs verified: lobed leaves, mature acorns and green acorns with fringed cups. Whole-tree habit and stronger bark/bud views remain follow-up. Scientific PASS unchanged."
+  },
+  "diagnostic_comparison": {
+    "priority_group": "Chinkapin oak vs bur oak",
+    "where_to_look_first": "Compare regular forward-pointing teeth + numerous parallel veins vs a deeply waisted leaf; confirm via mature cup fringe, size, and lower-surface hairs.",
+    "pair_species_id": "quercus-muehlenbergii",
+    "pair_specific_tie_breakers": {
+      "quercus-muehlenbergii": "Chinkapin oak has a narrower generally regularly toothed leaf, around 10–14 parallel secondary-vein pairs, and smaller acorns whose tuberculate cup lacks long soft awns. Bur oak usually has a deep midleaf waist and very large, heavily fringed cup; look for corky twig wings when present."
+    },
+    "unreliable_alone": [
+      "Cup fringe less conspicuous on young fruit or regional variants; absence alone does not rule out bur oak.",
+      "Vigorous juvenile shoot leaves may be oversized or atypical; inspect mature branches.",
+      "Habitat overlap with chinkapin can occur around calcareous woodland/streams, so site alone is insufficient."
+    ],
+    "hybrid_guardrail": "Use adult leaves and a mature cup, not leaf silhouette or habitat alone."
+  },
+  "diagnostic_image_plan": {
+    "priority": "high",
+    "status": "partial-fringe-macro-added",
+    "needs": [
+      "Ripe acorn, cup and ruler measuring nut/cup and fringe length",
+      "Cupule rim macro with soft 5–10 mm long awns",
+      "Mature adult leaf flat with deepest middle sinuses clear",
+      "Older twig with corky wing and small bud, if expressed",
+      "Pale lower-surface stellate hairs at same scale as chinkapin",
+      "Whole tree and bark/habitat view"
+    ],
+    "guardrail": "Existing gallery/photos and licenses preserved. Current chinkapin leaf+acorn reference documents IMMATURE acorns, not a measured ripe cup.",
+    "covered_by_new_gallery": [
+      "developing green bur oak cup, soft fringe projection close-up"
+    ],
+    "remaining_macro_priorities": [
+      "fringe length scale (5–10mm) on mature cup",
+      "abaxial hair macro same-scale as chinkapin",
+      "corky twig wing close-up if expressed",
+      "ripe fruit with mm ruler"
+    ]
+  },
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501058"
+    },
+    {
+      "source": "USDA Plant Guide",
+      "url": "https://plants.usda.gov/DocumentLibrary/plantguide/pdf/pg_quma2.pdf"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "chinkapin-bur field-id pair",
+    "scope": "FNA structural cues and diagnostic image shot list; scientific native-range, approval and previous image metadata unchanged."
+  },
+  "photo_backfill_2026_10_08": {
+    "added_count": 1,
+    "status": "clear_cupule_fringe_but_developing_fruit",
+    "additional_fruit_photo": "Green (not ripe) cups showing characteristic soft fringe",
+    "source": "Université Laval / Gilles Ayotte / CC BY-SA 4.0 via Wikimedia Commons",
+    "offline_ready": false,
+    "reviewed_on": "2026-10-08"
+  },
+  "photo_notes": " 2026-10-08: Added licensed Gilles Ayotte / Université Laval green acorn cupule macro showing dramatic fringe (CC BY-SA 4.0); developing fruit, no millimeter scale, external URL (not cached).",
+  "native_metrics_excluded": true
+}

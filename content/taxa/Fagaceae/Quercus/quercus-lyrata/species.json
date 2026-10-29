@@ -1,0 +1,108 @@
+{
+  "id": "quercus-lyrata",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "lyrata",
+  "scientific_name": "Quercus lyrata",
+  "common_name": "Overcup oak",
+  "look_here_first": "Look at the deep acorn cup that almost encloses the nut; then examine rounded leaf lobes and pale hairy undersides.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON"
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deep enclosing acorn cup",
+      "rounded leaf lobes",
+      "pale hairy leaf undersides"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus michauxii",
+      "Quercus macrocarpa"
+    ],
+    "key_distinctions": "Swamp chestnut oak has a shallow acorn cup and toothed leaves; bur oak has a fringed cup rim."
+  },
+  "images": [
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg/960px-Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg",
+      "role": "Overcup oak leafy branch and GREEN developing acorn almost enveloped by deep knobby cup",
+      "creator": "KATHERINE WAGNER-REISS",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike",
+      "media_storage": "external_direct_url",
+      "image_verified": "Source file page, photographer/license and actual thumbnail checked 2026-10-08",
+      "diagnostic_visibility": "Actual image inspected from Morris Arboretum: green deeply lobed foliage with attached young large knobbly acorn cap; one developing acorn nearly enclosed by cup; not ripe brown mature fruit.",
+      "limitations": "Cultivated plant in arboretum; not Hays/native-range evidence. Developing acorn, not proof of full ripe cup enclosure.",
+      "exact_taxon": "Quercus lyrata"
+    },
+    {
+      "file": "images/library-review010-0c92844e3476780.jpg",
+      "role": "Overcup oak green deeply lobed leaf and long petiole held against a hand for scale; the key nearly enveloped acorn cup is not pictured here; independent ID pending",
+      "requested_diagnostic_view": "Rounded-lobed leaf shape; acorn cup not photographed in selected photo",
+      "creator": "Northcut",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6179515600",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621902848/original.jpg",
+      "source_determination": "Quercus lyrata",
+      "source_observation_id": "6179515600",
+      "library_release_tag": "hays-photo-library-seed-gbif-20261015",
+      "library_archive_file": "staged_images/quercus-lyrata/gbif-3cd14eaf6db000.jpg",
+      "archive_image_sha256": "ee3cfad3fbb6411f7b33fea237a1b6d6dbccecaf54fffac0c7d4da7902934fc1",
+      "image_dimensions": [
+        1400,
+        1209
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional-one-photo-ready",
+    "image_count": 1,
+    "photo_media_kind": "external_licensed_exact_species",
+    "last_reviewed": "2026-10-08",
+    "note": "One confirmed diagnostic/recognition photo installed; more habit/reproductive/macro views still needed. Nonlocal comparison role and range status unchanged."
+  },
+  "diagnostic_image_plan": [
+    "mature acorn and deep cup",
+    "leaf upper and lower surfaces",
+    "twig buds",
+    "whole tree"
+  ],
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 1,
+    "last_visual_reviewed": "2026-10-08",
+    "visual_status": "one-photo-study-ready",
+    "manual_library_install_010": "2026-10-16"
+  },
+  "photo_fast_fill_2026_10_08": {
+    "status": "one_licensed_recognition_photo_added",
+    "images_added": 1,
+    "still_missing": "Mature fruit, bud and underside macro roles according to diagnostic_image_plan",
+    "photo_physically_mirrored": false,
+    "verified_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg/960px-Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg",
+    "license": "CC BY-SA 4.0",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_lyrata%E2%80%94leaves_and_acorns_at_the_Morris_Arboretum.jpg",
+    "guardrail": "Do not infer target-zone native occurrence or exact characters not visible in the source image."
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

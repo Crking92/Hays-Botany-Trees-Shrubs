@@ -1,0 +1,275 @@
+{
+  "rank": "genus",
+  "family": "Vitaceae",
+  "name": "Vitis",
+  "authority": "L.",
+  "common_group": "Grapes",
+  "project_scope": {
+    "selection_mode": "B025 strict review + B144 source-status reconciliation",
+    "canonical_species_ids": [
+      "vitis-berlandieri",
+      "vitis-cinerea",
+      "vitis-mustangensis",
+      "vitis-palmata"
+    ],
+    "reviewed_holds": [
+      "vitis-cinerea",
+      "vitis-palmata"
+    ],
+    "represented_source_concepts": [
+      "vitis-cinerea-var-helleri"
+    ],
+    "source_pool_row_count": 4,
+    "note": "All four have canonical records. V. cinerea and V. palmata retain scientific range HOLDs. V. cinerea var. helleri maps to V. berlandieri."
+  },
+  "source_concept_status": [
+    {
+      "id": "vitis-cinerea",
+      "scientific_name": "Vitis cinerea",
+      "status": "REVIEWED_RANGE_HOLD"
+    },
+    {
+      "id": "vitis-cinerea-var-helleri",
+      "scientific_name": "Vitis cinerea var. helleri",
+      "status": "SOURCE_ALIAS_REPRESENTED_BY_VITIS_BERLANDIERI"
+    },
+    {
+      "id": "vitis-berlandieri",
+      "scientific_name": "Vitis berlandieri",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "vitis-mustangensis",
+      "scientific_name": "Vitis mustangensis",
+      "status": "CANONICAL_PASS"
+    },
+    {
+      "id": "vitis-palmata",
+      "scientific_name": "Vitis palmata",
+      "status": "REVIEWED_RANGE_HOLD"
+    }
+  ],
+  "study_strategy": {
+    "priority": [
+      "lower leaf-surface hairiness",
+      "branchlet color and angularity",
+      "leaf lobing",
+      "berry size and glaucous bloom",
+      "cluster length/compactness",
+      "riparian versus upland habit"
+    ],
+    "warning": "Do not call a Central Texas Heller's grape Vitis cinerea just because an app uses a broad species concept. Flip the leaf, inspect branchlets, and keep the berlandieri/helleri taxonomic reconciliation in mind."
+  },
+  "quick_key": [
+    {
+      "if": "broad heart- to kidney-shaped leaves with dense white-to-rusty wool hiding the lower surface; large dark berries",
+      "then": "Vitis mustangensis — canonical PASS"
+    },
+    {
+      "if": "lower leaf surface remains visible, sparsely webby/hairy to nearly glabrous; branchlets slightly angled; ripe berries conspicuously glaucous in short compact clusters",
+      "then": "Vitis berlandieri — canonical PASS; includes source-name V. cinerea var. helleri"
+    },
+    {
+      "if": "strict cinerea concept with angled branchlets densely short-hairy plus cobwebby; lower leaf remains visibly gray/green; small slightly glaucous berries",
+      "then": "Vitis cinerea — reviewed range HOLD"
+    },
+    {
+      "if": "uniformly red/purplish-red/chestnut branchlets and usually deeply 3–5-lobed leaves with long-pointed lobes; lower surface essentially glabrous",
+      "then": "Vitis palmata — reviewed range HOLD"
+    }
+  ],
+  "curation_status": {
+    "version": "vitis-photo-polish-2026-10-13",
+    "genus_audit": "complete_with_reviewed_holds",
+    "source_concepts_reconciled": true,
+    "last_reviewed": "2026-10-13",
+    "visual_status": "field-ready provisional gallery: 4 canonical species, 12 physical licensed image files, 9 linked photo panels, microscopy & range HOLDs preserved",
+    "total_species_photos": 12,
+    "photo_panels": 9,
+    "visual_arrows_verified": 0
+  },
+  "comparison_matrix": [
+    {
+      "character": "Leaf underside",
+      "berlandieri": "Blade visible, sparsely webby",
+      "cinerea": "Blade visible, gray-green, short-hairy and webby",
+      "mustangensis": "Opaque white/rust wool",
+      "palmata": "Nearly glabrous"
+    },
+    {
+      "character": "Branchlets",
+      "berlandieri": "Slightly angled, webby",
+      "cinerea": "Angled, short-hairy and webby",
+      "mustangensis": "Tomentose",
+      "palmata": "Uniform red/purple, nearly glabrous"
+    },
+    {
+      "character": "Fruit",
+      "berlandieri": "Strongly glaucous, compact cluster",
+      "cinerea": "4–8 mm, little bloom",
+      "mustangensis": "Usually 12+ mm, little bloom",
+      "palmata": "8–10 mm, dark"
+    }
+  ],
+  "look_here_first": "Find a tendril opposite a leaf. Flip a mature leaf to inspect underside hair density, then compare current-year branchlets and intact ripe berries.",
+  "diagnostic_photo_checklist": [
+    "Matched mature leaf underside macros of all four species",
+    "Same-age branchlet macros showing hair architecture",
+    "Leaf-opposed tendril/node close-up",
+    "Intact berry clusters with ruler and undisturbed wax bloom",
+    "Matched whole leaves documenting lobing variation"
+  ],
+  "overlap_cautions": [
+    "Mustang grape can develop deeply lobed leaves on vigorous shoots.",
+    "Berry wax can rub off; avoid identification from bloom alone.",
+    "V. cinerea and V. palmata are canonical but remain range HOLDs.",
+    "Source-name V. cinerea var. helleri is represented by V. berlandieri."
+  ],
+  "shared_genus_pattern": "Woody vines with alternate simple leaves, leaf-opposed tendrils/inflorescences, small flowers and fleshy grape berries. At the node, a tendril opposite the leaf is the fastest genus cue.",
+  "realistic_lookalikes": [
+    {
+      "taxon": "Cissus trifoliata",
+      "difference": "Three separate leaflets, not one simple Vitis blade; inspect leaflet joints."
+    },
+    {
+      "taxon": "Parthenocissus quinquefolia",
+      "difference": "Usually five distinct palmately arranged leaflets; Vitis has a simple leaf."
+    },
+    {
+      "taxon": "Passiflora incarnata",
+      "difference": "Tendrils arise from leaf axils, not opposite leaves; corona-bearing flowers."
+    }
+  ],
+  "targeted_handoff": {
+    "lane": "Taxonomy + Diagnostic Review",
+    "request": "Verify quantitative branchlet pubescence and berry/cluster characters distinguishing strict V. cinerea from V. berlandieri. Preserve the source-concept mapping of V. cinerea var. helleri to V. berlandieri and existing range HOLDs."
+  },
+  "media_guidance": "Existing V. berlandieri leaf-face and V. mustangensis fruit-face images may anchor overview cards. They do not substitute for matched diagnostic underside, branchlet, and fruit macros; Diagnostic Photo Polish owns photo acquisition.",
+  "visual_comparison": {
+    "title": "Texas grapevine identification — flip the leaf before trusting the fruit",
+    "subtitle": "Physical licensed photos arranged around leaf underside, branching habit and confusers. Species HOLD decisions preserved.",
+    "memory_rule": "WHITE FELT = Mustang. Visible underside + glaucous compact berries = Berlandier/Heller. Short-hairy webby angled stems = strict cinerea (HOLD). Red branchlets + deeply lobed leaves = palmata (HOLD). THREE leaflets/three-parted foliage = sorrelvine, Cissus.",
+    "look_here_first_sequence": [
+      "Check whether a grape-family tendril arises opposite a leaf (rather than from the leaf axil as in Passiflora).",
+      "Count separate leaflets: Vitis has one simple leaf, Cissus trifoliata usually has three leaflets but can have a single 3-lobed blade.",
+      "Flip a mature leaf: white felt hiding the underside in Mustang versus leaf tissue visible in Berlandier/Heller.",
+      "Inspect stems at the newest nodes: red/purple in palmata, angled/hairy in strict cinerea, slight webby in berlandieri.",
+      "If present, compare intact ripening clusters and wax bloom after leaf/stem characters, never first."
+    ],
+    "items": [
+      {
+        "label": "1. Mustang grape — canopy-scale climber",
+        "scientific_name": "Vitis mustangensis",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-mustangensis/images/vitis-mustangensis-comal-habit.jpg",
+        "image_role": "Whole vine in tree canopy",
+        "caption": "Recognize the big woody climber in Honey Creek State Natural Area, Comal County. For identification, move from this big picture to an actual leaf underside.",
+        "creator": "Larry D. Moore",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Grape_Vines_Honey_Creek_SNA_Texas_2023.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "2. Mustang — individual leaf appearance",
+        "scientific_name": "Vitis mustangensis",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-mustangensis/images/vitis-mustangensis-north-texas-leaves.jpg",
+        "image_role": "Texas leaf recognition",
+        "caption": "The blade remains ONE SIMPLE LEAF even if lobed. Flip it to find Mustang's characteristic opaque whitish wool beneath; this particular image is not certified as a hair macro.",
+        "creator": "sonnia hill",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:VItis_mustangensis.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "3. Berlandier's grape — underside",
+        "scientific_name": "Vitis berlandieri",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-berlandieri/images/vitis-berlandieri-leaf-underside.jpg",
+        "image_role": "Underside leaf photograph, central comparison character",
+        "caption": "Contrast this visibly surfaced leaf underside with Mustang's dense opaque white felt. The specimen was photographed in French cultivation; its photo cannot prove Texas county presence.",
+        "creator": "Pancrat",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_dessous_feuille.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "4. Berlandier's grape — Texas view",
+        "scientific_name": "Vitis berlandieri",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-berlandieri/images/vitis-berlandieri-texas-second-view.jpg",
+        "image_role": "Texas exact-species recognition and general foliage",
+        "caption": "Teach the Berlandier's/Heller's taxon concept. Some resources still call this V. cinerea var. helleri; Kew treats it as V. berlandieri.",
+        "creator": "Joachim Schmid",
+        "license": "CC BY 3.0 DE",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_in_Texas.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "5. True graybark grape — leaf reference",
+        "scientific_name": "Vitis cinerea",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-cinerea/images/vitis-cinerea-usda-leaf.jpg",
+        "image_role": "USDA taxon illustration / reference foliage",
+        "caption": "Recognize the graybark grape leaf concept; branchlet short hairs and small fruit remain decisive. This source concept stays taxonomy/range HOLD in the private learner.",
+        "creator": "Robert H. Mohlenbrock / USDA-NRCS",
+        "license": "Public domain US Federal Government",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_cinerea_(USDA).jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "6. Graybark grape — botanical garden comparison",
+        "scientific_name": "Vitis cinerea",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-cinerea/images/vitis-cinerea-botanic-plant.jpg",
+        "image_role": "Cultivated specimen supporting leaf appearance only",
+        "caption": "Cultivated Berlin specimen gives a second foliage angle; it cannot resolve historic Texas V. cinerea versus V. berlandieri naming or county nativity.",
+        "creator": "BotBln",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_cinerea_BotGardBln07122011C.JPG",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "7. Catbird grape — USDA leaf",
+        "scientific_name": "Vitis palmata",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-palmata/images/vitis-palmata-usda-leaf.jpg",
+        "image_role": "USDA foliage reference, field-form character",
+        "caption": "Look for 3–5 pointed lobes, then independently verify the distinctly red/purple young branchlets and relatively hairless underside. Leaf lobing overlaps other grapes; county range HOLD remains.",
+        "creator": "Robert H. Mohlenbrock / USDA-NRCS",
+        "license": "Public domain US Federal Government",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_palmata_NRCS-1.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "8. Catbird grape — second USDA view",
+        "scientific_name": "Vitis palmata",
+        "image_url": "content/taxa/Vitaceae/Vitis/vitis-palmata/images/vitis-palmata-usda-plant.jpg",
+        "image_role": "Second USDA exact-species reference photo",
+        "caption": "Additional species reference; no reliably calibrated photo of red branchlet or glabrous undersurface is installed, so keep those on the final-polish request list.",
+        "creator": "Robert H. Mohlenbrock / USDA-NRCS",
+        "license": "Public domain US Federal Government",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_palmata_NRCS-2.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      },
+      {
+        "label": "9. Sorrelvine: do not confuse with grape",
+        "scientific_name": "Cissus trifoliata",
+        "image_url": "content/taxa/Vitaceae/Cissus/cissus-trifoliata/images/cissus-trifoliata-texas-leaves-2.jpg",
+        "image_role": "Three-parted or trifoliolate sorrelvine foliage",
+        "caption": "Cissus usually shows THREE leaflets, sometimes a single three-lobed leaf; Vitis typically has one continuous simple blade. Examine leaflet joints and tendrils.",
+        "creator": "DouglasGoldman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata2.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT"
+      }
+    ],
+    "field_cautions": [
+      "Vitis cinerea and V. palmata remain scientific range HOLDs, though approved for the private learner.",
+      "Vitis cinerea var. helleri is an alias of canonical Vitis berlandieri under Kew; do not duplicate under cinerea.",
+      "Mustang can have deeply 3–5-lobed growth leaves; lobing alone is not decisive.",
+      "Some images are from cultivation or outside Central Texas: they teach morphology, NOT native county evidence.",
+      "Do not place arrows on precise hair/nodes unless coordinates visually reviewed on the installed JPEG."
+    ],
+    "final_polish_backlog": [
+      "Obtain matched close-up lower leaf surfaces of all 4 Vitis species with scale",
+      "Obtain shoot/node macros of Vitis cinerea vs berlandieri, showing angled twigs and indumentum",
+      "Obtain leaf-opposed forked tendril and bud/inflorescence photo, with verified arrow coordinates",
+      "Acquire side-by-side real ripe clusters with undisturbed bloom and ruler",
+      "Find documented live wild-origin specimens for V. cinerea and palmata without overriding scientific holds"
+    ]
+  }
+}

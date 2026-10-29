@@ -1,0 +1,9 @@
+Master Plant Pool preflight source rows: 942.
+Name source: https://powo.science.kew.org/results?q=Ptelea%20trifoliata
+Individual photo from Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Ptelea_trifoliata_001.JPG
+Image direct download: https://commons.wikimedia.org/wiki/Special:Redirect/file/Ptelea%20trifoliata%20001.JPG
+Creator: H. Zell
+License: CC BY-SA 3.0
+Role: Provisional habit and three-leaflet foliage recognition; the distinctive circular winged fruits need a close photograph.
+Explicit caution: Source image represents an identifiable named species but does not establish Texas provenance.
+No BONAP county nativity decision. Provisional visual species identity; exact diagnostic organ verification pending.

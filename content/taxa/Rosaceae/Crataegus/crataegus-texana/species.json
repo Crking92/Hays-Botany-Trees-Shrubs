@@ -1,0 +1,226 @@
+{
+  "id": "crataegus-texana",
+  "entry_type": "species",
+  "family": "Rosaceae",
+  "genus": "Crataegus",
+  "species": "texana",
+  "scientific_name": "Crataegus texana",
+  "authority": "Buckley",
+  "common_name": "Texas Hawthorn",
+  "alternate_common_names": [
+    "Texas Red Haw",
+    "Texas Hawthorn"
+  ],
+  "synonyms": [
+    "Crataegus mollis var. texana (Buckley) Lance"
+  ],
+  "taxonomic_note": "Kew POWO and FNA accept Crataegus texana at species level; distinguish from Crataegus mollis sensu stricto, from C. brazoria and from Crataegus viridis. FNA provisionally treats this as a pink/purple-anthered complex containing var. texana and var. dasyphylla. Avoid unverified assignment to variety from one photograph.",
+  "learner_admission": {
+    "status": "USER_REQUESTED_APPROVED",
+    "source": "Explicit user request 'Let's do Texas Hawthorne' 2026-10-13",
+    "master_plant_pool_status": "Not listed in approved Master Plant Pool as of audit 2026-10-13; C. viridis is listed at row 307",
+    "not_same_taxon_as_existing": "Crataegus viridis — existing genus source reference only, currently no canonical species cards"
+  },
+  "field_group": "Thorny small tree / shrub with lobed downy leaves and red haws",
+  "look_here_first": "EXAMINE FOUR THINGS IN THIS ORDER: (1) alternate simple leaves 4–7 cm, often 1–4 LOBES on each side and strong teeth; (2) woolly/white-hairy NEW twigs and flower cups; (3) 20 stamens whose ANTHERS are ROSE–PURPLE (not cream) in open white flower; (4) red pome 9–14 mm usually, 4–5 hard stones. Thorns may be present or absent, so never key this species on a thorn alone.",
+  "project_tracker_diagnostic": "FNA C. texana: lobed elliptic to rhombic leaves 4–7 cm, young white tomentum, woody straight twig thorns about 4–5 cm when present, corymbs of 7–12 white flowers 14–22 mm wide, stamens 20 with rose to purple anthers, 4–5 styles, red pomes usually 9–14 mm, 4–5 pyrenes.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "range_basis": "POWO/FNA establish a native taxon in Texas, Oklahoma/Arkansas/Missouri, but no three independently sourced native occurrences in project's specific 24 Texas counties have been verified in this pass. Williamson County modern photo outside target zone; herbarium cultivated/historical images cannot prove wild county occurrence. Do not promote to confirmed target native metrics.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-13",
+      "reason": "User specifically requested Texas hawthorn as a new visual learner subject; not in Master Plant Pool. Native range remains UNRESOLVED."
+    }
+  },
+  "morphology_keys": {
+    "habit": "Deciduous shrub/small tree, up to about 10 m in FNA broad description, often shorter. Rough fissured gray-brown bark and woody determinate thorns may occur.",
+    "twigs_thorns": "Newest twig growth woolly (lanate) and older pale gray to tan. Straight woody twigs thorns absent to frequent, often 4–5 cm on two-year-old stems; may turn chestnut brown or black.",
+    "leaf_arrangement": "Alternate SIMPLE leaves on woody shoots, not opposite; 4–7 cm broad elliptic to rhombic-ovate, basal margin less toothed, distal margin strongly serrate; 1–4 lobes per side. Tip and lobe depth variable, hairier underside when young.",
+    "leaf_variety_warning": "FNA var. texana typically 2–4 deep lobes per side; var. dasyphylla more often 1–2(–3) shallow lobes. Do not claim exact variety from one leaf photograph.",
+    "flower_clusters": "Usually 7–12 flowers per broad, somewhat flat cluster; white 5-petaled flowers ~14–22 mm across, flower cup/hypanthium downy-hairy.",
+    "stamens_anthers": "About 20 stamens; anthers rose/rose-purple, red or purple. The colored anther is a KEY character in contrast to ivory/cream on C. mollis and usually C. viridis. Confirm before anthers shed pollen or darken/dry.",
+    "styles": "4 or 5 styles, often delicate at flower center. Requires macro; not reliably countable in general flower photo.",
+    "fruit": "Red or orange-red miniature apple-like pome, usually 9–14 mm diameter, sometimes to 25 mm, with 4–5 hard inner pyrenes. Fruit COLOR alone not diagnostic.",
+    "habitat": "Rich bottomlands or river bottoms, alluvial rich soils and open woodland/brush margins; often near water and in southeastern/central Texas broad regional references. Do not infer local Hays nativity from habitat.",
+    "best_field_traits": [
+      "4–7 cm lobed and strongly toothed alternate leaves",
+      "woolly new twigs / downy flower cups",
+      "white flowers with ~20 pink/purple anthers",
+      "red 9–14 mm pome with 4–5 stones",
+      "woody lateral thorns often 4–5 cm but variably absent"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Crataegus viridis",
+      "Crataegus mollis",
+      "Crataegus brazoria",
+      "Prunus mexicana",
+      "Malus spp."
+    ],
+    "key_distinctions": "Green hawthorn C. viridis: generally smaller 5–8 mm pomes, mostly ivory/cream anthers and often hairless flower cup/branchlets, whereas texana larger hairy cups and pink/purple anthers. Downy hawthorn C. mollis also very hairy but typically ivory/cream anthers. Brazos hawthorn C. brazoria has similarly rose anthers, 20 stamens and red fruit but leaves often elliptic with NO substantial lobes (fruit color may also vary). Mexican plum has white petals but one central stone in a DRUPE, not a multi-stone pome; flowering and thorn architecture differ."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Texas Hawthorn — four body parts in four photos",
+    "look_here_first": "1. LEAF lobes/teeth; 2. twig and calyx hairs; 3. pink/purple anthers with ~20 stamens; 4. red multi-stone haw fruit.",
+    "steps": [
+      {
+        "n": 1,
+        "part": "Leaf",
+        "where": "View 01 green leaf / 03 dry voucher",
+        "find": "Alternate 4–7 cm toothed blade with 1–4 lobes per side; hair especially along undersurface veins. Count a range, do not call 0-lobed Brazos leaf the same."
+      },
+      {
+        "n": 2,
+        "part": "New shoot and thorn",
+        "where": "View 01 and plate 04",
+        "find": "Young woolly twig; long straight woody thorn (a modified branch, not an easily peeled off prickle); thorn may be absent."
+      },
+      {
+        "n": 3,
+        "part": "Flower center",
+        "where": "View 02",
+        "find": "White 5 petals, look for ~20 stamens and pink-to-purple anthers; count 4–5 styles if an actual macro makes them visible."
+      },
+      {
+        "n": 4,
+        "part": "Fruit and inner stones",
+        "where": "View plate 04",
+        "find": "A mature red/orange-red pome usually ~9–14 mm with 4–5 bony pyrenes; needs real contemporary fruit dissection photo in final pass."
+      }
+    ],
+    "memory_rule": "TEXANA = LOBED leaves + DOWNY green parts + PINK anthers + RED HAW with 4–5 STONES.",
+    "glossary": {
+      "anther": "AN-ther — the pollen-bearing tip of each stamen; color helps distinguish hawthorn species",
+      "stamen": "STAY-men — pollen-producing flower organ made of filament plus anther",
+      "style": "STILE — slender female column connecting ovary and stigma",
+      "pome": "POHM — apple-like fruit derived partly from floral cup tissue",
+      "pyrene": "PIE-reen — one hard stone-like structure enclosing seed(s) inside a haw",
+      "tomentum": "toh-MEN-tum — woolly coating of short hairs",
+      "hypanthium": "high-PAN-thee-um — floral cup beneath petals/stamens",
+      "sinus": "SIGH-nus — notch between leaf lobes",
+      "thorn": "Hard sharp modified stem/branch; not a superficially attached epidermal prickle"
+    }
+  },
+  "visual_comparison": {
+    "title": "Texas hawthorn: actual leaves and flowers + botanical anatomy",
+    "subtitle": "4 direct source views — 2 modern exact-species study photographs with per-photo rights unresolved, 1 Kew CC BY herbarium sheet, 1 public-domain original historical drawing (scan terms pending). Photos are NOT all wild Hays occurrences.",
+    "items": [
+      {
+        "label": "LIVE LEAF · SHAPE AND TOOTHED EDGE",
+        "image_url": "content/taxa/Rosaceae/Crataegus/crataegus-texana/images/01-live-texas-leaf.jpg",
+        "source_page": "https://www.inaturalist.org/photos/209023977",
+        "creator": "iNaturalist photo 209023977; creator/licensing requires per-photo review",
+        "license": "unverified rights; PRIVATE LEARNER ONLY",
+        "caption": "Study a broad green alternate leaf. Look for 1–4 lobes per side, stronger teeth along margin, and fine hair on young growth. Lobe depth varies by variety; one leaf alone does not prove C. texana.",
+        "markers": [],
+        "annotation_status": "Photo-leaf identity label provisional, rights unresolved; no arbitrary arrows."
+      },
+      {
+        "label": "REAL WHITE FLOWER · PINK ANTHERS",
+        "image_url": "content/taxa/Rosaceae/Crataegus/crataegus-texana/images/02-flower-pink-anthers.jpg",
+        "source_page": "https://www.inaturalist.org/observations/111254658",
+        "creator": "iNaturalist user pintobeans (photo 187782261); exact photo license not confirmed",
+        "license": "unverified rights; PRIVATE LEARNER ONLY",
+        "caption": "Williamson County, Texas exact-species observation. Five white petals and about 20 stamens with rose/purple anthers: count and color of ANTHERS are especially useful against cream-anthered downy and green hawthorns. This is NOT Hays native-range evidence.",
+        "markers": [],
+        "annotation_status": "Flower photo provisional rights; count stamens only when individually visible."
+      },
+      {
+        "label": "HERBARIUM · FULL ALTERNATE LEAVES",
+        "image_url": "content/taxa/Rosaceae/Crataegus/crataegus-texana/images/03-kew-verified-herbarium.jpg",
+        "source_page": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:724380-1",
+        "creator": "Royal Botanic Gardens Kew / Arnold Arboretum specimen",
+        "license": "CC BY 3.0 (Kew herbarium digital image metadata)",
+        "caption": "Real preserved C. texana reference at Kew; compare broad mature leaves, multiple lobes and alternating attachment. Dried brown foliage is not actual leaf color.",
+        "markers": [],
+        "annotation_status": "No verified position arrows."
+      },
+      {
+        "label": "BOTANICAL PLATE · FLOWER, FRUIT AND THORN",
+        "image_url": "content/taxa/Rosaceae/Crataegus/crataegus-texana/images/04-historical-botanical-plate.jpg",
+        "source_page": "https://garden.org/plants/view/81268/Texas-Hawthorn-Crataegus-mollis-var-texana/",
+        "creator": "C. E. Faxon, historical plate from The Silva of North America; scan shared by garden.org/scvirginia",
+        "license": "Public domain original artwork; scan-site reuse status unverified",
+        "caption": "Historical C. texana drawing shows mature pomes, thorn placement, leaf margin, white-flower section and seed/stone anatomy in one plate. Illustration explains structures but is not a photo of modern in-situ Texas material.",
+        "markers": [],
+        "annotation_status": "Original artwork public domain; scan-specific rights pending; exact pixel arrows require QA."
+      }
+    ],
+    "arrow_qa": "No arrows yet; leaf lobe, anther and fruit pyrenes require original image pixel checks; historical illustration is NOT a measured contemporary fruit sample."
+  },
+  "diagnostic_photo_targets": [
+    "Exact-license-verified living Texas hawthorn mature red pomes on twig with calyx, 1 cm ruler",
+    "Cut fruit showing 4–5 bony pyrenes and correct arrow endpoints",
+    "Flower macro with separate labeled purple anthers, one 4–5-branched style count and woolly hypanthium",
+    "Same-plant upper leaf / underside with age-related hairs and thorn attachment macro",
+    "Species-verified comparison C. texana vs C. brazoria vs C. mollis vs C. viridis at same magnification",
+    "Resolve iNat photo 209023977 and 187782261 original creators and individual licenses before public reuse or exports",
+    "Verify Hays or 3 target-zone county wild specimens for strict native-range certification"
+  ],
+  "photo_rights_warning": "The two iNaturalist living photo URLs are provisional private-learner-only; exact photo licenses have NOT been verified; they MUST NOT be displayed as public reuse-cleared. Older botanical plate is PD original but hosted scan rights not independently verified.",
+  "tags": [
+    "Rosaceae",
+    "Crataegus",
+    "Texas hawthorn",
+    "Pink-anther hawthorn",
+    "Identification comparison",
+    "User-approved addition",
+    "Provisional photo study"
+  ],
+  "curation_status": {
+    "version": "1.0-texas-hawthorn-photo-first-20261013",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "last_reviewed": "2026-10-13",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "visual_status": "Four exact taxon photo/plate views queued through installer; pending physical downloads and per-photo license audit; no arrows claimed.",
+    "image_verification": "FNA diagnosis and source labels checked; modern photo per-file licenses unverified, private-only"
+  },
+  "images": [
+    {
+      "file": "images/01-live-texas-leaf.jpg",
+      "role": "Living C. texana leaf and blade serrations",
+      "creator": "iNaturalist original uploader; exact name unverified",
+      "license": "license not verified; private study only",
+      "source_page": "https://www.inaturalist.org/photos/209023977",
+      "study_use": "yes-private",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-flower-pink-anthers.jpg",
+      "role": "White C. texana flower with rose-pink anthers Williamson County (non-target)",
+      "creator": "pintobeans; individual photo creator/license unverified",
+      "license": "license not verified; private study only",
+      "source_page": "https://www.inaturalist.org/observations/111254658",
+      "study_use": "yes-private",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/03-kew-verified-herbarium.jpg",
+      "role": "Kew historical exact-taxon pressed voucher with serrated alternate leaves",
+      "creator": "Royal Botanic Gardens Kew / Arnold Arboretum",
+      "license": "CC BY 3.0 per POWO digital herbarium metadata",
+      "source_page": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:724380-1",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/04-historical-botanical-plate.jpg",
+      "role": "C. texana original public-domain historical botanical plate showing leaves thorns fruit flower seed section",
+      "creator": "C. E. Faxon / The Silva of North America; scan republisher garden.org",
+      "license": "original illustration Public Domain; scan reuse status unverified",
+      "source_page": "https://garden.org/plants/view/81268/Texas-Hawthorn-Crataegus-mollis-var-texana/",
+      "study_use": "yes",
+      "public_reuse": "no-scan-rights-pending"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "rank": "genus",
+  "family": "Juglandaceae",
+  "name": "Juglans",
+  "common_group": "Walnuts",
+  "project_scope": {
+    "selection_mode": "B035 same-genus Central Texas comparison",
+    "species_ids": [
+      "juglans-microcarpa",
+      "juglans-major",
+      "juglans-nigra"
+    ],
+    "species_count": 3
+  },
+  "study_strategy": {
+    "priority": [
+      "fruit diameter",
+      "nut-shell sculpture",
+      "leaflet count and width",
+      "tree stature",
+      "bark",
+      "riparian habitat as secondary support"
+    ],
+    "warning": "Central Texas intermediates are documented. Do not ID a difficult tree from leaflet count alone; fruit/nut size and shell sculpture are higher-value."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "J. microcarpa — many narrow leaflets + tiny fruit/nut.",
+      "J. major — fewer/broader leaflets + medium fruit with smoother shell surface between grooves.",
+      "J. nigra — very large fruit + coarsely warty shell between deep grooves + large-tree habit."
+    ],
+    "caveat": "FNA notes hybrid/intermediate material among central Texas walnut species; atypical individuals may not key cleanly from one character."
+  },
+  "curation_status": {
+    "version": "2.0-photo-led-walnut-comparison",
+    "last_reviewed": "2026-10-14",
+    "physical_photo_anchors": 7,
+    "new_photo_binaries": 0,
+    "anatomical_arrows_verified": false,
+    "specialist_shell_macro_pending": true,
+    "species_range_decisions_unchanged": true
+  },
+  "look_here_first": "First verify walnut family: ALTERNATE PINNATELY COMPOUND leaf (separate leaflets along central rachis), a husked fruit, and when safely available a fallen twig showing CHAMBERED PITH. Then find mature fruit and (if legally and safely available) the cleaned hard NUT. Fruit diameter and the nut shell's raised/grooved texture distinguish these better than leaflet count alone; photograph fruit beside a ruler. A leaf-only ID may remain Juglans sp.",
+  "shared_genus_pattern": {
+    "recognition": "Deciduous native walnuts with alternate pinnately compound leaves, unisexual flowers, pendent staminate catkins, husked nuts and chambered twig pith.",
+    "terms": "RACHIS = main axis carrying leaflets; HUSK = green covering outside hard nut; SCULPTURE = grooves, ridges and warts on cleaned shell; CHAMBERED PITH = cross-walled interior of a twig; STAMINATE = pollen-producing male flowers.",
+    "caution": "Do not confuse an entire compound leaf with a single leaflet; do not mistake uncleaned husk texture for hard shell sculpture."
+  },
+  "comparison_matrix": [
+    {
+      "character": "Mature husked fruit diameter",
+      "microcarpa": "~1.4–2.3 cm",
+      "major": "~2–3.5 cm",
+      "nigra": "~3.5–8 cm",
+      "priority": "best starting measurement; boundary overlap"
+    },
+    {
+      "character": "Cleaned nut diameter / sculpture",
+      "microcarpa": "~1.1–1.7 cm, longitudinally grooved, comparatively smooth between grooves",
+      "major": "~1.8–2.7 cm, deeply longitudinally grooved, comparatively smooth between grooves",
+      "nigra": "~3–4 cm, deep grooves with conspicuously rough/warty sculpture between",
+      "priority": "highest-value mature reproductive character"
+    },
+    {
+      "character": "Leaflet count (variable)",
+      "microcarpa": "usually 17–25, narrow",
+      "major": "usually 9–15, broader",
+      "nigra": "usually 15–19, sometimes 9–23; terminal leaflet often small/absent",
+      "priority": "supporting; overlaps in hybrids"
+    },
+    {
+      "character": "Habit",
+      "microcarpa": "shrub or small tree, often multi-stemmed",
+      "major": "small to medium tree",
+      "nigra": "often substantially taller mature tree",
+      "priority": "context; age and site-dependent"
+    },
+    {
+      "character": "Location",
+      "microcarpa": "central and western Texas creek/riparian systems",
+      "major": "more scattered west/central Texas canyon and stream populations",
+      "nigra": "east to central Texas woods/bottomlands",
+      "priority": "supporting only; planted individuals possible"
+    }
+  ],
+  "species_key": [
+    "1. Locate a mature fruit. If exceptionally small (~1.4–2.3 cm) with many narrow leaflets, check J. microcarpa; photograph mature nut for confirmation.",
+    "2. If intermediate fruit (~2–3.5 cm) and relatively broad/fewer leaflets, check J. major, especially a clean shell with deep grooves but relatively smooth surfaces between.",
+    "3. If large fruit (~3.5–8 cm), especially coarsely warty nut surface between deep grooves, check J. nigra; large-tree habit and deep furrowed bark support.",
+    "4. If fruit size, nut sculpture, and leaflet pattern contradict one another, record Juglans sp. or possible hybrid/intermediate. Do not force an ID: natural hybridization between Texas walnuts is documented."
+  ],
+  "visual_comparison": {
+    "title": "Walnuts: leaf first, fruit next, clean shell last",
+    "subtitle": "Seven existing physical project photos cover foliage, developing fruit, male catkins and bark, but there is not a verified side-by-side set of cleaned mature shells. Captions state only what each existing photo is intended to teach.",
+    "items": [
+      {
+        "taxon_id": "juglans-microcarpa",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-microcarpa/images/01-habit-multistem-small-tree.jpg",
+        "image_role": "Multi-stem small tree or shrub habit",
+        "creator": "Jim (jimmex)",
+        "license": "CC0 1.0",
+        "source_page": "https://www.inaturalist.org/photos/436522536",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-microcarpa",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-microcarpa/images/02-leaves-small-green-fruits.jpg",
+        "image_role": "Narrow leaflets and developing small green fruit in same view",
+        "creator": "Charlie Meador (s_pi_ky)",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/275885457",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-microcarpa",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-microcarpa/images/03-male-catkin-twig.jpg",
+        "image_role": "Staminate catkin context, not a species-level fruit key",
+        "creator": "Jo Roberts (bacchusrock)",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/366129933",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-major",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-major/images/juglans-major-provisional-face.jpg",
+        "image_role": "Foliage with developing fruits; provisional face, not shell sculpture",
+        "creator": "Whitney Cranshaw, Colorado State University",
+        "license": "CC BY 3.0 US",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_major_foliagenuts.jpg",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-nigra",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-nigra/images/01-tree-habit.jpg",
+        "image_role": "Leaflet margins and venation (filename is misleading; not a complete tree view)",
+        "creator": "R. A. Nonenmacher",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_nigra_02125.jpg",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-nigra",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-nigra/images/02-leaf-fruit.jpg",
+        "image_role": "Compound leaf and large green-husked fruit",
+        "creator": "Rohit Naniwadekar",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_nigra_11.jpg",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      },
+      {
+        "taxon_id": "juglans-nigra",
+        "image_url": "content/taxa/Juglandaceae/Juglans/juglans-nigra/images/03-bark.jpg",
+        "image_role": "Mature bark furrows; supporting only",
+        "creator": "MONGO",
+        "license": "Public Domain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Black_Walnut_Bark_Detail.JPG",
+        "status": "existing_physically_installed; anatomy_markers_not_pixel_verified"
+      }
+    ],
+    "visual_steps": [
+      {
+        "name": "One compound leaf, many leaflets",
+        "look_for": "Find rachis attachment to twig; leaflets attach to rachis and are not separate leaves",
+        "needs": "leaf petiole/rachis/leaflet pointers"
+      },
+      {
+        "name": "Measure the whole fruit",
+        "look_for": "Include ruler and entire green husk; tiny microcarpa to large nigra, major between",
+        "needs": "matched mature fruit with scale"
+      },
+      {
+        "name": "Remove or find a shed husk",
+        "look_for": "Now distinguish the HARD nut shell grooves from soft outer husk texture",
+        "needs": "matched cleaned shell dorsal/side macros"
+      },
+      {
+        "name": "Check alternate twig and pith",
+        "look_for": "Walnut has chambered pith; compare solid pith of Carya using an already fallen twig",
+        "needs": "pith cross-cut macro"
+      }
+    ]
+  },
+  "photo_targets": [
+    {
+      "priority": 1,
+      "role": "Three-species mature cleaned shell side-by-side",
+      "requirement": "Exact-species, rights-safe, same-scale shell photographs with groove and warty/smooth-between-grooves callouts"
+    },
+    {
+      "priority": 1,
+      "role": "Mature husked fruit diameters",
+      "requirement": "Ruler-scale fruit views, avoid immature fruit masquerading as mature size"
+    },
+    {
+      "priority": 2,
+      "role": "Juglans vs Carya twig pith",
+      "requirement": "Matched naturally fallen twig cuts, chambered versus solid interior"
+    },
+    {
+      "priority": 2,
+      "role": "Leaf rachis anatomy",
+      "requirement": "Whole compound leaf, alternate twig attachment and individual leaflet marked"
+    },
+    {
+      "priority": 3,
+      "role": "Hybrids",
+      "requirement": "Only documented voucher-backed specimens; label as uncertain/intermediate"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America Juglans treatment",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=116860"
+    },
+    {
+      "source": "Flora of North America Juglandaceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10460"
+    },
+    {
+      "source": "Grauke et al. Native Walnuts of Texas",
+      "url": "https://www.actahort.org/books/948/948_22.htm"
+    }
+  ]
+}

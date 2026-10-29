@@ -1,0 +1,173 @@
+{
+  "rank": "family",
+  "name": "Urticaceae",
+  "common_name": "Nettle family",
+  "lineage_context": {
+    "order": "Rosales",
+    "batch": "Rosales",
+    "close_project_families": [
+      "Moraceae",
+      "Cannabaceae",
+      "Ulmaceae",
+      "Euphorbiaceae"
+    ],
+    "teaching_goal": "Teach the tiny green flower + one-ovuled achene plan and the spring-loaded stamens, while making stinging hairs a Urtica clue rather than a family requirement."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas family-first module across Boehmeria, Parietaria and Urtica",
+    "note": "The three local project genera are ideal for teaching the most important caution: Boehmeria and Parietaria are non-stinging nettle-family members."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with tiny greenish flowers in axillary/spikelike clusters. In staminate flowers, the filaments are commonly bent inward in bud and snap outward at opening; pistillate flowers have one ovule and mature as a small achene. Then use stinging hairs, leaf arrangement and stipules for genus.",
+    "vegetative": "Mostly herbs in the local pool. Leaves simple, alternate or opposite; stipules present or absent. Cystoliths are common. Stinging hairs occur in Urtica but are absent in local Boehmeria and Parietaria.",
+    "reproductive": "Flowers are tiny, usually unisexual, commonly 4–5-part. Stamens match the tepal number and are often inflexed in bud, springing outward at anthesis. Pistillate flowers have a single 1-locular ovary with one basal ovule.",
+    "fruit": "A small one-seeded achene, sometimes tightly enclosed by persistent perianth/bracts.",
+    "field_tip": "Do not ask 'does it sting?' first. Ask: tiny green flower clusters + explosive stamens + one-seeded achene; then split stinging Urtica from non-stinging Boehmeria/Parietaria."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_006",
+    "teaching_order": "tiny green inflorescence → inflexed/explosive stamens → one-ovuled achene → stinging-vs-nonstinging genus doors → Rosales comparison",
+    "intro": "The nettle family is bigger than stinging nettles. Two of our three project genera do not sting, so the flower-and-achene machine matters more than pain.",
+    "steps": [
+      {
+        "title": "1 · Find the tiny flower clusters",
+        "photo_role": "axillary/spikelike inflorescence macro",
+        "look_for": "Many tiny greenish flowers grouped in axillary clusters, spikes or cymose units.",
+        "why_it_matters": "Moves the ID away from generic serrated-leaf gestalt.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "2 · See the spring-loaded stamens",
+        "photo_role": "staminate flower diagram / macro",
+        "look_for": "Four or five filaments bent inward in bud, then reflexing outward as the flower opens and ejecting pollen.",
+        "why_it_matters": "This is a memorable family mechanism and a stronger clue than stinging hairs.",
+        "status": "diagram_or_high_speed_reference_pending"
+      },
+      {
+        "title": "3 · Confirm the one-seeded achene",
+        "photo_role": "pistillate flower to achene macro",
+        "look_for": "Single ovary with one basal ovule maturing into one small achene.",
+        "why_it_matters": "Separates the local nettle-family fruit plan from Moraceae multiple fruits and Euphorbiaceae 3-part capsules.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Urtica door: the actual stinging nettle",
+        "photo_role": "stinging hair + opposite serrated leaf",
+        "look_for": "Stinging hairs plus opposite serrated leaves; handle visually rather than by touch.",
+        "why_it_matters": "Stinging hairs are useful once family is known, but they are not a family-wide requirement.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Boehmeria door: false nettle without the sting",
+        "photo_role": "Boehmeria cylindrica foliage + spike",
+        "look_for": "Opposite or nearly opposite serrated leaves, no stinging hairs, and spikelike flower clusters.",
+        "why_it_matters": "This is the best local demonstration that 'nettle family' does not equal 'stinging.'",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Parietaria door: alternate, entire, stipule-free",
+        "photo_role": "Parietaria pensylvanica node + axillary flowers",
+        "look_for": "Non-stinging herb with alternate entire leaves, no stipules, and compact axillary flower clusters.",
+        "why_it_matters": "It looks unlike the stereotype yet retains the Urticaceae reproductive plan.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Urticaceae vs Moraceae",
+        "rule": "Both can have tiny unisexual flowers. Local Urticaceae is herbaceous and produces individual achenes; local Moraceae is woody, latex-bearing and produces fleshy multiple fruits."
+      },
+      {
+        "title": "Urticaceae vs Cannabaceae",
+        "rule": "Celtis is woody and produces drupes; local Urticaceae is herbaceous with tiny clustered flowers and one-seeded achenes."
+      },
+      {
+        "title": "Urticaceae vs Euphorbiaceae",
+        "rule": "Stinging hairs can occur in both lineages. Urticaceae has ordinary tiny perianth flowers and a one-seeded achene; Euphorbiaceae uses a usually 3-carpellate ovary/3-part capsule, with Euphorbia using a cyathium."
+      }
+    ],
+    "caveat": "Stinging hairs, opposite leaves and stipules all vary within Urticaceae. The reproductive suite—tiny flowers, inflexed stamens and a single-ovule achene—is the safer family lesson.",
+    "diagnostic_photo_handoff": {
+      "status": "pending_photo_polish",
+      "note": "Family photo needs: bent stamens in bud vs open, female achene, Urtica stinging hairs vs Boehmeria, Parietaria node, Moraceae fruit comparison.",
+      "annotation_status": "annotation_pending",
+      "verified_anatomy_only": "Do not infer unseen structures from existing photos."
+    }
+  },
+  "project_pool_genus_roadmap": {
+    "count": 3,
+    "genera": [
+      {
+        "genus": "Boehmeria",
+        "fast_cue": "non-stinging + opposite/nearly opposite serrated leaves + spikelike flower clusters",
+        "role": "false-nettle door"
+      },
+      {
+        "genus": "Parietaria",
+        "fast_cue": "non-stinging + alternate entire leaves + stipules absent + axillary clusters",
+        "role": "pellitory door"
+      },
+      {
+        "genus": "Urtica",
+        "fast_cue": "stinging hairs + opposite serrated leaves + tiny clustered flowers",
+        "role": "stinging-nettle door"
+      }
+    ]
+  },
+  "teaching_cautions": [
+    "Do not touch a suspected nettle to test the identification.",
+    "Do not teach stinging hairs as a family requirement; Boehmeria and Parietaria in the project are non-stinging.",
+    "Parietaria lacks stipules, so stipules are not universal in the family."
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "inflexed stamens in bud / reflexed at anthesis",
+      "annotation_goal": "show spring-loaded filament movement"
+    },
+    {
+      "priority": 1,
+      "structure": "single-ovuled pistillate flower → achene",
+      "annotation_goal": "label ovary, ovule and mature achene"
+    },
+    {
+      "priority": 1,
+      "structure": "Urtica stinging hair",
+      "annotation_goal": "label bulbous base and brittle tip without encouraging contact"
+    },
+    {
+      "priority": 1,
+      "structure": "Boehmeria vs Urtica leaf/stem",
+      "annotation_goal": "non-stinging false nettle vs stinging nettle"
+    },
+    {
+      "priority": 2,
+      "structure": "Parietaria alternate node",
+      "annotation_goal": "show entire leaf + absent stipule + axillary cluster"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America — Urticaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10931"
+    },
+    {
+      "source": "Flora of North America — Boehmeria cylindrica",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500268"
+    },
+    {
+      "source": "Flora of North America — Parietaria",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=124051"
+    },
+    {
+      "source": "Plants of the World Online — Urticaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000535-2/general-information"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-006",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_stamen_achene_and_hair_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

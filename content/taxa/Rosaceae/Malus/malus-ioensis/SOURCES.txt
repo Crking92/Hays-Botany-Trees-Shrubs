@@ -1,0 +1,8 @@
+Malus ioensis (Alph.Wood) Britton — prairie crabapple.
+Approved Master Plant Pool row 679.
+Accepted name: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:150119-2
+LOOK HERE FIRST: Five-petaled flowers with numerous stamens, oval toothed leaves, and later small apple-like fruits. Confirm with fruit and leaf structure, not flower color alone.
+Image source: https://commons.wikimedia.org/wiki/File:Malus_ioensis_kz03.jpg
+Photographer: Krzysztof Ziarnek (Kenraiz), 2017-05-23. License: CC BY-SA 4.0. Source file: Malus_ioensis_kz03.jpg. Preserve attribution and ShareAlike for adapted works.
+Photo displays flowers, leaves and buds; full diagnostic confirmation remains provisional. Photo download, physical integrity, canonical image record and manifest require successful GitHub Action readback.
+County native audit deferred. Preserve prior native-range states; do not count as confirmed native.

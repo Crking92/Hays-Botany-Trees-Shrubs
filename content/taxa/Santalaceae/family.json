@@ -1,0 +1,115 @@
+{
+  "rank": "family",
+  "name": "Santalaceae",
+  "common_name": "Sandalwood / mistletoe family",
+  "project_scope": {
+    "selection_mode": "Phoradendron-centered Central Texas recognition",
+    "pool_taxa": [
+      "Phoradendron leucarpum",
+      "Phoradendron tomentosum"
+    ]
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at the host branch: look for a persistent green branching mistletoe clump growing directly from woody host tissue. Then inspect the swollen attachment, opposite leathery leaves, tiny reduced flowers and berry-like one-seeded fruits.",
+    "vegetative": "Aerial hemiparasitic shrubs on woody hosts; green photosynthetic shoots remain exposed. Local Phoradendron has opposite simple leaves and jointed branching, with haustorial attachment to host tissue.",
+    "reproductive": "Flowers are tiny, greenish and reduced, borne in short spikes; local plants may be male or female.",
+    "fruit": "Berry-like one-seeded fruit with sticky viscin that helps the seed adhere to branches.",
+    "field_tip": "The family doorway is the exposed green shrub growing from a woody host branch, not flower color."
+  },
+  "visual_lesson": {
+    "status": "family_structure_live_visual_assets_pending",
+    "teaching_order": "host context → attachment → opposite leaves → flower spike → sticky fruit",
+    "steps": [
+      {
+        "title": "1 · See host and mistletoe together",
+        "photo_role": "whole host branch with mistletoe clump",
+        "look_for": "A distinct green branching clump growing from another woody plant.",
+        "why_it_matters": "Establishes the family body plan.",
+        "status": "context_photo_pending"
+      },
+      {
+        "title": "2 · Trace the attachment",
+        "photo_role": "host-mistletoe junction",
+        "look_for": "Mistletoe stem entering a swollen host branch.",
+        "why_it_matters": "This junction is a high-value structural character.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "3 · Read the nodes",
+        "photo_role": "node and leaf arrangement",
+        "look_for": "Opposite leathery simple leaves on exposed green shoots.",
+        "why_it_matters": "Supports Phoradendron recognition.",
+        "status": "photo_pending"
+      },
+      {
+        "title": "4 · Follow flowers into fruit",
+        "photo_role": "flower spike and berry",
+        "look_for": "Tiny reduced flowers in short spikes; female shoots later bear berry-like fruits with one sticky seed.",
+        "why_it_matters": "Explains the reproductive sequence.",
+        "status": "macro_comparison_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Santalaceae vs Apodanthaceae",
+        "rule": "Phoradendron exposes a persistent green leafy shoot outside the host; Pilostyles keeps nearly all vegetative tissue inside the host and mainly exposes flowers/fruits through bark."
+      },
+      {
+        "title": "Mistletoe vs epiphyte",
+        "rule": "Mistletoe has a structural attachment into host tissue; an ordinary epiphyte simply grows on the surface."
+      },
+      {
+        "title": "Mistletoe vs woody vine",
+        "rule": "A vine climbs from its own rooting point; mistletoe grows from a seed established directly on a host branch."
+      }
+    ],
+    "caveat": "Do not separate Phoradendron species from berry color or host alone; species routing needs leaf/twig pubescence, inflorescence and current taxonomy."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Phoradendron",
+        "fast_cue": "green aerial mistletoe; opposite leaves; reduced flower spikes; sticky one-seeded fruit",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "host-mistletoe attachment",
+      "annotation_goal": "label host branch, mistletoe stem and attachment zone"
+    },
+    {
+      "priority": 1,
+      "structure": "whole clump in host canopy",
+      "annotation_goal": "outline mistletoe separately from host foliage"
+    },
+    {
+      "priority": 1,
+      "structure": "sticky fruit and seed",
+      "annotation_goal": "show one seed and sticky viscin"
+    },
+    {
+      "priority": 2,
+      "structure": "opposite node",
+      "annotation_goal": "label opposite leaves and jointed stem"
+    },
+    {
+      "priority": 2,
+      "structure": "male vs female reproductive shoots",
+      "annotation_goal": "show flower/fruit difference"
+    },
+    {
+      "priority": 2,
+      "structure": "Santalaceae vs Apodanthaceae",
+      "annotation_goal": "exposed leafy shoot vs hidden vegetative body"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-structural-gap-close",
+    "last_reviewed": "2026-10-06",
+    "visual_lock": "recognition_structure_live_attachment_and_reproductive_macros_pending"
+  }
+}

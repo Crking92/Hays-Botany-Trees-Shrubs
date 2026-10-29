@@ -1,0 +1,142 @@
+{
+  "rank": "genus",
+  "name": "Vaccinium",
+  "family": "Ericaceae",
+  "common_group": "sparkleberry / farkleberry",
+  "project_scope": {
+    "source_pool_taxa": [
+      "Vaccinium arboreum"
+    ],
+    "source_pool_count": 1,
+    "canonical_species_ids": [],
+    "canonical_species_count": 0,
+    "source_pool_curated_flag": "No",
+    "admission_status": "SOURCE_POOL_ONLY",
+    "accepted_species_name": "Vaccinium arboreum",
+    "installed_species_target_path": null,
+    "species_installed_by_this_lane": false,
+    "scientific_native_range_status": "NOT CHANGED: uninstalled source taxa are not project native-range PASS from this lesson"
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Farkleberry / sparkleberry: woody shrub or small tree with ALTERNATE, small, glossy, leathery obovate/oblong leaves and pale undersides; clusters of small WHITE URN/BELL flowers followed by glossy BLACK small berries. Poricidal anthers confirm Ericaceae; compare carefully with Arbutus madrone.",
+    "identity_warning": "Source-pool reference only, exact-species full scientific review and range status handled separately"
+  },
+  "genus_comparison_matrix": [
+    {
+      "character": "Habit",
+      "source_taxon": "Shrub or small tree often with multiple trunks in xeric sandy or rocky eastern Texas woodlands",
+      "reference_contrast": "Texas madrone can also be shrub/tree: do not identify from habit."
+    },
+    {
+      "character": "bark",
+      "source_taxon": "Gray/brown flaky or subtly peeling bark, NOT the dramatic smooth cream/salmon/exfoliating colors of Texas madrone",
+      "reference_contrast": "Arbutus xalapensis mature bark smooth peeling and multi-colored; juvenile madrone ambiguity possible."
+    },
+    {
+      "character": "leaf",
+      "source_taxon": "Simple alternate leathery obovate/oblong ~2.2–4 cm long, glossy above, somewhat glaucous beneath",
+      "reference_contrast": "Arbutus often larger evergreen leaves; inspect multiple leaves and bark."
+    },
+    {
+      "character": "flower",
+      "source_taxon": "Small white urn/bell-shaped fused corolla ~3–5 mm; clustered stalked flowers",
+      "reference_contrast": "Ericaceae flower plan shared with Arbutus; flower alone doesn't split."
+    },
+    {
+      "character": "fruit",
+      "source_taxon": "Small black shiny berries ~7–9 mm at maturity",
+      "reference_contrast": "Arbutus fruit orange/red at maturity; color variable in immature fruit."
+    },
+    {
+      "character": "family anatomy",
+      "source_taxon": "Anthers releasing pollen via apical pores/tubules in dissected flower",
+      "reference_contrast": "Compare with other Ericaceae (Arbutus, Rhododendron), not woody lookalikes outside Ericaceae."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "panel": 1,
+      "priority": "critical",
+      "show": "whole tree/shrub with trunk and provenance label",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 2,
+      "priority": "critical",
+      "show": "bark macro beside Arbutus mature bark with ruler",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 3,
+      "priority": "critical",
+      "show": "complete leaf from both sides, 22–40 mm ruler and underside color",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 4,
+      "priority": "high",
+      "show": "flower cluster side and dissected anthers with pores",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 5,
+      "priority": "high",
+      "show": "glossy BLACK ripe berry next to calyx and fruit section",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    },
+    {
+      "panel": 6,
+      "priority": "high",
+      "show": "Vaccinium versus Arbutus leaves/bark/fruits matched same scale",
+      "source_rule": "exact-species with observation/photo rights + source URI; use study-only assets only within approved private context"
+    }
+  ],
+  "look_here_first_sequence": [
+    "Recognize plant architecture and leaf arrangement before flower color.",
+    "Compare leaf shape, insertion and microstructures on several mature samples.",
+    "Inspect floral anatomy under magnification and track into mature fruit.",
+    "Cross-check the strongest lookalike with matched scale; avoid uncertain species IDs.",
+    "Respect the source-name/canonical manifest boundary and keep nonlocal native labels unchanged."
+  ],
+  "scientific_cautions": [
+    "V. arboreum is not currently installed despite Sheet source listing. Do not mark as native to Hays County or project target zone from state-wide FNA occurrence.",
+    "Evergreen/semi-evergreen degree varies seasonally and regionally; do not use leaf persistence as an absolute distinction.",
+    "Black mature berries, not blueberry cultivated form alone; fruit coloration and pubescence require a mature specimen."
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy/Species Installer",
+      "task": "Source-pool taxonomy/range/installer lane: decide actual learner admission and county range independently. Photo lane: focus on black ripe fruit and mature bark versus Arbutus."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Acquire the six exact diagnostic panels, tagged photographer/license/source and permit private-study-only only where rights say so."
+    }
+  ],
+  "existing_canonical_media": null,
+  "scientific_sources": [
+    {
+      "title": "Flora of North America Vaccinium arboreum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417400"
+    },
+    {
+      "title": "UF IFAS Vaccinium arboreum",
+      "url": "https://ask.ifas.ufl.edu/publication/FR320"
+    },
+    {
+      "title": "Project source pool",
+      "spreadsheet": "Hays_Botany_ID_Master_Curation_Tracker",
+      "tab": "Master Plant Pool",
+      "source_name": "Vaccinium arboreum"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-backfill-2026-10-11",
+    "last_reviewed": "2026-10-11",
+    "photo_panels": 6,
+    "comparison_rows": 6,
+    "visual_status": "photo requests only, no photo assets installed",
+    "scientific_decisions": "unchanged",
+    "species_installs": 0
+  }
+}

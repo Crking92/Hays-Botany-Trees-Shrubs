@@ -1,0 +1,78 @@
+ILEX VOMITORIA — CURATION SOURCES
+Reviewed: 2026-10-02
+Status: PASS / APPROVED FOR INSTALL
+
+Taxonomy
+Kew/POWO accepted Ilex vomitoria Aiton:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A83863-1
+Texas material is subsp. vomitoria:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77231212-1
+
+Strict target-zone range
+Hays — project Hays County native-source list.
+Purola Preserve introduced occurrence explicitly excluded:
+https://w3.biosci.utexas.edu/prc/HaysFlora/IntroSpecs.html
+Travis — natural central-Texas documentation:
+https://www.texaswildbuds.com/ilex-vomitoria.html
+Williamson — UT PRC:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Ilex%20vomitoria
+https://w3.biosci.utexas.edu/prc/K12/taxE-L.html
+
+Morphology
+NPSOT:
+https://www.npsot.org/posts/native-plant/ilex-vomitoria/
+UT PRC Williamson treatment above.
+
+LOOK HERE FIRST
+Tiny evergreen leathery leaves with fine low crenate teeth on a multi-stemmed pale-gray shrub/small tree.
+
+
+## Physical gallery fast-fill — 2026-10-05 / batch 009
+Media-only; settled taxonomy/range and PASS status preserved.
+Photos are identification references, not evidence for new county occurrences.
+Automated normalization resizes/recompresses the original photographs; no annotations added.
+Credit, original source, observation/photo identifiers, license URL and reuse conditions are in image-sources.csv. CC BY-SA adaptations retain the indicated same license.
+01-leaves-fruit.jpg: Small crenate leaves and red drupes
+Creator: Luteus; License: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Source: https://commons.wikimedia.org/wiki/File:Ilex_vomitoria.jpg
+Context: Pensacola, Florida; exact species reference, not target-county evidence
+
+02-fruiting-twig.jpg: Twig with immature green drupes and alternate small leaves
+Creator: Alex Abair; License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Source: https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_366737061.jpg
+Context: Florida; exact species reference
+
+03-flowers-leaves.jpg: Axillary white flower clusters and crenate leaves
+Creator: National Park Service; License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+Source: https://commons.wikimedia.org/wiki/File:File-Species_name-_Ilex_vomitoria-Common_name-_Yaupon_Holly_(81fd4c2f-03bc-49ae-994e-eaba1bce2a11).jpg
+Context: NPS official-duty photograph, Timucuan Preserve, Florida; public domain in the United States
+
+Remaining visual needs: Physical exact-species photographs provide fruiting twigs, small leaves and white axillary flowers; whole shrub and bark views remain follow-up.
+
+## License-verified Ilex vomitoria diagnostic photo polish — 2026-10-12
+This is media-only; preserve all established taxonomy/range/metrics and original 3 installed photos. No assumptions about target-zone occurrence based on distant photographed specimens.
+
+04-whole-fruiting-habit.jpg — mature fruiting small tree; high-value whole-plant/evergreen structure
+Photographer Staniulis (Wikimedia structured data creator Angelita dela Rosa), CC0 1.0:
+https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_in_Wilmington,_North_Carolina.jpg
+Site: Wilmington NC. Preview visually checked, abundant red fruit and visible branches; provides canopy-scale view.
+
+05-bark-red-fruit-twig.jpg — pale bark and red fruit / leaf architecture
+Photographer sonnia hill, CC BY 2.0:
+https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_(2020).jpg
+Site: East Texas Arboretum, Athens TX. Visually checked photo with pale branching, small alternate leaves and red drupes.
+
+06-small-leaf-margin-green-fruit.jpg — green immature drupes and small crenate leaves
+Photographer David J. Stang, CC BY-SA 4.0:
+https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_3zz.jpg
+Site: North Carolina Zoo. Check small low crenations on middle/lower elliptic leaves; no male/female flower structures in this shot.
+
+07-pistillate-flower-macro.jpg — gynoecium structure: ovary + stigma + staminodes
+Photographer Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab, public domain:
+https://commons.wikimedia.org/wiki/File:Ilex_vomitoria,_Yaupon_Holly,_pistillate_flowers,_Green_Farmacy_Garden,_Fulton,_Md,_Helen_Lowe_Metzman_2019-10-23-17.20.38_ZS_PMax_UDR_(49426959648).jpg
+Site: Maryland, 2019. Extreme macro shows functional central female ovary, stigma and nonfunctional stamens. Use source credit as above, public-domain USGS photo.
+
+Photo download targets: images/04-whole-fruiting-habit.jpg, images/05-bark-red-fruit-twig.jpg, images/06-small-leaf-margin-green-fruit.jpg, images/07-pistillate-flower-macro.jpg. All four precise Commons direct 960px image URLs are in image-sources.csv.
+Preserved files: images/01-leaves-fruit.jpg, images/02-fruiting-twig.jpg, images/03-flowers-leaves.jpg.
+Download and normalize with GitHub curation pipeline; do not replace any source photo with invented visual.
+Remaining final-polish specialty images: same-scale split with Ilex decidua leaves/leafless winter habit and Ilex opaca spiny leaf margin, actual male vs female yaupon flowers, mature drupe section showing hard pyrenes. Annotation arrows must be visually confirmed after image install.

@@ -1,0 +1,148 @@
+{
+  "id": "sambucus-canadensis",
+  "entry_type": "species",
+  "family": "Viburnaceae",
+  "genus": "Sambucus",
+  "species": "canadensis",
+  "scientific_name": "Sambucus canadensis",
+  "authority": "L.",
+  "common_name": "American black elderberry",
+  "synonyms": [
+    "Sambucus nigra subsp. canadensis",
+    "Sambucus nigra ssp. canadensis",
+    "Sambucus nigra var. canadensis"
+  ],
+  "look_here_first": "Start at a stem node: opposite, pinnately compound leaves with serrate leaflets, then a broad terminal cluster of small flowers. Confirm the American elderberry concept from provenance; flower color and leaflet count alone do not separate it from European Sambucus nigra.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "Opposite compound leaves, usually with 5–11 serrate leaflets; robust shoots can have twice-compound leaves.",
+      "Broad terminal cymose panicle, typically with five primary rays.",
+      "Small radially symmetric, usually five-part flowers; UT Austin local treatment also allows four-part flowers.",
+      "Purple-black drupes contain 3–5 hard pyrenes (stones)."
+    ],
+    "habit": "Many-stemmed deciduous shrub or small tree; local flowering specimens about 1.5–4+ m tall.",
+    "leaves": "Opposite and decussate, odd-pinnately compound; leaflet margins serrate.",
+    "inflorescence": "Terminal, flat-topped to domed panicle of cymes, 75–384 mm across in the UT Austin local treatment; usually five primary rays.",
+    "flower": "Flowers 5–6.3 mm across in the local treatment; shallow rotate corolla with 4–5 lobes and stamens; ovary described there as half-inferior.",
+    "fruit": "Glossy black, not waxy, drupes about 4.3–5.2 × 5–6.2 mm, with 3–5 hard pyrenes.",
+    "lookalike_separators": "Viburnum: simple opposite leaves and usually one stone, versus compound elder leaves and multiple pyrenes. Sambucus nigra s.s.: overlapping heads, dark fruit, and leaflet counts; require documented origin or voucher, not a photo-only confident key. S. cerulea: often waxy blue fruit, but wax can rub off."
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "POWO includes Texas in native distribution at state scale. Existing review has not certified at least three project target-zone counties; preserve UNRESOLVED.",
+    "native_range_sources": [
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321978-2"
+    ]
+  },
+  "county_occurrences_target_zone": [],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-14",
+    "review_basis": "reports/sambucus-scientific-review-2026-10-13.md",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "images": [
+    {
+      "file": "images/01-flower-close-up.jpg",
+      "role": "Flower close-up: lobed corollas and exposed stamens; source-identified S. canadensis, not a stand-alone key against S. nigra",
+      "creator": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sambucus_canadensis_003.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-696882282-flowering-habit.jpg",
+      "role": "American elderberry: branching flowering shrub showing pinnately compound leaves, broad pale terminal flower clusters and aging reddish inflorescence axes; whole-shrub recognition rather than individual flower anatomy",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/696882282",
+      "observation_url": "https://www.inaturalist.org/observations/380891646",
+      "observation_id": 380891646,
+      "photo_id": 696882282,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/696882282/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-696882344-flower-head-leaves.jpg",
+      "role": "American elderberry: white terminal flower head beside serrate pinnately compound foliage and reddish developing inflorescence; supports compound leaf and broad cyme comparisons, not a definitive separation from Sambucus nigra",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/696882344",
+      "observation_url": "https://www.inaturalist.org/observations/380891682",
+      "observation_id": 380891682,
+      "photo_id": 696882344,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/696882344/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "diagnostic_photo_plan": [
+    "Opposite stem node and complete compound leaf",
+    "Full flowering head and primary rays with scale",
+    "Dissected ripe drupe showing 3–5 pyrenes",
+    "Voucher-confirmed S. nigra comparison at matching scale"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful.",
+  "photo_provenance": {
+    "source_platform": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sambucus_canadensis_003.JPG",
+    "direct_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Sambucus_canadensis_003.JPG/960px-Sambucus_canadensis_003.JPG",
+    "creator": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verified_at": "2026-10-14",
+    "changes": "Commons width-limited thumbnail, normalized/resized and JPEG optimized by established GitHub pipeline; no anatomy overlays.",
+    "visual_verification": "Photographed outside Texas; original Commons page identifies Sambucus canadensis. Visually checked shallow lobed flowers and exposed stamens. This flower view does not independently distinguish S. nigra s.s. Leaf/node, whole head, and fruit-stone photos remain needed.",
+    "study_use": "yes",
+    "public_reuse": "yes, attribution and share-alike required"
+  },
+  "user_photo_check": {
+    "observation_id": 310773056,
+    "photo_id": 560924879,
+    "decision": "not_acquired",
+    "reason": "Individual iNaturalist photo license null; attribution all rights reserved. Preferred CC BY rights gate not met."
+  },
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321978-2",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:978604-1",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Sambucus%20nigra%20canadensis.html"
+  ],
+  "learner_visual_status": {
+    "status": "photo_enriched_diagnostic_macros_pending",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-14",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

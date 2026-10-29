@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:783426-1
+Source research-grade observation: https://www.inaturalist.org/observations/180996954
+Photo: https://www.inaturalist.org/photos/315377405
+Attribution: (c) M. Whitson, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 056 2026-10-18T00:11:03.482883+00:00
+Koelreuteria paniculata
+Creator: Victor Engel; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/2429289217
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/koelreuteria-paniculata/gbif-8f5bf89d71ceb3.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 056 2026-10-18T00:11:03.482883+00:00
+Koelreuteria paniculata
+Creator: Eric Knight; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5292159096
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/koelreuteria-paniculata/gbif-80415bcccb5ba2.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

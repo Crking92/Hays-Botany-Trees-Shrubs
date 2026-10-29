@@ -1,0 +1,302 @@
+{
+  "rank": "genus",
+  "family": "Ebenaceae",
+  "name": "Diospyros",
+  "authority": "L.",
+  "common_group": "Persimmons / ebonies",
+  "project_scope": {
+    "selection_mode": "Both existing manifest-installed Diospyros species; Texas persimmon field anchor and American persimmon eastern-range look-alike",
+    "species_ids": [
+      "diospyros-texana",
+      "diospyros-virginiana"
+    ],
+    "species_count": 2,
+    "canonical_both_installed": true,
+    "primary_local_anchor": "diospyros-texana",
+    "native_metrics_note": "D. texana PASS (Hays, Travis, Mason; Williamson excluded as out-of-target); D. virginiana UNRESOLVED for project counties (only Travis verified) and learner-approved comparison.",
+    "source_policy": "Leave regional native-range decisions separate from species admission; do not count Williamson as one of the 24 target-zone counties."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "Ebenaceae woody trees/shrubs with ALTERNATE SIMPLE leaves and usually entire margins; NOT compound-leaf legumes.",
+      "Flowers small, usually bell- or urn-shaped with fused petals (sympetalous); ovary superior.",
+      "Persimmon fruit is a fleshy BERRY rather than a dry capsule or drupe, often with a conspicuous persistent green calyx beneath it.",
+      "Flowers have male (staminate) and female (pistillate) function; reproductive arrangement should not be inferred from one flower without inspecting its organs.",
+      "Bark is valuable on mature trees but can be less diagnostic on saplings; pair bark with leaf size/underside and calyx-fruit evidence."
+    ],
+    "priority": [
+      "FIRST: smooth pale mottled or peeling mature bark versus deeply fissured dark square-blocky bark.",
+      "SECOND: Texas persimmon typically has SHORT obovate leaves ~1.5–3.5 cm with rolled-under margins and pale fuzzy undersides; American persimmon leaves often longer, more pointed, and mostly much larger.",
+      "THIRD: Texas persimmon fruits black/purple-black at maturity; American persimmon fruits yellowish-orange to reddish-orange.",
+      "FOURTH: both retain broad persistent sepals at the fruit base; inspect the persistent CALYX.",
+      "FIFTH: flowering position and leaf underside hairs add supporting confidence when fruit is missing."
+    ],
+    "warning": "Do not identify an unripe green persimmon by color; both species start green. Mature bark and leaf structure are stronger when fruits absent. Important source disagreement: most sources call Texas persimmon dioecious; UT Williamson flora calls it monoecious. Do not use plant sex alone as the key."
+  },
+  "quick_key": [
+    {
+      "if": "smooth light gray exfoliating trunk + small (usually 1.5–3.5 cm) obovate leaves with fuzzy undersides and rolled margins",
+      "then": "Diospyros texana — Texas persimmon"
+    },
+    {
+      "if": "dark gray, deeply checked blocky mature trunk + leaves generally about 3.5–8 cm, often pointed",
+      "then": "Diospyros virginiana — American persimmon"
+    },
+    {
+      "if": "a ripe black/purple-black fuzzy berry with large persistent calyx, on small-leaved shrub/tree",
+      "then": "Diospyros texana (confirm foliage and bark)"
+    },
+    {
+      "if": "a ripe yellow-orange/reddish fruit with persistent broad green calyx, on larger-leaved tree",
+      "then": "Diospyros virginiana (confirm foliage and bark)"
+    },
+    {
+      "if": "smooth ornamental peeling bark but OPPOSITE leaves and woody dry capsules rather than persimmon berries",
+      "then": "Lagerstroemia indica — crape myrtle, NOT Diospyros"
+    }
+  ],
+  "curation_status": {
+    "version": "2.0-two-species-five-photo-genus-polish",
+    "last_reviewed": "2026-10-12",
+    "genus_photos": 5,
+    "genus_arrows": 10
+  },
+  "pronunciation": "dye-OS-pih-ross",
+  "look_here_first": "Read the mature bark first: Texas persimmon smooth pale mottled trunks; American persimmon thick dark square-blocked bark. Confirm with SMALL rounded rolled-edge leaves versus larger mostly pointed leaves. Black versus orange ripe fruit locks the ID.",
+  "species_comparison_matrix": [
+    {
+      "character": "Mature bark",
+      "diospyros_texana": "Smooth pale gray to brownish mottled, exfoliating",
+      "diospyros_virginiana": "Dark gray to near-black, deeply furrowed block-like plates",
+      "priority": "HIGH: good even without fruit"
+    },
+    {
+      "character": "Leaf blade",
+      "diospyros_texana": "Small 1.5–3.5 cm commonly, obovate/oval; rounded or notched tip; margin often revolute",
+      "diospyros_virginiana": "Often 3.5–8 cm or larger, elliptic/oblong with more pointed tip",
+      "priority": "HIGH: compare multiple mature leaves"
+    },
+    {
+      "character": "Lower leaf surface",
+      "diospyros_texana": "Densely short hairy / tomentose, veins raised",
+      "diospyros_virginiana": "Usually less woolly/paler or variable hairy when young",
+      "priority": "HIGH: macro underside needed"
+    },
+    {
+      "character": "Ripe fruit",
+      "diospyros_texana": "About 2 cm, blue-black to purple-black, often short-hairy",
+      "diospyros_virginiana": "Typically larger 2–5 cm, yellow-orange to reddish-orange at maturity",
+      "priority": "HIGH: only when truly mature"
+    },
+    {
+      "character": "Persistent calyx",
+      "diospyros_texana": "Often 5 lobes (sometimes 4)",
+      "diospyros_virginiana": "Often 4 broad lobes",
+      "priority": "Supporting, do NOT rely on exact count alone"
+    },
+    {
+      "character": "Native-zone status",
+      "diospyros_texana": "PASS; Hays, Travis and Mason evidence",
+      "diospyros_virginiana": "UNRESOLVED for strict county threshold; Travis retained",
+      "priority": "Range metrics separate from species identification"
+    }
+  ],
+  "visual_comparison": {
+    "version": "2026-10-12-texas-american-persimmon-genus",
+    "title": "Texas persimmon vs American persimmon — five real-photo ID checks",
+    "subtitle": "See the contrast in actual bark and fruit photographs; arrows point to obvious visible parts, never imagined microscopic structures.",
+    "memory_rule": "TEXAS: smooth pale trunks + tiny rolled leaves + black fruit. AMERICAN: dark blocky bark + larger leaves + orange fruit.",
+    "items": [
+      {
+        "label": "TEXAS · SMOOTH BARK",
+        "scientific_name": "Diospyros texana",
+        "image_url": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros.bark.2.jpg",
+        "image_fit": "contain",
+        "image_role": "smooth pale trunk",
+        "caption": "Smooth gray bark with a mottled surface is a strong mature-tree cue. Not all small seedlings have this texture.",
+        "markers": [
+          {
+            "label": "smooth mottled trunk",
+            "label_x": 6,
+            "label_y": 12,
+            "target_x": 51,
+            "target_y": 40,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          }
+        ],
+        "creator": "UT Austin BIO406D",
+        "license": "External source, rights unverified; private-study only",
+        "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm"
+      },
+      {
+        "label": "AMERICAN · BLOCKY BARK",
+        "scientific_name": "Diospyros virginiana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Common_Persimmon_Bark.jpg/960px-Common_Persimmon_Bark.jpg",
+        "image_fit": "contain",
+        "image_role": "square-checked rough bark",
+        "caption": "Mature American persimmon often develops thick dark irregular blocks. Bark age matters: immature twigs may look less blocky.",
+        "markers": [
+          {
+            "label": "square bark plates",
+            "label_x": 7,
+            "label_y": 11,
+            "target_x": 50,
+            "target_y": 45,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          },
+          {
+            "label": "deep furrow",
+            "label_x": 71,
+            "label_y": 80,
+            "target_x": 51,
+            "target_y": 63,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          }
+        ],
+        "creator": "Jryandoherty",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Common_Persimmon_Bark.jpg"
+      },
+      {
+        "label": "TEXAS · ROLLED LEAF",
+        "scientific_name": "Diospyros texana",
+        "image_url": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros.texana.foliage.jpg",
+        "image_fit": "contain",
+        "image_role": "little alternate blades and edges rolled downward",
+        "caption": "Revolute means leaf edge bends under. Leaf underside looks paler, but the fine short hairs are too small to arrow here.",
+        "markers": [
+          {
+            "label": "small rounded blade",
+            "label_x": 5,
+            "label_y": 12,
+            "target_x": 35,
+            "target_y": 45,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          },
+          {
+            "label": "rolled edge",
+            "label_x": 66,
+            "label_y": 80,
+            "target_x": 55,
+            "target_y": 64,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          }
+        ],
+        "creator": "UT Austin BIO406D",
+        "license": "External source, rights unverified; private-study only",
+        "source_page": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm"
+      },
+      {
+        "label": "TEXAS · BLACK BERRY & SEEDS",
+        "scientific_name": "Diospyros texana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Texas_Persimmon_%28Diospyros_texana%29.JPG",
+        "image_fit": "contain",
+        "image_role": "green vs black fruit; isolated seeds",
+        "caption": "The same plant has black mature berries and green unripe fruit. Loose brown seeds sit below the twig; do not confuse them with berries.",
+        "markers": [
+          {
+            "label": "ripe BLACK fruit",
+            "label_x": 56,
+            "label_y": 54,
+            "target_x": 49,
+            "target_y": 27,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          },
+          {
+            "label": "green unripe fruit",
+            "label_x": 73,
+            "label_y": 11,
+            "target_x": 55,
+            "target_y": 19,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          },
+          {
+            "label": "seeds",
+            "label_x": 5,
+            "label_y": 72,
+            "target_x": 35,
+            "target_y": 64,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          }
+        ],
+        "creator": "Wyatt915",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Texas_Persimmon_(Diospyros_texana).JPG"
+      },
+      {
+        "label": "AMERICAN · ORANGE FRUIT/CALYX",
+        "scientific_name": "Diospyros virginiana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/DIOSPYROS_VIRGINIANA_calyx_atop_ripe_fruit.jpg",
+        "image_fit": "contain",
+        "image_role": "orange ripening fruit and conspicuous persistent green calyx",
+        "caption": "The lobes on top belong to the CALYX. Orientation depends on whether fruit is upright or turned upside down in hand.",
+        "markers": [
+          {
+            "label": "persistent calyx lobes",
+            "label_x": 57,
+            "label_y": 8,
+            "target_x": 57,
+            "target_y": 26,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          },
+          {
+            "label": "orange fruit",
+            "label_x": 7,
+            "label_y": 82,
+            "target_x": 48,
+            "target_y": 65,
+            "verification": "target chosen from visually inspected major structure, not an inferred tiny part"
+          }
+        ],
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:DIOSPYROS_VIRGINIANA_calyx_atop_ripe_fruit.jpg"
+      }
+    ],
+    "overlay_note": "Ten arrows point to visible bark, leaf, fruit, seed and calyx structures. Not suitable for declaring a flower's sex or measuring microscopically hairy leaf undersides. UT Austin originals are external private-study references, not rights-cleared reusable photographs. Commons photo attribution and licenses preserved.",
+    "study_only_photo_links": [
+      {
+        "label": "UT Texas persimmon full photo set",
+        "url": "https://www.sbs.utexas.edu/bio406d/images/pics/ebe/diospyros_texana.htm",
+        "look_for": "bark, alternate leaves, rolled margins, young berries",
+        "reuse": "link only; photographer/reuse rights pending"
+      },
+      {
+        "label": "NPSOT Texas persimmon overview",
+        "url": "https://www.npsot.org/posts/native-plant/diospyros-texana/",
+        "look_for": "dioecious description, seasonal traits, local habitat",
+        "reuse": "source study"
+      },
+      {
+        "label": "USDA FEIS Texas persimmon",
+        "url": "https://research.fs.usda.gov/feis/species-reviews/diotex",
+        "look_for": "Mason/Bexar exact locations, immature fruit, habitats",
+        "reuse": "source study"
+      }
+    ]
+  },
+  "reproductive_system_source_conflict": {
+    "status": "UNRESOLVED DIVERGENT AUTHORITIES",
+    "warning": "USDA FEIS/NPSOT say dioecious; UT A. C. Gibson Williamson Flora says monoecious. Do not insist that all Diospyros texana must be separate male/female trees without reconciling organism/sex expression.",
+    "sources": [
+      "https://w3.biosci.utexas.edu/prc/K12/pages/Diospyros%20texana.html",
+      "https://www.npsot.org/posts/native-plant/diospyros-texana/"
+    ]
+  },
+  "genus_card": {
+    "status": "live-both-existing-taxa-and-five-diagnostic-photo-panels",
+    "installed_species": [
+      "diospyros-texana",
+      "diospyros-virginiana"
+    ],
+    "important_confuser": "Crape myrtle's bark can be similarly smooth but has opposite leaves and a dry capsule; do not misidentify from bark alone.",
+    "photo_gaps": [
+      "matched underside leaf-hair macro",
+      "Texas persimmon staminate-vs-pistillate real flower photos",
+      "exact comparison of young/unripe fruit calyx",
+      "true mature texana bark photo with public re-use license",
+      "Joey original frames have source pointers but not installed"
+    ],
+    "native_metrics": "Texas PASS requires three qualifying counties; American persimmon remains range-unresolved"
+  }
+}

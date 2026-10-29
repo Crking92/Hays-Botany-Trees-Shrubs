@@ -1,0 +1,89 @@
+{
+  "id": "koelreuteria-paniculata",
+  "family": "Sapindaceae",
+  "genus": "Koelreuteria",
+  "species": "paniculata",
+  "scientific_name": "Koelreuteria paniculata",
+  "common_name": "Goldenrain tree",
+  "look_here_first": "Inspect compound or partially bipinnate leaves, large yellow flower panicles and inflated three-sided papery fruit capsules.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_056": "2026-10-18"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:783426-1",
+  "images": [
+    {
+      "file": "images/inat-315377405.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) M. Whitson, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/315377405",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/library-review056-c676dc3c14eff44.jpg",
+      "role": "Recognize · dry papery inflated fruit clusters on tree; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Papery inflated fruit capsule clusters and divided leaf form",
+      "creator": "Victor Engel",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/2429289217",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/52705423/original.jpg",
+      "source_determination": "Koelreuteria paniculata",
+      "source_observation_id": "2429289217",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/koelreuteria-paniculata/gbif-8f5bf89d71ceb3.jpg",
+      "archive_image_sha256": "cda6ae4a9ac8f367b5173e06822db862a0104d43df3173925c648be51ec07f65",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review056-0e6eac9993b8335.jpg",
+      "role": "Look closer · divided compound green foliage; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Papery inflated fruit capsule clusters and divided leaf form",
+      "creator": "Eric Knight",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5292159096",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19387764/original.jpeg",
+      "source_determination": "Koelreuteria paniculata",
+      "source_observation_id": "5292159096",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/koelreuteria-paniculata/gbif-80415bcccb5ba2.jpg",
+      "archive_image_sha256": "58a30dfce30af968c5b6f866a55b499cdbd3aecc6fa11b0ae2e54f808afd7ff4",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

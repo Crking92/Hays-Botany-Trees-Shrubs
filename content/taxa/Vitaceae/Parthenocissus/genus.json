@@ -1,0 +1,135 @@
+{
+  "rank": "genus",
+  "family": "Vitaceae",
+  "name": "Parthenocissus",
+  "common_group": "Virginia creepers",
+  "project_scope": {
+    "source": "Master Plant Pool rows 821–823, verified 2026-10-11",
+    "taxa": [
+      "Parthenocissus heptaphylla",
+      "Parthenocissus inserta",
+      "Parthenocissus quinquefolia"
+    ],
+    "canonical_species_ids": [],
+    "note": "Genus teaching only; no species installation"
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Find a leaf-opposed tendril, then examine several mature palmately compound leaves, tendril tips, and a whole flowering cluster.",
+    "shared_traits": [
+      "Woody climbing or scrambling vines in Vitaceae with alternate leaves.",
+      "Palmately compound toothed leaves in this source-pool trio.",
+      "Leaf-opposed branched tendrils and small flowers in branched clusters; dark berries."
+    ],
+    "family_comparison": "Vitis typically has simple leaves and petals shed as a cap; Parthenocissus has free petals and compound leaves."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "Leaflets",
+      "heptaphylla": "Usually 7, thick/fleshy, 3–5 × 1–2 cm",
+      "inserta": "Usually 5, thin, 4–10 × 2–4 cm (FNA P. vitacea concept)",
+      "quinquefolia": "Usually 5, thin, 6–12 × 2–5 cm"
+    },
+    {
+      "character": "Tendrils",
+      "heptaphylla": "3–5 branches, without adhesive discs",
+      "inserta": "2–5 branches, usually without discs (FNA P. vitacea concept)",
+      "quinquefolia": "4–12 branches, with adhesive discs"
+    },
+    {
+      "character": "Inflorescence",
+      "heptaphylla": "Forking without distinct central axis",
+      "inserta": "Forking without distinct central axis",
+      "quinquefolia": "Divergently branched with central axis"
+    },
+    {
+      "character": "Mature berries",
+      "heptaphylla": "6–10 mm diameter",
+      "inserta": "6–12 mm diameter (FNA P. vitacea concept)",
+      "quinquefolia": "4–8 mm diameter"
+    },
+    {
+      "character": "Leaflet surface",
+      "heptaphylla": "Thick, lustrous",
+      "inserta": "Thin, often lustrous",
+      "quinquefolia": "Thin, usually dull"
+    }
+  ],
+  "field_steps": [
+    "Count leaflets on several mature leaves and examine thickness; seven thin leaflets alone do not confirm P. heptaphylla.",
+    "Count tendril branches and check contact tips for adhesive pads.",
+    "Trace inflorescence branching for a distinct central axis versus repeated forks.",
+    "Measure several mature berries; use sizes as supporting evidence only."
+  ],
+  "overlap_cautions": [
+    "P. quinquefolia can have seven leaflets, and young tendrils may lack developed adhesive discs.",
+    "Fruit sizes overlap; use multiple structural characters.",
+    "Flora of North America treats P. inserta as a synonym of P. quinquefolia while applying P. vitacea to the largely disc-less woodbine; Go Botany uses P. inserta for the disc-less concept. Preserve the source-pool name pending targeted taxonomic review.",
+    "Do not infer native-range PASS or canonical species installation from this genus lesson."
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Vitis spp.",
+      "separator": "Usually simple leaves and flowers with petals forming a cap."
+    },
+    {
+      "taxon": "Toxicodendron radicans",
+      "separator": "Typically three leaflets and climbing rootlets, not leaf-opposed tendrils."
+    },
+    {
+      "taxon": "Parthenocissus tricuspidata",
+      "separator": "Ornamental species usually with simple three-lobed leaves rather than five to seven separate leaflets."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "matched_leaf",
+      "show": "Three species, ruler, leaflet count, blade thickness and teeth."
+    },
+    {
+      "role": "tendril_tip",
+      "show": "Node to tendril tip with branch count and attachment discs or their absence."
+    },
+    {
+      "role": "inflorescence",
+      "show": "Whole clusters with central axis versus dichotomous forks labeled."
+    },
+    {
+      "role": "ripe_berry",
+      "show": "Multiple ripe fruits measured in millimeters."
+    },
+    {
+      "role": "leaflet_surface",
+      "show": "Matched upper leaf surfaces and edge views."
+    },
+    {
+      "role": "lookalike_nodes",
+      "show": "Compare Parthenocissus tendril to Vitis node and poison ivy climbing rootlets."
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "question": "Reconcile P. inserta source-pool concept against FNA P. vitacea/P. quinquefolia and Go Botany P. inserta before any separate canonical card."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "question": "Three source-pool names not in manifest; install only after identity checks, keeping P. inserta pending name mapping."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "question": "Find licensed, verified diagnostic views for tendrils, mature leaflets, branching flower clusters, and berries."
+    }
+  ],
+  "sources": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=124105",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101317",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416947",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=220009987",
+    "https://gobotany.nativeplanttrust.org/dkey/parthenocissus/"
+  ],
+  "curation_status": {
+    "last_reviewed": "2026-10-11",
+    "visual_status": "diagnostic photos pending",
+    "canonical_installs": "none"
+  }
+}

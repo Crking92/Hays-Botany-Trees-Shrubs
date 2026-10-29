@@ -1,0 +1,18 @@
+Scientific provenance retained in species.json citations. This batch changes media only.
+
+PHOTO FAST-FILL 014
+Existing project/Joey audit: no exact saved Joey frame for either species. Bur oak reviewed draft NRCS image reused; other prior bur-oak remote references had unverified reuse rights. Sycamore draft has no image candidate.
+01-leaves.jpg | Lobed leaves | Katja Schulz | CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Platanus_occidentalis_Leaves_-_Flickr_-_treegrow_(3).jpg
+https://creativecommons.org/licenses/by/2.0/
+Rock Creek Park, Washington DC; Flickr photo 22700248700.
+02-bark.jpg | Mottled exfoliating bark | Judy Gallagher | CC BY 2.0
+https://commons.wikimedia.org/wiki/File:American_Sycamore_bark_-_Platanus_occidentalis,_Leesylvania_State_Park,_Woodbridge,_Virginia.jpg
+https://creativecommons.org/licenses/by/2.0/
+Leesylvania State Park, Virginia; Flickr photo 24302117175.
+03-fruit-head.jpg | Detached fruit head | Ryan Hodnett | CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:American_Sycamore_(Platanus_occidentalis)_Fruit_-_London,_Ontario_2015-04-04.jpg
+https://creativecommons.org/licenses/by-sa/4.0/
+Fruit caught in branches of another tree in London Ontario; supports fruit morphology, not sycamore twig/attachment.
+
+Binary visual QA: Three licensed physical photographs verified: lobed autumn leaves, mottled exfoliating bark and a detached spherical fruit head. Surrounding twigs in the fruit photograph belong to another tree; do not use them as sycamore twig evidence. Whole-tree habit remains follow-up.

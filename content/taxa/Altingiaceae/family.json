@@ -1,0 +1,120 @@
+{
+  "rank": "family",
+  "name": "Altingiaceae",
+  "common_name": "Sweetgum family",
+  "lineage_context": {
+    "order": "Saxifragales",
+    "batch": "Saxifragales",
+    "close_project_families": [
+      "Crassulaceae",
+      "Haloragaceae",
+      "Grossulariaceae"
+    ],
+    "teaching_goal": "Use alternate star-shaped leaves, monoecious spherical flower heads and a woody multiple fruit of capsules to define the sweetgum branch."
+  },
+  "project_scope": {
+    "selection_mode": "Liquidambar styraciflua-centered project module",
+    "note": "Altingiaceae is monogeneric under current Kew, containing Liquidambar."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the alternate palmately lobed star-shaped leaves, then look for separate male and female spherical inflorescences on the same tree. The female head matures into the familiar woody spiky sweetgum ball.",
+    "vegetative": "Deciduous resinous trees; leaves alternate, palmately 3–7-lobed with palmate venation; small deciduous stipules present.",
+    "reproductive": "Monoecious. Male flowers occur in clusters along terminal racemes; female flowers form pendent globose heads. Perianth is very reduced; ovary is semi-inferior/inferior, 2-locular with 2 persistent styles.",
+    "fruit": "A spherical multiple fruit composed of many woody septicidal capsules with hardened persistent styles; seeds numerous and often winged.",
+    "field_tip": "Alternate star leaf + hanging spherical female head + woody spiky capsule-ball = Altingiaceae/Liquidambar."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_017",
+    "teaching_order": "star leaf → male vs female heads → persistent paired styles → woody multiple fruit → Platanus comparison",
+    "intro": "Sweetgum is a whole-inflorescence fruit lesson: the spiky ball is not one fruit but a cluster of many capsules.",
+    "steps": [
+      {
+        "title": "1 · Start with the alternate star-shaped leaf",
+        "photo_role": "leaf + twig node",
+        "look_for": "Palmately lobed leaf on an alternate node, not opposite.",
+        "why_it_matters": "This immediately helps separate sweetgum from maples.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Split male and female flower heads",
+        "photo_role": "male raceme + female globose head",
+        "look_for": "Male stamen clusters in a terminal raceme; female flowers in separate pendent spherical heads.",
+        "why_it_matters": "Shows the monoecious reproductive architecture before fruit forms.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "3 · Find the two persistent styles",
+        "photo_role": "female head/capsule macro",
+        "look_for": "Each capsule unit bears paired style remnants that harden into the spikes of the mature ball.",
+        "why_it_matters": "Explains where the 'spikes' of a sweetgum ball come from.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Break down the sweetgum ball",
+        "photo_role": "mature multiple fruit dissected",
+        "look_for": "Many individual woody capsules packed into one spherical head, each releasing small seeds.",
+        "why_it_matters": "Prevents calling the entire ball a single capsule.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Altingiaceae vs Platanaceae",
+        "rule": "Both can have large palmately lobed leaves and ball-like fruits. Sweetgum leaves are alternate and its ball is a woody cluster of capsules with hard style spikes; Platanus has mottled bark and fuzzy achene heads."
+      },
+      {
+        "title": "Altingiaceae vs Acer",
+        "rule": "Sweetgum leaves are alternate; maples are opposite. Fruit also differs: sweetgum capsule balls versus paired samaras."
+      }
+    ],
+    "caveat": "Leaf shape alone is not enough—maples and sycamores can look similar. Use leaf arrangement plus fruit architecture."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Liquidambar",
+        "fast_cue": "alternate star-shaped leaves + spherical female heads + woody spiky multiple fruit",
+        "role": "sole family/project genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "female head with paired styles",
+      "annotation_goal": "show how each capsule contributes two spikes"
+    },
+    {
+      "priority": 1,
+      "structure": "sweetgum ball dissection",
+      "annotation_goal": "label multiple individual capsules"
+    },
+    {
+      "priority": 1,
+      "structure": "alternate leaf node",
+      "annotation_goal": "contrast against opposite Acer"
+    },
+    {
+      "priority": 2,
+      "structure": "Sweetgum vs Platanus fruit",
+      "annotation_goal": "woody capsule-ball vs fuzzy achene ball"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Altingiaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60463114-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Liquidambar",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30008300-2"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-017",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "sweetgum_family_door_live_multiple_fruit_macro_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

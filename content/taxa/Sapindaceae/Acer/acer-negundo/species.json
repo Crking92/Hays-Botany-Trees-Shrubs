@@ -1,0 +1,104 @@
+{
+  "id": "acer-negundo",
+  "entry_type": "species",
+  "family": "Sapindaceae",
+  "genus": "Acer",
+  "species": "negundo",
+  "scientific_name": "Acer negundo",
+  "authority": "L.",
+  "common_name": "Boxelder / box elder maple",
+  "synonyms": [
+    "Negundo aceroides Moench",
+    "Negundo negundo (L.) H.Karst."
+  ],
+  "taxonomic_note": "Kew/POWO accepts Acer negundo L. and also recognizes several accepted infraspecific taxa, including A. negundo var. texanum. The Bexar County voucher used here is var. texanum and therefore supports the species-level A. negundo learner concept without creating a second species.",
+  "look_here_first": "Start with the opposite compound leaves: boxelder is a maple that often looks like an ash. Then confirm the paired V-shaped samaras. In season, note that the tree is dioecious and the small flowers lack petals.",
+  "county_occurrences_target_zone": [
+    "Williamson",
+    "Travis",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Williamson — UT Plant Resources Center provides a detailed Vascular Plants of Williamson County treatment. Travis — USDA ARS Biocollections records a non-cultivated specimen from Hornsby Bend of the Colorado River in Travis County. Bexar — San Antonio Missions National Historical Park documents native Acer negundo var. texanum in riparian woodland with voucher Carr 19874; that accepted infraspecific record supports species-level Acer negundo.",
+    "range_guardrail": "Do not use generic Central Texas ecosystem presence as a substitute for county records. Bexar evidence is explicitly a voucher of accepted infraspecific A. negundo var. texanum and is valid for the species-level learner concept."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "winter-deciduous riparian tree",
+      "leaves opposite and usually odd-pinnately compound with 3 or 5 leaflets",
+      "leaflets variably lobed or unlobed, often coarsely serrate",
+      "no stipules",
+      "dioecious: staminate and pistillate flowers occur on separate trees",
+      "flowers small and apetalous",
+      "pistillate ovary develops two conspicuous wings",
+      "fruit splits into a paired set of one-seeded winged mericarps/samaras, commonly hanging in a V"
+    ],
+    "leaves": "Opposite compound leaves are the first clue. This is unusual-looking for a maple and is why boxelder is often mistaken for an ash.",
+    "flower": "Flowers are small and lack a corolla. Male and female flowers occur on separate trees.",
+    "fruit": "The fruit is a schizocarp of two winged one-seeded mericarps, producing the familiar paired maple samara.",
+    "field_tip": "When a tree has opposite compound leaves, check the fruit before calling it an ash. Paired samaras point to Acer negundo; Fraxinus produces single samaras."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Fraxinus pennsylvanica",
+      "Fraxinus americana var. texensis",
+      "other ashes",
+      "young compound-leaved Sapindaceae"
+    ],
+    "key_distinctions": "Boxelder and ashes both have opposite compound leaves. Boxelder confirms itself with paired maple samaras; ashes produce single samaras. Boxelder flowers are apetalous and the paired winged ovary/fruit architecture is the stronger tie-breaker."
+  },
+  "tags": [
+    "Sapindaceae",
+    "Acer",
+    "boxelder",
+    "box elder maple",
+    "paired samara",
+    "riparian",
+    "Central Texas",
+    "Visual learner"
+  ],
+  "curation_status": {
+    "version": "1.0-sapindaceae-third-anchor",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "The Sapindaceae family lesson already contains a rights-cleared paired-samara reference. Exact local habit/leaf/bud photo files can be added during later visual polish.",
+  "images": [
+    {
+      "file": "images/01-paired-samaras.jpg",
+      "role": "Paired V-shaped samaras; strongest reproductive confirmation against ash",
+      "creator": "Gmihail",
+      "license": "CC BY-SA 3.0 Serbia",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Negundo_samaras.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-compound-leaves-samaras.jpg",
+      "role": "Compound leaf/branch context with hanging samaras",
+      "creator": "cjosefson",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/guide_taxa/627788",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-woody-branch-variable-leaflets.jpg",
+      "role": "Woody branch/bark context with characteristic variable boxelder leaflets",
+      "creator": "dackerly",
+      "license": "CC BY-NC-SA",
+      "source_page": "https://www.inaturalist.org/guide_taxa/627788",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "vitis-mustangensis",
+  "entry_type": "species",
+  "family": "Vitaceae",
+  "genus": "Vitis",
+  "species": "mustangensis",
+  "scientific_name": "Vitis mustangensis",
+  "authority": "Buckley",
+  "common_name": "mustang grape",
+  "synonyms": [
+    "Vitis candicans Engelm. ex A.Gray",
+    "Vitis mustangensis var. diversa (L.H.Bailey) Shinners"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO. Older Texas literature often used Vitis candicans; current learner uses Vitis mustangensis.",
+  "look_here_first": "Flip the leaf first. Mustang grape has a dense white-to-rusty woolly tomentum on the lower surface that essentially hides the blade surface and veins. Then confirm broad heart- to kidney-shaped leaves and large dark berries usually 12 mm or more.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — UT Plant Resources Center Purola Preserve lists Vitis mustangensis among plants occurring naturally and not introduced. Travis County — Texas A&M AgriLife Travis County describes Mustang grape as a wild grape growing in Austin/Travis greenbelts and wild areas. Williamson County — UT Plant Resources Center provides a detailed field-based treatment of Vitis mustangensis.",
+    "range_guardrail": "Do not infer county nativity from planted vineyard/rootstock material."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "vigorous high-climbing woody vine with shredding bark",
+      "young branchlets densely to sparsely tomentose",
+      "leaves broad cordate to nearly reniform, usually unlobed or shallowly lobed but sometimes deeply 3–5-lobed on vigorous shoots",
+      "leaf underside densely white to rusty tomentose, surface largely concealed by hairs",
+      "upper leaf surface becomes green and much less hairy",
+      "tendrils or inflorescences occur opposite leaves and at only two consecutive nodes",
+      "berries usually black or dark red, slightly or not glaucous, commonly 12+ mm",
+      "berry skin separates from pulp"
+    ],
+    "comparison_training": "Vitis berlandieri: Lower leaf surface is visible and only sparsely hairy to nearly glabrous in V. berlandieri; its fruit is more strongly glaucous and clusters are shorter/compact. Vitis cinerea: V. cinerea has a visible gray/green lower leaf surface with webby and short hairs rather than the solid white felt of V. mustangensis, and its berries are much smaller. Vitis palmata: V. palmata has uniformly red/purplish branchlets and usually deeply lobed glabrous leaves, not a white-felted underside."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Vitis berlandieri",
+      "Vitis cinerea",
+      "Vitis palmata"
+    ],
+    "key_distinctions": "Lower leaf surface is visible and only sparsely hairy to nearly glabrous in V. berlandieri; its fruit is more strongly glaucous and clusters are shorter/compact. V. cinerea has a visible gray/green lower leaf surface with webby and short hairs rather than the solid white felt of V. mustangensis, and its berries are much smaller. V. palmata has uniformly red/purplish branchlets and usually deeply lobed glabrous leaves, not a white-felted underside."
+  },
+  "tags": [
+    "Vitaceae",
+    "Vitis",
+    "mustang grape",
+    "Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b025",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.\n13 Oct 2026 photo enrichment: two additional exact-species reusable photographs. No range or species taxonomy modification; fine detail macros and arrows still pending.",
+  "images": [
+    {
+      "file": "images/vitis-mustangensis-provisional-face.jpg",
+      "role": "Vine / fruit recognizable face",
+      "creator": "Ddal",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_mustangensis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/vitis-mustangensis-comal-habit.jpg",
+      "role": "Natural climbing vine/tangled habitat architecture, Comal County Texas; not an underside macro",
+      "creator": "Larry D. Moore",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grape_Vines_Honey_Creek_SNA_Texas_2023.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/vitis-mustangensis-north-texas-leaves.jpg",
+      "role": "Exact-species Texas foliage field photograph; flip-leaf wool microscopy still needed",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:VItis_mustangensis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_enrichment",
+    "image_count": 3,
+    "filled_at": "2026-10-06",
+    "note": "Three real licensed photographs intended after curation; original plus two targeted additional views. Physical count must be verified in final pipeline report."
+  }
+}

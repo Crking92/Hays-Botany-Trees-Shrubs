@@ -1,0 +1,115 @@
+{
+  "id": "prunus-rivularis",
+  "entry_type": "species",
+  "family": "Rosaceae",
+  "genus": "Prunus",
+  "species": "rivularis",
+  "scientific_name": "Prunus rivularis",
+  "authority": "Scheele",
+  "common_name": "Creek plum",
+  "synonyms": [
+    "Prunus rivularis var. pubescens Enquist"
+  ],
+  "taxonomic_note": "Accepted at species rank as Prunus rivularis Scheele. The reviewed var. pubescens concept is treated as a heterotypic synonym for county-evidence mapping; do not automatically merge all Prunus murrayana records.",
+  "look_here_first": "Start with growth form and the short flowering shoots: creek plum is a clonal, thicket-forming shrub with alternate simple serrate leaves, small white flower clusters on short shoots, and rounded single-stoned plum fruits. Check leaf-margin glands when present, but do not require them on older leaves because they can be shed.",
+  "county_occurrences_target_zone": [
+    "Kerr",
+    "Concho",
+    "Edwards"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "learner_admission_status": "APPROVED",
+    "learner_range_label": "confirmed_target_native",
+    "range_basis": "B159 review: Kerr supported by a published herbarium voucher; Concho and Edwards supported under the reviewed P. rivularis var. pubescens synonym in expert Texas county-flora literature.",
+    "range_guardrail": "Williamson is outside the project target zone. The known Hays occurrence used in earlier discussion is introduced and is not counted as native-range evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "clonal thicket-forming shrub with spreading shallow roots",
+      "alternate simple leaves with toothed margins",
+      "leaf-margin glands may be present but can be shed as leaves mature",
+      "small white flower clusters borne on short shoots",
+      "rounded drupe with a single hard stone",
+      "reviewed UT local treatment describes shoots as not spinescent; do not teach universal thorniness"
+    ],
+    "leaves": "Alternate, simple and serrate; glands may occur near the margin but absence on mature leaves is not decisive.",
+    "flower": "Small white Prunus flowers clustered on short shoots; confirm the plum/cherry floral plan rather than relying on color.",
+    "fruit": "Rounded plum-like drupe containing one stone.",
+    "habit": "Usually a clonal thicket-forming shrub rather than the small-tree habit typical of Mexican plum."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Prunus mexicana",
+      "Prunus angustifolia",
+      "Prunus serotina"
+    ],
+    "key_distinctions": "Use clonal shrub habit, short-shoot flower arrangement, leaf characters and mature drupe together. Mexican plum is typically a small tree; black cherry develops raceme-type flower/fruit clusters. Do not separate creek plum from Chickasaw plum by range alone."
+  },
+  "tags": [
+    "Rosaceae",
+    "Prunus",
+    "Creek plum",
+    "River plum",
+    "Hog plum",
+    "thicket",
+    "drupe",
+    "Visual learner"
+  ],
+  "curation_status": {
+    "version": "1.0-approved-installer-b159",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/prunus-rivularis-provisional-face.jpg",
+      "role": "Small 800px image of creek plum from Commons; recognizable photo, better local habit/fruit macros later.",
+      "creator": "Amirza360",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Prunus_Rivularis.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/gbif-manual-6179199395-d79c89bcb.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Thicket habit, leaf margins with possible glands and rounded plum fruit on short shoots",
+      "creator": "Jo Roberts",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6179199395",
+      "gbif_occurrence_id": "6179199395",
+      "source_determination": "Prunus rivularis Scheele",
+      "accepted_target": "Prunus rivularis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624022615/original.jpg",
+      "image_dimensions": [
+        1350,
+        1013
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-08",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

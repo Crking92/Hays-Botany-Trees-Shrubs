@@ -1,0 +1,415 @@
+{
+  "id": "hydrocotyle-bonariensis",
+  "family": "Araliaceae",
+  "genus": "Hydrocotyle",
+  "species": "bonariensis",
+  "scientific_name": "Hydrocotyle bonariensis",
+  "authority": "Comm. ex Lam.",
+  "common_name": "Largeleaf pennywort",
+  "common_names": [
+    "Largeleaf pennywort",
+    "Dune pennywort",
+    "Seaside pennywort"
+  ],
+  "entry_type": "species",
+  "project_inclusion": {
+    "learner_admission_status": "USER_REQUESTED_COMPARISON_PROVISIONAL",
+    "source_pool": "User-directed three-way Hydrocotyle look-alike field ID pass, 2026-10-20 (not previously in canonical learner)",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true,
+    "reason": "Kew lists native to Texas at state level, but no BONAP/NAPA native-target county review and user has asked to defer county audits."
+  },
+  "taxonomy_source": "https://powo.science.kew.org/taxon/125117-2",
+  "taxonomic_note": "Hydrocotyle bonariensis Comm. ex Lam. is accepted by Kew POWO. Crucial: Kew currently treats the older name H. verticillata var. triradiata (A.Rich.) Fernald as a synonym of H. bonariensis, although some Texas manuals and local UT treatments continue using H. verticillata var. triradiata. This is an authentic disagreement among sources. Do not silently rewrite H. verticillata, treat photos labeled var. triradiata as verified bonariensis, or declare local native provenance without reviewing vouchers and BONAP county maps.",
+  "look_here_first": "DON'T USE THE ROUND LEAVES TO SPECIES-ID. Find the WHOLE FLOWERING STALK. Largeleaf/dune pennywort has a COMPOUND, proliferating inflorescence: a long main flowering peduncle terminates in a primary umbel of several rays, AND those rays themselves carry whorls of little flowers or fruits along their length—like tiny branching miniature whorled stems. Compare H. umbellata (mostly one crowded simple terminal many-flowered cluster) and H. verticillata (interrupted whorls largely arranged along a single main flowering axis). Capture the primary BRANCH POINT plus an entire secondary ray; any ambiguous or sterile specimen stays Hydrocotyle sp. or a cautious species complex.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "Creeping perennial rhizomatous wetland/sandy-ground herb rooting at nodes, with many erect petioles and round leaves elevated above the substrate.",
+      "Large orbicular or slightly kidney-rounded PELTATE leaves; the petiole inserts on the UNDERSIDE within the perimeter rather than into an open basal sinus. Shallow crenate/scalloped margins and palmate veins radiate from insertion point.",
+      "Reproductive stalk is typically LONGER than associated leaf petiole, ending in a branching PROLIFEROUS / COMPOUND umbel rather than a single crowd of little white flowers.",
+      "In a well-developed flowering stalk, ~5–7 primary rays diverge near the tip, and EACH RAY can elongate into its own verticillate flowering axis with several spaced little rings of flowers/fruits. Look for more than one secondary branch.",
+      "Five very small whitish to cream petals on individual flowers; observe delicate thread-like pedicels rather than interpreting small round green buds as fruit without a close-up.",
+      "Mature flattened oval-to-ellipsoid schizocarps break into paired one-seeded mericarps; base often cordate (heart-shaped notch) with pronounced dorsal/lateral ribs and a longish style, but final fruit ID needs a macro and scale.",
+      "Under an alternate taxonomy, some Texas plants named H. verticillata var. triradiata fall within bonariensis at Kew. Older name and source photos require extra voucher scrutiny."
+    ],
+    "habit": "Glabrous to nearly hairless perennial with slender rooting stolons/rhizomes; may form broad vegetative mats in moist sandy soils, dune depressions, wetlands, ditches, and intermittently saturated edges.",
+    "leaf_arrangement": "Alternate on runners; foliage from closely spaced stem nodes can look rosetted.",
+    "leaf": "Simple peltate approximately circular blades, shallowly crenate/scalloped and palmately veined; sources often describe ~3–8 cm diameter, but size variable and strongly overlapping with other Hydrocotyle, so not a sole key.",
+    "petiole": "Long, round slender stalk fastened centrally or subcentrally beneath the blade. Typical botanical references describe petioles around 7–20 cm, sometimes much longer.",
+    "leaf_attachment": "Peltate: show underside of round blade where petiole physically connects within margin. Top-side vein radiations alone are not a fully verified underside photograph.",
+    "stem": "Creeping rhizomes running at or below soil surface, with fine roots from nodes. To document, gently lift a rooted section and photograph several connected nodes without unnecessary habitat disturbance.",
+    "inflorescence": "Proliferous, compound, umbel-derived axis: primary long peduncle ends in an umbel with multiple primary rays, each developing separated verticillate flower or fruit tiers. Kew POWO general information (Flora Zambesiaca) explicitly describes ~5–7 rays and each ray becoming a verticillate raceme.",
+    "reproductive_stalk": "The whole flower axis generally longer than subtending leaf petiole. A photo of the terminal head only CANNOT confirm compound branching; reveal the main umbel branchpoint and distal secondary rays.",
+    "flowers": "Tiny, bisexual white to cream 5-petaled flowers; slender pedicels (1–20 mm reported in Flora Zambesiaca concept), whorled with slender acute bracteoles subtending flower clusters.",
+    "fruit": "Laterally flattened ellipsoid schizocarps with paired mericarps; base cordate and ribs often prominent, mature fruit reddish-brown or slightly wrinkled. Require millimeter scale and true botanical orientation before labeling ribs/styles.",
+    "habitat": "Coastal dune slacks and wet sand are particularly typical; also marsh depressions and intermittently flooded ponds/ditches. Texas state-level native distribution per Kew; this does not establish inland Hays County occurrence.",
+    "season": "Generally flowers in warmer moist months, but vary by locale; no unsupported Hays County seasonal guarantee.",
+    "field_caution": "H. umbellata, H. verticillata, H. bonariensis can look like the same plant if photographed leaf-only; fertile whole axes and well-identified specimens are essential."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Hydrocotyle umbellata",
+      "Hydrocotyle verticillata",
+      "Hydrocotyle ranunculoides",
+      "Centella erecta",
+      "Centella asiatica",
+      "Dichondra carolinensis",
+      "Dichondra recurvata",
+      "Phyla nodiflora",
+      "Calyptocarpus vialis"
+    ],
+    "field_comparison_matrix": [
+      {
+        "taxon": "Hydrocotyle bonariensis",
+        "key_feature": "COMPOUND umbel. Primary rays spread, then become secondary axes with individual spaced flower/fruit whorls.",
+        "shared_leaf": "Circular peltate scalloped leaf; similar to other pennyworts",
+        "confidence": "Branchpoint plus separate whorled secondary axis is strongest teaching target; fruit needed in ambiguous plants"
+      },
+      {
+        "taxon": "Hydrocotyle umbellata",
+        "key_feature": "Mostly SIMPLE, crowded terminal cluster with 15–35+ small flowers; rare extra tiers.",
+        "shared_leaf": "Circular peltate scalloped leaf",
+        "confidence": "Scan whole flower axis; one head can mislead"
+      },
+      {
+        "taxon": "Hydrocotyle verticillata",
+        "key_feature": "Small discrete whorls arranged along an interrupted spike/raceme; pedicels often shorter, axes may rarely branch.",
+        "shared_leaf": "Circular peltate scalloped leaf",
+        "confidence": "Kew synonymizes historical var. triradiata with H. bonariensis. Plant voucher/ray branch pattern required."
+      },
+      {
+        "taxon": "Hydrocotyle ranunculoides",
+        "key_feature": "Peltate false: deeply notched leaf with petiole joined at OPEN basal sinus; floating habit common.",
+        "shared_leaf": "Round broadly lobed",
+        "confidence": "Photograph underside/base of a leaf; no guess by habitat alone"
+      },
+      {
+        "taxon": "Centella erecta",
+        "key_feature": "Kidney-shaped or crenate blade, petiole attached at BASAL notch rather than peltate center; tiny low flower groups.",
+        "shared_leaf": "Low wet-ground mat",
+        "confidence": "Trace petiole actual insertion"
+      },
+      {
+        "taxon": "Centella asiatica",
+        "key_feature": "Non-peltate kidney blade, small hidden umbels, provenance uncertain in inland native zone.",
+        "shared_leaf": "Rounded, scalloped",
+        "confidence": "Not a default county-native label"
+      },
+      {
+        "taxon": "Dichondra carolinensis",
+        "key_feature": "Kidney leaf with entire smooth margin and petiole at edge notch; solitary tiny greenish cup flowers, not branched umbels.",
+        "shared_leaf": "Creeping groundcover",
+        "confidence": "Follow runner and reveal flower"
+      },
+      {
+        "taxon": "Dichondra recurvata",
+        "key_feature": "Nonpeltate mostly entire leaves; tiny solitary flower, fruit stalk recurved near tip.",
+        "shared_leaf": "Low creeping mat",
+        "confidence": "Requires small flower/fruit close-up"
+      },
+      {
+        "taxon": "Phyla nodiflora",
+        "key_feature": "OPPOSITE leaves and raised lilac-white flower button; no peltate circular leaf.",
+        "shared_leaf": "Wet open grass/lawn edges",
+        "confidence": "Easy once flowering"
+      },
+      {
+        "taxon": "Calyptocarpus vialis",
+        "key_feature": "OPPOSITE toothed leaves and yellow composite heads.",
+        "shared_leaf": "Low mat in turf",
+        "confidence": "Yellow Asteraceae head is diagnostic"
+      }
+    ],
+    "crew_quick_key": [
+      "1. Round leaf? Prove peltate petiole insertion by flipping one whole blade. If not, check Centella, Dichondra or H. ranunculoides.",
+      "2. Follow complete reproductive axis: one crowded dense upper flower group → H. umbellata.",
+      "3. One main axis with separated, small flower rings → investigate H. verticillata.",
+      "4. Several PRIMARY rays branching, EACH carrying more little flower/fruit rings along its own axis → investigate H. bonariensis.",
+      "5. When flower axes are incomplete or historical var. triradiata labels appear, retain Hydrocotyle sp. / taxonomic HOLD until a measured reproductive collection settles it."
+    ],
+    "warning": "Branching can occur in more than one Hydrocotyle, and historical varieties are not aligned across floras. This three-way key is a teaching heuristic, not a guarantee of correct species for all Texas populations."
+  },
+  "family_genus_teaching": {
+    "family": "Araliaceae (order Apiales); some older keys place Hydrocotyle within Apiaceae. Flowers very small with five free petals and an inferior ovary; ripe fruit a flattened schizocarp comprising two one-seeded mericarps.",
+    "genus": "Hydrocotyle: creeping wet or sandy-ground herbs, round often peltate leaves and tiny umbels/verticils; fruit/reproductive branching stronger for species than leaf diameter.",
+    "species": "H. bonariensis: the key feature is a compound, branching proliferous umbel with primary rays whose distal portions carry whorls of separate flowers/fruits.",
+    "crew_question": "Can you show the junction of the MAIN flower stalk into multiple RAYS, then a ray bearing its own separated flower/fruit whorls? If not, don't force bonariensis."
+  },
+  "ecological_notes": {
+    "native_range": "Texas is in Kew's state/native range; BONAP/NAPA Hays County and target western counties NOT screened. Status remains unresolved; no native-score inclusion.",
+    "habitat": "Commonly wet coastal sand/dune slack species but also on marshy or periodically flooded margins; habitat information from regional botanical guides, not proof of inland local occurrence.",
+    "management": "Potential low creeping cover; avoid introducing unconfirmed inland coastal provenance into conservation restoration until target-area native evidence and source genetics are checked.",
+    "host_insects": "No species-specific Lepidoptera or specialist bee scores verified, do not invent them."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "role": "Whole compound branching umbel",
+      "status": "INSTALLED 2 CC BY primary-umbel-rayed photos with manually checked arrows; distal ray whorls not fully illustrated",
+      "needed": "Main flowering stalk branching into primary rays with SECONDARY whorled axes visibly attached."
+    },
+    {
+      "priority": "critical",
+      "role": "Compare vs H. verticillata",
+      "status": "SEARCHING",
+      "needed": "Same-scale photographs of true compound branching versus interrupted simple whorled spike; source taxonomy verified."
+    },
+    {
+      "priority": "high",
+      "role": "Leaf underside insertion",
+      "status": "INSTALLED CC BY clear underside petiole attachment image, arrow validated",
+      "needed": "Flip leaf, show petiole joining underside away from blade margin and radiating veins."
+    },
+    {
+      "priority": "high",
+      "role": "Mature fruit and ribs",
+      "status": "ONLY developing reproductive bodies; mature paired mericarps and mm scale not verified",
+      "needed": "Ripe schizocarp with two flattened mericarps, rib profile and scale in mm."
+    },
+    {
+      "priority": "high",
+      "role": "Whole mat and rhizome",
+      "status": "INSTALLED whole habit photo; actual rooted rhizome node still unproven",
+      "needed": "Peltate leaf habitat, rooting rhizome/node evidence."
+    },
+    {
+      "priority": "high",
+      "role": "Individual white flowers",
+      "status": "INSTALLED CC BY 5-petaled flower macro",
+      "needed": "Macro of 5-petaled blossoms and narrow flower pedicels; separate calyx from petal."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Kew POWO, accepted name, native Texas, synonymy",
+      "url": "https://powo.science.kew.org/taxon/125117-2"
+    },
+    {
+      "source": "Kew POWO, reproductive architecture",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:125117-2/general-information"
+    },
+    {
+      "source": "Kew POWO, historic verticillata var triradiata synonym",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1105522-2"
+    },
+    {
+      "source": "NCSU voucher-based floral key",
+      "url": "https://repository.lib.ncsu.edu/bitstreams/190129e6-bf3c-46d3-a74f-5f1c4794763b/download"
+    },
+    {
+      "source": "Texas A&M Galveston field descriptions",
+      "url": "https://txmarspecies.tamug.edu/vegdetails.cfm?scinameID=Hydrocotyle+bonariensis"
+    },
+    {
+      "source": "Go Botany, pennywort genus",
+      "url": "https://gobotany.nativeplanttrust.org/dkey/hydrocotyle/"
+    },
+    {
+      "source": "BONAP taxon and county review (not completed)",
+      "url": "https://www.bonap.net/TDC/"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/sunasak-688462223-low-mat.jpg",
+      "role": "Recognize it — damp-ground/grass mat of circular peltate leaves and young flower clusters; exact Texas source research-grade, rhizome nodes not visible.",
+      "creator": "(c) Sue Ann Kendall, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual iNaturalist photo object license_code=cc-by checked 2026-10-20; specific version is not independently established by the returned code.",
+      "source_platform": "iNaturalist individual photo (Texas, research-grade identification)",
+      "source_page": "https://www.inaturalist.org/photos/688462223",
+      "source_observation_page": "https://www.inaturalist.org/observations/376534814",
+      "source_photo_id": "688462223",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/688462223/original.jpg",
+      "source_sha256": "b39e2375be7ea2af97c7bd73d23769030f0cadc10105391e95fd11148ea754f5",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "study_use": "Public attributed botanical education under individual Creative Commons source license",
+      "public_reuse": "Photo-specific CC license permits use with credit and modification disclosure, ShareAlike when required.",
+      "modifications": "Original JPEG resized/reencoded to max 1450 pixels and stripped of EXIF; no anatomical arrows before full-size final pixel review.",
+      "anatomy_arrows": "none — anatomy source-image review precedes arrows",
+      "photo_review": "Photo was visually screened from actual candidate contact sheet; exact source taxon research-grade but botanical branch diagnosis/voucher not independently confirmed. The whole photographed plant's accepted name may require further scrutiny under triradiata conflict."
+    },
+    {
+      "file": "images/williamkjones-666145212-primary-umbel-rays.jpg",
+      "role": "Confirm the compound inflorescence clue: whole umbrella-like branching node (umbel-ray junction) and one of several primary rays labeled. Secondary whorls and accepted voucher ID are not established by this image alone.",
+      "creator": "(c) William Jones, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual iNaturalist photo object license_code=cc-by checked 2026-10-20; specific version is not independently established by the returned code.",
+      "source_platform": "iNaturalist individual photo (Texas, research-grade identification)",
+      "source_page": "https://www.inaturalist.org/photos/666145212",
+      "source_observation_page": "https://www.inaturalist.org/observations/364885758",
+      "source_photo_id": "666145212",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/666145212/original.jpg",
+      "source_sha256": "ffd360e8a982e3bb2e6fc5a05b2a2083f76af3fa8ed76d935e0723252c03d78b",
+      "image_dimensions": [
+        816,
+        1450
+      ],
+      "study_use": "Public attributed botanical education under individual Creative Commons source license",
+      "public_reuse": "Photo-specific CC license permits use with credit and modification disclosure, ShareAlike when required.",
+      "modifications": "Original resized/reencoded, EXIF removed, then 2 source-hash-verified yellow anatomical labels added; artist's arrows selected by manual source pixel review.",
+      "anatomy_arrows": [
+        {
+          "label": "Umbel ray junction",
+          "target_fraction": [
+            0.497,
+            0.52
+          ]
+        },
+        {
+          "label": "A primary ray",
+          "target_fraction": [
+            0.588,
+            0.48
+          ]
+        }
+      ],
+      "photo_review": "Photo was visually screened from actual candidate contact sheet; exact source taxon research-grade but botanical branch diagnosis/voucher not independently confirmed. The whole photographed plant's accepted name may require further scrutiny under triradiata conflict. Exact media original SHA verified, anatomical coordinates selected by human full-size photo inspection; final installed derivative to be re-read before publishing. Exact media original SHA verified, anatomical coordinates selected by human full-size photo inspection; final installed derivative to be re-read before publishing.",
+      "manual_arrow_review": "2026-10-20-final-pixel-correction"
+    },
+    {
+      "file": "images/sam-590221868-compound-axis-hand-scale.jpg",
+      "role": "Look closer: hand-held flowering/fruiting head with primary rays converging at main node and a ray labeled. The groups at ray tips show additional flowers; do not claim full mature secondary whorl internode sequence from this photo.",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual iNaturalist photo object license_code=cc-by checked 2026-10-20; specific version is not independently established by the returned code.",
+      "source_platform": "iNaturalist individual photo (Texas, research-grade identification)",
+      "source_page": "https://www.inaturalist.org/photos/590221868",
+      "source_observation_page": "https://www.inaturalist.org/observations/325938032",
+      "source_photo_id": "590221868",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/590221868/original.jpg",
+      "source_sha256": "a59b1e112a4a2540e47c501a1a12847e22ab65383dea5988f58a25833e33d76c",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "study_use": "Public attributed botanical education under individual Creative Commons source license",
+      "public_reuse": "Photo-specific CC license permits use with credit and modification disclosure, ShareAlike when required.",
+      "modifications": "Original resized/reencoded, EXIF removed, then 2 source-hash-verified yellow anatomical labels added; artist's arrows selected by manual source pixel review.",
+      "anatomy_arrows": [
+        {
+          "label": "Main branch point",
+          "target_fraction": [
+            0.455,
+            0.745
+          ]
+        },
+        {
+          "label": "Primary ray",
+          "target_fraction": [
+            0.551,
+            0.644
+          ]
+        }
+      ],
+      "photo_review": "Photo was visually screened from actual candidate contact sheet; exact source taxon research-grade but botanical branch diagnosis/voucher not independently confirmed. The whole photographed plant's accepted name may require further scrutiny under triradiata conflict. Exact media original SHA verified, anatomical coordinates selected by human full-size photo inspection; final installed derivative to be re-read before publishing. Exact media original SHA verified, anatomical coordinates selected by human full-size photo inspection; final installed derivative to be re-read before publishing.",
+      "manual_arrow_review": "2026-10-20-final-pixel-correction"
+    },
+    {
+      "file": "images/andyjordan-517271319-flower-5-petal-macro.jpg",
+      "role": "Look closer — actual tiny cream five-petaled flowers with five stamens among green developing flowers/fruits; complete main branch architecture not in frame.",
+      "creator": "(c) Andy Jordan, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual iNaturalist photo object license_code=cc-by checked 2026-10-20; specific version is not independently established by the returned code.",
+      "source_platform": "iNaturalist individual photo (Texas, research-grade identification)",
+      "source_page": "https://www.inaturalist.org/photos/517271319",
+      "source_observation_page": "https://www.inaturalist.org/observations/287677258",
+      "source_photo_id": "517271319",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/517271319/original.jpg",
+      "source_sha256": "c758436145a1a93e881331539ba70ab1e1acf5ae6a2e7f14839d5c1474d85c85",
+      "image_dimensions": [
+        1450,
+        1088
+      ],
+      "study_use": "Public attributed botanical education under individual Creative Commons source license",
+      "public_reuse": "Photo-specific CC license permits use with credit and modification disclosure, ShareAlike when required.",
+      "modifications": "Original JPEG resized/reencoded to max 1450 pixels and stripped of EXIF; no anatomical arrows before full-size final pixel review.",
+      "anatomy_arrows": "none — anatomy source-image review precedes arrows",
+      "photo_review": "Photo was visually screened from actual candidate contact sheet; exact source taxon research-grade but botanical branch diagnosis/voucher not independently confirmed. The whole photographed plant's accepted name may require further scrutiny under triradiata conflict."
+    },
+    {
+      "file": "images/sandy-loam22-479454106-leaf-underside-petiole.jpg",
+      "role": "Look closer: photo shows underside of round leaf with the petiole joining the lower surface INSIDE the visible leaf margin (peltate). Yellow arrow indicates the junction, not a stem node or leaf edge.",
+      "creator": "(c) Jessica Moulton, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual iNaturalist photo object license_code=cc-by checked 2026-10-20; specific version is not independently established by the returned code.",
+      "source_platform": "iNaturalist individual photo (Texas, research-grade identification)",
+      "source_page": "https://www.inaturalist.org/photos/479454106",
+      "source_observation_page": "https://www.inaturalist.org/observations/266835885",
+      "source_photo_id": "479454106",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/479454106/original.jpg",
+      "source_sha256": "3e43b7babd8ce6e3c9c6c6c5cbf45f6838692d634104ae3ea7a12311339fdba5",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "study_use": "Public attributed botanical education under individual Creative Commons source license",
+      "public_reuse": "Photo-specific CC license permits use with credit and modification disclosure, ShareAlike when required.",
+      "modifications": "Original resized/reencoded, EXIF removed, then 1 source-hash-verified yellow anatomical labels added; artist's arrows selected by manual source pixel review.",
+      "anatomy_arrows": [
+        {
+          "label": "Petiole to underside",
+          "target_fraction": [
+            0.514,
+            0.394
+          ]
+        }
+      ],
+      "photo_review": "Photo was visually screened from actual candidate contact sheet; exact source taxon research-grade but botanical branch diagnosis/voucher not independently confirmed. The whole photographed plant's accepted name may require further scrutiny under triradiata conflict. Exact media original SHA verified, anatomical coordinates selected by human full-size photo inspection; final installed derivative to be re-read before publishing. Exact media original SHA verified, anatomical coordinates selected by human full-size photo inspection; final installed derivative to be re-read before publishing.",
+      "manual_arrow_review": "2026-10-20-final-pixel-correction"
+    },
+    {
+      "file": "images/sandy-loam22-479454142-fruit-cluster.jpg",
+      "role": "Look closer — small pale flowers and developing ribbed green mericarp-like bodies within one branch; no measured ripe 2-mericarps or millimeter ruler in this frame.",
+      "creator": "(c) Jessica Moulton, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "license_version_note": "Individual iNaturalist photo object license_code=cc-by checked 2026-10-20; specific version is not independently established by the returned code.",
+      "source_platform": "iNaturalist individual photo (Texas, research-grade identification)",
+      "source_page": "https://www.inaturalist.org/photos/479454142",
+      "source_observation_page": "https://www.inaturalist.org/observations/266835885",
+      "source_photo_id": "479454142",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/479454142/original.jpg",
+      "source_sha256": "7ed9194a6a42fd694508a46afa632ba2da89380ae6be9ec54b761bed91fabcb4",
+      "image_dimensions": [
+        1087,
+        1450
+      ],
+      "study_use": "Public attributed botanical education under individual Creative Commons source license",
+      "public_reuse": "Photo-specific CC license permits use with credit and modification disclosure, ShareAlike when required.",
+      "modifications": "Original JPEG resized/reencoded to max 1450 pixels and stripped of EXIF; no anatomical arrows before full-size final pixel review.",
+      "anatomy_arrows": "none — anatomy source-image review precedes arrows",
+      "photo_review": "Photo was visually screened from actual candidate contact sheet; exact source taxon research-grade but botanical branch diagnosis/voucher not independently confirmed. The whole photographed plant's accepted name may require further scrutiny under triradiata conflict."
+    }
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_id_text_reviewed": "2026-10-20",
+    "finished_field_id_pass": "PASS_IN_PROGRESS",
+    "photo_source_checked": true,
+    "visual_reviewed": false,
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "taxonomic_exception": "Kew POWO assigns historical H. verticillata var. triradiata to H. bonariensis. Need reproductive voucher/provenance for disputed Texas concepts.",
+    "required_to_finish": [
+      "Taxonomic voucher review under bonariensis versus historical H. verticillata var. triradiata; preserve all valid competing concepts",
+      "Mature fruit rib and mericarp pair with 1 mm scale; actual secondary whorl internode sequence beyond primary ray tips if photo becomes available",
+      "BONAP/NAPA target county audit unresolved and native scores excluded"
+    ],
+    "field_training_status": "READY_FOR_PRACTICAL_GENUS_AND_THREE_WAY_BRANCHING_COMPARISON; SPECIES_TAXON_HOLD",
+    "photo_install": "2026-10-20",
+    "anatomy_image_install": "2026-10-20 full image QA flagged both original primary-ray arrows as off-target; corrected primary-ray coordinates on SHA-matched originals. Check latest committed pixels, branchpoint and underside petiole arrow previously passed.",
+    "annotated_gallery_pixel_review": "2026-10-20 all 3 source-hash-corrected JPEGs read back at full size. Both primary ray arrows relocated onto real green flower rays; 2 branchpoint labels land on observed central junctions; underside petiole arrow lands on leaf underside insertion. No arrows to unseen mature fruit or secondary whorl intervals."
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "six_image_source_vetted_anatomy_labeled_provisional_taxonomy",
+    "image_count": 6,
+    "note": "6 public-reuse CC BY physical JPEGs (not just preview links), 3 annotated with accurate confirmed branchpoint/ray/underside labels. True secondary whorl series and mature fruit key still require future source images. Taxonomic conflict and county-zone HOLD preserved."
+  },
+  "photo_note": "2026-10-20 new manual user-requested comparison learner card installed with six photo-specific CC licensed TX research-grade images. All physically validated, copyright credits retained. Some show branch rays and small flowers; taxon concept vs older var. triradiata remains a scientific HOLD. Hays County native status NOT approved. Three arrowed source-SHA-matched photo derivatives added (2 floral branch examples and underside leaf insertion). They annotate only visible anatomical structures, not species-taxonomic certainty. Three arrowed source-SHA-matched photo derivatives added (2 floral branch examples and underside leaf insertion). They annotate only visible anatomical structures, not species-taxonomic certainty. Full-size post-install pixel QA on 2026-10-20 verified both branchpoint arrows, two corrected ray arrows and true underside-petiole insertion arrow. A close-up shows five white petals. No photo currently establishes the entire whorled secondary-ray series or mm measured mature schizocarp; all project native range metrics stay excluded."
+}

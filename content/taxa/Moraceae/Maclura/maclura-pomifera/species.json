@@ -1,0 +1,181 @@
+{
+  "id": "maclura-pomifera",
+  "entry_type": "species",
+  "family": "Moraceae",
+  "genus": "Maclura",
+  "species": "pomifera",
+  "scientific_name": "Maclura pomifera",
+  "authority": "(Raf.) C.K.Schneid.",
+  "common_name": "Osage orange / Bois d'arc / Bodark / Hedge apple",
+  "synonyms": [
+    "Toxylon pomiferum Raf. ex Sarg."
+  ],
+  "field_group": "Deciduous woody Moraceae, thorny hedge / small to medium tree",
+  "look_here_first": "Start at the TWIG, not the hedge apple: alternate simple glossy smooth-edged leaves, stout single sharp AXILLARY THORNS on many young shoots, and white sticky MILKY LATEX where a twig or leaf is already damaged. Only FEMALE trees may develop the giant knobbly green multiple fruit (which can be seedless without nearby male trees). MALE trees may look fruitless all year.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "User-requested addition; Master Plant Pool row 674 (Maclura pomifera), 15 wild-tagged iNaturalist observations, My iNat and personal list, Hays Local observation flag, three source-pool inputs.",
+    "target_zone_status": "UNRESOLVED — WIDESPREADLY INTRODUCED OUTSIDE HISTORIC RANGE",
+    "learner_role": "HISTORIC_RANGE_UNRESOLVED",
+    "range_basis": "US Forest Service FEIS and Silvics: native historically restricted primarily to Red River drainage of TX/OK/AR and portions of eastern Texas; heavily planted widely, including beyond original range. Hays or other target-county observations are not enough to certify native/original county range.",
+    "native_metrics_excluded": true,
+    "range_guardrail": "Never infer natural county occurrence from planted hedgerows, iNaturalist wild status, cultivated botanical garden photographs or statewide native designation. Maintain strict project target-county PASS pending BONAP/NAPA and herbarium history."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "learner_role": "HISTORIC_RANGE_UNRESOLVED",
+  "morphology_keys": {
+    "habit": "Deciduous spiny, often low-branching small to medium tree, often formerly planted in hedges; round/irregular crown; trunk with furrowed interlacing bark.",
+    "leaves": "Alternate, simple ovate to elliptic blades, glossy dark green above, 5–13 cm or more, smooth (entire) margins, tapered tips, fine hair mainly beneath in young foliage; deciduous turning yellow in fall. Stipules can be present on young shoots.",
+    "thorns": "Young fast-growing shoots often have stout rigid axillary thorns near leaf bases. Some older shoots and thornless ornamental forms lack visible thorns; absence alone does not rule it out.",
+    "latex": "Broken petioles/twigs/fruits can release sticky white milky latex; observe existing damage instead of injuring trees for teaching.",
+    "flower_sex": "Usually dioecious with staminate and pistillate flowers on separate individuals. Staminate flowers in small pendulous greenish spherical/short clustered heads, pistillate flowers in round heads. Individual tiny flowers lack conspicuous petals.",
+    "fruit": "The huge rough wrinkled yellow-green globose MULTIPLE FRUIT is formed from many flowers crowded in a female head (syncarp of small drupelets), typically about 8–15 cm across. Female trees may produce fruit without a male nearby, but these fruits will lack viable seeds; nearby male pollen is needed for seed set. Male trees do not bear the giant fruits.",
+    "bark_wood": "Mature bark irregular deeply fissured; cut heartwood yellow-orange and prized for durable posts and bow making; wood color in an old cut is not a primary non-destructive field key."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Morus rubra (red mulberry)",
+      "Morus alba (white mulberry; introduced)",
+      "Celtis laevigata (sugarberry)",
+      "Zanthoxylum clava-herculis / Z. hirsutum (pricklyashes)",
+      "Maclura cultivar 'Inermis' (thornless Osage-orange)"
+    ],
+    "key_distinctions": "Morus has toothed, often variable lobed leaves and elongated purple/white mulberry fruits; Osage orange typically has entire glossy leaves plus strong axillary thorns and round enormous bumpy syncarps. Celtis leaves often three basal veins and asymmetrical leaf base; sugarberry forms small separate drupes, lacks milky latex. Zanthoxylum typically has compound leaves and can have prickles; Maclura has simple leaves and characteristic latex/fruit."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "priority": 1,
+      "role": "In-focus axillary thorn and adjacent bud/petiole on non-fruiting male or young plant; verify arrow points to actual thorn",
+      "status": "STILL_NEEDED"
+    },
+    {
+      "priority": 1,
+      "role": "One uninterrupted Osage orange leaf and twig with blade, margins, base, alternate attachment and thorn",
+      "status": "LEAF PHOTO_INSTALLED but matched twig thorn macro still needed"
+    },
+    {
+      "priority": 1,
+      "role": "Mature green bumpy multiple fruit and close surface flower-unit morphology",
+      "status": "TWO LICENSED IMAGES SELECTED"
+    },
+    {
+      "priority": 1,
+      "role": "Separate staminate versus pistillate flower heads with clear captions, teaching why not every tree has fruit",
+      "status": "TWO LICENSED IMAGES SELECTED"
+    },
+    {
+      "priority": 2,
+      "role": "White latex from existing damage (no deliberate tree cutting), bud, thorn and stipule macro",
+      "status": "FINAL_POLISH"
+    },
+    {
+      "priority": 2,
+      "role": "Bark, leaf comparison with Morus rubra and introduced Morus alba; matched scale and source",
+      "status": "BARK SELECTED; COMPARISON FINAL_POLISH"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/osage-orange-leaves.jpg",
+      "role": "Simple alternate glossy entire leaves on shoot, plant cultivated in botanical garden; leaf arrangement and petiole recognition",
+      "creator": "H. Zell (Llez)",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_002.JPG",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/osage-orange-tree-habit.jpg",
+      "role": "Full Osage orange tree habit and general crown; cultivated tree; not site-native proof",
+      "creator": "H. Zell (Llez)",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_001.JPG",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/osage-orange-fruit.jpg",
+      "role": "Round green knobby aggregate of fruits (multiple fruit), whole-fruit recognition",
+      "creator": "Mahieddine23",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_fruit.JPG",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/osage-orange-fruit-surface.jpg",
+      "role": "Macro of compound fruit surface: many packed units forming one globose multiple fruit, not an orange or a single ovary",
+      "creator": "JMK",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera,_sinkarp,_Manie_van_der_Schijff_BT,_naderby.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/osage-orange-male-head.jpg",
+      "role": "Male/staminate flower-head detail; male trees do not produce large Osage oranges",
+      "creator": "Gmihail",
+      "license": "CC BY-SA 3.0 RS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_male_iflorescence.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/osage-orange-female-head.jpg",
+      "role": "Female/pistillate young flower head, precursor to distinctive enlarged multiple fruit",
+      "creator": "Gmihail",
+      "license": "CC BY-SA 3.0 RS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_female_inflorescence.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/osage-orange-bark.jpg",
+      "role": "Mature bark closeup, irregular deeply furrowed scaly texture; non-Texas reference",
+      "creator": "MONGO",
+      "license": "Public domain (author released)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Osage_Orange_(Maclura_pomifera)_bark_detail.jpg",
+      "study_use": "yes",
+      "public_reuse": "public_domain"
+    }
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 7,
+    "photo_files_present": 7,
+    "filled_at": "2026-10-13",
+    "note": "Seven physically installed image files, with leaves, tree habit, bark, female head, male head, whole fruit, fruit surface. Missing annotated axillary thorn macro; strict original Hays native-range status pending."
+  },
+  "scientific_sources": [
+    {
+      "name": "USDA Forest Service FEIS: native range limited, widespread plantings",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/macpom"
+    },
+    {
+      "name": "USFS Silvics Osage-orange ecology morphology",
+      "url": "https://research.fs.usda.gov/silvics/osage-orange"
+    },
+    {
+      "name": "USDA Forest Service Maclura pomifera tree description",
+      "url": "https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/maclura/pomifera.htm"
+    }
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "range_reviewed": false,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "provisional": true,
+    "photo_metadata_count": 7,
+    "photo_files_present": 7,
+    "last_reviewed": "2026-10-13",
+    "visual_status": "field_recognition_provisional"
+  }
+}

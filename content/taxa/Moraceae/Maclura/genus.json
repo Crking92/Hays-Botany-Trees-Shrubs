@@ -1,0 +1,194 @@
+{
+  "rank": "genus",
+  "name": "Maclura",
+  "family": "Moraceae",
+  "common_group": "Osage oranges / bodarks",
+  "project_scope": {
+    "canonical_species_ids": [
+      "maclura-pomifera"
+    ],
+    "target_zone_status": "HISTORIC_RANGE_UNRESOLVED; species native to parts of Texas but planted throughout state",
+    "source_pool": "Master Plant Pool row 674",
+    "associated_family": "Moraceae",
+    "comparison_genera": [
+      "Morus",
+      "Celtis",
+      "Zanthoxylum"
+    ]
+  },
+  "look_here_first": "Glossy alternate entire leaves + often sharp axillary thorn + white latex from existing natural break; don't depend on large fruit because only female plants produce it. Female trees can produce seedless green syncarps without a male nearby, but not viable seeds. Male trees have male flower heads and no huge fruit.",
+  "quick_field_key": [
+    {
+      "decision": "Fruit present and orange-sized lumpy green sphere?",
+      "then": "Maclura pomifera likely; examine its many surface units and attached branch to confirm."
+    },
+    {
+      "decision": "No fruit?",
+      "then": "Go to alternate simple entire shiny leaves, check stout pointed axillary thorn or thorn base, then latex on existing damage. Male trees or young trees can be fruitless."
+    },
+    {
+      "decision": "Toothed/lobed leaves and elongated mulberry fruits?",
+      "then": "Morus rubra/M. alba rather than Osage orange."
+    },
+    {
+      "decision": "Compound leaves or prickles over bark rather than one axillary thorn at node?",
+      "then": "Check Zanthoxylum instead."
+    },
+    {
+      "decision": "Small separate drupes, asymmetrical 3-veined leaf base?",
+      "then": "Check Celtis sugarberry instead."
+    }
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Leaves",
+      "Maclura pomifera": "Alternate SIMPLE mostly entire glossy, pointed elliptic-ovate",
+      "Morus spp.": "Alternate SIMPLE often toothed, may be lobed",
+      "Celtis laevigata": "Alternate SIMPLE typically asymmetric base, basal 3-veins, fine teeth may be near tip",
+      "Zanthoxylum spp.": "Usually alternate COMPOUND pinnate leaflets"
+    },
+    {
+      "character": "Thorns",
+      "Maclura pomifera": "Stout axillary thorns on many shoots; cultivars/older shoots can be thornless",
+      "Morus spp.": "Unarmed",
+      "Celtis laevigata": "Unarmed",
+      "Zanthoxylum spp.": "Distinct prickles on branches/trunk (not the same as Osage orange axillary thorn)"
+    },
+    {
+      "character": "Sap",
+      "Maclura pomifera": "Milky sticky latex where broken",
+      "Morus spp.": "Milky latex may be present",
+      "Celtis laevigata": "No diagnostic white latex",
+      "Zanthoxylum spp.": "Strong odor and different oils, no comparable milky latex"
+    },
+    {
+      "character": "Fruit",
+      "Maclura pomifera": "Huge green deeply bumpy sphere, fruit only female trees",
+      "Morus spp.": "Elongated fleshy aggregate/multiple fruit, dark or white",
+      "Celtis laevigata": "Small orange/reddish single drupes",
+      "Zanthoxylum spp.": "Distinct small dark seeds/fruits"
+    }
+  ],
+  "photo_lesson": {
+    "title": "Osage orange — one tree, two flower sexes, giant multiple fruit",
+    "subtitle": "Look for alternate entire leaf and thorn without the fruit; huge syncarp identifies female fruiting trees. Real photo sources with licenses attached; arrows not yet verified.",
+    "memory_rule": "SHINY smooth-edged leaf + THORN + WHITE LATEX. FEMALE: softball-sized green, bumpy multiple fruit; MALE: flower heads but no huge green fruit.",
+    "items": [
+      {
+        "label": "Glossy entire leaves",
+        "scientific_name": "Maclura pomifera",
+        "image_url": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-leaves.jpg",
+        "image_role": "Simple alternate glossy entire leaves on shoot, plant cultivated in botanical garden; leaf arrangement and petiole recognition",
+        "caption": "Simple alternate glossy entire leaves on shoot, plant cultivated in botanical garden; leaf arrangement and petiole recognition. Photos are morphology teaching references; locality does not prove Central Texas native origin.",
+        "creator": "H. Zell (Llez)",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_002.JPG",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; precise arrow coordinates not verified"
+      },
+      {
+        "label": "Whole tree",
+        "scientific_name": "Maclura pomifera",
+        "image_url": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-tree-habit.jpg",
+        "image_role": "Full Osage orange tree habit and general crown; cultivated tree; not site-native proof",
+        "caption": "Full Osage orange tree habit and general crown; cultivated tree; not site-native proof. Photos are morphology teaching references; locality does not prove Central Texas native origin.",
+        "creator": "H. Zell (Llez)",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_001.JPG",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; precise arrow coordinates not verified"
+      },
+      {
+        "label": "Osage orange full-size fruit",
+        "scientific_name": "Maclura pomifera",
+        "image_url": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-fruit.jpg",
+        "image_role": "Round green knobby aggregate of fruits (multiple fruit), whole-fruit recognition",
+        "caption": "Round green knobby aggregate of fruits (multiple fruit), whole-fruit recognition. Photos are morphology teaching references; locality does not prove Central Texas native origin.",
+        "creator": "Mahieddine23",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_fruit.JPG",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; precise arrow coordinates not verified"
+      },
+      {
+        "label": "Many tiny fruiting units make one sphere",
+        "scientific_name": "Maclura pomifera",
+        "image_url": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-fruit-surface.jpg",
+        "image_role": "Macro of compound fruit surface: many packed units forming one globose multiple fruit, not an orange or a single ovary",
+        "caption": "Macro of compound fruit surface: many packed units forming one globose multiple fruit, not an orange or a single ovary. Photos are morphology teaching references; locality does not prove Central Texas native origin.",
+        "creator": "JMK",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera,_sinkarp,_Manie_van_der_Schijff_BT,_naderby.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; precise arrow coordinates not verified"
+      },
+      {
+        "label": "MALE staminate inflorescence",
+        "scientific_name": "Maclura pomifera",
+        "image_url": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-male-head.jpg",
+        "image_role": "Male/staminate flower-head detail; male trees do not produce large Osage oranges",
+        "caption": "Male/staminate flower-head detail; male trees do not produce large Osage oranges. Male trees need not show giant fruit.",
+        "creator": "Gmihail",
+        "license": "CC BY-SA 3.0 RS",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_male_iflorescence.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; precise arrow coordinates not verified"
+      },
+      {
+        "label": "FEMALE pistillate head",
+        "scientific_name": "Maclura pomifera",
+        "image_url": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-female-head.jpg",
+        "image_role": "Female/pistillate young flower head, precursor to distinctive enlarged multiple fruit",
+        "caption": "Female/pistillate young flower head, precursor to distinctive enlarged multiple fruit. Female flower heads enlarge into the bumpy compound fruit.",
+        "creator": "Gmihail",
+        "license": "CC BY-SA 3.0 RS",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_female_inflorescence.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; precise arrow coordinates not verified"
+      },
+      {
+        "label": "Mature rough bark",
+        "scientific_name": "Maclura pomifera",
+        "image_url": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-bark.jpg",
+        "image_role": "Mature bark closeup, irregular deeply furrowed scaly texture; non-Texas reference",
+        "caption": "Mature bark closeup, irregular deeply furrowed scaly texture; non-Texas reference. Photos are morphology teaching references; locality does not prove Central Texas native origin.",
+        "creator": "MONGO",
+        "license": "Public domain (author released)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Osage_Orange_(Maclura_pomifera)_bark_detail.jpg",
+        "photo_status": "PHYSICAL_JPEG_PRESENT; precise arrow coordinates not verified"
+      }
+    ],
+    "field_cautions": [
+      "Without fruit, look at thorn, leaf and latex together; some male/cultivar twigs can be thornless.",
+      "Do not call an entire large green sphere a single fruit of one flower; each bumpy unit derives from compact inflorescence.",
+      "Male versus female heads are different reproductive structures; do not mislabel young spherical female head as an immature whole fruit without confirmation.",
+      "Hays County observations can be planted/naturalized; strict native historical origin is unresolved.",
+      "Do not invent arrows or claim a thorn is visible until inspecting actual image.",
+      "Female fruit formation without male pollen can be seedless. Viable seed set requires pollination; never call a nearby-male requirement for merely seeing fruit."
+    ]
+  },
+  "diagnostic_photo_requirements": [
+    "Closeup of pointed axillary thorn and nearby bud on same twig with reliable arrow",
+    "Thornless male specimen showing alternate leaf nodes and white latex from existing break",
+    "Female head-to-mature fruit progression on comparable branch",
+    "Morus rubra versus M. alba versus Maclura matched leaf shape / fruit without cultivar confusion",
+    "Pair a real macro of single stout thorn from leaf axil with an image of an unarmed or thornless cultivated shoot, annotate only after verified photo geometry."
+  ],
+  "scientific_sources": [
+    {
+      "name": "USDA Forest Service FEIS: native range limited, widespread plantings",
+      "url": "https://research.fs.usda.gov/feis/species-reviews/macpom"
+    },
+    {
+      "name": "USFS Silvics Osage-orange ecology morphology",
+      "url": "https://research.fs.usda.gov/silvics/osage-orange"
+    },
+    {
+      "name": "USDA Forest Service Maclura pomifera tree description",
+      "url": "https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/maclura/pomifera.htm"
+    }
+  ],
+  "curation_status": {
+    "version": "maclura-field-first-2026-10-13",
+    "species_count": 1,
+    "photo_target_count": 7,
+    "photos_installed": 7,
+    "range_status": "HISTORIC_RANGE_UNRESOLVED",
+    "no_verified_arrows": true,
+    "visual_status": "field-ready provisional, physical JPEGs verified, no curation warnings"
+  }
+}

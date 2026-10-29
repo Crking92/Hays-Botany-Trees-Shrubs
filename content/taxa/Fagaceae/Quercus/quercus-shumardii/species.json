@@ -1,0 +1,208 @@
+{
+  "id": "quercus-shumardii",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "shumardii",
+  "scientific_name": "Quercus shumardii",
+  "authority": "Buckley",
+  "common_name": "Shumard oak / Shumard red oak",
+  "look_here_first": "Start with the red-oak leaf architecture: large deciduous leaves with 5–9 deep bristle-tipped lobes and conspicuous tufts of hair in the vein axils beneath. Then confirm with the shallow saucer-shaped acorn cup covering only about one-quarter to one-third of the nut.",
+  "county_occurrences_target_zone": [
+    "Williamson",
+    "Travis",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Williamson — University of Texas Williamson County flora documents Quercus shumardii. Travis — APHIS environmental documentation for a Travis County treatment area identifies Shumard oak among hardwoods in and surrounding the project woodlands. Bexar — a Bexar County environmental report for the Cibolo/Schertz project area identifies Shumard oak among prevalent native riparian/mesic woodland trees.",
+    "range_guardrail": "Exact county evidence only; historical Quercus shumardii var. texana records are not counted as Q. shumardii because that name has been applied to Texas red oak concepts."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "large deciduous red-oak-group tree",
+      "leaves broadly elliptic to obovate",
+      "5–9 deep lobes with bristle-tipped teeth",
+      "upper surface glossy and glabrous",
+      "lower surface mostly glabrous except for conspicuous hair tufts in vein axils",
+      "terminal buds gray-brown and often noticeably 5-angled",
+      "acorns mature in the second year",
+      "acorn cup shallow saucer-shaped, covering about one-quarter to one-third of nut",
+      "FNA mature leaf blade usually 100–200 mm long; substantial overlap with other red oaks",
+      "ripe saucer/cup often 7–12 mm deep and 15–30 mm wide, generally enclosing 1/4–1/3 nut"
+    ],
+    "oak_training": "Separate Shumard oak from Texas red oak by using the whole character set rather than leaf shape alone: Shumard generally has larger leaves, more mesic habitat, prominent vein-axil hair tufts beneath, and a broad shallow cup."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus buckleyi",
+      "Quercus muehlenbergii",
+      "Quercus polymorpha"
+    ],
+    "key_distinctions": "Quercus buckleyi is the common limestone upland red oak of Central Texas and often has smaller leaves and a drier-habitat profile. Q. muehlenbergii is a white-oak-group species with chestnut-like regularly toothed leaves lacking bristle tips. Q. polymorpha has mostly unlobed to shallowly toothed evergreen/semi-evergreen foliage and is not native to the project target zone."
+  },
+  "tags": [
+    "Fagaceae",
+    "Quercus",
+    "Shumard oak",
+    "Red oak comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b077+b116-visual",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "visual_reviewed": true,
+    "visual_status": "usable-partial",
+    "photo_metadata_count": 5,
+    "last_visual_reviewed": "2026-10-08",
+    "photo_files_present": 3,
+    "external_display_image_count": 2
+  },
+  "photo_strategy": {
+    "method": "B116 existing-material-first visual lock",
+    "target_count": "2 strong diagnostic views now; add twig/bud or additional fruit macro only where it materially improves field ID",
+    "visual_priority": "diagnostic structure over generic habit",
+    "public_release_guardrail": "Current sources are authorized for private study; re-check exact reuse rights before any public release."
+  },
+  "images": [
+    {
+      "file": "images/01-reference.jpg",
+      "role": "Leafy branch in woodland context",
+      "creator": "DouglasGoldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_shumardii11.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-reference.jpg",
+      "role": "Deeply lobed foliage and twig arrangement",
+      "creator": "DouglasGoldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_shumardii12.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-bark.jpg",
+      "role": "Furrowed bark close-up",
+      "creator": "DouglasGoldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_shumardii1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_shumardii_ac_sJoUMVxCMGcw.jpeg",
+      "role": "DEVELOPING green acorns showing broad, comparatively shallow bowl/saucer cups and scaly rim",
+      "creator": "Bruce Kirchoff",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://plants.ces.ncsu.edu/plants/quercus-shumardii/",
+      "platform": "NC State Extension Gardener Plant Toolbox",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "media_storage": "external_direct_url",
+      "photo_verified": "Actual S3-hosted image visually inspected 2026-10-08",
+      "scientific_name_verified": "Quercus shumardii",
+      "diagnostic_visibility": "Cup rim and closely overlapping scales clearly visible, green developing fruit, NO metric ruler; not proof of mature fruit dimensions",
+      "fruit_stage": "green/developing—not established ripe"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_shumardii_e_ubSkBBCU0OXo.jpe",
+      "role": "Shumard oak clustered terminal and axillary buds, scale patterns and twig context",
+      "creator": "Bruce Kirchoff",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://plants.ces.ncsu.edu/plants/quercus-shumardii/",
+      "platform": "NC State Extension Gardener Plant Toolbox",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "media_storage": "external_direct_url",
+      "photo_verified": "Actual S3-hosted image visually inspected 2026-10-08",
+      "scientific_name_verified": "Quercus shumardii",
+      "diagnostic_visibility": "Clustered reddish-brown pointed buds and imbricate bud scales visible, but no scale/macro for definite 5-angled geometry or ciliate hairs"
+    }
+  ],
+  "photo_note": "Three licensed physical photographs verified: two foliage views at different scales and bark. Whole-tree habit, acorn and twig/bud macros remain follow-up; foliage views are not fruit images. 2026-10-08: NC State/Bruce Kirchoff CC BY 2.0 direct-photo backfill: green acorn cup and bud cluster. Do not label acorn ripe or bud measurement confirmed; physical image files not mirrored.",
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "Three licensed physical photographs verified: two foliage views at different scales and bark. Whole-tree habit, acorn and twig/bud macros remain follow-up; foliage views are not fruit images. Scientific PASS unchanged."
+  },
+  "diagnostic_comparison": {
+    "pair_species_id": "quercus-buckleyi",
+    "best_tie_breakers": [
+      "Mature Shumard cup often a broad saucer, enclosing only 1/4–1/3 nut; Buckley usually cup/goblet-like and proportionally deeper.",
+      "Shumard terminal buds 4–8 mm, often five-angled in cross-section and glabrous; Buckley bud scale margins often distinctly ciliate.",
+      "Shumard mature leaves often 100–200 mm long and mostly glabrous beneath except prominent lower vein-axil hair tufts; Buckley smaller on average, but can have small tufts as well."
+    ],
+    "unreliable_alone": [
+      "Underside hair tufts (not exclusive to Shumard).",
+      "Single shade leaf or lobing count.",
+      "Tree height without acorn or bud confirmation."
+    ],
+    "hybrid_guardrail": "Natural intermediates with Texas red oak are recognized; do not force an ID."
+  },
+  "diagnostic_image_plan": {
+    "status": "partial-green-cup-and-buds-visible",
+    "priority": "high",
+    "needs": [
+      "full adult leaf upper and lower surfaces with ruler",
+      "underside vein-axil tufts macro",
+      "broad saucer cup profile with attached mature acorn",
+      "5-angled terminal bud macro"
+    ],
+    "photo_reuse_guardrail": "Never call a general habit/foliage photo a bud, acorn, or underside macro without directly inspecting the real image; preserve image attribution/licensing.",
+    "covered_by_new_gallery": [
+      "green developing acorn showing saucer-cup rim profile",
+      "clustered terminal buds with scale overlap"
+    ],
+    "remaining_macro_priorities": [
+      "MATURE brown acorn with matched mm ruler and cup depth",
+      "terminal bud scales at 10–20× and mm ruler for angles/hairs",
+      "vein-axil underside trichome tuft under 10×"
+    ]
+  },
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501014"
+    },
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501082"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "core-oak-pair-characters",
+    "scope": "morphology and image-role requests only; unchanged canonical range, user approval and existing photo files"
+  },
+  "photo_backfill_2026_10_08": {
+    "added_count": 2,
+    "source": "https://plants.ces.ncsu.edu/plants/quercus-shumardii/",
+    "exact_species": "Quercus shumardii",
+    "stage": "developing-fruit-and-bud-live-linked",
+    "rights": "CC BY 2.0 / Bruce Kirchoff",
+    "existing_physical_media_unchanged": true,
+    "visible_structures": [
+      "green acorn cupule scales and shallow profile",
+      "terminal bud imbricate scales"
+    ],
+    "NOT_confirmed": [
+      "ripe mature nut size",
+      "actual 5-angled buds at measured size",
+      "microscopic bud scale hair or underside vein-axil hairs"
+    ],
+    "offline_ready": false,
+    "updated_on": "2026-10-08"
+  }
+}

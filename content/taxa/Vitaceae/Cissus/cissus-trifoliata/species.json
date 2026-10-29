@@ -1,0 +1,110 @@
+{
+  "id": "cissus-trifoliata",
+  "entry_type": "species",
+  "family": "Vitaceae",
+  "genus": "Cissus",
+  "species": "trifoliata",
+  "scientific_name": "Cissus trifoliata",
+  "authority": "(L.) L.",
+  "common_name": "Cow-itch vine",
+  "synonyms": [
+    "Cissus incisa",
+    "Sicyos trifoliatus"
+  ],
+  "taxonomic_note": "Current project treatment follows Flora of North America for Cissus trifoliata; Cissus incisa is retained as a familiar synonym.",
+  "look_here_first": "Start with the thick 3-parted to trifoliolate leaves and stout reddish stems, then confirm the unbranched tendrils and dark berry clusters.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Bexar",
+    "Comal"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Later manual Deep Review locked Travis, Bexar, and Comal as exact project target-zone occurrences and cross-checked the species against BONAP/NAPA.",
+    "range_guardrail": "Do not infer counties from Edwards Plateau/Blackland Prairie mapping alone; the PASS uses exact county evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "woody-based scrambling or trailing vine",
+      "alternate leaves usually deeply 3-parted to 3-foliolate",
+      "leaflets thick to slightly succulent with coarse irregular teeth",
+      "fleshy red to red-brown stems with swollen or warty nodes",
+      "unbranched tendrils",
+      "small greenish flowers in clusters",
+      "berries blue-black to black when mature"
+    ],
+    "comparison_training": "Separate from Parthenocissus by the usual 3-parted/trifoliolate fleshy foliage rather than palmately 5–7-foliolate leaves; separate from Vitis with the thick 3-parted leaves, stem/node texture, tendrils, and reproductive details rather than berries alone."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Parthenocissus spp.",
+      "Vitis spp."
+    ],
+    "key_distinctions": "Use the thick 3-parted foliage, swollen/warty reddish nodes, unbranched tendrils, and dark berries together; grape-like fruit alone is not diagnostic."
+  },
+  "tags": [
+    "Vitaceae",
+    "Cissus",
+    "Central Texas",
+    "Trifoliolate Leaves",
+    "Vine",
+    "Dark Berries"
+  ],
+  "curation_status": {
+    "version": "1.0-pass-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "diagnostic_image_needs": [
+    "whole vine habit",
+    "3-parted succulent leaf close-up",
+    "swollen/warty stem node and tendril",
+    "flower cluster",
+    "ripe berry cluster"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.\n13 Oct 2026 photo enrichment: two additional exact-species reusable photographs. No range or species taxonomy modification; fine detail macros and arrows still pending.",
+  "images": [
+    {
+      "file": "images/cissus-trifoliata-provisional-face.jpg",
+      "role": "Exact-species field photo from Bennett Park, Jackson County Texas; recognizable sorrelvine habit; diagnostic fruit and tendril/leaf views later.",
+      "creator": "DouglasGoldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata1.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/cissus-trifoliata-texas-leaves-2.jpg",
+      "role": "Additional Texas sorrelvine exact-species view; check three-parted leaf and leaflet junction; macro verification later",
+      "creator": "DouglasGoldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata2.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/cissus-trifoliata-texas-node-3.jpg",
+      "role": "Additional Texas sorrelvine view; useful for plant appearance and shoot architecture; detailed node arrows pending",
+      "creator": "DouglasGoldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata3.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_enrichment",
+    "image_count": 3,
+    "filled_at": "2026-10-11",
+    "note": "Three real licensed photographs intended after curation; original plus two targeted additional views. Physical count must be verified in final pipeline report."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "rhus-virens",
+  "entry_type": "species",
+  "family": "Anacardiaceae",
+  "genus": "Rhus",
+  "species": "virens",
+  "scientific_name": "Rhus virens",
+  "authority": "Lindh. ex A.Gray",
+  "common_name": "Evergreen sumac",
+  "synonyms": [
+    "Schmaltzia virens (Lindh. ex A.Gray) Small",
+    "Rhus sempervirens Scheele"
+  ],
+  "taxonomic_note": "Current Kew accepts Rhus virens and recognizes var. virens and var. australis. The learner remains species-level.",
+  "look_here_first": "Look for leathery evergreen foliage: alternate compound leaves usually have only 5–9 thick, smooth-edged leaflets that are glossy dark green above.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Comal"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — UT PRC Purola natural flora; Travis — UT PRC herbarium index; Comal — Lindheimer isotype from New Braunfels."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen to semi-evergreen large shrub or small tree",
+      "odd-pinnate leaves usually with only 5–9 thick leathery leaflets",
+      "leaflets entire and glossy dark green above",
+      "flattened red drupes are covered with red hairs"
+    ],
+    "habit": "Evergreen to semi-evergreen shrub or small tree.",
+    "leaf_arrangement": "Alternate; odd-pinnately compound.",
+    "leaf_morphology": "Usually 5–9 thick leathery entire leaflets; glossy dark green above, duller beneath.",
+    "stem": "Young rachises and stems often reddish.",
+    "inflorescence": "Compact branched clusters of small creamy-white flowers.",
+    "fruit": "Flattened red drupes with red hairs.",
+    "joey_field_observation": "Joey Santore's West Texas pinyon-pine video includes an exact Rhus virens flowering branch frame showing inflorescence plus compound-leaf context."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Rhus copallinum var. lanceolata",
+      "Rhus aromatica"
+    ],
+    "key_distinctions": "Flameleaf sumac has many narrow leaflets on a strongly winged rachis and is deciduous. Fragrant sumac has exactly 3 often lobed/toothed leaflets and stays low."
+  },
+  "tags": [
+    "Anacardiaceae",
+    "Rhus",
+    "Evergreen sumac",
+    "Central Texas",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.0-b008-joey",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Reusable Commons habit image locked; Joey flowering frame retained as private-study source context. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful.",
+  "images": [
+    {
+      "file": "images/01-habit.jpg",
+      "role": "Evergreen shrub / compound-leaf habit",
+      "creator": "Homer Edward Price",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Evergreen-Sumac-c_(4487584824).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-466434058-compound-leaves.jpg",
+      "role": "Evergreen sumac: woody shoot with pinnately compound leaves; observe multiple oval leaflet pairs and subtly reddish new growth",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/466434058",
+      "observation_url": "https://www.inaturalist.org/observations/259795441",
+      "observation_id": 259795441,
+      "photo_id": 466434058,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/466434058/large.jpg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-738793628-full-shrub-habit.jpg",
+      "role": "Evergreen sumac: rounded, many-branched shrub in dry rocky habitat; structural recognition",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/738793628",
+      "observation_url": "https://www.inaturalist.org/observations/402440985",
+      "observation_id": 402440985,
+      "photo_id": 738793628,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/738793628/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ]
+}

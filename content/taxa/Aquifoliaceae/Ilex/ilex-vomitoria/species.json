@@ -1,0 +1,176 @@
+{
+  "id": "ilex-vomitoria",
+  "entry_type": "species",
+  "family": "Aquifoliaceae",
+  "genus": "Ilex",
+  "species": "vomitoria",
+  "scientific_name": "Ilex vomitoria",
+  "authority": "Aiton",
+  "common_name": "Yaupon holly",
+  "synonyms": [],
+  "taxonomic_note": "Accepted species. Native Texas material corresponds to Ilex vomitoria subsp. vomitoria.",
+  "look_here_first": "Look at leaf size and persistence: yaupon is the small-leaved evergreen holly—tiny leathery elliptic to obovate leaves with low rounded crenate teeth.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "range_guardrail": "Purola Preserve's own yaupon record is introduced and is excluded; landscape cultivars are not range evidence.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays — project Hays County native-source list. Travis — documented natural central-Texas material. Williamson — UT Plant Resources Center county flora and detailed treatment.",
+      "source_document": "content/taxa/Aquifoliaceae/Ilex/ilex-vomitoria/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen multi-stemmed shrub or small tree",
+      "alternate simple leathery leaves commonly only 1–4 cm long",
+      "leaf blades elliptic to obovate, usually blunt or rounded at tip",
+      "margins finely crenate with low rounded teeth, not strongly spiny",
+      "pale to light-gray bark",
+      "small white unisexual flowers in axillary clusters; dioecious",
+      "female plants produce abundant persistent red drupes"
+    ],
+    "comparison_training": "Within local hollies, tiny evergreen leathery leaves with low rounded teeth are the fastest field separator."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ilex decidua",
+      "Ilex opaca",
+      "Ilex crenata"
+    ],
+    "key_distinctions": "Possumhaw has larger, thinner leaves and is deciduous. American holly has much larger thick leaves with sharp spine-tipped teeth. Japanese holly is an introduced landscape shrub and commonly bears black fruit."
+  },
+  "tags": [
+    "Aquifoliaceae",
+    "Ilex",
+    "Yaupon",
+    "Central Texas",
+    "Holly comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b017",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 7,
+    "photo_files_present": 7,
+    "media_only_append_staged_at": "2026-10-12",
+    "original_photo_count_preserved": 3,
+    "photo_polish_new_candidates": 4,
+    "photo_polish_completed": "2026-10-12",
+    "additional_images_verified": 4
+  },
+  "photo_note": "Seven physical diagnostic photographs with original Wikimedia source, photographer and licenses in image-sources.csv. First three preserved; new: whole mature tree habit, pale-gray bark/red-fruiting twig, green-druped small leaf architecture, USGS female flower with green functional ovary. Pending final polish: matched species leaves with scale, male yaupon flower, pyrene section.",
+  "images": [
+    {
+      "file": "images/01-leaves-fruit.jpg",
+      "role": "Small crenate leaves and red drupes",
+      "creator": "Luteus",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-fruiting-twig.jpg",
+      "role": "Twig with immature green drupes and alternate small leaves",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_366737061.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-flowers-leaves.jpg",
+      "role": "Axillary white flower clusters and crenate leaves",
+      "creator": "National Park Service",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:File-Species_name-_Ilex_vomitoria-Common_name-_Yaupon_Holly_(81fd4c2f-03bc-49ae-994e-eaba1bce2a11).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/04-whole-fruiting-habit.jpg",
+      "role": "Mature upright fruiting Ilex vomitoria evergreen tree — natural branching silhouette",
+      "creator": "Staniulis / Angelita dela Rosa",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_in_Wilmington,_North_Carolina.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/05-bark-red-fruit-twig.jpg",
+      "role": "Pale gray bark and alternate crenate evergreen leaves with red fruit on branching twig",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_(2020).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/06-small-leaf-margin-green-fruit.jpg",
+      "role": "Small alternate leaves with shallow rounded crenate margins and immature green drupes",
+      "creator": "David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_3zz.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/07-pistillate-flower-macro.jpg",
+      "role": "Pistillate flower macro showing prominent green ovary and staminodes",
+      "creator": "Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria,_Yaupon_Holly,_pistillate_flowers,_Green_Farmacy_Garden,_Fulton,_Md,_Helen_Lowe_Metzman_2019-10-23-17.20.38_ZS_PMax_UDR_(49426959648).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 7,
+    "photo_files_present": 7,
+    "filled_at": "2026-10-12",
+    "verified_at": "2026-10-12",
+    "diagnostic_roles_installed": [
+      "leaf crenation and mature red fruit",
+      "alternate green fruiting twigs",
+      "axillary flowering",
+      "mature upright fruiting habit",
+      "gray bark and red fruit twig",
+      "small leaf and immature green fruit",
+      "pistillate flower ovary and staminodes"
+    ],
+    "note": "Seven physically installed, exact-species licensed images with file-level Commons provenance; original 3 retained. Good field-ready coverage; same-scale matched Ilex opaca vs decidua leaves, staminate comparison, and cut drupe pyrenes remain final polish."
+  },
+  "native_metrics_excluded": true
+}

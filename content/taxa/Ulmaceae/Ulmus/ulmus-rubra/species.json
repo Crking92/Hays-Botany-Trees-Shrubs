@@ -1,0 +1,84 @@
+{
+  "id": "ulmus-rubra",
+  "entry_type": "species",
+  "family": "Ulmaceae",
+  "genus": "Ulmus",
+  "species": "rubra",
+  "scientific_name": "Ulmus rubra",
+  "authority": "",
+  "common_name": "Slippery elm",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO.",
+  "look_here_first": "Rub the leaf and inspect the bud: slippery elm has a thick, sandpaper-rough leaf plus reddish bud scales with red/tawny hairs; the inner bark is mucilaginous, but bark damage is not required for field ID.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Kerr",
+    "Comal"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Kew/POWO accepts Ulmus rubra and lists Texas in its native range. Hays County — the project Hays County native-source list includes U. rubra. Texas Forest Service documents the species reaching the upper Guadalupe and Leon River region in Kerr County. The same Texas Forest Service account explicitly documents it in Comal County.",
+    "range_guardrail": "The Kerr/Comal range source is an older Texas Forest Service treatment, so its locality evidence is preserved transparently rather than silently generalized to adjacent counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous elm of rich streambanks and moist slopes near the western edge of its Texas range",
+      "leaves large, thick, strongly asymmetric and double-serrate",
+      "upper leaf surface extremely rough/scabrous",
+      "lower surface pubescent",
+      "bud scales reddish with red-tomentose margins",
+      "inner bark mucilaginous/slippery",
+      "spring samara relatively large; margin not ciliate, body characteristically pubescent"
+    ],
+    "elm_training": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ulmus americana",
+      "Ulmus crassifolia",
+      "Ulmus alata"
+    ],
+    "key_distinctions": "Ulmus americana: American elm has buds without the red-tomentose slippery-elm character and a samara with ciliate margins; slippery elm's samara is hairy on the body instead. Ulmus crassifolia: Cedar elm leaves are much smaller and reproduction occurs in fall. Ulmus alata: Winged elm has small leaves and conspicuous corky branch wings; slippery elm has large rough leaves and no regular winged twigs."
+  },
+  "tags": [
+    "Ulmaceae",
+    "Ulmus",
+    "Slippery elm",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-species-merge-008",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_reviewed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "photo_note": "Photo physicalization batch: retain both formerly external exact-species Commons references as local JPEGs; bud image illustrates flower buds, but fuzzy bud-scale details need a closer macro. Native-range data unchanged.",
+  "images": [
+    {
+      "file": "images/ulmus-rubra-leaf.jpg",
+      "role": "rough asymmetric leaf",
+      "creator": "Ohio Department of Natural Resources / Wikimedia Commons",
+      "license": "Attribution-only reuse",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_rubra_leaf.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/ulmus-rubra-flower-buds.jpg",
+      "role": "reddish flower buds — scale hair macro still needed",
+      "creator": "Phyzome",
+      "license": "CC BY-SA 3.0 / GFDL",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_rubra_flower_buds.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes_with_attribution_sharealike"
+    }
+  ]
+}

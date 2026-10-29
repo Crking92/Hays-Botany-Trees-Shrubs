@@ -1,0 +1,8 @@
+Phase3 approved/preflight Master Pool candidate (1132). Taxonomy query: https://powo.science.kew.org/results?q=Symphoricarpos%20albus
+Commons exact species source: https://commons.wikimedia.org/wiki/File:Symphoricarpos_albus_RF.jpg
+Download URL: https://commons.wikimedia.org/wiki/Special:Redirect/file/Symphoricarpos%20albus%20RF.jpg
+Photographer: Robert Flogaus-Faust
+Photo license: CC BY 4.0
+Photo role: Provisional fruit and foliage recognition; flower and twig details need later diagnostic view
+Caution: Non-Texas photograph; never infer target-county BONAP nativity, or recommend as local seed source.
+No Hays/target county native status inferred; nonlocal and cultivated material flagged.

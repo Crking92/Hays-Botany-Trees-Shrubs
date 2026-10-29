@@ -1,0 +1,118 @@
+{
+  "id": "rubus-trivialis",
+  "entry_type": "species",
+  "family": "Rosaceae",
+  "genus": "Rubus",
+  "species": "trivialis",
+  "scientific_name": "Rubus trivialis",
+  "authority": "Michx.",
+  "common_name": "Southern dewberry",
+  "synonyms": [
+    "Rubus carpinifolius Rydb.",
+    "Rubus continentalis (Focke) L.H.Bailey",
+    "Rubus trivialis var. serosus L.H.Bailey"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO as Rubus trivialis Michx. Do not confuse with the later illegitimate homonym Rubus trivialis Pursh, which is treated as a synonym of Rubus flagellaris.",
+  "look_here_first": "Follow a trailing or arching cane and find the backward-curved prickles. Then inspect the alternate 3–5-foliolate leaves with stipules, the white 5-petaled flower with a shallow hypanthium and many stamens/pistils, and finally the black aggregate fruit made of many tiny drupelets.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — UT Plant Resources Center Travis County Rosaceae herbarium index includes three Rubus trivialis specimens. Williamson — UT PRC provides a detailed Vascular Plants of Williamson County treatment. Val Verde — UT Plant Resources Center Flora of Dolan Falls Preserve documents Rubus trivialis in Val Verde County.",
+    "range_guardrail": "Only exact target-zone county documentation was counted."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "woody trailing/arching bramble forming low tangles or thickets",
+      "stems with backward-curved to straight prickles",
+      "leaves alternate, stipulate, usually 3–5 foliolate and appearing palmately compound",
+      "white radial flower with 5 petals and a shallow dish-like hypanthium",
+      "100+ free stamens in detailed local treatment",
+      "many free superior pistils on a conic receptacle",
+      "aggregate fruit composed of many fleshy one-stoned drupelets",
+      "ripe aggregate fruit black with dark red juicy pulp"
+    ],
+    "stem": "Tough trailing/arching canes bear broad-based prickles; use this with leaf and fruit characters rather than calling every thorny vine a Rubus.",
+    "leaves": "Alternate, stipulate, 3–5-foliolate leaves with serrate leaflets; prickles may occur on petiole/rachis as well as stems.",
+    "flower": "Five white petals, five reflexed sepals, numerous free stamens, and many separate superior pistils sit on/inside a shallow hypanthium.",
+    "fruit": "Each flower produces an aggregate of roughly a dozen to several dozen fleshy drupelets; each drupelet contains a hard stone.",
+    "family_training": "Excellent Rosaceae anchor because it shows stipules + hypanthium + many stamens + many free carpels + aggregate fruit in one local plant."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Rubus flagellaris",
+      "other Rubus spp.",
+      "Smilax spp."
+    ],
+    "key_distinctions": "Confirm Rubus from stipulate compound leaves, bramble prickles, Rosaceae flower architecture, and aggregate drupelet fruit. Separate local Rubus taxa with cane posture/pubescence, leaflet morphology, prickles, flower and fruit characters rather than fruit color alone."
+  },
+  "tags": [
+    "Rosaceae",
+    "Rubus",
+    "southern dewberry",
+    "bramble",
+    "hypanthium",
+    "aggregate fruit",
+    "Visual learner"
+  ],
+  "curation_status": {
+    "version": "1.0-rosaceae-anchor",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful.",
+  "images": [
+    {
+      "file": "images/rubus-trivialis-provisional-face.jpg",
+      "role": "Flowering habit recognizable face",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rubus_trivialis.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-491436646-serrate-compound-leaves.jpg",
+      "role": "Southern dewberry: close view of compound leaves with toothed leaflet margins and green stems; prickles and fruit not sufficiently visible",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/491436646",
+      "observation_url": "https://www.inaturalist.org/observations/273215290",
+      "observation_id": 273215290,
+      "photo_id": 491436646,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/491436646/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "photo_enriched_diagnostic_macros_pending",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "rank": "family",
+  "name": "Rutaceae",
+  "common_name": "Citrus / rue family",
+  "lineage_context": {
+    "order": "Sapindales",
+    "batch": "Sapindales",
+    "close_project_families": [
+      "Anacardiaceae",
+      "Sapindaceae",
+      "Meliaceae",
+      "Simaroubaceae"
+    ],
+    "teaching_goal": "Use translucent oil glands and a floral disk as the shared family door, then let the project genera separate dramatically by fruit: Ptelea samara, Zanthoxylum follicle, Thamnosma 2-lobed capsule."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas Ptelea + Thamnosma + Zanthoxylum module",
+    "note": "The three source taxa give unusually different fruits, making Rutaceae a good anti-memorization family. Zanthoxylum hirsutum is retained only as source-name provenance for the current accepted Z. clava-herculis subsp. fruticosum concept."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Hold a leaf or young green part to light and look for pellucid oil glands. Then inspect the flower for a 4- or 5-part plan and a conspicuous nectar disk around the superior ovary.",
+    "vegetative": "Leaves are usually alternate and exstipulate in the local project genera, ranging from trifoliolate Ptelea to pinnate Zanthoxylum to tiny linear Thamnosma. Pellucid aromatic oil glands are the most useful shared vegetative character.",
+    "reproductive": "Flowers commonly 4- or 5-merous with free petals and a nectar disk. Stamens equal to or twice the petal number are common, but the project genera vary.",
+    "fruit": "Highly diverse locally: broad winged samara in Ptelea, follicular fruit exposing shiny black seeds in Zanthoxylum, and a deeply 2-lobed capsule in Thamnosma.",
+    "field_tip": "Do not memorize Rutaceae as 'citrus.' In this pool, use oil glands + floral disk first and fruit architecture second."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_010",
+    "teaching_order": "pellucid gland → flower disk → fruit split → genus doors → Sapindales comparison",
+    "intro": "Rutaceae is a family where fruit type changes dramatically but the oil-gland chemistry and flower-center architecture keep reappearing.",
+    "steps": [
+      {
+        "title": "1 · Find the translucent oil glands",
+        "photo_role": "backlit leaf macro",
+        "look_for": "Tiny pellucid dots in leaf or green tissue.",
+        "why_it_matters": "A strong family clue shared across otherwise very different local genera.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "2 · Look for the floral disk",
+        "photo_role": "flower center macro",
+        "look_for": "A nectar disk around or below the superior ovary in a small 4- or 5-part flower.",
+        "why_it_matters": "Links the family reproductively even when leaves and fruits differ.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Ptelea: the wafer-wing fruit",
+        "photo_role": "Ptelea trifoliata leaf + samara",
+        "look_for": "Trifoliolate leaves and a broad, nearly circular winged samara with the seed centered inside.",
+        "why_it_matters": "One of the easiest Rutaceae genus doors in Central Texas.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Zanthoxylum: prickles + follicle + black seed",
+        "photo_role": "pinnate leaf/prickle/fruit sequence",
+        "look_for": "Woody plant with pinnate leaves, prickles, and follicles splitting to reveal glossy black seeds.",
+        "why_it_matters": "Fruit is very different from Ptelea but the oil-gland family pattern remains.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Thamnosma: tiny gland-dotted leaves + 2-lobed capsule",
+        "photo_role": "whole plant + leaf + fruit macro",
+        "look_for": "Low subshrub with narrow gland-dotted leaves and a deeply notched two-lobed capsule.",
+        "why_it_matters": "Shows the herb/subshrub extreme of local Rutaceae.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Taxonomy card: Z. hirsutum → current subspecies",
+        "photo_role": "accepted-name card",
+        "look_for": "Source Zanthoxylum hirsutum → accepted Zanthoxylum clava-herculis subsp. fruticosum.",
+        "why_it_matters": "Prevents the learner from treating an old source name as a second taxon.",
+        "status": "taxonomy_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Rutaceae vs Anacardiaceae",
+        "rule": "Both can be woody Sapindales with small flowers and a disk. Rutaceae emphasizes pellucid oil glands and highly variable capsules/samaras/follicles; local Anacardiaceae is resinous and commonly drupaceous."
+      },
+      {
+        "title": "Rutaceae vs Sapindaceae",
+        "rule": "Both may have a floral disk and winged fruits. Ptelea's single broad wafer-like samara plus pellucid oil glands points to Rutaceae; Sapindaceae in the project spans paired samaras, soapberry-like fruits and 3-valved capsules."
+      }
+    ],
+    "caveat": "Avoid deliberately crushing unknown leaves as an odor test. Visual gland and fruit characters are enough for the learner."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 3,
+    "genera": [
+      {
+        "genus": "Ptelea",
+        "taxa_count": 1,
+        "fast_cue": "trifoliolate leaf + broad wafer-like samara",
+        "role": "hoptree door"
+      },
+      {
+        "genus": "Thamnosma",
+        "taxa_count": 1,
+        "fast_cue": "tiny linear gland-dotted leaves + deeply 2-lobed capsule",
+        "role": "desert-rue door"
+      },
+      {
+        "genus": "Zanthoxylum",
+        "source_name": "Zanthoxylum hirsutum",
+        "current_name": "Zanthoxylum clava-herculis subsp. fruticosum",
+        "taxa_count": 1,
+        "fast_cue": "pinnate leaf + prickles + follicle revealing glossy black seed",
+        "role": "prickly-ash door"
+      }
+    ]
+  },
+  "project_pool_taxa_source": [
+    "Ptelea trifoliata",
+    "Thamnosma texana",
+    "Zanthoxylum hirsutum"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Ptelea trifoliata",
+      "current_name": "Ptelea trifoliata",
+      "note": "Accepted current species and native to Texas."
+    },
+    {
+      "source_name": "Thamnosma texana",
+      "current_name": "Thamnosma texana",
+      "note": "Accepted current species and native to Texas."
+    },
+    {
+      "source_name": "Zanthoxylum hirsutum",
+      "current_name": "Zanthoxylum clava-herculis subsp. fruticosum",
+      "note": "Current Kew/FNA synonymy; preserve source name as provenance only."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "pellucid oil glands",
+      "annotation_goal": "circle translucent glands in a backlit leaf"
+    },
+    {
+      "priority": 1,
+      "structure": "Ptelea samara",
+      "annotation_goal": "label central seed and surrounding wing"
+    },
+    {
+      "priority": 1,
+      "structure": "Zanthoxylum follicle + black seed",
+      "annotation_goal": "show opened follicle and glossy seed"
+    },
+    {
+      "priority": 1,
+      "structure": "Thamnosma 2-lobed capsule",
+      "annotation_goal": "label the paired lobes"
+    },
+    {
+      "priority": 2,
+      "structure": "Z. hirsutum taxonomy card",
+      "annotation_goal": "source name to accepted subspecies"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Ptelea trifoliata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:774969-1"
+    },
+    {
+      "source": "POWO — Thamnosma texana",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:775389-1"
+    },
+    {
+      "source": "POWO — Zanthoxylum clava-herculis subsp. fruticosum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77175410-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-010",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_gland_and_fruit_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

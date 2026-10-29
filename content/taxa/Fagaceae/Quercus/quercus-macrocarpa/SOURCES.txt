@@ -1,0 +1,49 @@
+# Deep Review sources — Quercus macrocarpa
+Reviewed: 2026-10-02
+Batch: deep-review-batch-015-quercus-b011
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Kew/POWO — accepted Quercus macrocarpa Michx.; Texas native:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30014114-2
+
+## Strict target-zone range
+Hays — project Hays County native-source list (Wildflower Center printable list compiled/managed by NPSOT Hill Country Chapter) includes Q. macrocarpa.
+
+Bell — Fort Cavazos Native Plant List identifies Bur oak as native to the installation:
+https://home.army.mil/hood/5917/3938/9979/2024-2029_Cavazos_INRMP_Final.pdf
+
+Williamson — county environmental/archaeological survey describes historical bottomland forest containing Q. macrocarpa:
+https://public.destinyhosted.com/wilcodocs/2025/COM/20250429_1899/36662_20250429-RonaldReaganC1-AntiquitiesPermitApplication.pdf
+
+Guardrail: Purola Preserve labels its own Bur oak occurrence introduced; that planted site record is not counted as native Hays evidence.
+
+Decision: PASS — Hays, Bell, Williamson.
+
+## Morphology
+Flora of North America:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501058
+
+## Image candidate
+https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa.jpg
+
+
+JOEY/FAMILY TRAINING LAYER
+Use the trusted Fagaceae/oak morphology framework: leaf architecture is only the first pass; confirm with twig/bud, bark, mature acorn and cupule.
+
+PHOTO FAST-FILL 014
+Existing project/Joey audit: no exact saved Joey frame for either species. Bur oak reviewed draft NRCS image reused; other prior bur-oak remote references had unverified reuse rights. Sycamore draft has no image candidate.
+01-nrcs-reference.jpg | NRCS species reference | USDA NRCS | Public Domain
+https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa.jpg
+https://creativecommons.org/publicdomain/mark/1.0/
+Existing reviewed project image candidate reused; US NRCS photograph.
+02-leaves.jpg | Leaf architecture | JBCLM | CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_hojas_JBCLM.jpg
+https://creativecommons.org/licenses/by-sa/4.0/
+Jardin Botanico de Castilla-La Mancha; cultivated reference, no named cultivar.
+03-acorn-cup.jpg | Acorn and fringed cupule | Matt Lavin | CC BY-SA 2.0
+https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_(5108085936).jpg
+https://creativecommons.org/licenses/by-sa/2.0/
+Field photograph, coordinates 44.980372, -104.423203; Flickr license confirmed by Commons.
+
+Binary visual QA: Three licensed physical photographs verified: lobed leaves, mature acorns and green acorns with fringed cups. Whole-tree habit and stronger bark/bud views remain follow-up.

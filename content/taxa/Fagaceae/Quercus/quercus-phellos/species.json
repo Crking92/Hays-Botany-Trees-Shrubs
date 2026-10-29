@@ -1,0 +1,141 @@
+{
+  "id": "quercus-phellos",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "phellos",
+  "scientific_name": "Quercus phellos",
+  "authority": "L.",
+  "common_name": "Willow oak",
+  "look_here_first": "Check the leaves first: willow oak has long, narrow, unlobed willow-like blades with smooth margins and a tiny terminal bristle. Then check the small acorns in shallow saucer-like cups.",
+  "taxonomy": {
+    "accepted_name": "Quercus phellos L.",
+    "source_review": "research-drafts/quercus-phellos/draft.json"
+  },
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "Texas native principally eastward in bottomland habitats; reviewed draft documents no confirmed project target-zone counties."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "narrow linear-lanceolate unlobed leaves, willow-like in outline",
+      "entire margins with a minute bristle at the leaf tip",
+      "small acorns held in shallow saucer-shaped cups; mature in two seasons",
+      "deciduous bottomland red oak"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus nigra",
+      "Salix nigra",
+      "Quercus imbricaria"
+    ],
+    "key_distinctions": "Water oak (Q. nigra) typically has broader wedge- or spatula-shaped leaves, often with a shallowly three-lobed tip. Black willow (Salix nigra) has finely toothed leaf margins, alternate narrow leaves and catkins rather than acorns. Shingle oak (Q. imbricaria) has broader, oblong entire leaves."
+  },
+  "diagnostic_image_plan": [
+    "leaf close-up showing entire margin and minute terminal bristle",
+    "small acorn with shallow saucer-like cup",
+    "twig and buds",
+    "habit in floodplain"
+  ],
+  "images": [
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Quercus_phellos-leaves.jpg",
+      "role": "Willow oak leafy twig with long narrow unlobed lanceolate leaves and entire smooth margins",
+      "creator": "Aaron Fidler (Afidler)",
+      "license": "Public Domain (author dedication)",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_phellos-leaves.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "media_storage": "external_direct_url",
+      "image_verified": "Source file page, photographer/license and actual thumbnail checked 2026-10-08",
+      "diagnostic_visibility": "Actual image inspected: thin willow-shaped entire dark-green blades, terminal buds/twig context; tiny leaf-tip bristle not resolved.",
+      "limitations": "No acorns/cup image yet; do not claim 10× bristle-tip macro.",
+      "exact_taxon": "Quercus phellos"
+    },
+    {
+      "file": "images/glass-root-596153734-first-photo.jpg",
+      "role": "Young narrow-leaved oak shoot; mature acorn and twig verification remain useful",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/596153734",
+      "observation_url": "https://www.inaturalist.org/observations/328933138",
+      "observation_id": 328933138,
+      "photo_id": 596153734,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/596153734/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/library-review038-f8f2f1366c75dd9.jpg",
+      "role": "Dense slender entire leaf blades along willow oak branch; small acorn and bud view still needed; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Long narrow unlobed willow-oak foliage on live crown",
+      "creator": "Geotourist Freiburg",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110367299",
+      "media_source_url": "https://bs.plantnet.org/image/o/750bbdb4a8dacdad6863a811baae766d0f2dd306",
+      "source_determination": "Quercus phellos",
+      "source_observation_id": "5110367299",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/quercus-phellos/plantnet-via-gbif-a775b0bfdf2ba2.jpg",
+      "archive_image_sha256": "fc2b6aa1ee4b53c8dcbf10f0ecbdaed7de1a1118f95fbb68c7390d1e2c48c068",
+      "image_dimensions": [
+        1365,
+        1024
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "note": "Private owner-authorized first-photo coverage; fine diagnostic views remain pending."
+  },
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "last_visual_reviewed": "2026-10-08",
+    "visual_status": "one-photo-study-ready",
+    "glass_root_garden_photo_install": "2026-10-14",
+    "manual_library_install_038": "2026-10-17"
+  },
+  "photo_fast_fill_2026_10_08": {
+    "status": "one_licensed_recognition_photo_added",
+    "images_added": 1,
+    "still_missing": "Mature fruit, bud and underside macro roles according to diagnostic_image_plan",
+    "photo_physically_mirrored": false,
+    "verified_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Quercus_phellos-leaves.jpg",
+    "license": "Public Domain (author dedication)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_phellos-leaves.jpg",
+    "guardrail": "Do not infer target-zone native occurrence or exact characters not visible in the source image."
+  },
+  "photo_note": "Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

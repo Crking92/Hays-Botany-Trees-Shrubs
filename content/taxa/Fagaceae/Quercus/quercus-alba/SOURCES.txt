@@ -1,0 +1,19 @@
+Reused completed project review: research-drafts/quercus-alba/draft.json (deep-review-batch-015-quercus-b011); source-pool admission: Master Plant Pool row 930.
+Taxonomy: Quercus alba L. accepted by Kew Plants of the World Online (per completed review).
+Range: Texas state-level nativity is not project target-zone confirmation. Prior review found zero confirmed target-zone counties; preserve FAIL_TARGET_ZONE, NONLOCAL_COMPARISON, and exclusion from target-native metrics.
+Morphology: rounded non-bristle-tipped lobes, light flaky bark, shallow non-fringed acorn cup. Compare Q. macrocarpa (fringed cup/waisted leaf), Q. stellata (cruciform leaf), Q. muehlenbergii (toothed leaf).
+Photo status: exact-species licensed images not yet selected; provisional visual-incomplete learner card, assign photo backfill to media lane.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Quercus alba
+Creator: natgrace18; License shorthand: CC0
+Original source: https://www.gbif.org/occurrence/5198956848
+Stored archive: hays-photo-library-seed-gbif-20261015 :: staged_images/quercus-alba/gbif-072741756818a7.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 038 2026-10-17T00:11:56.035742+00:00
+Quercus alba
+Creator: Raymond Cantwell; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110451822
+Stored archive: hays-photo-library-seed-plantnet-20261015 :: staged_images/quercus-alba/plantnet via gbif-83b42ceec97727.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

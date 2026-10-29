@@ -1,0 +1,85 @@
+{
+  "id": "celtis-laevigata",
+  "entry_type": "species",
+  "genus": "Celtis",
+  "species": "laevigata",
+  "scientific_name": "Celtis laevigata",
+  "common_name": "Sugarberry",
+  "county_occurrences_target_zone": [
+    "Williamson",
+    "Travis",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS"
+  },
+  "look_here_first": "Relatively smooth leaves, strongly asymmetrical leaf base, unarmed tree habit, corky-warty bark.",
+  "curation_status": {
+    "version": "1.1-b091+b130-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "lookalikes_reviewed": true,
+    "visual_reviewed": true,
+    "visual_status": "provisional-learner-ready",
+    "last_visual_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "family": "Cannabaceae",
+  "synonyms": [
+    "Celtis laevigata var. laevigata (historical nominate-variety treatment)"
+  ],
+  "taxonomic_note": "Current Kew POWO accepts Celtis laevigata at species rank. The B091 source row 'Celtis laevigata var. laevigata' is folded into this species-level canonical learner.",
+  "morphology_keys": {
+    "best_field_traits": [
+      "medium to large unarmed tree",
+      "leaves thin to moderately firm",
+      "leaf blades lanceolate to ovate-lanceolate",
+      "strongly asymmetric leaf base",
+      "upper surface smoother than netleaf hackberry",
+      "margins mostly entire or with few teeth",
+      "orange-red to dark fruit"
+    ],
+    "comparison_training": "Compared with C. reticulata, sugarberry has thinner, smoother leaves with less prominently raised reticulate veins beneath. Compared with C. lindheimeri, leaf undersides are not densely white-tomentose."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — licensed exact-species Wikimedia set",
+    "target_count": 3,
+    "visual_priority": "whole tree habit + leaf/base shape + corky-warty bark",
+    "remaining_polish": "Add a licensed fruit close-up later if it improves the learner; current 3-view set is usable now."
+  },
+  "images": [
+    {
+      "file": "images/01-whole-tree.jpg",
+      "role": "whole tree / young habit",
+      "creator": "MartínezFlores",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-leaf.jpg",
+      "role": "diagnostic leaf / asymmetrical base",
+      "creator": "Brucewinter",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_leaf.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-bark.jpg",
+      "role": "diagnostic corky-warty bark",
+      "creator": "Brucewinter",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_bark.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

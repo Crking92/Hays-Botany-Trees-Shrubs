@@ -1,0 +1,57 @@
+ACER NEGUNDO L. — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+
+## Taxonomy
+Kew Plants of the World Online — accepted Acer negundo L.; native in Texas:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A781412-1
+
+Kew POWO also accepts Acer negundo var. texanum Pax as an infraspecific taxon:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A1840-2
+
+## Strict target-zone range
+Williamson — UT Plant Resources Center, Vascular Plants of Williamson County:
+https://w3.biosci.utexas.edu/prc/K12/pages/Acer%20negundo.html
+
+Travis — USDA ARS Biocollections, non-cultivated Acer negundo specimen NA0096546, Thompson & Rawlins 1284, 11 Mar 1984, 1 km N of Bergstrom AFB, Hornsby Bend of Colorado River, Travis County:
+https://biocollections.ars.usda.gov/collections/list.php?comingFrom=newsearch&db=1&page=41&taxa=Sapindaceae&taxontype=3
+
+Bexar — San Antonio Missions National Historical Park flora/fire-management document: Acer negundo var. texanum, native tree common in riparian woodlands, voucher Carr 19874:
+https://downloads.regulations.gov/EPA-R06-OAR-2014-0754-0089/attachment_67.pdf
+
+Decision: PASS — Williamson, Travis, Bexar.
+
+## Morphology
+UT PRC Williamson County treatment:
+https://w3.biosci.utexas.edu/prc/K12/pages/Acer%20negundo.html
+
+Key learner cues:
+- opposite odd-pinnately compound leaves, usually 3 or 5 leaflets
+- dioecious tree
+- flowers lack petals
+- paired winged ovary/fruit
+- fruit is two one-seeded samara-like mericarps
+- paired samaras separate boxelder from Fraxinus look-alikes
+
+## Range/taxonomy guardrail
+The Bexar voucher is A. negundo var. texanum, a currently accepted infraspecific taxon nested within A. negundo. It supports the species-level Acer negundo learner record; do not create a duplicate species from the varietal name.
+
+## LEARNER FAST-FILL PHOTO BACKFILL — 2026-10-05
+Existing project source reused first:
+- Sapindaceae family visual lesson already uses exact-species Acer negundo paired samaras.
+- Wikimedia Commons file: Negundo_samaras.jpg
+- Creator: Gmihail
+- License: CC BY-SA 3.0 Serbia
+- Source: https://commons.wikimedia.org/wiki/File:Negundo_samaras.jpg
+- Direct: https://commons.wikimedia.org/wiki/Special:Redirect/file/Negundo_samaras.jpg
+- Role: paired V-shaped samaras / reproductive confirmation.
+
+Exact-species iNaturalist guide:
+https://www.inaturalist.org/guide_taxa/627788
+Selected licensed photos:
+- Photo ID 4047157 — cjosefson — CC BY-NC — compound leaf/branch context with samaras.
+  Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/4047157/large.jpg
+- Photo ID 374015 — dackerly — CC BY-NC-SA — mature woody branch/bark with characteristic variable leaflets.
+  Direct: https://inaturalist-open-data.s3.amazonaws.com/photos/374015/large.jpg
+
+Fast-fill scope only. Existing PASS taxonomy/range is unchanged. Stronger local habit/bud images can replace or supplement these later.

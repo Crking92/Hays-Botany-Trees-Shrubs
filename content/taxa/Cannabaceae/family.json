@@ -1,0 +1,183 @@
+{
+  "rank": "family",
+  "name": "Cannabaceae",
+  "common_name": "Hemp / hackberry family",
+  "project_scope": {
+    "selection_mode": "Central Texas Celtis-first visual module",
+    "note": "Built as the companion half of the elm-vs-hackberry comparison."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start at the leaf base and venation: local Celtis commonly has three strong primary veins arising from near the base.",
+    "leaves": "Alternate simple leaves, often asymmetric; margins entire or toothed depending on species.",
+    "fruit": "Thinly fleshy drupe with hard stone.",
+    "field_tip": "Three basal veins + fleshy drupe is the fastest local Celtis combination.",
+    "look_here_first_sequence": [
+      {
+        "step": 1,
+        "cue": "At a leaf base, trace the three strong basal or near-basal veins common in Celtis; do not diagnose from venation alone."
+      },
+      {
+        "step": 2,
+        "cue": "Examine an individual flower: small, inconspicuous flowers can show exposed anthers; distinguish them from showy petals."
+      },
+      {
+        "step": 3,
+        "cue": "Confirm a separate fleshy drupe with one hard stone; distinguish from elm/Planera dry fruits and Morus multiple fruits."
+      }
+    ]
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Hackberries become easy once you stop asking 'elm or hackberry?' and trace the veins from the petiole.",
+    "steps": [
+      {
+        "title": "1 · Trace the three basal veins",
+        "photo_role": "sugarberry leaf",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Celtis%20laevigata%20leaf.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_leaf.jpg",
+        "image_label": "Celtis laevigata leaf",
+        "image_credit": "CC BY-SA 4.0 · Brucewinter",
+        "look_for": "Three strong veins leaving the base or near-base of the leaf.",
+        "why_it_matters": "This is the best quick separation from Ulmus.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · Confirm with the drupe",
+        "photo_role": "Celtis fruit",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Celtis%20laevigata%20fruit.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_fruit.jpg",
+        "image_label": "Celtis laevigata fruit",
+        "image_credit": "CC BY-SA 4.0 · Brucewinter",
+        "look_for": "A small fleshy drupe with a hard stone.",
+        "why_it_matters": "Elms make samaras, not drupes.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "3 · Read the whole tree",
+        "photo_role": "sugarberry habit",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Celtis%20laevigata.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata.jpg",
+        "image_label": "Celtis laevigata habit",
+        "image_credit": "CC BY-SA 4.0 · MartínezFlores",
+        "look_for": "Woody Celtis architecture with alternate leaves.",
+        "why_it_matters": "Connects the diagnostic leaf/fruit to whole-plant gestalt.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "4 · See the netleaf form",
+        "photo_role": "Celtis reticulata foliage",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Celtis%20reticulata.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_reticulata.jpg",
+        "image_label": "Celtis reticulata",
+        "image_credit": "CC BY 3.0 · A. Barra",
+        "look_for": "Prominent netted venation layered onto the basal-vein Celtis plan.",
+        "why_it_matters": "Shows genus-level variation without losing the family cues.",
+        "status": "rights_cleared_family_reference"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Cannabaceae vs Ulmaceae",
+        "rule": "Celtis = strong basal 3-vein pattern + fleshy drupe. Ulmus = many pinnate side veins into serrations + dry samara."
+      },
+      {
+        "title": "Bark is secondary",
+        "rule": "Hackberry bark can be corky/warty, but leaf venation and fruit are safer first characters."
+      },
+      {
+        "title": "Cannabaceae vs Moraceae",
+        "rule": "Celtis bears individual drupes; Morus makes a multiple fruit from a flower cluster. Basal leaf veins overlap."
+      },
+      {
+        "title": "Cannabaceae vs Rhamnaceae",
+        "rule": "Basal veins alone overlap. Compare flower anatomy, stipules/thorns and mature fruit before deciding."
+      }
+    ],
+    "caveat": "Modern classification places Celtis in Cannabaceae, not Ulmaceae.",
+    "diagnostic_photo_needs": [
+      "Celtis fruit cutaway showing hard endocarp/stone",
+      "Same-scale Celtis versus Ulmus and Planera leaf-base venation plus mature fruits",
+      "Celtis drupe versus Morus multiple-fruit dissection",
+      "Celtis versus Rhamnaceae flower and thorn/node close-ups"
+    ]
+  },
+  "curation_status": {
+    "version": "1.1-celtis-installed-photo-extension",
+    "last_reviewed": "2026-10-14",
+    "visual_lock": "reference_first_pass",
+    "celtis_physical_anchors": 5
+  },
+  "celtis_photo_extension": {
+    "title": "Hackberry genus: thorns, basal veins, drupes, and leaf undersides",
+    "look_here_first": "Check alternate simple leaf with asymmetrical base and three strong basal veins; identify individual drupe enclosing hard stone. For Celtis species inspect thorn presence, sandpaper upper leaf and reticulate lower venation; keep white-felted Lindheimer concept provisional.",
+    "photo_examples": [
+      {
+        "taxon_id": "celtis-laevigata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-laevigata/images/02-leaf.jpg",
+        "role": "leaf base and venation",
+        "creator": "Brucewinter",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_leaf.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-laevigata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-laevigata/images/03-bark.jpg",
+        "role": "corky warty bark supportive",
+        "creator": "Brucewinter",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_bark.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-reticulata",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-reticulata/images/02-texas-detail.jpg",
+        "role": "Texas field detail; leaf surface requires macro verification",
+        "creator": "Patrick Alexander",
+        "license": "CC0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_reticulata_-_Flickr_-_aspidoscelis.jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-pallida",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-pallida/images/01-plant-reference.jpg",
+        "role": "thorny shrub habit, exact species",
+        "creator": "Juan Carlos Fonseca Mata",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acebuche_(Celtis_pallida).jpg",
+        "status": "physically_installed_existing"
+      },
+      {
+        "taxon_id": "celtis-lindheimeri",
+        "image_url": "content/taxa/Cannabaceae/Celtis/celtis-lindheimeri/images/celtis-lindheimeri-provisional-face.jpg",
+        "role": "provisional taxon leafy branch; undersurface macro not verified",
+        "creator": "Wendy A",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_lindheimeri_-_Wendy_A_-_265984302.jpg",
+        "status": "physically_installed_provisional_taxon"
+      }
+    ],
+    "lookalike_comparison": [
+      {
+        "group": "Ulmus (elm)",
+        "difference": "pinnately directed vein pairs and dry winged samaras versus Celtis basal 3-vein tendency and individual fleshy drupes"
+      },
+      {
+        "group": "Morus (mulberry)",
+        "difference": "multiple fruit made from a whole inflorescence rather than one separate drupe"
+      },
+      {
+        "group": "Rhamnaceae",
+        "difference": "basal venation overlaps; confirm mature fruit, node and flowering structure"
+      }
+    ],
+    "missing_photos": [
+      "leaf face/back same-scale diagnostic panel",
+      "drupe cutaway showing one stone",
+      "Celtis versus Ulmus samara and mature drupe",
+      "white tomentum macro with voucher confirmation"
+    ],
+    "rights_guardrail": "Reuse only existing licensed image assets. No claims of new macro verification."
+  }
+}

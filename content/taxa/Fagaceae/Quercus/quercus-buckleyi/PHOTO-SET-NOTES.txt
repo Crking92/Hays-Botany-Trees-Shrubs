@@ -1,0 +1,13 @@
+﻿Quercus buckleyi OAK PHOTO SET
+
+Resolved iNaturalist taxon: Quercus buckleyi [ID 167640]
+Downloaded images: 6
+
+Oak photo targets:
+- mature leaves (both surfaces if observer photographed them)
+- twigs / buds
+- bark / whole-tree habit
+- acorn + cupule
+
+The script cannot guarantee which organ each observer photographed,
+but it strongly prefers multi-photo Aug-Dec observations to improve the odds of mature foliage and fruit.

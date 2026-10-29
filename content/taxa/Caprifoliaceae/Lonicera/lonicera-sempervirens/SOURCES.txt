@@ -1,0 +1,20 @@
+Lonicera sempervirens — Coral honeysuckle / trumpet honeysuckle (Caprifoliaceae)
+FIRST PASS 2026-10-13
+User-approved Master Plant Pool rows 657–659 (see genus lesson and scientific review).
+RANGE: UNRESOLVED — Native in Texas at state level, project 3-qualifying-county native proof still unresolved; cultivation is not a native county occurrence.
+SCIENCE: content/taxa/Caprifoliaceae/Lonicera/genus.json and reports/lonicera-scientific-review-2026-10-12.md
+TAXON: POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30080890-2
+REFERENCE: https://climbers.lsa.umich.edu/lonicera-sempervirens/
+LICENSED PHOTOGRAPHS:
+01-coral-honeysuckle-flower-and-vine.jpg: creator Alex Abair; CC BY 4.0; https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_285692515.jpg; Alex Abair, iNaturalist observation 165073759, Florida 2023, CC BY 4.0. Confirm terminal flower structure and red/orange narrow trumpet where visible; not a Hays County native-range voucher.
+02-coral-honeysuckle-flower-close.jpg: creator Alex Abair; CC BY 4.0; https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_285692603.jpg; Alex Abair, same source observation 165073759, Florida 2023, CC BY 4.0. Photo candidate for flower tube / terminal cluster comparison; not a measured macro.
+03-coral-honeysuckle-foliage.jpg: creator Robert H. Mohlenbrock, USDA SCS; Public Domain (US Government); https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_NRCS-003.jpg; USDA NRCS / Robert H. Mohlenbrock federal work, public domain. Dedicated Lonicera sempervirens leaves file; look for opposite simple leaves; do not imply underside morphology macro or attached ripe fruit is shown.
+LEARNER CAUTION: Photos are exact-species face/teaching sources, not three-target-county vouchers. No measured matched terminal versus axillary macro yet. Don't add inaccurate arrows.
+
+2026-10-13 Lonicera comparative photograph:
+04-coral-honeysuckle-ripe-red-fruit.jpg
+Creator: R. A. Nonenmacher | CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0/
+Source page: https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_012c.jpg
+Original photo context: Skaneateles, Onondaga County, New York, 29 October 2015. Photo labeled as Lonicera sempervirens fruit on Commons; non-Texas field photo.
+Diagnostic teaching target: Mature scarlet-to-red coral honeysuckle fruit in the field; compare against Japanese honeysuckle dark fruit
+Never use this photo as a certified project-target native county voucher.

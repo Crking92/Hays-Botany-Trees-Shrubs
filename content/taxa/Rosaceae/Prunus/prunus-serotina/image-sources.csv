@@ -1,0 +1,4 @@
+file_name,role,platform,observation_id,photo_id,creator,license,source_page,direct_image_url,study_use,public_reuse
+01-white-flower-raceme.jpg,"White flower cluster close-up showing the many five-petaled flowers and stamens","iNaturalist guide",,9803798,"Andreas Rockstein","CC BY-SA",https://www.inaturalist.org/guide_taxa/927058,https://inaturalist-open-data.s3.amazonaws.com/photos/9803798/large.jpg,yes,yes
+02-ripening-fruit-racemes.jpg,"Ripening red-to-black cherries on hanging racemes with serrate leaves","iNaturalist guide",,30290855,"Phillip Merritt","CC BY-NC-SA",https://www.inaturalist.org/guide_taxa/927058,https://inaturalist-open-data.s3.amazonaws.com/photos/30290855/large.jpg,yes,yes
+03-serrate-leaves-twig.jpg,"Simple alternate serrate leaves and twig architecture","iNaturalist guide",,11383115,"Bodo Nuñez Oberg","CC BY-NC",https://www.inaturalist.org/guide_taxa/927058,https://inaturalist-open-data.s3.amazonaws.com/photos/11383115/large.jpeg,yes,yes

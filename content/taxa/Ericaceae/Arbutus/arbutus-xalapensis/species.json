@@ -1,0 +1,177 @@
+{
+  "id": "arbutus-xalapensis",
+  "entry_type": "species",
+  "family": "Ericaceae",
+  "genus": "Arbutus",
+  "species": "xalapensis",
+  "scientific_name": "Arbutus xalapensis",
+  "authority": "Kunth",
+  "common_name": "Texas madrone",
+  "synonyms": [
+    "Arbutus texana Buckley"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO as Arbutus xalapensis Kunth. Arbutus texana Buckley is an older Texas name treated within this accepted concept.",
+  "look_here_first": "Start with the bark: mature trunks and limbs shed thin outer layers to expose smooth cream, pink, apricot, orange, or red inner bark. Then confirm evergreen simple leaves, urn-shaped pale flowers, and orange-to-red berry-like fruit.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Bandera",
+    "Real"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve north Hays County natural-flora list includes Arbutus xalapensis among plants that occurred naturally, and a 2019 field collection independently recorded a wild Hays County plant. Bandera — 2019 UC Davis horticultural field collection documented a wild Bandera County tree. Real — the same field project documented a wild Real County tree in dense woodland.",
+    "range_guardrail": "Only explicit wild/natural target-zone county records were counted. Cultivated LBJ Wildflower Center records were excluded from county evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "evergreen shrub or small tree",
+      "distinctive exfoliating bark revealing smooth pale cream, pink, apricot, orange, or red inner bark",
+      "simple leathery evergreen leaves",
+      "clusters of pale urn- to bell-shaped flowers",
+      "Ericaceae-style anthers opening by apical pores",
+      "round fleshy berry-like fruit ripening from green through orange to red",
+      "Hill Country/West Texas rocky woodland and canyon association"
+    ],
+    "bark": "The peeling, multicolored smooth bark is the fastest whole-plant recognition cue in mature Texas madrone.",
+    "flower": "Pale fused urceolate/campanulate flowers occur in clusters; inspect the stamens for the characteristic Ericaceae poricidal-anther pattern.",
+    "fruit": "Round fleshy fruits mature through orange/red and are eaten/dispersed by birds.",
+    "ecology": "Occurs naturally in rocky or canyon woodland settings; establishment can be associated with nurse-tree shade on the Edwards Plateau."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Vaccinium arboreum",
+      "Arbutus unedo in cultivation",
+      "other smooth-barked small trees"
+    ],
+    "key_distinctions": "Texas madrone combines exfoliating multicolored smooth bark with evergreen leathery foliage, pale urn-shaped Ericaceae flowers, and orange-red berry-like fruit. Vaccinium arboreum lacks the dramatic madrone bark."
+  },
+  "tags": [
+    "Ericaceae",
+    "Arbutus",
+    "Texas madrone",
+    "Hays County",
+    "Edwards Plateau",
+    "Visual learner"
+  ],
+  "curation_status": {
+    "version": "1.0-ericaceae-anchor",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "visual_status": "partial_existing_reference_recovered",
+    "photo_recovered_at": "2026-10-04"
+  },
+  "photo_note": "Existing gallery material is retained. Two preserved Joey Santore frames were added for private study because they provide exceptional mature-bark/habit and fruiting-twig views; public-reuse restrictions are preserved.",
+  "images": [
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/9/90/Texas_madrone_tree_arbutus_xalapensis.jpg",
+      "role": "Smooth exfoliating branches, evergreen foliage and fruiting branch — existing family reference",
+      "creator": "Gary M. Stolz / U.S. Fish and Wildlife Service",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Texas_madrone_tree_arbutus_xalapensis.jpg",
+      "platform": "Wikimedia Commons / USFWS",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "changes": "none",
+      "look_for": "Smooth pale branches with peeling reddish outer bark; evergreen leaves and clusters of reddish fruit."
+    },
+    {
+      "file": "images/arbutus-xalapensis_bark-mature-habit_00-13-10.0.jpg",
+      "role": "Mature trunk architecture with smooth to exfoliating reddish bark.",
+      "caption": "Mature Arbutus xalapensis showing contorted woody architecture and smooth to exfoliating reddish bark, one of the most distinctive madrone field characters.",
+      "diagnostic_roles": [
+        "mature trunk architecture",
+        "reddish exfoliating bark",
+        "old-tree habit"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=4zKfoRtl4Co",
+      "source_record_id": "jvid-4zKfoRtl4Co-019",
+      "timestamp": "00:13:10.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/arbutus-xalapensis_immature-fruits-evergreen-leaves_00-13-21.0.jpg",
+      "role": "Immature fruit clusters with evergreen leaves.",
+      "caption": "Fruiting twig of Arbutus xalapensis with immature yellow-green fruits and evergreen leaves; useful for pairing fruiting structure with foliage.",
+      "diagnostic_roles": [
+        "immature fruits",
+        "evergreen leaves",
+        "fruiting twig"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=4zKfoRtl4Co",
+      "source_record_id": "jvid-4zKfoRtl4Co-020",
+      "timestamp": "00:13:21.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/public-inat-texas-madrone-751142077.jpg",
+      "role": "Provisional independently licensed research-grade exact-species photograph; confirm diagnostic organs and bark in later field-ID pass",
+      "caption": "Exact-species research-grade iNaturalist photograph. Photo-specific anatomy and look-alike arrow labels are pending visual review.",
+      "creator": "(c) Eric Knight, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/751142077",
+      "observation_source_page": "https://www.inaturalist.org/observations/408610938",
+      "source_photo_id": "751142077",
+      "source_observation_id": "408610938",
+      "source_taxon": "Arbutus xalapensis",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individual photo copyright data verified live by API",
+      "public_reuse": "yes with photo-specific CC terms on current strictly noncommercial educational site",
+      "changes": "Downloaded from iNaturalist, resized and reencoded to JPEG; EXIF/GPS removed; no drawn arrows",
+      "published_jpeg_sha256": "1f42c5f8b735995fc76ce6a349a79b73c3e77541fdce2bb40922899c31ee47ef",
+      "source_sha256": "29393014171bc19a5fced1b0906a5220d00280b382b113ddcac73365c7b3a3ee",
+      "published_jpeg_dimensions": [
+        769,
+        1024
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending manual anatomical visual review"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Bark close-up with peeling layer",
+    "Leaf underside and margin",
+    "Urn-shaped flowers and anther pores",
+    "Fruit close-up",
+    "Flower cluster close-up plus mature red-fruit detail to complement the bark, habit, evergreen-leaf, and immature-fruit views."
+  ],
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "4zKfoRtl4Co",
+      "timestamp": "00:13:10.0",
+      "record_id": "jvid-4zKfoRtl4Co-019",
+      "role": "Mature trunk architecture with smooth to exfoliating reddish bark.",
+      "source_taxon": "Arbutus xalapensis",
+      "source_confidence": "source-explicit video context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/4zKfoRtl4Co/arbutus-xalapensis_bark-mature-habit_00-13-10.0.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "4zKfoRtl4Co",
+      "timestamp": "00:13:21.0",
+      "record_id": "jvid-4zKfoRtl4Co-020",
+      "role": "Immature fruit clusters with evergreen leaves.",
+      "source_taxon": "Arbutus xalapensis",
+      "source_confidence": "source-explicit video context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/4zKfoRtl4Co/arbutus-xalapensis_immature-fruits-evergreen-leaves_00-13-21.0.jpg"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "acer-grandidentatum",
+  "entry_type": "species",
+  "family": "Sapindaceae",
+  "genus": "Acer",
+  "species": "grandidentatum",
+  "scientific_name": "Acer grandidentatum",
+  "authority": "Nutt.",
+  "common_name": "Bigtooth maple",
+  "synonyms": [
+    "Acer saccharum subsp. grandidentatum",
+    "Acer saccharum var. grandidentatum"
+  ],
+  "taxonomic_note": "POWO accepts Acer grandidentatum as a distinct species. Historic sugar-maple infraspecific combinations are synonyms/taxonomy references, not proof of eastern Acer saccharum.",
+  "look_here_first": "Check opposite SIMPLE palmate leaves, then compare sinus depth and leaf undersides: broad 3–5 lobes with relatively shallow notches are typical; short hairs may occur below. Confirm with paired samaras, buds and bark when available. Do not identify from fall color or canyon habitat alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool row 10; 2026-10-07 taxonomy and diagnostic review; scientific-review-allium-acer-2026-10-07.md",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "verified_target_counties": [],
+    "range_basis": "Texas state-native under POWO/source-pool review, but a three-project-target-county native audit is not complete. Do not count in confirmed-native metrics."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Deciduous maple, often in rocky/canyon woodland; growth site supports but cannot prove ID.",
+    "leaves": "Opposite, simple, palmately 3–5-lobed blades; lobes comparatively broad and sinuses often shallower than silver maple; abaxial pubescence varies.",
+    "flowers": "Small flowers; use twig/bud and paired winged fruits as secondary corroboration.",
+    "fruits": "Paired winged samaras; young fruits can be hairy. Angle alone is not a decisive species character.",
+    "best_field_traits": [
+      "opposite SIMPLE 3–5-lobed leaves (not compound boxelder)",
+      "broader lobes and generally shallower sinuses than silver maple",
+      "underside can bear short hairs; avoid absolute hair/no-hair rules",
+      "paired maple samaras when mature"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Acer saccharinum",
+      "Acer negundo",
+      "Acer saccharum",
+      "Acer palmatum"
+    ],
+    "key_distinctions": "Acer saccharinum has usually much deeper angular/V-shaped leaf sinuses and a conspicuously pale/silvery underside (some hairs possible). Acer negundo has opposite COMPOUND leaves with 3–5 leaflets. Acer palmatum is an introduced/cultivated ornamental with different leaf dissection; never infer wild local origin."
+  },
+  "images": [
+    {
+      "file": "images/acer-grandidentatum-leaf.jpg",
+      "role": "Mature green leaf and broad palmate lobes; Utah provenance, provisional diagnostic overview, not a leaf-underside macro",
+      "creator": "Quinn Dombrowski",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acer_grandidentatum_leaves_ZionNP.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-5938370523-b2b3bb7c1.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Opposite palmate foliage both sides, buds, bark and paired samaras",
+      "creator": "Troy Murphy",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938370523",
+      "gbif_occurrence_id": "5938370523",
+      "source_determination": "Acer grandidentatum Nutt. ex Torr. & A.Gray",
+      "accepted_target": "Acer grandidentatum",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604859373/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-12",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    {
+      "priority": 1,
+      "role": "Matched mature upper/lower leaf pair",
+      "target": "compare lobes and sinuses with Acer saccharinum; underside hair macro with scale"
+    },
+    {
+      "priority": 2,
+      "role": "Paired samaras, bud/twig",
+      "target": "fruit wings and opposite buds on same tree; scale"
+    },
+    {
+      "priority": 2,
+      "role": "Habit and bark",
+      "target": "tree form and mature bark, Central Texas when possible"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-approved-source-pool-2026-10-10",
+    "taxonomy_identity_checked": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_reviewed": false,
+    "provisional": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

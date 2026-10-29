@@ -1,0 +1,37 @@
+{
+  "id": "parietaria-pensylvanica",
+  "family": "Urticaceae",
+  "genus": "Parietaria",
+  "species": "pensylvanica",
+  "scientific_name": "Parietaria pensylvanica",
+  "common_name": "Pennsylvania pellitory",
+  "look_here_first": "Look for a soft, translucent-stemmed herb in shade or moist disturbed areas, alternate simple leaves and tiny green flowers near leaf axils; check hair texture and fruits.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Parietaria%20pensylvanica",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photographed on sandy banks of the Llano River in Llano County, Texas, May 2019.",
+  "images": [
+    {
+      "file": "images/commons-parietaria-pensylvanica.jpg",
+      "role": "Provisional whole-herb recognition; tiny flowers and fruit require magnification.",
+      "creator": "Mason Brock (Masebrock)",
+      "license": "Public domain (author released)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parietaria_pensylvanica.jpg",
+      "study_use": "Private and noncommercial botanical learner",
+      "public_reuse": "Public domain or CC0; author credit preserved"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

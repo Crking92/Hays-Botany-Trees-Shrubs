@@ -1,0 +1,167 @@
+{
+  "id": "quercus-michauxii",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "species": "michauxii",
+  "scientific_name": "Quercus michauxii",
+  "authority": "Nutt.",
+  "common_name": "Swamp chestnut oak",
+  "taxonomy": {
+    "accepted_name": "Quercus michauxii Nutt.",
+    "source_review": "research-drafts/quercus-michauxii/draft.json"
+  },
+  "look_here_first": "Inspect large oval leaves with rounded chestnut-like teeth and dense grayish pubescence beneath; then check the large acorn seated in a shallow cup.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "Native mainly in East Texas and Gulf Coastal Plain bottomlands; target-zone nativity unconfirmed."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "large oval leaves with coarse rounded teeth",
+      "dense grayish hair beneath leaves",
+      "large acorns in shallow bowl-like cups",
+      "bottomland or stream-bank tree"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Quercus lyrata",
+      "Quercus muehlenbergii",
+      "Quercus macrocarpa"
+    ],
+    "key_distinctions": "Overcup oak has a deep cup enclosing most of the nut and rounded leaf lobes. Chinkapin oak has smaller regularly toothed leaves; bur oak has deeply waisted leaves and a mossy-fringed cup."
+  },
+  "diagnostic_image_plan": [
+    "leaf top and gray hairy underside",
+    "mature acorn and shallow cup",
+    "leaf margin teeth",
+    "habit and bark"
+  ],
+  "images": [
+    {
+      "file": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/QuercusMichauxiiLeaf.jpg/960px-QuercusMichauxiiLeaf.jpg",
+      "role": "Swamp chestnut oak live adult summer leaves showing broad chestnut-like rounded marginal teeth",
+      "creator": "Chhe",
+      "license": "Public Domain (author dedication)",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:QuercusMichauxiiLeaf.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "media_storage": "external_direct_url",
+      "image_verified": "Source file page, photographer/license and actual thumbnail checked 2026-10-08",
+      "diagnostic_visibility": "Actual image inspected: several large obovate leaves with wide, coarse rounded teeth; no underside macro, fruit or bark proof.",
+      "limitations": "Leaf upper surface only; underside dense hairs and cup/fruit still unfilled.",
+      "exact_taxon": "Quercus michauxii"
+    },
+    {
+      "file": "images/glass-root-596153691-first-photo.jpg",
+      "role": "Broad coarsely toothed leaves and twig; acorn and lower-leaf hairs not resolved",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/596153691",
+      "observation_url": "https://www.inaturalist.org/observations/328933089",
+      "observation_id": 328933089,
+      "photo_id": 596153691,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/596153691/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/library-review038-1c469cae5f90c15.jpg",
+      "role": "Leaf blades with conspicuously rounded scalloped teeth; leaf-underside hair detail not shown; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Coarsely toothed chestnut-like leaf blade and branching habit",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6499821580",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/714866853/original.jpg",
+      "source_determination": "Quercus michauxii",
+      "source_observation_id": "6499821580",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/quercus-michauxii/gbif-55357b5bd333e8.jpg",
+      "archive_image_sha256": "445bfc7241edc1cd38d97c87172e7941097b0bff33ea1122c223f6a4cbc4cba3",
+      "image_dimensions": [
+        1400,
+        931
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review038-5398f15742253e5.jpg",
+      "role": "Young branch with multiple broad toothed leaves in woodland context; acorns still needed; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Coarsely toothed chestnut-like leaf blade and branching habit",
+      "creator": "martinesimmons",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110385959",
+      "media_source_url": "https://bs.plantnet.org/image/o/4346e8ca87bcfad704e898729bed8b1b7d4223a8",
+      "source_determination": "Quercus michauxii",
+      "source_observation_id": "5110385959",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/quercus-michauxii/plantnet-via-gbif-9362dc976a59de.jpg",
+      "archive_image_sha256": "141218fe5c3df480bc1bbe9a5bd6ad93e639a74e3886ea0decf0730ab30ed3cc",
+      "image_dimensions": [
+        1024,
+        1365
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "note": "Private owner-authorized first-photo coverage; fine diagnostic views remain pending."
+  },
+  "curation_status": {
+    "user_approved": true,
+    "source_pool_approved": true,
+    "range_review_preserved": true,
+    "photo_backfill_needed": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 3,
+    "last_visual_reviewed": "2026-10-08",
+    "visual_status": "one-photo-study-ready",
+    "glass_root_garden_photo_install": "2026-10-14",
+    "manual_library_install_038": "2026-10-17"
+  },
+  "photo_fast_fill_2026_10_08": {
+    "status": "one_licensed_recognition_photo_added",
+    "images_added": 1,
+    "still_missing": "Mature fruit, bud and underside macro roles according to diagnostic_image_plan",
+    "photo_physically_mirrored": false,
+    "verified_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/QuercusMichauxiiLeaf.jpg/960px-QuercusMichauxiiLeaf.jpg",
+    "license": "Public Domain (author dedication)",
+    "source_page": "https://commons.wikimedia.org/wiki/File:QuercusMichauxiiLeaf.jpg",
+    "guardrail": "Do not infer target-zone native occurrence or exact characters not visible in the source image."
+  },
+  "photo_note": "Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

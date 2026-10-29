@@ -1,0 +1,9 @@
+Aesculus glabra — approved Master Plant Pool row 22; reviewed 2026-10-07.
+POWO accepted species and state-level Texas nativity: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30124420-2
+Diagnostic key: https://herbarium.ncsu.edu/tnc/aesculus.htm
+Additional morphology: https://landscapeplants.oregonstate.edu/plants/aesculus-glabra
+Range: UNRESOLVED for project target zone; state-native Texas does not satisfy three-county threshold.
+Photo sources (licensed exact-species; see image-sources.csv):
+H. Zell — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Aesculus%20glabra%20003.JPG
+H. Zell — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Aesculus%20glabra%20009.JPG
+Missing: matched fruit macro and stamen-to-petal length with scale; visual coverage provisional.

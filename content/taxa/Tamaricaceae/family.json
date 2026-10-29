@@ -1,0 +1,122 @@
+{
+  "rank": "family",
+  "name": "Tamaricaceae",
+  "common_name": "Tamarisk family",
+  "lineage_context": {
+    "order": "Caryophyllales",
+    "batch": "Caryophyllales B",
+    "close_project_families": [
+      "Plumbaginaceae"
+    ],
+    "teaching_goal": "Teach the woody halophyte branch of Caryophyllales using scale leaves, racemes and tufted seeds."
+  },
+  "project_scope": {
+    "selection_mode": "Tamarix-centered comparison module",
+    "note": "Both current project taxa, Tamarix aphylla and T. ramosissima, are introduced in Texas according to current Kew distributions; use as invasive/landscape recognition, not native anchors."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the woody branchlets carrying minute scale-like leaves, then confirm many small 4–5-part flowers in racemes/spikes and a dry capsule containing numerous tiny seeds with apical hair tufts.",
+    "vegetative": "Xerophytic or halophytic shrubs and small trees with slender branchlets and very small alternate scale- or awl-like leaves, often glandular.",
+    "reproductive": "Flowers small, radial and bisexual, commonly 4- or 5-merous in racemes or spikes. Petals and sepals are distinct; stamens are commonly as many as the petals or twice as many and associated with a disk.",
+    "fruit": "A capsule with numerous tiny seeds; seeds often carry an apical tuft of hairs aiding wind dispersal.",
+    "field_tip": "Scale-leaved woody plant + pink/white racemes + tufted tiny seeds is the Tamaricaceae package."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_003",
+    "teaching_order": "scale leaves → raceme → 5-part flower → capsule → tufted seed → nonnative status",
+    "intro": "Tamaricaceae looks conifer-like vegetatively but reveals itself as an angiosperm the moment you inspect the racemes and tufted seeds.",
+    "steps": [
+      {
+        "title": "1 · Start with the scale-like leaves",
+        "photo_role": "branchlet macro",
+        "look_for": "Minute appressed or sheath-like leaves on slender green/reddish branchlets.",
+        "why_it_matters": "This creates the false-conifer gestalt the crew is likely to notice first.",
+        "status": "botanical_plate_reference_available"
+      },
+      {
+        "title": "2 · Find the flower racemes",
+        "photo_role": "pink/white raceme",
+        "look_for": "Dense racemes or spikes of many tiny 4–5-part flowers.",
+        "why_it_matters": "The flowers immediately show this is not a conifer.",
+        "status": "botanical_plate_reference_available"
+      },
+      {
+        "title": "3 · Open the capsule and find the hair tuft",
+        "photo_role": "capsule + seed macro",
+        "look_for": "Numerous tiny seeds, each with an apical tuft of hairs.",
+        "why_it_matters": "The seed tuft is a memorable family confirmation and dispersal clue.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "4 · Flag the project status",
+        "photo_role": "T. aphylla vs T. ramosissima comparison",
+        "look_for": "Both are introduced Texas taxa in current Kew distribution data.",
+        "why_it_matters": "Keeps crew recognition separate from native-plant endorsement.",
+        "status": "comparison_card_ready"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Tamaricaceae vs Cupressaceae",
+        "rule": "Both can look scale-leaved. Tamarix has true flowers in racemes and capsules with tufted seeds; junipers/cypresses have cones and no flowers."
+      },
+      {
+        "title": "Tamaricaceae vs Plumbaginaceae",
+        "rule": "Both can tolerate saline/arid settings, but Tamaricaceae is woody and scale-leaved with racemes and many tufted seeds; Plumbaginaceae uses a persistent tubular calyx and one-seeded fruit."
+      }
+    ],
+    "caveat": "The two project Tamarix species are introduced comparisons. Family recognition is useful for management and invasive-plant ID, not native restoration selection."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Tamarix",
+        "fast_cue": "woody scale-leaved branchlets + dense tiny flower racemes + tufted seeds",
+        "role": "introduced/invasive comparison genus"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "scale-like leaf on branchlet",
+      "annotation_goal": "show actual leaf boundaries"
+    },
+    {
+      "priority": 1,
+      "structure": "flower raceme close-up",
+      "annotation_goal": "show 5-part flowers"
+    },
+    {
+      "priority": 1,
+      "structure": "capsule and tufted seed",
+      "annotation_goal": "label apical hair tuft"
+    },
+    {
+      "priority": 2,
+      "structure": "Tamarix vs Juniper comparison",
+      "annotation_goal": "flowers/capsules vs cones"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Tamaricaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126592-1/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Tamarix aphylla",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828051-1/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Tamarix ramosissima",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828206-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-003",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "historical_botanical_plate_reference_available_seed_macro_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

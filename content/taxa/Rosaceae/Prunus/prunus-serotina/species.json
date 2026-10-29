@@ -1,0 +1,83 @@
+{
+  "id": "prunus-serotina",
+  "entry_type": "species",
+  "family": "Rosaceae",
+  "genus": "Prunus",
+  "species": "serotina",
+  "scientific_name": "Prunus serotina",
+  "authority": "Ehrh.",
+  "common_name": "Black Cherry / Escarpment Black Cherry",
+  "taxonomic_note": "Current Kew accepts P. serotina and five varieties, including Texas-endemic var. eximia. The learner uses one species-level canonical entry and teaches var. eximia internally as the local Edwards Plateau concept.",
+  "look_here_first": "Start with bark, racemes, and leaf glands. Black cherry has alternate finely serrate leaves, elongated racemes of white flowers followed by black drupes, and older bark breaking into dark scaly plates. Local Edwards Plateau plants are commonly the accepted var. eximia.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "infraspecific_lesson": {
+    "Prunus serotina var. eximia": "Accepted by current Kew; Texas-endemic Edwards Plateau/escarpment variety. Taught within the species-level learner rather than duplicated."
+  },
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Natural Purola flora lists P. serotina as naturally occurring. Travis — UT Plant Resources Center has specimens of P. serotina var. eximia. Kerr — Kerr WMA flora lists P. serotina var. eximia.",
+    "range_guardrail": "Species-level PASS; var. eximia is taught internally and not treated as a duplicate canonical taxon."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "deciduous tree",
+      "alternate simple leaves",
+      "finely serrate leaf margins",
+      "small petiole glands near blade base",
+      "elongated racemes of white flowers",
+      "dark purple-black drupes",
+      "older bark dark and scaly",
+      "local Edwards Plateau form commonly var. eximia"
+    ],
+    "comparison_training": "P. mexicana flowers earlier in showier short clusters before leaf-out and has plum-like fruits. P. caroliniana is evergreen with glossy leaves and short axillary racemes. P. rivularis is a smaller thicket-forming plum."
+  },
+  "curation_status": {
+    "version": "1.0-b074",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "images": [
+    {
+      "file": "images/01-white-flower-raceme.jpg",
+      "role": "White flower cluster close-up showing the many five-petaled flowers and stamens",
+      "creator": "Andreas Rockstein",
+      "license": "CC BY-SA",
+      "source_page": "https://www.inaturalist.org/guide_taxa/927058",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-ripening-fruit-racemes.jpg",
+      "role": "Ripening red-to-black cherries on hanging racemes with serrate leaves",
+      "creator": "Phillip Merritt",
+      "license": "CC BY-NC-SA",
+      "source_page": "https://www.inaturalist.org/guide_taxa/927058",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-serrate-leaves-twig.jpg",
+      "role": "Simple alternate serrate leaves and twig architecture",
+      "creator": "Bodo Nuñez Oberg",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/guide_taxa/927058",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "synonyms": [
+    "Prunus serotina var. eximia"
+  ]
+}

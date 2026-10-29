@@ -1,0 +1,9 @@
+Scientific source citations retained in species.json.
+
+PHOTO FAST-FILL 013 — 2026-10-05
+Existing recovery records checked; no exact saved Joey records listed. Existing remote images have unverified rights and are replaced with individually verified licensed exact-species media. Preserve all settled science. No cultivated or out-of-zone photo used for new native county claims. No variety inferred. Download/resizing only.
+01-reference.jpg | Exact-species field reference | DouglasGoldman | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Quercus_shumardii11.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Quercus_shumardii11.jpg/1280px-Quercus_shumardii11.jpg | https://creativecommons.org/licenses/by-sa/4.0/ | Swamp forest, Chili, Monroe County, New York.
+02-reference.jpg | Exact-species field reference | DouglasGoldman | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Quercus_shumardii12.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quercus_shumardii12.jpg/1280px-Quercus_shumardii12.jpg | https://creativecommons.org/licenses/by-sa/4.0/ | Swamp forest, Chili, Monroe County, New York.
+03-bark.jpg | Bark close-up | DouglasGoldman | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Quercus_shumardii1.jpg | https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Quercus_shumardii1.jpg/1280px-Quercus_shumardii1.jpg | https://creativecommons.org/licenses/by-sa/4.0/ | Swamp forest, Chili, Monroe County, New York.
+
+Binary visual QA (2026-10-05): Three licensed physical photographs verified: two foliage views at different scales and bark. Whole-tree habit, acorn and twig/bud macros remain follow-up; foliage views are not fruit images.

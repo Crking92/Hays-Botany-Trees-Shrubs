@@ -1,0 +1,229 @@
+{
+  "id": "quercus-stellata",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus stellata",
+  "authority": "Wangenh.",
+  "common_name": "Post Oak",
+  "field_group": "White oak group",
+  "project_tracker_diagnostic": "Often cross-shaped leaves, but the stronger traits are thick yellowish twigs with stellate hairs and a densely harsh stellate-hairy lower leaf surface.",
+  "verified_target_counties": "Hays; Travis; Bastrop; Williamson; Bell; Blanco; Burnet; Gillespie; San Saba; Frio",
+  "project_inclusion": {
+    "mode": "existing curated oak module",
+    "target_zone_status": "PASS",
+    "strict_native_audit": "already passed in tracker"
+  },
+  "morphology_keys": {
+    "habit": "Deciduous tree of dry uplands, ridges, prairies, clays, sands, and limestone hills.",
+    "twigs": "Typically thick/yellowish with stellate pubescence; useful when leaf outline is atypical.",
+    "leaves": "Frequently cruciform/cross-shaped with broad squarish middle lobes, but shape is variable; lower surface densely harsh with stellate hairs.",
+    "acorn": "Cup deeply saucer-shaped and may enclose roughly one-quarter to two-thirds of the nut.",
+    "best_field_traits": [
+      "cruciform leaf when expressed",
+      "thick yellowish hairy twigs",
+      "harsh stellate-hairy underside",
+      "white-oak rounded lobes",
+      "Leaf blade typically 40–150 × 20–100 mm, lobes rounded or spatulate, distal two lobes often nearly perpendicular to midrib (cross shape variable).",
+      "Leaf underside includes crowded yellowish glandular hairs and scattered minute 6–8-rayed appressed/semiappressed stellate hairs; often harsh, NOT densely velvety.",
+      "Twigs usually 2–5 mm thick, densely stellate-pubescent, yellowish or grayish; terminal buds reddish brown, to 4 mm, sparsely pubescent.",
+      "Acorn cup deeply saucer-shaped, about 7–12(–18) mm deep × 10–15(–25) mm wide, tightly appressed scales, 1/4–2/3 of nut; nut 10–20 mm long.",
+      "White-oak-group acorns typically mature in the first growing season (annual), unlike blackjack oak's biennial fruit."
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 6,
+    "oak_specific_tightening": "Prioritize multi-photo late-summer/fall observations to increase the chance of mature leaves and acorns, plus curated taxon reference photos."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) paddymcg, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/1552804",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/49138496/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "49138496",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) drewe, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/1552804",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66322185/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "66322185",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-tree-field-view-1.jpg",
+      "role": "same-observation oak field view 1",
+      "creator": "(c) Will Dawson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/331970851",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602351585/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "331970851",
+      "photo_id": "602351585",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-tree-field-view-2.jpg",
+      "role": "same-observation oak field view 2",
+      "creator": "(c) Will Dawson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/331970851",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602351650/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "331970851",
+      "photo_id": "602351650",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-tree-field-view-3.jpg",
+      "role": "same-observation oak field view 3",
+      "creator": "(c) Will Dawson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/331970851",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602351571/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "331970851",
+      "photo_id": "602351571",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/06-same-tree-field-view-4.jpg",
+      "role": "same-observation oak field view 4",
+      "creator": "(c) Will Dawson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/331970851",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/602351603/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "331970851",
+      "photo_id": "602351603",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus-stellata-leaves--Bruce-Kirchoff--CC-BY-NC.jpg",
+      "role": "Diagnostic rounded, non-bristled leaf lobes, upper and pale lower blade surface",
+      "creator": "Bruce Kirchoff",
+      "license": "CC BY-NC 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "source_page": "https://plants.ces.ncsu.edu/plants/quercus-stellata/",
+      "platform": "NC State Extension Gardener Plant Toolbox",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "photo_verified": "visually verified direct image URL 2026-10-08",
+      "diagnostic_visibility": "Rounded terminal lobe and pale underside visibly clear; individual glandular/stellate hairs NOT resolved",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Quercus stellata"
+    },
+    {
+      "file": "https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Quercus_stellata_4_riWD77DjyHEn.jpg",
+      "role": "Mature dark acorn and cupule close-up on same twig as clustered reddish buds",
+      "creator": "Douglas Goldman, USDA",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://plants.ces.ncsu.edu/plants/quercus-stellata/",
+      "platform": "NC State Extension Gardener Plant Toolbox",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "photo_verified": "visually verified direct image URL 2026-10-08",
+      "diagnostic_visibility": "Acorn attached to closely scaled cup; buds also visible, but no metric scale and bud hairs NOT resolved",
+      "media_storage": "external_direct_url",
+      "scientific_name_verified": "Quercus stellata"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-core",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 8,
+    "photo_files_present": 6,
+    "photo_backfill_source": "historical taxa.zip migration",
+    "external_display_images_count": 2,
+    "last_visual_reviewed": "2026-10-08"
+  },
+  "look_here_first": "Check multiple mature leaf lobe tips: usually rounded with NO terminal bristle. If the leaf lacks a clear cross-shaped outline, look at thick (2–5 mm), often yellowish, densely stellate-hairy twigs and the harsh/stippled LOWER leaf surface with crowded yellowish glandular hairs plus minute stellate hairs. Confirm small reddish-brown buds (usually ≤4 mm) and scaly light-gray bark.",
+  "diagnostic_comparison": {
+    "priority_group": "Post oak vs blackjack oak",
+    "where_to_look_first": "First inspect terminal lobe bristles; then terminal buds, twig pubescence, abaxial hair type and mature bark; use cups and fruit maturation when present.",
+    "pair_specific_tie_breakers": {
+      "quercus-marilandica": "Blackjack's 3–5 broad distal lobes bear small awns/bristles (red oak), shiny upper face, dark blocky bark, and larger tawny-hairy distinctly 5-angled terminal buds (5–10 mm). Post oak may overlap in outline but has rounded non-bristled lobe tips, stout stellate-hairy twigs and small sparsely hairy buds.",
+      "quercus-buckleyi": "Texas red oak has more deeply cut bristle-tipped lobes, frequently more pointed than post oak's rounded lobes; use bud and twig hairs if leaves atypical."
+    },
+    "unreliable_alone": [
+      "Cross-shaped leaf is common but not universal; some blackjack leaves may resemble post oak silhouette.",
+      "A leaf's 'fuzzy' appearance alone is inadequate; inspect hair types and twig width.",
+      "Habitat (dry uplands) overlaps with blackjack; separate using multiple organs."
+    ],
+    "hybrid_guardrail": "Possible intermediates; don't force species ID from variable silhouette alone."
+  },
+  "diagnostic_image_plan": {
+    "priority": "high",
+    "status": "photo_targets_not_new_photos",
+    "needs": [
+      "Round non-bristled terminal lobe tip, macro with scale",
+      "Twig at node: yellowish stellate hairs and its diameter with ruler",
+      "Leaf underside 10–20×: yellowish glandular hairs + stellate hairs",
+      "Bud profile with ruler; compare ≤4 mm vs blackjack 5–10 mm",
+      "Ripe cup and nut, then mature bark",
+      "Matched same-scale adult leaves from SAME tree; do not use young water-sprout leaves as the type"
+    ],
+    "guardrail": "Existing gallery file paths and licenses preserved. A reference leaf photograph is not assumed to show macro hairs, buds or cups unless verified directly.",
+    "covered_by_new_gallery": [
+      "rounded non-bristled lobe-tip and underside context",
+      "mature acorn cup close-up"
+    ],
+    "remaining_macro_priorities": [
+      "twig stellate hairs",
+      "underside trichome magnification",
+      "terminal bud mm-scale macro"
+    ]
+  },
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America, Quercus",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501087"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "post-blackjack field-id pair",
+    "scope": "FNA morphology/compare/photo-shot plan; existing range, taxonomy, approval and photos unchanged"
+  },
+  "photo_backfill_2026_10_08": {
+    "stage": "learner-visible-external-diagnostic-images",
+    "status": "partial-photo-gaps-remain",
+    "added_count": 2,
+    "added_roles": [
+      "rounded leaf lobes and pale underside context",
+      "mature acorn/cup view with neighboring buds"
+    ],
+    "visually_checked_direct_urls": true,
+    "physical_github_images_unchanged": true,
+    "source_page": "https://plants.ces.ncsu.edu/plants/quercus-stellata/",
+    "unfilled_roles": [
+      "stellate twig-hair macro",
+      "leaf-underside glandular/star-hair microphoto",
+      "small terminal bud macro with mm ruler"
+    ],
+    "rights_note": "Both new NC State photos are CC BY-NC, suitable for licensed private study; public/commercial release requires rights review. Unverified purported Quercus stellata Commons photo titled Quercus stellata.jpg explicitly excluded: actual species Q. sinuata var. breviloba.",
+    "review_date": "2026-10-08"
+  },
+  "photo_note": " Two external directly displayable NC State licensed diagnostic photographs added 2026-10-08; the images are not yet mirrored to the repository and are not complete twig-hair microscopy."
+}

@@ -1,0 +1,163 @@
+{
+  "id": "quercus-vaseyana",
+  "entry_type": "species",
+  "family": "Fagaceae",
+  "genus": "Quercus",
+  "scientific_name": "Quercus vaseyana",
+  "authority": "Buckley",
+  "common_name": "Vasey Oak",
+  "field_group": "White oak group",
+  "project_tracker_diagnostic": "Evergreen/subevergreen shrub or small tree with narrow leathery leaves bearing a few coarse mucronate teeth, dark bark exfoliating in strips, and a shallow strongly tuberculate acorn cup.",
+  "verified_target_counties": "Edwards; Real; Uvalde; Val Verde; Kerr; Bandera; Kimble; Kinney; Crockett",
+  "project_inclusion": {
+    "mode": "existing curated oak module",
+    "target_zone_status": "PASS",
+    "strict_native_audit": "already passed in tracker"
+  },
+  "morphology_keys": {
+    "habit": "Evergreen or subevergreen shrub/small tree, commonly on dry limestone slopes and canyons.",
+    "bark": "Dark brown, furrowed, exfoliating in long strips.",
+    "leaves": "Narrowly lanceolate to oblong, leathery, usually with about 3–5 coarse teeth per side; teeth/lobes mucronate; underside densely stellate-hairy.",
+    "acorn": "Cup shallow, with strongly and regularly tuberculate scales; nut small, ovoid to oblong/subcylindric.",
+    "best_field_traits": [
+      "narrow leathery leaves",
+      "few coarse mucronate teeth",
+      "dark strip-exfoliating bark",
+      "strongly tuberculate cupule",
+      "FNA mature leaf 20–60(–90) × 10–20 mm; narrowly lanceolate/oblong, often 3–5 coarse mucronate-tipped teeth per side but sometimes entire.",
+      "Only 4–6 lateral veins on each side (often branching); lower surface generally densely covered with minute appressed stellate hairs.",
+      "Bud very small, about 1–1.5 mm; bark dark brown, furrowed, shedding in strips; twigs initially short-stellate hairy.",
+      "Acorn cup shallow, approximately 3–4 mm deep by 10 mm wide; cup scales reddish brown, markedly and evenly tuberculate; nut up to roughly 12 mm.",
+      "An old or shade leaf with an entire margin can resemble a live oak; examine bark, lateral veins, and the mature cup."
+    ]
+  },
+  "photo_strategy": {
+    "method": "targeted iNaturalist API",
+    "target_count": 6,
+    "oak_specific_tightening": "Prioritize multi-photo late-summer/fall observations to increase the chance of mature leaves and acorns, plus curated taxon reference photos."
+  },
+  "images": [
+    {
+      "file": "images/01-curated-reference.jpg",
+      "role": "curated taxon reference 1",
+      "creator": "(c) Madison Brown, all rights reserved, uploaded by Madison Brown",
+      "license": "license not supplied by API",
+      "source_page": "https://www.inaturalist.org/taxa/1552806",
+      "direct_image_url": "https://static.inaturalist.org/photos/334013937/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "334013937",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/02-curated-reference.jpg",
+      "role": "curated taxon reference 2",
+      "creator": "(c) Curren Frasch, some rights reserved (CC BY-NC), uploaded by Curren Frasch",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/taxa/1552806",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366749105/large.jpeg",
+      "platform": "iNaturalist",
+      "observation_id": "",
+      "photo_id": "366749105",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-same-tree-field-view-1.jpg",
+      "role": "same-observation oak field view 1",
+      "creator": "(c) Benjamin Schwartz, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/8813270",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11837712/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "8813270",
+      "photo_id": "11837712",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-same-tree-field-view-2.jpg",
+      "role": "same-observation oak field view 2",
+      "creator": "(c) Benjamin Schwartz, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/8813270",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11837726/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "8813270",
+      "photo_id": "11837726",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-same-tree-field-view-3.jpg",
+      "role": "same-observation oak field view 3",
+      "creator": "(c) Benjamin Schwartz, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/8813270",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11837727/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "8813270",
+      "photo_id": "11837727",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/06-same-tree-field-view-4.jpg",
+      "role": "same-observation oak field view 4",
+      "creator": "(c) Benjamin Schwartz, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "source_page": "https://www.inaturalist.org/observations/8813270",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11837729/large.jpg",
+      "platform": "iNaturalist",
+      "observation_id": "8813270",
+      "photo_id": "11837729",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-core",
+    "taxonomy_reviewed": true,
+    "morphology_reviewed": true,
+    "photo_downloader_included": true,
+    "last_reviewed": "2026-09-30",
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "photo_backfill_source": "historical taxa.zip migration"
+  },
+  "look_here_first": "Check leathery evergreen to subevergreen NARROW leaves with a few large teeth (or entire margins), then dark bark peeling in long strips. Confirm a tiny shallow cup with strongly, regularly BUMPY/tuberculate scales; this beats leaf shape by itself.",
+  "diagnostic_comparison": {
+    "priority_group": "Edwards Plateau limestone white oaks",
+    "method": "Read habit, mature leaf and underside, bud, and ripe cupule together; avoid a single-leaf ID.",
+    "pair_specific_tie_breakers": {
+      "quercus-sinuata-var-breviloba": "White shin tends to have broader deciduous blades, 7–11 rather than 4–6 vein pairs, pale papery bark, and non-tuberculate flat cup scales.",
+      "quercus-laceyi": "Lacey leaves are commonly broader and distinctly glaucous, with the tip broad and rounded/retuse. Vasey has smaller, narrow, frequently toothed leaves and dark bark that peels in strips.",
+      "quercus-fusiformis": "Escarpment live oak is generally larger-leaved, often entire-margined, and bears a deeper acorn cup with spindle-like nut; Vasey has a small cup with regularly raised tubercles and 4–6 vein pairs. Juvenile live oak can be toothed."
+    },
+    "field_uncertainty": "Retain Quercus sp. or the pair-level comparison if intermediates / absent fruit prevent a reliable determination."
+  },
+  "diagnostic_image_plan": {
+    "status": "photo_targets_not_new_photos",
+    "priority": "high",
+    "needs": [
+      "Cupule side and scale ultra-macro showing regularly raised tubercles, with mm scale",
+      "Mature leaf margin and 4–6 lateral vein pairs photographed flat against neutral background",
+      "20× leaf underside stellate hairs vs shin oak understory",
+      "Tiny 1–1.5-mm bud and twig trichomes macro",
+      "Mature bark dark peeling strips and habit on limestone"
+    ],
+    "photo_reuse_guardrail": "Current installed photographs remain unchanged. Diagnostic roles not considered proven until images inspected for structures, exact taxon, and permissions."
+  },
+  "diagnostic_science_sources": [
+    {
+      "authority": "Flora of North America Vol. 3",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501094"
+    }
+  ],
+  "diagnostic_polish": {
+    "date": "2026-10-08",
+    "stage": "Edwards Plateau three-oak morphology",
+    "scope": "Added measurable characters and image targets; range, status, existing photos and license metadata preserved"
+  }
+}
