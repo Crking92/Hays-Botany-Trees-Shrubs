@@ -39,8 +39,48 @@
     "names": [],
     "differences": "J. major has smaller 2–3.5 cm fruit with smoother nut surfaces between grooves; J. microcarpa has tiny fruit and many very narrow leaflets."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/juglans-nigra/01-tree-habit.jpg",
+      "creator": "R. A. Nonenmacher",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_nigra_02125.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "3879a6c28c69e3f36263ea38c738c9d00604db4e",
+      "role": "Leaflet close-up / serrated margins and surface venation",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/juglans-nigra/02-leaf-fruit.jpg",
+      "creator": "Rohit Naniwadekar",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_nigra_11.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "1d139dc7458f3f9fd8e583286fea93c8d10c40d2",
+      "role": "Pinnately compound leaf and green-husked fruit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/juglans-nigra/03-bark.jpg",
+      "creator": "MONGO",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Black_Walnut_Bark_Detail.JPG",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "e7f7a06ae0f61876f1875f524e7db60357312279",
+      "role": "Bark detail / deep furrows and interlacing ridges",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2a0990bc75d1c99a1a02bd6b73ac938d3c8a00917b1febb2ac55d6035db6c8ae",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

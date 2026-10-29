@@ -43,8 +43,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/aesculus-pavia/aesculus-pavia-flowers.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aesculus%20pavia%20352510526.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "3f7e33c00fc3e37be90cf1426a9eef264c51d914",
+      "role": "Spring inflorescence; provisional floral architecture",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/aesculus-pavia/aesculus-pavia-fruit.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aesculus%20pavia%202zz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "4d275450cc9d89627a328cb375ec89ee1128b1e4",
+      "role": "Smooth mature capsule; fruit comparison",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/aesculus-pavia/aesculus-pavia-leaf.jpg",
+      "creator": "Derek Ramsey",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Red%20Buckeye%20Aesculus%20pavia%20Leaf%20Closeup%202700px.JPG",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "source_blob_sha": "d0a2354ed5058776c38b4822d3aac2497ff6a876",
+      "role": "Palmately compound leaf and leaflet margins",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "486ff5b2edc28510ec9e363b5e04f233a1abc9d4e8134a38e2477817744c7608",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

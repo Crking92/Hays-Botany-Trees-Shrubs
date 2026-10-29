@@ -39,8 +39,61 @@
     "names": [],
     "differences": "Use this as the large-spiny-leaf nursery/landscape holly comparison; it must remain excluded from project-native totals."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ilex-opaca/ilex-opaca-provisional-face.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_opaca.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "902faeb6720fb5790658a8daa312132d25052079",
+      "role": "Existing American holly exact-species face foliage and red drupes",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-opaca/02-flowers.jpg",
+      "creator": "Dcrjsr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_opaca_American_holly_flowers.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "2d474ae9153568e9c62b077f1c987c779e39de5c",
+      "role": "Flowering American holly twig and axillary blossoms",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-opaca/03-leaves-green-fruit.jpg",
+      "creator": "USDA Natural Resources Conservation Service",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_opaca_USDA.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "2e3180becc3e088517aa961d671ccbec424b83e7",
+      "role": "American holly evergreen spiny leaves with immature green drupes",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-opaca/04-spiny-leaf-margin.jpg",
+      "creator": "Alouis21",
+      "source_page": "https://commons.wikimedia.org/wiki/File:B50_Ilex_opaca_(American_Holly)_Close-up.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "619afb9971fcbc4af469f4be69708c6f66fcda0c",
+      "role": "American holly large leathery leaf close-up with stiff marginal spine tips",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "59ba41715bf612dfcdd2e328b7d43f5df7ddea978a5757fc573103377c38a999",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

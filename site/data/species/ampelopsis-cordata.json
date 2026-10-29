@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ampelopsis-cordata/ampelopsis-cordata-leaves-fruit-commons.jpg",
+      "creator": "CK Kelly",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ampelopsis_cordata_iNat-90602642.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "94648df336d6c94de36a3dfb31d721e233697ca1",
+      "role": "Simple leaves and fruit clusters on vine",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "475ed86aec8e5d3ca791e238cde76222a261f9e12ba302e1fed6355fa5f85386",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

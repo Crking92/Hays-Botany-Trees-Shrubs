@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cornus-drummondii/cornus-drummondii-white-fruit-commons.jpg",
+      "creator": "Douglas Goldman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:CornusD1.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "ead58668efcaf02f8941e676f6e94692e7f2e8c9",
+      "role": "Exact species white drupes and red pedicels",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ff630efeb86403c0e65c8fc22e5c33726dd540e49396b06e8f3063b05bf3c5ed",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

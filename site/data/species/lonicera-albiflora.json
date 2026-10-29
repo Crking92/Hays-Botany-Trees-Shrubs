@@ -27,8 +27,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/lonicera-albiflora/01-texas-honeysuckle-live.jpg",
+      "creator": "Patrick Alexander (aspidoscelis)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_albiflora_-_Flickr_-_aspidoscelis.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "29c8297da58d28fadbca73f316cdf3f97f5139ab",
+      "role": "First exact-species field recognition image (white honeysuckle); use to learn field appearance only until flowering structure inspected",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/lonicera-albiflora/02-albiflora-reference.jpg",
+      "creator": "Patrick Alexander (aspidoscelis)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_albiflora_-_Flickr_-_aspidoscelis_(1).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "8b4771192ea44d76d3905acd8fd73460963083e5",
+      "role": "Second exact-species reference view for Western white honeysuckle; compare foliage/flower structure when visible",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/lonicera-albiflora/03-texas-origin-flowering-branch.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_albiflora.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "e21ec69c1b21df4e9a750eaf98651ae1613faa9d",
+      "role": "Texas-origin flowering honeysuckle branch; teaching regional white-flower form and leaf context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f18896a8b907e70d53b5e18b28e68cd504548e4e73ee31a787daa80014f166de",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -39,8 +39,48 @@
     "names": [],
     "differences": "Separate from Parthenocissus by the usual 3-parted/trifoliolate fleshy foliage rather than palmately 5–7-foliolate leaves; separate from Vitis with the thick 3-parted leaves, stem/node texture, tendrils, and reproductive details rather than berries alone."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cissus-trifoliata/cissus-trifoliata-provisional-face.jpg",
+      "creator": "DouglasGoldman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata1.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "bd22978e521e3860f9eb243f03106ff9faec54c2",
+      "role": "Exact-species field photo from Bennett Park, Jackson County Texas; recognizable sorrelvine habit; diagnostic fruit and tendril/leaf views later.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/cissus-trifoliata/cissus-trifoliata-texas-leaves-2.jpg",
+      "creator": "DouglasGoldman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata2.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "c7e4a7d5e8cec8f43bdba57b51311fd67dc5ce63",
+      "role": "Additional Texas sorrelvine exact-species view; check three-parted leaf and leaflet junction; macro verification later",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/cissus-trifoliata/cissus-trifoliata-texas-node-3.jpg",
+      "creator": "DouglasGoldman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cissus_trifoliata3.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "17611784f50b4d56d7a04390d1a7983b836bbb80",
+      "role": "Additional Texas sorrelvine view; useful for plant appearance and shoot architecture; detailed node arrows pending",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "6663892fa431c80bef247dd574096ad8c3a6d8cab5c6beafed6c0acfc33639b8",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

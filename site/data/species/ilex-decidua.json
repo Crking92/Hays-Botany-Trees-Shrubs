@@ -39,8 +39,48 @@
     "names": [],
     "differences": "Within local hollies, deciduous winter-bare fruiting twigs are the fastest field separator."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ilex-decidua/01-summer-leaf-twig.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_decidua_5zz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "acb2ee10440eed4cef4ac016939c922b24f6616d",
+      "role": "Summer deciduous leaves and twig soft crenate/serrate margins",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-decidua/02-habit.jpg",
+      "creator": "James Steakley",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_decidua.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "9d8bc7fb2c14dc04f12897029298c6c9abbd9319",
+      "role": "Whole mature possumhaw plant showing deciduous tree habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-decidua/03-winter-fruit.jpg",
+      "creator": "Eric Hunt",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_decidua_4.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "536a33901bc1e1370dd93aa63170ba383d386faa",
+      "role": "Leafless winter branch loaded with bright red/orange drupes",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "1d727a5e481905c32bb9512b974504a40b7909be20b90d3a0e7409b8c1335c79",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

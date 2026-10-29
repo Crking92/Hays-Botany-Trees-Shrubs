@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/acer-palmatum/acer-palmatum-leaves-samaras-commons.jpg",
+      "creator": "A. Barra",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acer_palmatum.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "58db22b55b468047314f69b7672332aab9e7f1a9",
+      "role": "Exact-species photo: palmate serrate leaves and paired samaras (not buds or leaf undersides)",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f8aec1ef445ce770ff5d5d6ea5c24497fb45528d67bb192ec570f35c93b7cd3d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

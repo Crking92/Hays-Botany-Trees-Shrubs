@@ -27,8 +27,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/lonicera-sempervirens/01-coral-honeysuckle-flower-and-vine.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_285692515.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "a53b8e7ae224b271735347634c904bb9e3c852a8",
+      "role": "Coral honeysuckle exact-species field face; flower arrangement / vine context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/lonicera-sempervirens/02-coral-honeysuckle-flower-close.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_285692603.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "94dd541ef5400e957de57bf7186694cff9dbd6be",
+      "role": "Additional exact-species live corolla/head view",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/lonicera-sempervirens/04-coral-honeysuckle-ripe-red-fruit.jpg",
+      "creator": "R. A. Nonenmacher",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lonicera_sempervirens_012c.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "87f2199a260be33ecf9f14bd1a899337c5e81562",
+      "role": "Mature scarlet-to-red coral honeysuckle fruit in the field; compare against Japanese honeysuckle dark fruit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "06e72c87f5e0a61837ff823fd8d985cf178e3baebc3617a6a5b894e63ee1531d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

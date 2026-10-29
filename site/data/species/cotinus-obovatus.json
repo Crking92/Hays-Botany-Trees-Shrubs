@@ -31,8 +31,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/cotinus-obovatus/cotinus-obovatus-obovate-leaves-commons.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cotinus_obovatus_2zz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "1f1e1b72a396462a3c22b1b03bf133ddd317a0ad",
+      "role": "Exact species broad obovate leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ad940cea32ce48a3680409feb41648cea0fea566a3b6bff56e343948ec8ad44a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

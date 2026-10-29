@@ -43,8 +43,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/acer-grandidentatum/acer-grandidentatum-leaf.jpg",
+      "creator": "Quinn Dombrowski",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acer_grandidentatum_leaves_ZionNP.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "6df3f0465b8970cb1b32ee28b8aa8628fc318d04",
+      "role": "Mature green leaf and broad palmate lobes; Utah provenance, provisional diagnostic overview, not a leaf-underside macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "96d16f55282072380b71a9710c76a2f454b823b2e4fd8aa802c65effb35b173a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

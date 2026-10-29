@@ -35,8 +35,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/celtis-lindheimeri/celtis-lindheimeri-provisional-face.jpg",
+      "creator": "Wendy A",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_lindheimeri_-_Wendy_A_-_265984302.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "a43cbe51fa780304cedf2be177e0b7b38f5f7f35",
+      "role": "Foliage / branch recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "979bb091203e953b02fc3717023ca5e0262d2c7a3388b9f639b034a684e4c5ca",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -39,8 +39,48 @@
     "names": [],
     "differences": "Compared with C. reticulata, sugarberry has thinner, smoother leaves with less prominently raised reticulate veins beneath. Compared with C. lindheimeri, leaf undersides are not densely white-tomentose."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/celtis-laevigata/01-whole-tree.jpg",
+      "creator": "MartínezFlores",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "56d13603055834282fba8cc737951817a053d0a4",
+      "role": "whole tree / young habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/celtis-laevigata/02-leaf.jpg",
+      "creator": "Brucewinter",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_leaf.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "3b3960031672724aa2ab789834bc6589d0d97aaf",
+      "role": "diagnostic leaf / asymmetrical base",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/celtis-laevigata/03-bark.jpg",
+      "creator": "Brucewinter",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtis_laevigata_bark.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "53b4ada7e2792c3616456c74fecd539113429b2d",
+      "role": "diagnostic corky-warty bark",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3949180d8cb8f2576b46410c3a0224eb3d9bc482e500719c942440f6ea01d8ff",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

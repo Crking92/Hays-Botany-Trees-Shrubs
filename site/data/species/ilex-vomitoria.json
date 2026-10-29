@@ -39,8 +39,100 @@
     "names": [],
     "differences": "Within local hollies, tiny evergreen leathery leaves with low rounded teeth are the fastest field separator."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ilex-vomitoria/01-leaves-fruit.jpg",
+      "creator": "Luteus",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "51ff79ff3a62b1144fd09ddd1bd13cbf18d2eb6f",
+      "role": "Small crenate leaves and red drupes",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-vomitoria/02-fruiting-twig.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_366737061.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "4d230aa51ad63c6d2e3b17b2ac9458ef0af0cb8e",
+      "role": "Twig with immature green drupes and alternate small leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-vomitoria/03-flowers-leaves.jpg",
+      "creator": "National Park Service",
+      "source_page": "https://commons.wikimedia.org/wiki/File:File-Species_name-_Ilex_vomitoria-Common_name-_Yaupon_Holly_(81fd4c2f-03bc-49ae-994e-eaba1bce2a11).jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "ccbbeab793292d5b86f37f1fb9b2ba6b8c117d78",
+      "role": "Axillary white flower clusters and crenate leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-vomitoria/04-whole-fruiting-habit.jpg",
+      "creator": "Staniulis / Angelita dela Rosa",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_in_Wilmington,_North_Carolina.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "a1e1dcce9aa868e498df39f7fdad25a1a69bfeb5",
+      "role": "Mature upright fruiting Ilex vomitoria evergreen tree — natural branching silhouette",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-vomitoria/05-bark-red-fruit-twig.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_(2020).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "1ec9ad786ede21d54fa97750e6683e8ffb2ca0e7",
+      "role": "Pale gray bark and alternate crenate evergreen leaves with red fruit on branching twig",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-vomitoria/06-small-leaf-margin-green-fruit.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria_3zz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "4e1c068448b806c51d5ba2bc1d535d3df0fad406",
+      "role": "Small alternate leaves with shallow rounded crenate margins and immature green drupes",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/ilex-vomitoria/07-pistillate-flower-macro.jpg",
+      "creator": "Helen Lowe Metzman / USGS Bee Inventory and Monitoring Lab",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ilex_vomitoria,_Yaupon_Holly,_pistillate_flowers,_Green_Farmacy_Garden,_Fulton,_Md,_Helen_Lowe_Metzman_2019-10-23-17.20.38_ZS_PMax_UDR_(49426959648).jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "91d366d83e81e7c89a4ea31899bb9aa66dde2f16",
+      "role": "Pistillate flower macro showing prominent green ovary and staminodes",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5fb4cc8ec8b9d415a1690b35b850839bc97e46c948ab5e60523395509bd69f7f",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

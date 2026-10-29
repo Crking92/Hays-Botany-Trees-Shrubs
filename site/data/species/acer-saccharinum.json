@@ -43,8 +43,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/acer-saccharinum/acer-saccharinum-leaves.jpg",
+      "creator": "Simon Eugster",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acer_saccharinum_leaves.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "bddee1976e43c8eb751383ec0ac9ceda082cadbe",
+      "role": "Mature foliage and deep leaf sinuses; photograph not a controlled underside macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/acer-saccharinum/acer-saccharinum-samaras.jpg",
+      "creator": "Jason Sturner",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acer_saccharinum_samaras_Churchill_Woods_Glen_Ellyn_Illinois.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "db145d025dd51504e87a4356f6f2c10f03c853fe",
+      "role": "Paired samaras in fruit; Illinois provenance; add scale and fruit-season notes later",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "0f6a0ee578f7977fea60d7bc80fbca7633f673470079df672dde0685d16800fc",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

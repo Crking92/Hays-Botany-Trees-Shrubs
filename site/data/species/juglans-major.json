@@ -35,8 +35,22 @@
     "names": [],
     "differences": "J. microcarpa has 17–25 much narrower leaflets and tiny fruit; J. nigra has 15–23 leaflets plus much larger 3.5–8 cm fruit and coarsely warty nut sculpture."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/juglans-major/juglans-major-provisional-face.jpg",
+      "creator": "Whitney Cranshaw, Colorado State University",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Juglans_major_foliagenuts.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "ee0e4e9d3cf5aaa3087b824f2a12959a614cd53f",
+      "role": "Foliage and developing nuts recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "48e1b67b1d4938e1b2e8cd7a890f3fea5995dd9bef47bd42604cf9fb6cdaca17",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
