@@ -63,8 +63,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/quercus-macrocarpa/01-nrcs-reference.jpg",
+      "creator": "USDA NRCS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "40eb52ea0bb8382c33f5c2ef319160217fb56c2c",
+      "role": "Mature acorns with fringed cups — NRCS photograph",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/quercus-macrocarpa/02-leaves.jpg",
+      "creator": "JBCLM",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_hojas_JBCLM.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "41a52b9a172572531065baff31605614431a6a0a",
+      "role": "Lobed leaves with deep middle sinuses",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/quercus-macrocarpa/03-acorn-cup.jpg",
+      "creator": "Matt Lavin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_macrocarpa_(5108085936).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "fa983a5bf989afa8a5137791c3e0bad06332d995",
+      "role": "Green acorns and long-fringed cups with leaf surfaces",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4090ff2259d619007a278789622ef1320f5091ec526240069704357dc083bcf2",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

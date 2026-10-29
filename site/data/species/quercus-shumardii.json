@@ -55,8 +55,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/quercus-shumardii/01-reference.jpg",
+      "creator": "DouglasGoldman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_shumardii11.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "669a2b4ac04332a25d4b77531562af31012c5cdf",
+      "role": "Leafy branch in woodland context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/quercus-shumardii/02-reference.jpg",
+      "creator": "DouglasGoldman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_shumardii12.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "5141e8e92076adc040948dc73dd7f98eb901223a",
+      "role": "Deeply lobed foliage and twig arrangement",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/quercus-shumardii/03-bark.jpg",
+      "creator": "DouglasGoldman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_shumardii1.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "e28bcd872554f8f4501c07e8d5a668de8acd8055",
+      "role": "Furrowed bark close-up",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "1918e82bca4506530caea8298827e4b854095584f2ca014cd52a224d1ba25694",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

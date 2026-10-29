@@ -39,8 +39,22 @@
     "names": [],
     "differences": "Unlike R. aromatica, leaves are not merely three large fan-shaped leaflets; unlike thorny colima-type shrubs, R. microphylla lacks spines."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/rhus-microphylla/rhus-microphylla-provisional-face.jpg",
+      "creator": "JerryFriedman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhus_microphylla_fruta.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "c4e8fe1027db4bbaff6adfcf132bf87e63f42f7a",
+      "role": "Small pinnate leaflets and dense rust-red hairy fruits; source photographer retouched crop/levels.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "a2987b4a94b085ab8a0b7e2c0ad06f5476d77c83f1e9c9aff53b60e2a41c108a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -63,8 +63,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/quercus-muehlenbergii/01-leaves-acorns.jpg",
+      "creator": "Jim Conrad",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_muehlenbergii-leaves-immature-acorns.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "b679c535289249d0248ae0c2840c78c58ecaea39",
+      "role": "Toothed leaf surfaces and immature acorn cups",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/quercus-muehlenbergii/02-tree-reference.jpg",
+      "creator": "Kim Scarborough",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Chinkapin_oak.jpg",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "source_blob_sha": "7e23e814f9dbe0eb04d89923a6322686953a8550",
+      "role": "Mature trunk and spreading crown",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/quercus-muehlenbergii/03-bark.jpg",
+      "creator": "Krzysztof Golik",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_muehlenbergii_in_Hackfalls_Arboretum_(1).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "2c6ae2c92f7cb8acd4e7aba548d2bebcf1c7d662",
+      "role": "Bark close-up",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ff37339af425ee978c9f364e8d330d784fe1ac3688448ee39338b78daed1b900",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

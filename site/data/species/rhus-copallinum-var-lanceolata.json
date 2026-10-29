@@ -55,8 +55,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/rhus-copallinum-var-lanceolata/01-compound-leaf-habit.jpg",
+      "creator": "Mike Tilley",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhus_lanceolata.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "034db7e683b42cee2207c3ec2b0f3f9a2190fcdd",
+      "role": "Compound leaf / winged-rachis habit reference",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d7d2fec0192306c0ded3e73ee4f0f50b9397c659c2e29a65de75d79cde5600a9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

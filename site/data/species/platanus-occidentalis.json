@@ -39,8 +39,48 @@
     "names": [],
     "differences": "Mottled exfoliating bark + giant alternate lobed leaves + spherical hanging fruit heads is the core field package."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/platanus-occidentalis/01-leaves.jpg",
+      "creator": "Katja Schulz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Platanus_occidentalis_Leaves_-_Flickr_-_treegrow_(3).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "f3b11b4d2e3d4fa79125ac8eaec2d9876dd4bb34",
+      "role": "Palmately lobed autumn leaves and long petioles",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/platanus-occidentalis/02-bark.jpg",
+      "creator": "Judy Gallagher",
+      "source_page": "https://commons.wikimedia.org/wiki/File:American_Sycamore_bark_-_Platanus_occidentalis,_Leesylvania_State_Park,_Woodbridge,_Virginia.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "824abdd5d75b07ec8ee7d5af5cb9156d8e2d358c",
+      "role": "Mottled exfoliating bark close-up",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/platanus-occidentalis/03-fruit-head.jpg",
+      "creator": "Ryan Hodnett",
+      "source_page": "https://commons.wikimedia.org/wiki/File:American_Sycamore_(Platanus_occidentalis)_Fruit_-_London,_Ontario_2015-04-04.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "b019fc5d2b7b0f441fe60c1eeeef04aca099da17",
+      "role": "Detached spherical fruit head caught in another tree",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c9846da32f236243a4935b6d5e737f7ffcab6fc7be3faf3698e030dde42ac238",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

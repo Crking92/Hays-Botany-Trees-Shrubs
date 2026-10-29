@@ -63,8 +63,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/quercus-marilandica/01-foliage-reference.jpg",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_marilandica_kz01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "cc4c9512db3ec1665cb801c90596d1201f9b8a7d",
+      "role": "Broad leaf lobes and pale lower leaf surfaces",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/quercus-marilandica/02-field-reference.jpg",
+      "creator": "Jason Sturner",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Quercus_marilandica_Shawnee_National_Forest_1.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "22f801497ad8129101f06991738ffa268a4ecc9a",
+      "role": "Upper trunk and branching crown in the field",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/quercus-marilandica/03-leaf-trunk-reference.jpg",
+      "creator": "© Traumrune / Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Montagnac-Quercus-marilandica_02.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "d4d586096965b3d46a042706b28b1cb24c37b48d",
+      "role": "Leaves beside lichen-covered trunk and bark",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f48ad87996dcfb8d424e9e2eefd9175ce769403c8a172b1d603067f912d55597",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

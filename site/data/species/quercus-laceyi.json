@@ -64,7 +64,7 @@
     "differences": ""
   },
   "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
   "original_species_sha256": "c4dd078470e5b3847fd2d301bbf48267a97e0dab3a84b91b4c87710805530efa",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

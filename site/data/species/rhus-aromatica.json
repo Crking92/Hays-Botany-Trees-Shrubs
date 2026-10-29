@@ -55,8 +55,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/rhus-aromatica/01-flowers.jpg",
+      "creator": "Sten Porse",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhus-aromatica-flowers.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "762003bac26a39205e1996ac60ac1110c3310615",
+      "role": "Early flower clusters",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/rhus-aromatica/02-three-leaf-habit.jpg",
+      "creator": "Matt Lavin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhus_aromatica_(R._trilobata)_(5020619321).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "41e9f74054ca097e7291f2a51f6526206a090d55",
+      "role": "Three-leaflet habit / historical Rhus trilobata label",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3c2b21886da9d40cdad688a8829adc2ceecafeb576b00997b68eac82544afa58",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

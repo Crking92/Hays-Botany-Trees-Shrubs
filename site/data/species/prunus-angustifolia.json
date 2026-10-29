@@ -35,8 +35,22 @@
     "names": [],
     "differences": "Compared with P. mexicana, Chickasaw plum is usually more thicket-forming and thorny with narrower leaves and a more shrubby/suckering habit."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/prunus-angustifolia/prunus-angustifolia-provisional-face.jpg",
+      "creator": "Eric Hunt",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Prunus_angustifolia_Arkansas.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "c491701a7c6fa960ce08a38112e6a8f85948de93",
+      "role": "Flowering shrub, white spring blooms along branches; fruit and leaves later.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "a1ccc72ad23fd71d3c47665a0f68004a66b7d8c904c55b3b6be4ad4c913ffc68",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

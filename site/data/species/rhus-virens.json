@@ -55,8 +55,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/rhus-virens/01-habit.jpg",
+      "creator": "Homer Edward Price",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Evergreen-Sumac-c_(4487584824).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "fdb292d03fa5466bcfa3193cacf82f578d32dbcf",
+      "role": "Evergreen shrub / compound-leaf habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/rhus-virens/glass-root-garden-466434058-compound-leaves.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/466434058",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "940b022a8b4902a01474b4c5f982f4aae097fde7",
+      "role": "Evergreen sumac: woody shoot with pinnately compound leaves; observe multiple oval leaflet pairs and subtly reddish new growth",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/rhus-virens/glass-root-garden-738793628-full-shrub-habit.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/738793628",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "beb75f4a14d0da2192ec7f70406e3d20025ce07b",
+      "role": "Evergreen sumac: rounded, many-branched shrub in dry rocky habitat; structural recognition",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "541dbb1e814ef63b8a4a5fdab896f421ca1807d899cc10ce986b03d4ed3015b5",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

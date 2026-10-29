@@ -35,8 +35,22 @@
     "names": [],
     "differences": "Separate from P. serotina by evergreen glossy foliage and shorter axillary racemes; separate from P. mexicana by evergreen habit, glossy leaves, and cherry-like black fruit rather than larger plum-like drupes."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/prunus-caroliniana/prunus-caroliniana-provisional-face.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Prunus_caroliniana_3zz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "b63faa8b3af6286d7ce76519c2916ebb0a2f7870",
+      "role": "Whole living evergreen shrub/tree, first-pass habit recognition.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "4f881beb106cc97230dfbac55b9cbf3e8c75a8901b2720dd8fb9bdefa0e9418c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

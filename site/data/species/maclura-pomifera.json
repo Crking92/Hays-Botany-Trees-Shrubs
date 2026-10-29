@@ -39,8 +39,61 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/maclura-pomifera/osage-orange-leaves.jpg",
+      "creator": "H. Zell (Llez)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_002.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "2b437bdfe5ee66ce44aefddefb3b76ce44f5d7a9",
+      "role": "Simple alternate glossy entire leaves on shoot, plant cultivated in botanical garden; leaf arrangement and petiole recognition",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/maclura-pomifera/osage-orange-tree-habit.jpg",
+      "creator": "H. Zell (Llez)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_001.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "81fc4547f9e80a38431bd340cba85aaa435fcbed",
+      "role": "Full Osage orange tree habit and general crown; cultivated tree; not site-native proof",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/maclura-pomifera/osage-orange-fruit.jpg",
+      "creator": "Mahieddine23",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_fruit.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "4358925788f47b11995dfe2221239a30f859b9d3",
+      "role": "Round green knobby aggregate of fruits (multiple fruit), whole-fruit recognition",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/maclura-pomifera/osage-orange-fruit-surface.jpg",
+      "creator": "JMK",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera,_sinkarp,_Manie_van_der_Schijff_BT,_naderby.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "cab46abcc12276e464f8fcbbf45650da2430a827",
+      "role": "Macro of compound fruit surface: many packed units forming one globose multiple fruit, not an orange or a single ovary",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "645dfc8e471812241af89198a447bda72b12878f23dd50daa03685881376df93",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
