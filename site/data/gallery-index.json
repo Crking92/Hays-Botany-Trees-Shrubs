@@ -1,0 +1,541 @@
+{
+  "schema_version": 1,
+  "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
+  "species": 133,
+  "photo_species": 51,
+  "photo_count": 107,
+  "entries": {
+    "liquidambar-styraciflua": {
+      "count": 0,
+      "first_src": null
+    },
+    "cotinus-obovatus": {
+      "count": 1,
+      "first_src": "media/cotinus-obovatus/cotinus-obovatus-obovate-leaves-commons.jpg"
+    },
+    "pistacia-chinensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "rhus-aromatica": {
+      "count": 2,
+      "first_src": "media/rhus-aromatica/01-flowers.jpg"
+    },
+    "rhus-copallinum-var-lanceolata": {
+      "count": 1,
+      "first_src": "media/rhus-copallinum-var-lanceolata/01-compound-leaf-habit.jpg"
+    },
+    "rhus-microphylla": {
+      "count": 1,
+      "first_src": "media/rhus-microphylla/rhus-microphylla-provisional-face.jpg"
+    },
+    "rhus-virens": {
+      "count": 3,
+      "first_src": "media/rhus-virens/01-habit.jpg"
+    },
+    "schinus-terebinthifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "toxicodendron-radicans": {
+      "count": 0,
+      "first_src": null
+    },
+    "toxicodendron-radicans-subsp-rydbergii": {
+      "count": 0,
+      "first_src": null
+    },
+    "ilex-decidua": {
+      "count": 3,
+      "first_src": "media/ilex-decidua/01-summer-leaf-twig.jpg"
+    },
+    "ilex-opaca": {
+      "count": 4,
+      "first_src": "media/ilex-opaca/ilex-opaca-provisional-face.jpg"
+    },
+    "ilex-vomitoria": {
+      "count": 7,
+      "first_src": "media/ilex-vomitoria/01-leaves-fruit.jpg"
+    },
+    "hydrocotyle-bonariensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "hydrocotyle-umbellata": {
+      "count": 0,
+      "first_src": null
+    },
+    "hydrocotyle-verticillata": {
+      "count": 1,
+      "first_src": "media/hydrocotyle-verticillata/hydrocotyle-verticillata-ton-rulkens-leaves.jpg"
+    },
+    "celtis-laevigata": {
+      "count": 3,
+      "first_src": "media/celtis-laevigata/01-whole-tree.jpg"
+    },
+    "celtis-lindheimeri": {
+      "count": 1,
+      "first_src": "media/celtis-lindheimeri/celtis-lindheimeri-provisional-face.jpg"
+    },
+    "celtis-pallida": {
+      "count": 1,
+      "first_src": "media/celtis-pallida/01-plant-reference.jpg"
+    },
+    "celtis-reticulata": {
+      "count": 3,
+      "first_src": "media/celtis-reticulata/01-field-form.jpg"
+    },
+    "lonicera-albiflora": {
+      "count": 3,
+      "first_src": "media/lonicera-albiflora/01-texas-honeysuckle-live.jpg"
+    },
+    "lonicera-japonica": {
+      "count": 1,
+      "first_src": "media/lonicera-japonica/01-japanese-honeysuckle-axillary-flowers.jpg"
+    },
+    "lonicera-sempervirens": {
+      "count": 3,
+      "first_src": "media/lonicera-sempervirens/01-coral-honeysuckle-flower-and-vine.jpg"
+    },
+    "symphoricarpos-albus": {
+      "count": 0,
+      "first_src": null
+    },
+    "symphoricarpos-orbiculatus": {
+      "count": 0,
+      "first_src": null
+    },
+    "valeriana-amarella": {
+      "count": 0,
+      "first_src": null
+    },
+    "valeriana-woodsiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "mortonia-greggii": {
+      "count": 0,
+      "first_src": null
+    },
+    "schaefferia-cuneifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "cornus-drummondii": {
+      "count": 1,
+      "first_src": "media/cornus-drummondii/cornus-drummondii-white-fruit-commons.jpg"
+    },
+    "diospyros-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "diospyros-virginiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "elaeagnus-angustifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "arbutus-xalapensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "vaccinium-arboreum": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-alba": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-buckleyi": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-canbyi": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-fusiformis": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-laceyi": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-lyrata": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-macrocarpa": {
+      "count": 3,
+      "first_src": "media/quercus-macrocarpa/01-nrcs-reference.jpg"
+    },
+    "quercus-marilandica": {
+      "count": 3,
+      "first_src": "media/quercus-marilandica/01-foliage-reference.jpg"
+    },
+    "quercus-michauxii": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-muehlenbergii": {
+      "count": 3,
+      "first_src": "media/quercus-muehlenbergii/01-leaves-acorns.jpg"
+    },
+    "quercus-nigra": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-phellos": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-polymorpha": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-shumardii": {
+      "count": 3,
+      "first_src": "media/quercus-shumardii/01-reference.jpg"
+    },
+    "quercus-sinuata-var-breviloba": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-stellata": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-vaseyana": {
+      "count": 0,
+      "first_src": null
+    },
+    "quercus-virginiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "garrya-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "ribes-aureum": {
+      "count": 0,
+      "first_src": null
+    },
+    "philadelphus-lewisii": {
+      "count": 0,
+      "first_src": null
+    },
+    "philadelphus-texensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "carya-aquatica": {
+      "count": 0,
+      "first_src": null
+    },
+    "carya-illinoinensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "juglans-major": {
+      "count": 1,
+      "first_src": "media/juglans-major/juglans-major-provisional-face.jpg"
+    },
+    "juglans-microcarpa": {
+      "count": 0,
+      "first_src": null
+    },
+    "juglans-nigra": {
+      "count": 3,
+      "first_src": "media/juglans-nigra/01-tree-habit.jpg"
+    },
+    "koeberlinia-spinosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "camphora-officinarum": {
+      "count": 0,
+      "first_src": null
+    },
+    "lindera-benzoin": {
+      "count": 0,
+      "first_src": null
+    },
+    "magnolia-grandiflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "melia-azedarach": {
+      "count": 0,
+      "first_src": null
+    },
+    "maclura-pomifera": {
+      "count": 4,
+      "first_src": "media/maclura-pomifera/osage-orange-leaves.jpg"
+    },
+    "morus-alba": {
+      "count": 0,
+      "first_src": null
+    },
+    "morus-microphylla": {
+      "count": 0,
+      "first_src": null
+    },
+    "morus-rubra": {
+      "count": 0,
+      "first_src": null
+    },
+    "platanus-occidentalis": {
+      "count": 3,
+      "first_src": "media/platanus-occidentalis/01-leaves.jpg"
+    },
+    "ceanothus-herbaceus": {
+      "count": 1,
+      "first_src": "media/ceanothus-herbaceus/ceanothus-herbaceus-joshua-mayer.jpg"
+    },
+    "colubrina-texensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "condalia-hookeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "condaliopsis-obtusifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "frangula-caroliniana": {
+      "count": 0,
+      "first_src": null
+    },
+    "crataegus-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "crataegus-viridis": {
+      "count": 0,
+      "first_src": null
+    },
+    "geum-canadense": {
+      "count": 1,
+      "first_src": "media/geum-canadense/geum-canadense.jpg"
+    },
+    "malus-ioensis": {
+      "count": 1,
+      "first_src": "media/malus-ioensis/malus-ioensis-kenraiz-kz03.jpg"
+    },
+    "photinia-serratifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "prunus-angustifolia": {
+      "count": 1,
+      "first_src": "media/prunus-angustifolia/prunus-angustifolia-provisional-face.jpg"
+    },
+    "prunus-caroliniana": {
+      "count": 1,
+      "first_src": "media/prunus-caroliniana/prunus-caroliniana-provisional-face.jpg"
+    },
+    "prunus-mexicana": {
+      "count": 1,
+      "first_src": "media/prunus-mexicana/prunus-mexicana-provisional-face.jpg"
+    },
+    "prunus-rivularis": {
+      "count": 1,
+      "first_src": "media/prunus-rivularis/prunus-rivularis-provisional-face.jpg"
+    },
+    "prunus-serotina": {
+      "count": 0,
+      "first_src": null
+    },
+    "pyrus-calleryana": {
+      "count": 0,
+      "first_src": null
+    },
+    "rhaphiolepis-indica": {
+      "count": 0,
+      "first_src": null
+    },
+    "rubus-trivialis": {
+      "count": 2,
+      "first_src": "media/rubus-trivialis/rubus-trivialis-provisional-face.jpg"
+    },
+    "spiraea-thunbergii": {
+      "count": 0,
+      "first_src": null
+    },
+    "ptelea-trifoliata": {
+      "count": 0,
+      "first_src": null
+    },
+    "thamnosma-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "zanthoxylum-clava-herculis-subsp-fruticosum": {
+      "count": 0,
+      "first_src": null
+    },
+    "phoradendron-leucarpum": {
+      "count": 0,
+      "first_src": null
+    },
+    "acer-grandidentatum": {
+      "count": 1,
+      "first_src": "media/acer-grandidentatum/acer-grandidentatum-leaf.jpg"
+    },
+    "acer-negundo": {
+      "count": 0,
+      "first_src": null
+    },
+    "acer-palmatum": {
+      "count": 1,
+      "first_src": "media/acer-palmatum/acer-palmatum-leaves-samaras-commons.jpg"
+    },
+    "acer-saccharinum": {
+      "count": 2,
+      "first_src": "media/acer-saccharinum/acer-saccharinum-leaves.jpg"
+    },
+    "aesculus-glabra": {
+      "count": 2,
+      "first_src": "media/aesculus-glabra/aesculus-glabra-flowers.jpg"
+    },
+    "aesculus-pavia": {
+      "count": 3,
+      "first_src": "media/aesculus-pavia/aesculus-pavia-flowers.jpg"
+    },
+    "cardiospermum-halicacabum": {
+      "count": 2,
+      "first_src": "media/cardiospermum-halicacabum/cardiospermum-halicacabum-habit-fruit-commons.jpg"
+    },
+    "koelreuteria-paniculata": {
+      "count": 0,
+      "first_src": null
+    },
+    "sapindus-drummondii": {
+      "count": 2,
+      "first_src": "media/sapindus-drummondii/glass-root-garden-566017234-fruit.jpg"
+    },
+    "ungnadia-speciosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "sideroxylon-lanuginosum": {
+      "count": 3,
+      "first_src": "media/sideroxylon-lanuginosum/sideroxylon-lanuginosum-provisional-face.jpg"
+    },
+    "ailanthus-altissima": {
+      "count": 0,
+      "first_src": null
+    },
+    "halesia-diptera": {
+      "count": 0,
+      "first_src": null
+    },
+    "styrax-platanifolius": {
+      "count": 0,
+      "first_src": null
+    },
+    "symplocos-tinctoria": {
+      "count": 0,
+      "first_src": null
+    },
+    "tamarix-aphylla": {
+      "count": 0,
+      "first_src": null
+    },
+    "tamarix-ramosissima": {
+      "count": 0,
+      "first_src": null
+    },
+    "planera-aquatica": {
+      "count": 0,
+      "first_src": null
+    },
+    "ulmus-alata": {
+      "count": 0,
+      "first_src": null
+    },
+    "ulmus-americana": {
+      "count": 1,
+      "first_src": "media/ulmus-americana/ulmus-americana-leaves-samaras.png"
+    },
+    "ulmus-crassifolia": {
+      "count": 4,
+      "first_src": "media/ulmus-crassifolia/ulmus-crassifolia-leaves.jpeg"
+    },
+    "ulmus-parvifolia": {
+      "count": 1,
+      "first_src": "media/ulmus-parvifolia/ulmus-parvifolia-bark.jpg"
+    },
+    "ulmus-rubra": {
+      "count": 0,
+      "first_src": null
+    },
+    "boehmeria-cylindrica": {
+      "count": 0,
+      "first_src": null
+    },
+    "parietaria-pensylvanica": {
+      "count": 0,
+      "first_src": null
+    },
+    "urtica-chamaedryoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "sambucus-canadensis": {
+      "count": 3,
+      "first_src": "media/sambucus-canadensis/01-flower-close-up.jpg"
+    },
+    "sambucus-nigra": {
+      "count": 0,
+      "first_src": null
+    },
+    "viburnum-rufidulum": {
+      "count": 0,
+      "first_src": null
+    },
+    "ampelopsis-cordata": {
+      "count": 1,
+      "first_src": "media/ampelopsis-cordata/ampelopsis-cordata-leaves-fruit-commons.jpg"
+    },
+    "cissus-trifoliata": {
+      "count": 3,
+      "first_src": "media/cissus-trifoliata/cissus-trifoliata-provisional-face.jpg"
+    },
+    "nekemias-arborea": {
+      "count": 0,
+      "first_src": null
+    },
+    "parthenocissus-heptaphylla": {
+      "count": 0,
+      "first_src": null
+    },
+    "parthenocissus-quinquefolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "vitis-berlandieri": {
+      "count": 1,
+      "first_src": "media/vitis-berlandieri/vitis-berlandieri-leaf-underside.jpg"
+    },
+    "vitis-cinerea": {
+      "count": 2,
+      "first_src": "media/vitis-cinerea/vitis-cinerea-provisional-face.jpg"
+    },
+    "vitis-mustangensis": {
+      "count": 3,
+      "first_src": "media/vitis-mustangensis/vitis-mustangensis-provisional-face.jpg"
+    },
+    "vitis-palmata": {
+      "count": 1,
+      "first_src": "media/vitis-palmata/vitis-palmata-provisional-face.jpg"
+    }
+  }
+}
