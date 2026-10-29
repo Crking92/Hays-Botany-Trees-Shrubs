@@ -1,0 +1,74 @@
+{
+  "id": "hydrocotyle-verticillata",
+  "family": "Araliaceae",
+  "genus": "Hydrocotyle",
+  "scientific_name": "Hydrocotyle verticillata",
+  "common_name": "Whorled pennywort",
+  "look_here_first": "START WITH THE WHOLE FLOWERING STALK, NOT A LEAF. Both dollarweed H. umbellata and H. verticillata have peltate (underside-attached) round scalloped leaves. H. verticillata generally carries SEPARATED SMALL WHORLS (VERTICILS) of tiny flowers or fruits along an elongated axis—like several spaced little rings—rather than the mostly crowded terminal manyflowered umbel of H. umbellata. The lower whorls can be closer together on a young stalk, so follow the ENTIRE stalk and a mature fruit if possible. Branching/long pedicels prompt comparison with H. bonariensis and the legacy triradiata name.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Low perennial wetland herb with creeping slender rhizomes, roots at nodes and separate erect long-petioled leaves."
+    },
+    {
+      "label": "Identification",
+      "text": "Round, shield-like blades have several shallow scallops and radiating veins; long petiole fastens underneath the blade (PELTATE), not at the leaf edge."
+    },
+    {
+      "label": "Identification",
+      "text": "Flowers are tiny, white, cream or greenish, with five petals and stamens (no distinct leafy calyx teeth), arranged in multiple spaced small VERTICILS along a usually slender flowering axis."
+    },
+    {
+      "label": "Identification",
+      "text": "Under typical H. verticillata concept, whorls contain roughly 2–7 small flowers, though numbers and distance along stem vary; terminal upper whorls may be crowded when young."
+    },
+    {
+      "label": "Identification",
+      "text": "Look for multiple flower/fruit tiers, NOT merely a rounded leaf: H. umbellata usually has a more crowded upper manyflowered cluster and H. bonariensis can develop multiply branched proliferous stalks."
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit dry and strongly flattened, two mericarps, with visible ribbing when mature. Typical H. verticillata fruit approximately 3–4 mm across and with a truncate/rounded base in classical treatments."
+    },
+    {
+      "label": "Identification",
+      "text": "Taxonomic caveat: photo labeled var. triradiata cannot automatically prove this accepted species because Kew associates the name with H. bonariensis."
+    },
+    {
+      "label": "Habit",
+      "text": "Perennial creeping wet-ground herb, rhizomes at or below surface, roots at nodes. Leaves often 5–20+ cm high on petioles depending site; wet soil and aquatic margins."
+    },
+    {
+      "label": "Leaves",
+      "text": "Simple, alternate on creeping stem; round/orbicular to broadly kidney-like, shallowly lobed or crenate/scalloped around edge, usually palmate veins radiating from underside stalk junction. Broad treatment notes to ~6 cm diameter and commonly 8–14 shallow lobes."
+    },
+    {
+      "label": "Peltate attachment",
+      "text": "The petiole attaches to the blade's UNDERSIDE inside its outline (peltate). A centered surface vein hub is a useful recognition clue but confirmation requires leaf underside or a carefully angled image."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Interrupted/verticillate flowering spike with 2 to several spaced little flowering whorls (each often about 2–7 flowers). The axis may be simple or once/multiply forked depending taxonomic treatment or plant; do not use unbranched axis as absolute. As fruits develop, the internodes between tiers generally become easier to see."
+    },
+    {
+      "label": "Flowers",
+      "text": "Very small bisexual five-petaled star-like flowers, often cream/greenish or purplish-tinged in some flora treatments, with five stamens and inferior ovary; no obvious large separate sepals."
+    },
+    {
+      "label": "Fruits",
+      "text": "Laterally compressed ribbed dry fruits that split into paired one-seeded mericarps; fruit often broader than long, typically around 3–4 mm wide in broad floristic treatments, with basal outline relatively truncate or rounded rather than strongly heart-notched."
+    },
+    {
+      "label": "Habitat",
+      "text": "Moist soil, stream or pond edges, marsh and shallow-water margins; can form rooted wet ground mats and float into water."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b1ba5587a2deaffd93af5bcaf278d342502e1644067e614435d24dd06d37c393",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

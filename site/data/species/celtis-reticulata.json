@@ -1,0 +1,46 @@
+{
+  "id": "celtis-reticulata",
+  "family": "Cannabaceae",
+  "genus": "Celtis",
+  "scientific_name": "Celtis reticulata",
+  "common_name": "Netleaf Hackberry",
+  "look_here_first": "Rough leaf surface plus strongly raised netlike veins beneath; unarmed woody plant.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small to medium unarmed tree"
+    },
+    {
+      "label": "Identification",
+      "text": "shorter thicker leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "upper leaf surface distinctly rough/scabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "lower surface with strongly raised netlike veins"
+    },
+    {
+      "label": "Identification",
+      "text": "margins entire or sparsely toothed above middle"
+    },
+    {
+      "label": "Identification",
+      "text": "dry rocky upland habitat"
+    },
+    {
+      "label": "Identification",
+      "text": "reddish-orange to purple fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with C. laevigata, netleaf hackberry has thicker rougher leaves and much more conspicuous reticulate venation beneath. C. lindheimeri differs by dense white tomentum on the leaf underside."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "148d3566811209aac7d22cc8afca569ec3d64461f76b2db76785ad226cd5c436",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hydrocotyle-bonariensis",
+  "family": "Araliaceae",
+  "genus": "Hydrocotyle",
+  "scientific_name": "Hydrocotyle bonariensis",
+  "common_name": "Largeleaf pennywort",
+  "look_here_first": "DON'T USE THE ROUND LEAVES TO SPECIES-ID. Find the WHOLE FLOWERING STALK. Largeleaf/dune pennywort has a COMPOUND, proliferating inflorescence: a long main flowering peduncle terminates in a primary umbel of several rays, AND those rays themselves carry whorls of little flowers or fruits along their length—like tiny branching miniature whorled stems. Compare H. umbellata (mostly one crowded simple terminal many-flowered cluster) and H. verticillata (interrupted whorls largely arranged along a single main flowering axis). Capture the primary BRANCH POINT plus an entire secondary ray; any ambiguous or sterile specimen stays Hydrocotyle sp. or a cautious species complex.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Creeping perennial rhizomatous wetland/sandy-ground herb rooting at nodes, with many erect petioles and round leaves elevated above the substrate."
+    },
+    {
+      "label": "Identification",
+      "text": "Large orbicular or slightly kidney-rounded PELTATE leaves; the petiole inserts on the UNDERSIDE within the perimeter rather than into an open basal sinus. Shallow crenate/scalloped margins and palmate veins radiate from insertion point."
+    },
+    {
+      "label": "Identification",
+      "text": "Reproductive stalk is typically LONGER than associated leaf petiole, ending in a branching PROLIFEROUS / COMPOUND umbel rather than a single crowd of little white flowers."
+    },
+    {
+      "label": "Identification",
+      "text": "In a well-developed flowering stalk, ~5–7 primary rays diverge near the tip, and EACH RAY can elongate into its own verticillate flowering axis with several spaced little rings of flowers/fruits. Look for more than one secondary branch."
+    },
+    {
+      "label": "Identification",
+      "text": "Five very small whitish to cream petals on individual flowers; observe delicate thread-like pedicels rather than interpreting small round green buds as fruit without a close-up."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature flattened oval-to-ellipsoid schizocarps break into paired one-seeded mericarps; base often cordate (heart-shaped notch) with pronounced dorsal/lateral ribs and a longish style, but final fruit ID needs a macro and scale."
+    },
+    {
+      "label": "Identification",
+      "text": "Under an alternate taxonomy, some Texas plants named H. verticillata var. triradiata fall within bonariensis at Kew. Older name and source photos require extra voucher scrutiny."
+    },
+    {
+      "label": "Habit",
+      "text": "Glabrous to nearly hairless perennial with slender rooting stolons/rhizomes; may form broad vegetative mats in moist sandy soils, dune depressions, wetlands, ditches, and intermittently saturated edges."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate on runners; foliage from closely spaced stem nodes can look rosetted."
+    },
+    {
+      "label": "Leaf",
+      "text": "Simple peltate approximately circular blades, shallowly crenate/scalloped and palmately veined; sources often describe ~3–8 cm diameter, but size variable and strongly overlapping with other Hydrocotyle, so not a sole key."
+    },
+    {
+      "label": "Petiole",
+      "text": "Long, round slender stalk fastened centrally or subcentrally beneath the blade. Typical botanical references describe petioles around 7–20 cm, sometimes much longer."
+    },
+    {
+      "label": "Leaf attachment",
+      "text": "Peltate: show underside of round blade where petiole physically connects within margin. Top-side vein radiations alone are not a fully verified underside photograph."
+    },
+    {
+      "label": "Stem",
+      "text": "Creeping rhizomes running at or below soil surface, with fine roots from nodes. To document, gently lift a rooted section and photograph several connected nodes without unnecessary habitat disturbance."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Proliferous, compound, umbel-derived axis: primary long peduncle ends in an umbel with multiple primary rays, each developing separated verticillate flower or fruit tiers. Kew POWO general information (Flora Zambesiaca) explicitly describes ~5–7 rays and each ray becoming a verticillate raceme."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "591734e168e5950da9dfda5be2fc671a1990888d0a74a621f71ea3adfbcea216",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "frangula-caroliniana",
+  "family": "Rhamnaceae",
+  "genus": "Frangula",
+  "scientific_name": "Frangula caroliniana",
+  "common_name": "Carolina buckthorn",
+  "look_here_first": "Identify an alternate-leaved shrub with prominent curved leaf veins; check buds, leaf margins and berries.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a9a6a93f332e0297e9a910d5bd3f2937b6e545ce7770d524798926076141b13b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

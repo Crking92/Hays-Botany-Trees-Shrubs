@@ -1,0 +1,42 @@
+{
+  "id": "celtis-lindheimeri",
+  "family": "Cannabaceae",
+  "genus": "Celtis",
+  "scientific_name": "Celtis lindheimeri",
+  "common_name": "Lindheimer hackberry",
+  "look_here_first": "The white-under-leaf hackberry: dark rough upper leaf surfaces, densely white-tomentose undersides, and light-brown fruit.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "unarmed tree"
+    },
+    {
+      "label": "Identification",
+      "text": "ovate-lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "dark rough upper leaf surface"
+    },
+    {
+      "label": "Identification",
+      "text": "densely white-tomentose lower surface"
+    },
+    {
+      "label": "Identification",
+      "text": "few or no marginal teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "light-brown fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "979bb091203e953b02fc3717023ca5e0262d2c7a3388b9f639b034a684e4c5ca",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

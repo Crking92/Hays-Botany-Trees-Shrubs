@@ -1,0 +1,17 @@
+{
+  "id": "ailanthus-altissima",
+  "family": "Simaroubaceae",
+  "genus": "Ailanthus",
+  "scientific_name": "Ailanthus altissima",
+  "common_name": "Tree-of-heaven",
+  "look_here_first": "LOOK HERE FIRST: inspect the base of leaflets on the large alternate pinnate leaf for coarse gland-tipped teeth; female trees also have hanging clusters of twisted winged fruits.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c256c705ecb96d0bbd2773109111844817dc2e52444fb0ac130b3264e6ff1b4b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

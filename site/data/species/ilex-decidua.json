@@ -1,0 +1,46 @@
+{
+  "id": "ilex-decidua",
+  "family": "Aquifoliaceae",
+  "genus": "Ilex",
+  "scientific_name": "Ilex decidua",
+  "common_name": "Possumhaw / deciduous holly",
+  "look_here_first": "Ask whether the holly is deciduous. Possumhaw drops its leaves and often leaves dense red-orange drupes exposed along pale gray twigs in winter.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "pale gray twiggy branches"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate simple leaves, elliptic to obovate/spatulate"
+    },
+    {
+      "label": "Identification",
+      "text": "thin-textured leaves with shallow crenate to crenate-serrate margins"
+    },
+    {
+      "label": "Identification",
+      "text": "small axillary white flowers; plants primarily dioecious"
+    },
+    {
+      "label": "Identification",
+      "text": "female plants bear red to orange-red drupes clustered along twigs"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit commonly persists after leaf drop"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Within local hollies, deciduous winter-bare fruiting twigs are the fastest field separator."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1d727a5e481905c32bb9512b974504a40b7909be20b90d3a0e7409b8c1335c79",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

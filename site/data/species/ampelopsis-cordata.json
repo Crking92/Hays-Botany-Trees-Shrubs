@@ -1,0 +1,38 @@
+{
+  "id": "ampelopsis-cordata",
+  "family": "Vitaceae",
+  "genus": "Ampelopsis",
+  "scientific_name": "Ampelopsis cordata",
+  "common_name": "heartleaf peppervine",
+  "look_here_first": "LOOK HERE FIRST: Check a simple, heart-shaped to broadly ovate serrated leaf, then the vine's tendril or fruit cluster opposite a leaf. The strongest tie-breaker against Vitis is the cut stem: Ampelopsis has continuous white pith; confirm this rather than relying on berries alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Climbing woody vine, often sprawling through shrubs and trees; inspect a complete shoot rather than isolated foliage."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Simple (not compound), alternate, petiolate, heart-shaped to broadly ovate leaves with toothed margins. Tendrils or inflorescences occur opposite leaves."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Small inconspicuous greenish flowers in branched clusters opposite leaves; compare node architecture."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Clusters of small round berries that change color during ripening; berry color alone is unreliable."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Cut a twig to inspect the continuous pale/white pith; compare grape (Vitis) pith and node anatomy."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "475ed86aec8e5d3ca791e238cde76222a261f9e12ba302e1fed6355fa5f85386",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

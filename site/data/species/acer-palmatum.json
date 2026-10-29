@@ -1,0 +1,38 @@
+{
+  "id": "acer-palmatum",
+  "family": "Sapindaceae",
+  "genus": "Acer",
+  "scientific_name": "Acer palmatum",
+  "common_name": "Japanese maple",
+  "look_here_first": "LOOK HERE FIRST: Opposite SIMPLE leaves with one blade deeply palmately divided into usually 5–7 pointed, finely toothed lobes; verify opposite buds and paired winged samaras. Cultivars vary widely in leaf shape and color; red foliage alone is not diagnostic.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous small ornamental tree or shrub, highly variable by cultivar."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Opposite, simple, palmately 5–7(–9)-lobed serrate leaves with deep sinuses; no separate leaflets."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Small inconspicuous spring flowers; use opposite foliage and fruit for confirmation."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Paired winged samaras attached at the seed ends."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Opposite twigs and buds; often smooth bark on young shoots."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f8aec1ef445ce770ff5d5d6ea5c24497fb45528d67bb192ec570f35c93b7cd3d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

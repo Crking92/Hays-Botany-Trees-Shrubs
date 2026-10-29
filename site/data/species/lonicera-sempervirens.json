@@ -1,0 +1,34 @@
+{
+  "id": "lonicera-sempervirens",
+  "family": "Caprifoliaceae",
+  "genus": "Lonicera",
+  "scientific_name": "Lonicera sempervirens",
+  "common_name": "Coral honeysuckle / trumpet honeysuckle",
+  "look_here_first": "Find TERMINAL whorls of LONG narrow trumpet-shaped flowers, usually ~38–48 mm. The top pair of opposite leaves/bracts often FUSES into a round disk below the head. But this is also possible in white/Texas honeysuckle—measure the narrow elongated trumpet versus L. albiflora's short two-lipped flower.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Woody perennial twining or trailing vine with opposite simple oval to elliptic leaves; terminal upper pair often connate and perfoliate, bluish/glaucous underside possible."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite simple leaves with entire to near-entire margins; petiole lengths and fused terminal bracts vary by species."
+    },
+    {
+      "label": "Flower",
+      "text": "Showy cluster of long narrow tubular 5-lobed corollas in terminal whorls, often red/orange outside and yellow inside; tube is far longer relative to small lobes."
+    },
+    {
+      "label": "Fruit",
+      "text": "Red-orange to scarlet berries; not unique among native comparison."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "06e72c87f5e0a61837ff823fd8d985cf178e3baebc3617a6a5b894e63ee1531d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

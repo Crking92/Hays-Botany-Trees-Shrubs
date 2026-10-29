@@ -1,0 +1,42 @@
+{
+  "id": "juglans-major",
+  "family": "Juglandaceae",
+  "genus": "Juglans",
+  "scientific_name": "Juglans major",
+  "common_name": "Arizona Walnut / Arizona Black Walnut",
+  "look_here_first": "Start with the middle-sized fruit and leaflet count. Arizona walnut usually carries 9–15 broader leaflets and fruits about 2–3.5 cm across—larger than little walnut but far smaller than typical black walnut fruit.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "tree generally 5–18 m"
+    },
+    {
+      "label": "Identification",
+      "text": "9–15 lanceolate to lance-ovate leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets commonly 1.5–3.4 cm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit about 2–3.5 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "nut 1.8–2.7 cm, deeply longitudinally grooved but relatively smooth between grooves"
+    },
+    {
+      "label": "Identification",
+      "text": "streams, rocky canyon sides, springs and mesic canyon woodland"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "J. microcarpa has 17–25 much narrower leaflets and tiny fruit; J. nigra has 15–23 leaflets plus much larger 3.5–8 cm fruit and coarsely warty nut sculpture."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "48e1b67b1d4938e1b2e8cd7a890f3fea5995dd9bef47bd42604cf9fb6cdaca17",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

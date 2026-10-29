@@ -1,0 +1,17 @@
+{
+  "id": "carya-aquatica",
+  "family": "Juglandaceae",
+  "genus": "Carya",
+  "scientific_name": "Carya aquatica",
+  "common_name": "Water hickory",
+  "look_here_first": "Deciduous tree with pinnate alternate leaves and elongated narrow toothed leaflets; inspect small hickory nuts, husk seams and twigs.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "52d80a70ebf839532ac4eeda52d4f318f5feedb7d2596a50caa2dfc15e5630c2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

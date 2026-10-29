@@ -1,0 +1,17 @@
+{
+  "id": "colubrina-texensis",
+  "family": "Rhamnaceae",
+  "genus": "Colubrina",
+  "scientific_name": "Colubrina texensis",
+  "common_name": "Texas colubrina",
+  "look_here_first": "Look for alternate leaves with prominent veins from near the blade base, short axillary flowers and a small capsule; compare bud and twig details.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d6eedbf9fc2109724b0537d80b7d90f3247cc91af3f99cdce7d1e0b63212b265",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

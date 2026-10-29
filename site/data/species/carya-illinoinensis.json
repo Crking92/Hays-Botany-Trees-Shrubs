@@ -1,0 +1,17 @@
+{
+  "id": "carya-illinoinensis",
+  "family": "Juglandaceae",
+  "genus": "Carya",
+  "scientific_name": "Carya illinoinensis",
+  "common_name": "Pecan",
+  "look_here_first": "Large deciduous tree with alternate pinnate leaves; elongated sickle-shaped leaflets with toothed margins, ridged husked nuts and compound buds. Inspect leaf rachis and fruit husk.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "46e98c43b67f67bfc9d89a3d3c2d9dc74d6edf98b02bdf2fcc882b094576dfef",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

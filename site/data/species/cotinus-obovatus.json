@@ -1,0 +1,38 @@
+{
+  "id": "cotinus-obovatus",
+  "family": "Anacardiaceae",
+  "genus": "Cotinus",
+  "scientific_name": "Cotinus obovatus",
+  "common_name": "American smoketree",
+  "look_here_first": "LOOK HERE FIRST: Check for simple, alternate, broadly obovate leaves (widest beyond the middle) with mostly entire margins and a rounded tip. In flower or fruit season, seek large loose panicles with many fine elongated hairy stalks that create the characteristic smoke-like effect. The staged photograph shows foliage, not a diagnostic flowering panicle.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous shrub or small tree, often with a rounded crown; older bark can become textured."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Leaves alternate, simple, broad and usually obovate to rounded, widest above the midpoint; margins mostly entire and petioles slender; fall color often orange to red but not an identification key alone."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Small flowers in large, loose, branching terminal panicles; many flower stalks elongate and develop fine hairs, producing a diffuse smoky appearance."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Small dry drupe-like fruits borne on panicles; examine mature fruit and persistent hairy pedicels with a macro image."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Woody branchlets with alternate buds and leaf scars; verify bark and twig details from a close view rather than foliage color."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ad940cea32ce48a3680409feb41648cea0fea566a3b6bff56e343948ec8ad44a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

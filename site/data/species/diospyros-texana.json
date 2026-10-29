@@ -1,0 +1,70 @@
+{
+  "id": "diospyros-texana",
+  "family": "Ebenaceae",
+  "genus": "Diospyros",
+  "scientific_name": "Diospyros texana",
+  "common_name": "Texas Persimmon",
+  "look_here_first": "1) Older trunks have unusually smooth pale gray peeling/mottled bark; 2) leaves are SMALL (often 1.5–3.5 cm), simple, alternate, usually obovate with rolled-under margins and short hairs beneath; 3) immature berries green, RIPE fruits dark purple-black with persistent calyx. Never identify from black fruit alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Shrub to small tree, often multistemmed; foliage may be deciduous or persistent depending on site."
+    },
+    {
+      "label": "Bark",
+      "text": "Smooth pale gray to reddish-gray bark that exfoliates and creates a mottled trunk."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate simple leaves, usually small and obovate, glossy/dark above and densely tomentose beneath."
+    },
+    {
+      "label": "Reproductive",
+      "text": "White urn-shaped flowers; flowers arise on previous-season twigs and ovaries are pubescent."
+    },
+    {
+      "label": "Fruit",
+      "text": "Berrylike fruit roughly 1.5–2.5 cm, maturing dark/black and remaining pubescent, with persistent calyx and several seeds."
+    },
+    {
+      "label": "Identification",
+      "text": "smooth mottled peeling bark"
+    },
+    {
+      "label": "Identification",
+      "text": "small obovate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "tomentose leaf undersides"
+    },
+    {
+      "label": "Identification",
+      "text": "pubescent black fruit"
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's desert-field frame gives an immediate woody-ID view of Texas persimmon's smooth pale bark and small-tree habit. Use the bark as an early cue, then confirm the small obovate leaves and, when present, the pubescent black fruit."
+    },
+    {
+      "label": "Leaf field details",
+      "text": "UT Austin Williamson flora: simple alternate blades approximately 15–35 × 7–16 mm (local specimens), obovate/elliptic, rounded or notched apex, frequently rolled-under (revolute) margin, short-tomentose underside."
+    },
+    {
+      "label": "Flower field details",
+      "text": "Small white to cream 5-lobed urn flowers; pollen-producing flowers typically in 1–3-flower clusters, ovary-bearing flowers often solitary. A source conflict exists over dioecious vs monoecious organization; identify flower sex from visible organs rather than assume tree sex."
+    },
+    {
+      "label": "Berry field details",
+      "text": "Young fruit green; mature 17–22 mm berry black/dark purple, often hairy, with persistent conspicuous 4–5-lobed calyx and typically several hard brown seeds."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "21502824c1a0d9e3fd51356855c22a28448838f5054604dbaeecb133ccfc50e5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

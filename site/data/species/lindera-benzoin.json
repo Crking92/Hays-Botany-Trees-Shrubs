@@ -1,0 +1,17 @@
+{
+  "id": "lindera-benzoin",
+  "family": "Lauraceae",
+  "genus": "Lindera",
+  "scientific_name": "Lindera benzoin",
+  "common_name": "Spicebush",
+  "look_here_first": "Aromatic shrub with alternate simple leaves and clustered flowers; examine buds, leaf texture, and berries.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e7bc77a5d15a21d7bca2c7724ee499f357a1b05126dd198ab09b3a0663f3986b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

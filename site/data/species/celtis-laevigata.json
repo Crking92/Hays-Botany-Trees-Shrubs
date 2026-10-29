@@ -1,0 +1,46 @@
+{
+  "id": "celtis-laevigata",
+  "family": "Cannabaceae",
+  "genus": "Celtis",
+  "scientific_name": "Celtis laevigata",
+  "common_name": "Sugarberry",
+  "look_here_first": "Relatively smooth leaves, strongly asymmetrical leaf base, unarmed tree habit, corky-warty bark.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "medium to large unarmed tree"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves thin to moderately firm"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades lanceolate to ovate-lanceolate"
+    },
+    {
+      "label": "Identification",
+      "text": "strongly asymmetric leaf base"
+    },
+    {
+      "label": "Identification",
+      "text": "upper surface smoother than netleaf hackberry"
+    },
+    {
+      "label": "Identification",
+      "text": "margins mostly entire or with few teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "orange-red to dark fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with C. reticulata, sugarberry has thinner, smoother leaves with less prominently raised reticulate veins beneath. Compared with C. lindheimeri, leaf undersides are not densely white-tomentose."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3949180d8cb8f2576b46410c3a0224eb3d9bc482e500719c942440f6ea01d8ff",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

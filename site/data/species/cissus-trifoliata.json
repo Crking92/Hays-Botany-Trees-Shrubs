@@ -1,0 +1,46 @@
+{
+  "id": "cissus-trifoliata",
+  "family": "Vitaceae",
+  "genus": "Cissus",
+  "scientific_name": "Cissus trifoliata",
+  "common_name": "Cow-itch vine",
+  "look_here_first": "Start with the thick 3-parted to trifoliolate leaves and stout reddish stems, then confirm the unbranched tendrils and dark berry clusters.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "woody-based scrambling or trailing vine"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate leaves usually deeply 3-parted to 3-foliolate"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets thick to slightly succulent with coarse irregular teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "fleshy red to red-brown stems with swollen or warty nodes"
+    },
+    {
+      "label": "Identification",
+      "text": "unbranched tendrils"
+    },
+    {
+      "label": "Identification",
+      "text": "small greenish flowers in clusters"
+    },
+    {
+      "label": "Identification",
+      "text": "berries blue-black to black when mature"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Separate from Parthenocissus by the usual 3-parted/trifoliolate fleshy foliage rather than palmately 5–7-foliolate leaves; separate from Vitis with the thick 3-parted leaves, stem/node texture, tendrils, and reproductive details rather than berries alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6663892fa431c80bef247dd574096ad8c3a6d8cab5c6beafed6c0acfc33639b8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

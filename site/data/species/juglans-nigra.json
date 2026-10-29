@@ -1,0 +1,46 @@
+{
+  "id": "juglans-nigra",
+  "family": "Juglandaceae",
+  "genus": "Juglans",
+  "scientific_name": "Juglans nigra",
+  "common_name": "Black Walnut",
+  "look_here_first": "Start with the fruit: black walnut has by far the largest fruit in this trio, usually about 3.5–8 cm, and the nut surface between the deep grooves is coarsely warty. Mature trees can also become dramatically taller and heavier-trunked.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "large tree, potentially 40–50 m"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 15–19 leaflets, sometimes 9–23"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal leaflet small or absent"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit about 3.5–8 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "nut about 3–4 cm, deeply grooved with coarsely warty surface between grooves"
+    },
+    {
+      "label": "Identification",
+      "text": "dark deeply ridged bark on mature trees"
+    },
+    {
+      "label": "Identification",
+      "text": "rich woods and riparian bottomlands"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "J. major has smaller 2–3.5 cm fruit with smoother nut surfaces between grooves; J. microcarpa has tiny fruit and many very narrow leaflets."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2a0990bc75d1c99a1a02bd6b73ac938d3c8a00917b1febb2ac55d6035db6c8ae",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

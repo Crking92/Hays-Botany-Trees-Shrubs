@@ -1,0 +1,34 @@
+{
+  "id": "lonicera-albiflora",
+  "family": "Caprifoliaceae",
+  "genus": "Lonicera",
+  "scientific_name": "Lonicera albiflora",
+  "common_name": "Western white honeysuckle / Texas honeysuckle",
+  "look_here_first": "Usually an arching shrub or scrambling vine. Start at a TERMINAL flowering shoot: pale 2-lipped relatively short flowers, usually 17–20 mm, with connate/perfoliate terminal floral bracts. A leaf pair fused beneath the inflorescence does NOT prove coral honeysuckle; both share it.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Shrubby, arching or scrambling growth; leafy stems opposite, simple, usually short-petiolate; upper fused terminal bracts possible."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite simple leaves with entire to near-entire margins; petiole lengths and fused terminal bracts vary by species."
+    },
+    {
+      "label": "Flower",
+      "text": "Cream or white short clearly two-lipped corollas usually about 17–19.5 mm long in condensed terminal inflorescences; petals fused into corolla; calyx sits above inferior ovary."
+    },
+    {
+      "label": "Fruit",
+      "text": "Red-orange to scarlet berries about 6.5–10 mm; fruit color does not separate from coral honeysuckle."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f18896a8b907e70d53b5e18b28e68cd504548e4e73ee31a787daa80014f166de",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

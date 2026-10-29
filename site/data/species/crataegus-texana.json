@@ -1,0 +1,74 @@
+{
+  "id": "crataegus-texana",
+  "family": "Rosaceae",
+  "genus": "Crataegus",
+  "scientific_name": "Crataegus texana",
+  "common_name": "Texas Hawthorn",
+  "look_here_first": "EXAMINE FOUR THINGS IN THIS ORDER: (1) alternate simple leaves 4–7 cm, often 1–4 LOBES on each side and strong teeth; (2) woolly/white-hairy NEW twigs and flower cups; (3) 20 stamens whose ANTHERS are ROSE–PURPLE (not cream) in open white flower; (4) red pome 9–14 mm usually, 4–5 hard stones. Thorns may be present or absent, so never key this species on a thorn alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous shrub/small tree, up to about 10 m in FNA broad description, often shorter. Rough fissured gray-brown bark and woody determinate thorns may occur."
+    },
+    {
+      "label": "Twigs thorns",
+      "text": "Newest twig growth woolly (lanate) and older pale gray to tan. Straight woody twigs thorns absent to frequent, often 4–5 cm on two-year-old stems; may turn chestnut brown or black."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate SIMPLE leaves on woody shoots, not opposite; 4–7 cm broad elliptic to rhombic-ovate, basal margin less toothed, distal margin strongly serrate; 1–4 lobes per side. Tip and lobe depth variable, hairier underside when young."
+    },
+    {
+      "label": "Leaf variety warning",
+      "text": "FNA var. texana typically 2–4 deep lobes per side; var. dasyphylla more often 1–2(–3) shallow lobes. Do not claim exact variety from one leaf photograph."
+    },
+    {
+      "label": "Flower clusters",
+      "text": "Usually 7–12 flowers per broad, somewhat flat cluster; white 5-petaled flowers ~14–22 mm across, flower cup/hypanthium downy-hairy."
+    },
+    {
+      "label": "Stamens anthers",
+      "text": "About 20 stamens; anthers rose/rose-purple, red or purple. The colored anther is a KEY character in contrast to ivory/cream on C. mollis and usually C. viridis. Confirm before anthers shed pollen or darken/dry."
+    },
+    {
+      "label": "Styles",
+      "text": "4 or 5 styles, often delicate at flower center. Requires macro; not reliably countable in general flower photo."
+    },
+    {
+      "label": "Fruit",
+      "text": "Red or orange-red miniature apple-like pome, usually 9–14 mm diameter, sometimes to 25 mm, with 4–5 hard inner pyrenes. Fruit COLOR alone not diagnostic."
+    },
+    {
+      "label": "Habitat",
+      "text": "Rich bottomlands or river bottoms, alluvial rich soils and open woodland/brush margins; often near water and in southeastern/central Texas broad regional references. Do not infer local Hays nativity from habitat."
+    },
+    {
+      "label": "Identification",
+      "text": "4–7 cm lobed and strongly toothed alternate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "woolly new twigs / downy flower cups"
+    },
+    {
+      "label": "Identification",
+      "text": "white flowers with ~20 pink/purple anthers"
+    },
+    {
+      "label": "Identification",
+      "text": "red 9–14 mm pome with 4–5 stones"
+    },
+    {
+      "label": "Identification",
+      "text": "woody lateral thorns often 4–5 cm but variably absent"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7a58883014b62f95574ea432a6a00dc6de113e66a3f69af732ab247ee2bd3f94",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

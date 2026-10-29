@@ -1,0 +1,70 @@
+{
+  "id": "hydrocotyle-umbellata",
+  "family": "Araliaceae",
+  "genus": "Hydrocotyle",
+  "scientific_name": "Hydrocotyle umbellata",
+  "common_name": "Manyflower marshpennywort",
+  "look_here_first": "FIRST, FLIP A ROUND LEAF: the leaf stalk (PETIOLE) enters the UNDERSIDE AWAY FROM THE EDGE (PELTATE), with many veins radiating like an umbrella and scalloped (CRENATE) lobes. THEN FIND THE FLOWER STALK: usually a dense, many-flowered white-green terminal UMBEL-LIKE CLUSTER with many distinct flower stalklets. Whorled pennywort H. verticillata instead usually has clearly separated TIERS of a few flowers along its main stalk. Photograph the entire reproductive axis before assigning species; neither a coin-shaped leaf nor wet habitat alone is enough.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Rhizomatous perennial that roots freely at nodes, able to form stands in wet soils, ditch margins and shallow water. UT Austin Williamson flora measured foliage/flowering shoots up to about 25 cm tall."
+    },
+    {
+      "label": "Stem",
+      "text": "Creeping underground to shallow exposed horizontal rhizome, often pale white, UT Williamson treatment ~1.2–1.5 mm thick with internodes ~20–60 mm and many adventitious roots at nodes."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate, arising singly from rhizome nodes; no true opposite leaf pairs."
+    },
+    {
+      "label": "Leaf",
+      "text": "Simple, orbicular/peltate disc with shallow broad crenate lobes (round scallops) and glossy green upper face; UT local 13–63 mm across; 12–16 principal veins radiate from center. Older/younger shoots vary."
+    },
+    {
+      "label": "Petiole",
+      "text": "Long slender upright cylindrical stalk, UT Williamson account ca. 130–260 mm, white at underground base, green aboveground; attaches to lower blade surface not its margin."
+    },
+    {
+      "label": "Leaf attachment",
+      "text": "PELTATE: junction/umbilicus is on the underside of the blade, toward its center or slightly off center. Compare Dichondra and Centella whose petiole enters an open notch at the outer blade margin."
+    },
+    {
+      "label": "Flowers",
+      "text": "Many tiny bisexual white to greenish-white flowers at the top of a long axillary flowering stalk. Each locally measured individual flower ~3 mm across, 5 separate star-spread petals, 5 stamens, 2 styles, and an inferior ovary. Calyx teeth/sepals absent or minute, DO NOT mislabel green structures as five leafy sepals."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Usually one many-flowered dense terminal, umbel-like cluster (botanical Williamson treatment calls the short densely packed axis a condensed raceme with 30+ helically alternate flowers) on a leafless long peduncle. Each flower on a separate pedicel; clusters ~10–15 mm across locally. A small number of additional tiers is possible: count/spacing across the full axis, not only its apex."
+    },
+    {
+      "label": "Flowering stalk",
+      "text": "Peduncle commonly similar height to its paired leaf stalk. Pedicels spread out from compressed axis of umbel-like cluster; individually ~4–5.5 mm at anthesis in Williamson treatment, often elongating in fruit."
+    },
+    {
+      "label": "Fruit",
+      "text": "Small dry SCHIZOCARP of two one-seeded D-shaped MERICARPS, laterally flattened, weakly ribbed to clearly ribbed depending on maturity/light; the same UT flora reports individual mericarp ~2 × 1.4–1.6 mm. FNA/GoBotany keys note a conspicuously notched/corrugated basal contour as supporting clue versus H. verticillata. Only claim mm sizes on measured real photographs."
+    },
+    {
+      "label": "Habitat",
+      "text": "Moist lawn depressions, ditches, spring margins, ponds, slow margins of riparian waters, and sandy/organic saturated soils; may grow into shallow water."
+    },
+    {
+      "label": "Season",
+      "text": "Fresh shoots and flowering are favored by adequate moisture and mild/warm weather; timing changes with rainfall, irrigation, drought and frost."
+    },
+    {
+      "label": "Special caution",
+      "text": "Hydrocotyle umbellata is NOT a composite-headed Asteraceae, not a capsule-bearing Dichondra, and not inherently a single 'water pennywort' species: several wetland Hydrocotyle look nearly identical when sterile."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f0198114906a86732ac395c4165de356cf3cc5fd5496b3cfe8b23a5c20f275c1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

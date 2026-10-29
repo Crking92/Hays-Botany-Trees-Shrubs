@@ -1,0 +1,50 @@
+{
+  "id": "acer-saccharinum",
+  "family": "Sapindaceae",
+  "genus": "Acer",
+  "scientific_name": "Acer saccharinum",
+  "common_name": "Silver maple",
+  "look_here_first": "Find an opposite SIMPLE leaf with very deep, sharp, angular/V-shaped sinuses and a conspicuously pale to silvery lower face. Check multiple mature leaves, not a single atypical blade; confirm opposite twig nodes and paired samaras when present.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Fast-growing deciduous tree, often associated with moist bottomlands; site alone does not prove ID."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, simple, palmately 3–5-lobed; lobes often long and sharply pointed, separated by conspicuously deep sinuses. Lower surface silvery or whitish; sparse hairs may also occur."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small early-season flowers may open before leaves; seasonal timing is supportive, not decisive."
+    },
+    {
+      "label": "Fruits",
+      "text": "Paired winged samaras, often ripening in spring; inspect wing shape with scale."
+    },
+    {
+      "label": "Identification",
+      "text": "opposite SIMPLE leaf with very deep V-shaped sinuses"
+    },
+    {
+      "label": "Identification",
+      "text": "silvery/pale abaxial surface; some hairs possible"
+    },
+    {
+      "label": "Identification",
+      "text": "long pointed lobes, check several mature leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "paired winged samaras, frequently early in season"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0f6a0ee578f7977fea60d7bc80fbca7633f673470079df672dde0685d16800fc",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

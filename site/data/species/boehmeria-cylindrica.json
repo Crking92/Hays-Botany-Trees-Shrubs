@@ -1,0 +1,17 @@
+{
+  "id": "boehmeria-cylindrica",
+  "family": "Urticaceae",
+  "genus": "Boehmeria",
+  "scientific_name": "Boehmeria cylindrica",
+  "common_name": "False nettle",
+  "look_here_first": "Opposite toothed leaves on a nettle relative without stinging hairs; tight green flower clusters form slender cylinders along the leaf axils.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a8e8bc95a189cc45fca55e08f304cd7745a2d66b2d96bf0407965d007f0d5200",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

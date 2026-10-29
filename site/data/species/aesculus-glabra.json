@@ -1,0 +1,50 @@
+{
+  "id": "aesculus-glabra",
+  "family": "Sapindaceae",
+  "genus": "Aesculus",
+  "scientific_name": "Aesculus glabra",
+  "common_name": "Ohio buckeye",
+  "look_here_first": "Start with a mature capsule: the leathery surface is usually short-prickly or warty. On a flower, check whether stamens project conspicuously beyond petals (about twice petal length). Opposite palmately compound leaves establish buckeye, but do not separate Aesculus species.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous small to medium tree with stout twigs and large terminal buds."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, palmately compound, usually 5–7 serrate leaflets; leaves alone overlap A. pavia."
+    },
+    {
+      "label": "Flowers",
+      "text": "Terminal erect panicles; stamens markedly exserted, approximately twice petal length. Petals often pale green-yellow, but color is secondary."
+    },
+    {
+      "label": "Fruits",
+      "text": "Leathery round capsules usually short-spiny or warty (occasionally nearly smooth), with glossy brown seeds and pale hilum."
+    },
+    {
+      "label": "Identification",
+      "text": "capsule short-prickly/warty in typical material"
+    },
+    {
+      "label": "Identification",
+      "text": "stamens well beyond petals"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite palmately compound leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "large terminal buds"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c0a397641cc8f671552916b5fdf6b0e925939e5d3793b18b6afe8a84ab09515e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "acer-negundo",
+  "family": "Sapindaceae",
+  "genus": "Acer",
+  "scientific_name": "Acer negundo",
+  "common_name": "Boxelder / box elder maple",
+  "look_here_first": "Start with the opposite compound leaves: boxelder is a maple that often looks like an ash. Then confirm the paired V-shaped samaras. In season, note that the tree is dioecious and the small flowers lack petals.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "winter-deciduous riparian tree"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves opposite and usually odd-pinnately compound with 3 or 5 leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets variably lobed or unlobed, often coarsely serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "no stipules"
+    },
+    {
+      "label": "Identification",
+      "text": "dioecious: staminate and pistillate flowers occur on separate trees"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers small and apetalous"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate ovary develops two conspicuous wings"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit splits into a paired set of one-seeded winged mericarps/samaras, commonly hanging in a V"
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite compound leaves are the first clue. This is unusual-looking for a maple and is why boxelder is often mistaken for an ash."
+    },
+    {
+      "label": "Flower",
+      "text": "Flowers are small and lack a corolla. Male and female flowers occur on separate trees."
+    },
+    {
+      "label": "Fruit",
+      "text": "The fruit is a schizocarp of two winged one-seeded mericarps, producing the familiar paired maple samara."
+    },
+    {
+      "label": "Field tip",
+      "text": "When a tree has opposite compound leaves, check the fruit before calling it an ash. Paired samaras point to Acer negundo; Fraxinus produces single samaras."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "865059e47b431c85bdb901e1319070e56308cefeda4a2275b4cf6920e71932f9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

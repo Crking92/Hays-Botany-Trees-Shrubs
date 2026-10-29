@@ -1,0 +1,42 @@
+{
+  "id": "diospyros-virginiana",
+  "family": "Ebenaceae",
+  "genus": "Diospyros",
+  "scientific_name": "Diospyros virginiana",
+  "common_name": "American persimmon",
+  "look_here_first": "Start with leaf size, bark, and ripe fruit: much larger leaves than Texas persimmon, dark blocky/checkered mature bark, and yellow-orange to reddish ripe fruit rather than black.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "deciduous tree"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves much larger than Diospyros texana"
+    },
+    {
+      "label": "Identification",
+      "text": "dark blocky mature bark"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers on current-season growth"
+    },
+    {
+      "label": "Identification",
+      "text": "larger yellow-orange to reddish ripe fruit"
+    },
+    {
+      "label": "Field comparison",
+      "text": "Mature bark deeply checkered/blackish; leaves normally larger (approx. 3.5–8 cm in USDA description) and often pointed; ripe berries yellowish-orange to reddish; calyx persists (often 4 broad lobes). Texas persimmon usually smaller blunt leaves and smooth gray bark with ripe black berry."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "D. texana has smaller thick leaves, pale smooth peeling bark, and black fruit."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2549c6cf6589c5b5f2122a28426302d6d50903e21c4273a41efcb4a993226caa",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

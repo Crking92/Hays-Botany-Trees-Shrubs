@@ -1,0 +1,46 @@
+{
+  "id": "ilex-opaca",
+  "family": "Aquifoliaceae",
+  "genus": "Ilex",
+  "scientific_name": "Ilex opaca",
+  "common_name": "American holly",
+  "look_here_first": "Look at the leaf immediately: American holly is the big-leaved evergreen tree, with thick dark-green leaves bearing prominent stiff spine-tipped teeth.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen tree, often pyramidal when young"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate simple thick leathery leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves substantially larger than yaupon leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "margins commonly armed with stiff spine-tipped teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "upper surface dark glossy green; lower surface paler"
+    },
+    {
+      "label": "Identification",
+      "text": "dioecious with small pale flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "female trees produce persistent bright-red drupes"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use this as the large-spiny-leaf nursery/landscape holly comparison; it must remain excluded from project-native totals."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "59ba41715bf612dfcdd2e328b7d43f5df7ddea978a5757fc573103377c38a999",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "camphora-officinarum",
+  "family": "Lauraceae",
+  "genus": "Camphora",
+  "scientific_name": "Camphora officinarum",
+  "common_name": "Camphor tree",
+  "look_here_first": "Evergreen tree with shiny three-veined leaves, small pale panicles and dark one-seeded drupes; inspect leaf veins and crushed-leaf odor without relying on scent alone.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b58a08d32ff94c26c1e1bab1a3fa6212f5acaca718ec542ba78c50091e76a8fa",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

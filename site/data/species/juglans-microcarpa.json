@@ -1,0 +1,42 @@
+{
+  "id": "juglans-microcarpa",
+  "family": "Juglandaceae",
+  "genus": "Juglans",
+  "scientific_name": "Juglans microcarpa",
+  "common_name": "Little Walnut / Texas Walnut",
+  "look_here_first": "Start with fruit size and leaflet narrowness. Little walnut is the smallest-fruited local walnut: fruits about 1.4–2.3 cm and nuts about 1.1–1.7 cm, with 17–25 narrow leaflets. It is usually a shrub or small tree rather than a massive canopy tree.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "shrub or small tree, generally to about 10 m"
+    },
+    {
+      "label": "Identification",
+      "text": "17–25 narrow lanceolate leaflets"
+    },
+    {
+      "label": "Identification",
+      "text": "leaflets usually about 0.8–1.1 cm wide"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit about 1.4–2.3 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "nut about 1.1–1.7 cm with longitudinal grooves and relatively smooth surfaces between grooves"
+    },
+    {
+      "label": "Identification",
+      "text": "riparian along creeks and rivers"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "J. major has fewer, broader leaflets and larger 2–3.5 cm fruits; J. nigra has much larger 3.5–8 cm fruits and a coarsely warty nut surface."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e0b2c37e62518e9e0f362a9b8394152fa81c1df9b846b72a1cd83f8395b7f17d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ceanothus-herbaceus",
+  "family": "Rhamnaceae",
+  "genus": "Ceanothus",
+  "scientific_name": "Ceanothus herbaceus",
+  "common_name": "Inland New Jersey tea",
+  "look_here_first": "LOOK HERE FIRST: Alternate toothed leaves with three veins near the base; rounded terminal white flower clusters and three-lobed capsules.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "25e6baba4520c361010c7722ce5514e7eabfb84d062a1f386fe86a16e235df63",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

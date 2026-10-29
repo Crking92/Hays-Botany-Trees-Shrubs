@@ -1,0 +1,38 @@
+{
+  "id": "cornus-drummondii",
+  "family": "Cornaceae",
+  "genus": "Cornus",
+  "scientific_name": "Cornus drummondii",
+  "common_name": "Roughleaf dogwood",
+  "look_here_first": "LOOK HERE FIRST: Check opposite simple leaves with several strong veins arching toward the tip. Feel the conspicuously rough upper leaf surface and inspect hairs beneath; when fruiting, look for clusters of white drupes carried on reddish stalks. The staged fruit photograph shows white fruit and reddish pedicels, not the diagnostic leaf hairs.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous, often colony-forming multi-stemmed shrub or small tree; suckering growth can create thickets."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Leaves opposite, simple and usually ovate to elliptic with mostly entire margins; upper surface notably rough to touch, underside pubescent; several prominent lateral veins curve toward the tip."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Numerous small, four-parted whitish flowers in broad, flat-topped terminal clusters; confirm flower structure with a close-up."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Clusters of rounded whitish drupes, often on pink-red to reddish pedicels; photograph documents this character, not a leaf close-up."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Opposite leaf scars and branch arrangement; inspect young twig hairs and bark when leaves are absent."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ff630efeb86403c0e65c8fc22e5c33726dd540e49396b06e8f3063b05bf3c5ed",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "arbutus-xalapensis",
+  "family": "Ericaceae",
+  "genus": "Arbutus",
+  "scientific_name": "Arbutus xalapensis",
+  "common_name": "Texas madrone",
+  "look_here_first": "Start with the bark: mature trunks and limbs shed thin outer layers to expose smooth cream, pink, apricot, orange, or red inner bark. Then confirm evergreen simple leaves, urn-shaped pale flowers, and orange-to-red berry-like fruit.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "distinctive exfoliating bark revealing smooth pale cream, pink, apricot, orange, or red inner bark"
+    },
+    {
+      "label": "Identification",
+      "text": "simple leathery evergreen leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "clusters of pale urn- to bell-shaped flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "Ericaceae-style anthers opening by apical pores"
+    },
+    {
+      "label": "Identification",
+      "text": "round fleshy berry-like fruit ripening from green through orange to red"
+    },
+    {
+      "label": "Identification",
+      "text": "Hill Country/West Texas rocky woodland and canyon association"
+    },
+    {
+      "label": "Bark",
+      "text": "The peeling, multicolored smooth bark is the fastest whole-plant recognition cue in mature Texas madrone."
+    },
+    {
+      "label": "Flower",
+      "text": "Pale fused urceolate/campanulate flowers occur in clusters; inspect the stamens for the characteristic Ericaceae poricidal-anther pattern."
+    },
+    {
+      "label": "Fruit",
+      "text": "Round fleshy fruits mature through orange/red and are eaten/dispersed by birds."
+    },
+    {
+      "label": "Ecology",
+      "text": "Occurs naturally in rocky or canyon woodland settings; establishment can be associated with nurse-tree shade on the Edwards Plateau."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f31ceeb7db5468a7114dbfb8d64525424cbbdb75db8d914b51d10fb6c3256e61",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ilex-vomitoria",
+  "family": "Aquifoliaceae",
+  "genus": "Ilex",
+  "scientific_name": "Ilex vomitoria",
+  "common_name": "Yaupon holly",
+  "look_here_first": "Look at leaf size and persistence: yaupon is the small-leaved evergreen holly—tiny leathery elliptic to obovate leaves with low rounded crenate teeth.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "evergreen multi-stemmed shrub or small tree"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate simple leathery leaves commonly only 1–4 cm long"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades elliptic to obovate, usually blunt or rounded at tip"
+    },
+    {
+      "label": "Identification",
+      "text": "margins finely crenate with low rounded teeth, not strongly spiny"
+    },
+    {
+      "label": "Identification",
+      "text": "pale to light-gray bark"
+    },
+    {
+      "label": "Identification",
+      "text": "small white unisexual flowers in axillary clusters; dioecious"
+    },
+    {
+      "label": "Identification",
+      "text": "female plants produce abundant persistent red drupes"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Within local hollies, tiny evergreen leathery leaves with low rounded teeth are the fastest field separator."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5fb4cc8ec8b9d415a1690b35b850839bc97e46c948ab5e60523395509bd69f7f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "acer-grandidentatum",
+  "family": "Sapindaceae",
+  "genus": "Acer",
+  "scientific_name": "Acer grandidentatum",
+  "common_name": "Bigtooth maple",
+  "look_here_first": "Check opposite SIMPLE palmate leaves, then compare sinus depth and leaf undersides: broad 3–5 lobes with relatively shallow notches are typical; short hairs may occur below. Confirm with paired samaras, buds and bark when available. Do not identify from fall color or canyon habitat alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous maple, often in rocky/canyon woodland; growth site supports but cannot prove ID."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, simple, palmately 3–5-lobed blades; lobes comparatively broad and sinuses often shallower than silver maple; abaxial pubescence varies."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small flowers; use twig/bud and paired winged fruits as secondary corroboration."
+    },
+    {
+      "label": "Fruits",
+      "text": "Paired winged samaras; young fruits can be hairy. Angle alone is not a decisive species character."
+    },
+    {
+      "label": "Identification",
+      "text": "opposite SIMPLE 3–5-lobed leaves (not compound boxelder)"
+    },
+    {
+      "label": "Identification",
+      "text": "broader lobes and generally shallower sinuses than silver maple"
+    },
+    {
+      "label": "Identification",
+      "text": "underside can bear short hairs; avoid absolute hair/no-hair rules"
+    },
+    {
+      "label": "Identification",
+      "text": "paired maple samaras when mature"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "96d16f55282072380b71a9710c76a2f454b823b2e4fd8aa802c65effb35b173a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

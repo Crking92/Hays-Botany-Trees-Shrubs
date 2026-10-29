@@ -1,0 +1,50 @@
+{
+  "id": "aesculus-pavia",
+  "family": "Sapindaceae",
+  "genus": "Aesculus",
+  "scientific_name": "Aesculus pavia",
+  "common_name": "Red buckeye",
+  "look_here_first": "Start with the smooth leathery mature capsule and flower structure: stamens are usually included or barely extend beyond the tubular petals. Opposite palmately compound leaves confirm buckeye but not species; yellow-flowered var. flavescens means red color is not a universal species key.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Deciduous shrub to small tree, sometimes multistemmed."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, palmately compound with usually 5 (sometimes 7) serrate leaflets; leaf count overlaps A. glabra."
+    },
+    {
+      "label": "Flowers",
+      "text": "Terminal panicles with relatively tubular unequal petals; stamens included to slightly exserted, approximately petal length. Typical flowers red, but accepted var. flavescens can be yellow."
+    },
+    {
+      "label": "Fruits",
+      "text": "Smooth, rounded leathery capsule usually lacking the short prickles typical of A. glabra; large shiny brown seeds."
+    },
+    {
+      "label": "Identification",
+      "text": "smooth mature capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "stamens included or only slightly beyond petals"
+    },
+    {
+      "label": "Identification",
+      "text": "tubular flower profile and unequal petals"
+    },
+    {
+      "label": "Identification",
+      "text": "opposite palmately compound leaves"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "486ff5b2edc28510ec9e363b5e04f233a1abc9d4e8134a38e2477817744c7608",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

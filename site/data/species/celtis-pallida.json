@@ -1,0 +1,17 @@
+{
+  "id": "celtis-pallida",
+  "family": "Cannabaceae",
+  "genus": "Celtis",
+  "scientific_name": "Celtis pallida",
+  "common_name": "Spiny Hackberry / Granjeno",
+  "look_here_first": "Thorny dense shrub habit with small leaves and orange to reddish fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "719f0545f23a486f0093cea78b7830b9e4772d79adfe0efb882cb0b011add67f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

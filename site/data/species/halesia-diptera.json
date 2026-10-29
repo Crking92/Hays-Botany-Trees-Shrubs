@@ -1,0 +1,17 @@
+{
+  "id": "halesia-diptera",
+  "family": "Styracaceae",
+  "genus": "Halesia",
+  "scientific_name": "Halesia diptera",
+  "common_name": "Two-wing silverbell",
+  "look_here_first": "Look for dangling bell-shaped white flowers on a woody shrub or small tree; confirm alternating leaves and later the two-winged fruit.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7a46a6af11faa39e7a346c0ee944978ca20ef80dae1625b5d532e7b9ccd73b88",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
