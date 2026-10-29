@@ -51,8 +51,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/sambucus-canadensis/01-flower-close-up.jpg",
+      "creator": "H. Zell",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sambucus_canadensis_003.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "ace3bb35bb22127003e3578c8947f79a622094ec",
+      "role": "Flower close-up: lobed corollas and exposed stamens; source-identified S. canadensis, not a stand-alone key against S. nigra",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/sambucus-canadensis/glass-root-garden-696882282-flowering-habit.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/696882282",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "1ac0f1292c9fb97beb6586de9dd65eeafdf72f6f",
+      "role": "American elderberry: branching flowering shrub showing pinnately compound leaves, broad pale terminal flower clusters and aging reddish inflorescence axes; whole-shrub recognition rather than individual flower anatomy",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/sambucus-canadensis/glass-root-garden-696882344-flower-head-leaves.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/696882344",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "84f65882056d158fa0a3105dc8ebc683fba65986",
+      "role": "American elderberry: white terminal flower head beside serrate pinnately compound foliage and reddish developing inflorescence; supports compound leaf and broad cyme comparisons, not a definitive separation from Sambucus nigra",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "846bfa75c82107480b2b5c60f95bf0a5e09e566c6eed5b2958647c3a2fe408f3",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

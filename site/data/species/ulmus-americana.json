@@ -43,8 +43,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ulmus-americana/ulmus-americana-leaves-samaras.png",
+      "creator": "Homer Edward Price",
+      "source_page": "https://commons.wikimedia.org/wiki/File:American-Elm_leaves_and_samaras_(5622588702).png",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "bd54c6e26fd7628a59ff65f120731c95c67e7641",
+      "role": "large leaves and winged samaras",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "a55dd498923a92821900528c541ef8f6efa44456b07028d974d7f62624237780",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -43,8 +43,22 @@
     "names": [],
     "differences": "The combination of red stems, deep lobing, and nearly glabrous lower leaf surfaces separates it from the hairier V. cinerea and more glaucous-fruited V. berlandieri."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/vitis-palmata/vitis-palmata-provisional-face.jpg",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_palmata_kz01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "ec7419c40158022b70f60b6d58e299bb62c83723",
+      "role": "Vitis palmata leaves and climbing vine in Wroclaw botanical garden; lower-surface macros later.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8ee8c6a652847d55fd403df03093a82e096a646e5b6b8c2c6106c466bbeabd5c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -43,8 +43,48 @@
     "names": [],
     "differences": "Vitis berlandieri: Lower leaf surface is visible and only sparsely hairy to nearly glabrous in V. berlandieri; its fruit is more strongly glaucous and clusters are shorter/compact. Vitis cinerea: V. cinerea has a visible gray/green lower leaf surface with webby and short hairs rather than the solid white felt of V. mustangensis, and its berries are much smaller. Vitis palmata: V. palmata has uniformly red/purplish branchlets and usually deeply lobed glabrous leaves, not a white-felted underside."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/vitis-mustangensis/vitis-mustangensis-provisional-face.jpg",
+      "creator": "Ddal",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_mustangensis.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "1403ef6ed783c3c62878493645df71f10e6fe502",
+      "role": "Vine / fruit recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/vitis-mustangensis/vitis-mustangensis-comal-habit.jpg",
+      "creator": "Larry D. Moore",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grape_Vines_Honey_Creek_SNA_Texas_2023.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "8fe623174fe841cc0ef3f4c88dfbf7478f8588bd",
+      "role": "Natural climbing vine/tangled habitat architecture, Comal County Texas; not an underside macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/vitis-mustangensis/vitis-mustangensis-north-texas-leaves.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:VItis_mustangensis.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "2654653953485e58f5524f6d838cc911df5aa7fc",
+      "role": "Exact-species Texas foliage field photograph; flip-leaf wool microscopy still needed",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "98b158fc4d54476aa870f595807c5a615d7762f43e549ad444490d99173db82c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

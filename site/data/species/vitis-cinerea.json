@@ -35,8 +35,35 @@
     "names": [],
     "differences": "Central Texas Heller's grape should not be called V. cinerea simply because an app uses a broad concept; compare with V. berlandieri first."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/vitis-cinerea/vitis-cinerea-provisional-face.jpg",
+      "creator": "JDMcGreg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grape_Vine_Vitis_Cinerea.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "dad2ccbeee8bec96e604e3834eca561ec9ed3401",
+      "role": "Grape-vine leaf shape and venation; later leaf underside macro needed.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/vitis-cinerea/vitis-cinerea-botanic-plant.jpg",
+      "creator": "BotBln",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_cinerea_BotGardBln07122011C.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "4bacb274a39501f5136799c407d8db1f09ea8bf5",
+      "role": "Cultivated Vitis cinerea vine foliage, secondary recognition reference; strict Hays range not certified",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5d107d03d14d359824d64b535453077a28d6d71c952e8ad2b41e03f7bb372eaf",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
