@@ -7,41 +7,45 @@
   "look_here_first": "Start with the lower leaf surface and fruit bloom. Berlandier/Heller's grape has a lower leaf surface that remains visible—sparsely webby/hairy to nearly glabrous—not a solid white felt. Branchlets are slightly angled and usually lack red-banded nodes; ripe berries are conspicuously glaucous and the fruiting clusters are comparatively short and compact.",
   "key_traits": [
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "high-climbing woody vine of limestone canyons, slopes and floodplains"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "branchlets slightly angled, arachnoid/webby, not densely short-hairy"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "nodes usually not red-banded"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "leaves cordate with acute apex"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "lower leaf surface sparsely hirtellous and arachnoid to nearly glabrous, blade surface visible"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "berries moderately to heavily glaucous"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "fruiting clusters relatively compact and shorter than other Vitis cinerea varieties"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "strong association with Edwards Plateau limestone"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "Vitis mustangensis: Mustang grape has dense white/rust wool completely concealing the leaf underside and larger, less-glaucous berries. Vitis cinerea: Current/FNA var. cinerea has distinctly angled branchlets densely hirtellous plus arachnoid, more consistently hairy lower leaf surfaces and only slightly glaucous berries; in Texas it is primarily eastern. Vitis palmata: V. palmata has uniformly red/purple branchlets and usually deeply 3–5-lobed glabrous leaves."
+    "names": [
+      "Vitis mustangensis",
+      "Vitis cinerea",
+      "Vitis palmata"
+    ],
+    "differences": "Mustang grape has dense white/rust wool completely concealing the leaf underside and larger, less-glaucous berries. Current/FNA var. cinerea has distinctly angled branchlets densely hirtellous plus arachnoid, more consistently hairy lower leaf surfaces and only slightly glaucous berries; in Texas it is primarily eastern. V. palmata has uniformly red/purple branchlets and usually deeply 3–5-lobed glabrous leaves."
   },
   "verified_photos": [
     {
@@ -60,5 +64,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "09afa16f0538f3c8c661b99b3d7ffb63251d622c7c4ea2c7bc6e27123fa3f7e7",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "366cf3d403f8fe8c29fa897b1d580b1e2219744ebf9ad3a51565c3c745651d05",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }

@@ -28,8 +28,12 @@
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Ampelopsis arborea (commonly compound leaves)",
+      "Vitis spp. (grapes; inspect pith and fruit)",
+      "Parthenocissus spp. (typically compound leaves)"
+    ],
+    "differences": "A. cordata has simple leaves versus A. arborea's commonly compound leaves; separate simple-leaved Vitis with pith and tendril/cluster structure, not leaf shape alone."
   },
   "verified_photos": [
     {
@@ -48,5 +52,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "475ed86aec8e5d3ca791e238cde76222a261f9e12ba302e1fed6355fa5f85386",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "19b66665d0870fd6750be12a91a4f54f50bc53da0d76cb65602b5579ea8a3443",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }
