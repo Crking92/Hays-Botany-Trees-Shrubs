@@ -23,7 +23,7 @@ MANIFESTS = ROOT / 'migration/incoming-photo-batches/2026-11-01'
 ALLOWED = {'inaturalist-open-data.s3.amazonaws.com', 'collections.nmnh.si.edu', 'was.tacc.utexas.edu'}
 MAX_BYTES = 25 * 1024 * 1024
 VALID_LICENSE = ('creativecommons.org/licenses/by/4.0/', 'creativecommons.org/licenses/by-nc/4.0/',
-                 'creativecommons.org/licenses/by-sa/4.0/', 'creativecommons.org/publicdomain/zero/1.0/')
+                 'creativecommons.org/licenses/by-sa/4.0/', 'creativecommons.org/licenses/by-nc-sa/4.0/', 'creativecommons.org/publicdomain/zero/1.0/')
 
 
 def fetch_exact(photo: dict) -> bytes:
@@ -33,7 +33,7 @@ def fetch_exact(photo: dict) -> bytes:
         raise ValueError('Unsupported/HTTP photo source URL; keep exact original ZIP archive')
     lc = urlsplit(photo.get('license_url', ''))
     if lc.hostname not in ('creativecommons.org','www.creativecommons.org') or not any(
-        v in lc.path for v in ('/licenses/by/4.0/', '/licenses/by-nc/4.0/', '/licenses/by-sa/4.0/', '/publicdomain/zero/1.0/')
+        v in lc.path for v in ('/licenses/by/4.0/', '/licenses/by-nc/4.0/', '/licenses/by-sa/4.0/', '/licenses/by-nc-sa/4.0/', '/publicdomain/zero/1.0/')
     ):
         raise ValueError('License not on approved CC source list')
     req = urllib.request.Request(url, headers={'User-Agent':'HaysBotanyEducationalPhotoImporter/1.0'})
@@ -84,13 +84,13 @@ def install_one(data: dict, sp: dict, report: list) -> None:
                 dest.write_bytes(local_jpeg(raw))
             if match is None:
                 l=p['license_url']
-                license_name='CC0 1.0' if 'publicdomain/zero/' in l else 'CC BY-NC 4.0' if '/by-nc/' in l else 'CC BY-SA 4.0' if '/by-sa/' in l else 'CC BY 4.0'
+                license_name='CC0 1.0' if 'publicdomain/zero/' in l else 'CC BY-NC-SA 4.0' if '/by-nc-sa/' in l else 'CC BY-NC 4.0' if '/by-nc/' in l else 'CC BY-SA 4.0' if '/by-sa/' in l else 'CC BY 4.0'
                 match={'role':'Phase 1 source photo; anatomy not yet manually verified',
                        'creator':p['creator'],'license':license_name,'license_url':l,
                        'source_page':p['source_url'],'source_platform':'GBIF/inaturalist',
                        'original_source_sha256':key,'media_source_url':p['image_url'],
                        'photo_review':'Exact original pixels hash checked; identity and source license still require photo-specific review before publication',
-                       'anatomy_arrows':'not added'}
+                       'anatomy_arrows':'not added', 'license_note':'Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright'}
                 old.append(match)
             match['file']=local_path
             match['hosting_status']='GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED'
