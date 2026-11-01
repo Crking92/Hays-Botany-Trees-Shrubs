@@ -42,3 +42,5 @@ jobs:
           fi
 
 # One-time retry: hash-pinned Texas herbarium legacy HTTP source; URL bytes must match SHA256.
+
+# One-time 2026-11-01 Sapotaceae archive with BY-NC-SA handling and exact SHA-256 check.
