@@ -2,6 +2,41 @@
   "schema_version": 1,
   "report": [
     {
+      "species": "Geum canadense",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Malus ioensis",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Prunus angustifolia",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Prunus caroliniana",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Prunus mexicana",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Prunus rivularis",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Rubus trivialis",
+      "hosted": 5,
+      "pending": []
+    },
+    {
       "species": "Acer grandidentatum",
       "hosted": 5,
       "pending": []

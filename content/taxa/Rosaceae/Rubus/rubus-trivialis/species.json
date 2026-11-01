@@ -106,6 +106,86 @@
       "public_reuse": "yes",
       "photo_review": "hand-reviewed and exact-species observation verified",
       "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "losthorizons",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341989375",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "62f1f99e224c7c6cf83ef6cf268d8a03d658903c3062192e2372cb0abaa6fd93",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622689541/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-62f1f99e224c7c6cf83e.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Ashley Worthington",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/342631977",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "361e4e1996261593428a47a1c6ea4cb43d7936b3b43253001e6aaeed0946c329",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623989173/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-361e4e1996261593428a.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Gary St.Clair",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/342676945",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "abc9fe4d7536285c55f03da3631f7ce84ef0cd66ba651ac84993225bed0de617",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624080207/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-abc9fe4d7536285c55f0.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Emma Berndt",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341735250",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "dfc348f069dad6117e6ce81a6ed190669731f0a357a92d41f330a7d45c23521e",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622176944/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-dfc348f069dad6117e6c.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "milosmith",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/342501849",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "6b457c647b10d42c9760a4dda8aaa374c7350009543b9653a5aad8e1a9f47c9a",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623728733/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-6b457c647b10d42c9760.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "learner_visual_status": {
@@ -114,5 +194,15 @@
     "image_count": 2,
     "filled_at": "2026-10-05",
     "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Rosaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
   }
 }
