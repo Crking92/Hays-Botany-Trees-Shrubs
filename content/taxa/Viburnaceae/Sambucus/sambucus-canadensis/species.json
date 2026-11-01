@@ -107,7 +107,7 @@
       "anatomy_arrows": "not yet installed; only label directly observed structures"
     },
     {
-      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/674286509/original.jpg",
+      "file": "images/phase1-b3cddc339b14a6cb0329.jpg",
       "role": "Phase 1 additional source photo; precise structures not yet verified",
       "creator": "mana-na",
       "license": "CC BY-NC 4.0",
@@ -121,10 +121,11 @@
       "photo_review": "Downloaded source hash verified; species ID and licensing require final source-specific checks before published release.",
       "anatomy_arrows": "not added",
       "public_reuse": "noncommercial educational use with attribution, subject to source check",
-      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     },
     {
-      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/680052501/original.jpg",
+      "file": "images/phase1-8c248fd7f19a6d4ca1c6.jpg",
       "role": "Phase 1 additional source photo; precise structures not yet verified",
       "creator": "raeatx",
       "license": "CC BY-NC 4.0",
@@ -138,10 +139,11 @@
       "photo_review": "Downloaded source hash verified; species ID and licensing require final source-specific checks before published release.",
       "anatomy_arrows": "not added",
       "public_reuse": "noncommercial educational use with attribution, subject to source check",
-      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     },
     {
-      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/690473557/original.jpg",
+      "file": "images/phase1-0df1bad1d35cb1111da7.jpg",
       "role": "Phase 1 additional source photo; precise structures not yet verified",
       "creator": "Ren",
       "license": "CC BY-NC 4.0",
@@ -155,10 +157,11 @@
       "photo_review": "Downloaded source hash verified; species ID and licensing require final source-specific checks before published release.",
       "anatomy_arrows": "not added",
       "public_reuse": "noncommercial educational use with attribution, subject to source check",
-      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     },
     {
-      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/678046244/original.jpg",
+      "file": "images/phase1-9991272ac75b0dfabfa0.jpg",
       "role": "Phase 1 additional source photo; precise structures not yet verified",
       "creator": "Rachael W",
       "license": "CC BY-NC 4.0",
@@ -172,10 +175,11 @@
       "photo_review": "Downloaded source hash verified; species ID and licensing require final source-specific checks before published release.",
       "anatomy_arrows": "not added",
       "public_reuse": "noncommercial educational use with attribution, subject to source check",
-      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     },
     {
-      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/690968620/original.jpg",
+      "file": "images/phase1-2ee1edbb254acc26f100.jpg",
       "role": "Phase 1 additional source photo; precise structures not yet verified",
       "creator": "alexis1756",
       "license": "CC BY-NC 4.0",
@@ -189,7 +193,8 @@
       "photo_review": "Downloaded source hash verified; species ID and licensing require final source-specific checks before published release.",
       "anatomy_arrows": "not added",
       "public_reuse": "noncommercial educational use with attribution, subject to source check",
-      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "diagnostic_photo_plan": [
@@ -236,6 +241,9 @@
     "incoming_photo_count": 5,
     "added_external_gallery_refs": 5,
     "preserved_original_zip_in_chatgpt_library": true,
-    "github_hosted_copy_completed": false
+    "github_hosted_copy_completed": true,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
   }
 }

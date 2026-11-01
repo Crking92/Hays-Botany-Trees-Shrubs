@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "report": [
+    {
+      "species": "Ulmus americana",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Ulmus crassifolia",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Ulmus parvifolia",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Sambucus canadensis",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Ampelopsis cordata",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Cissus trifoliata",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Vitis berlandieri",
+      "hosted": 4,
+      "pending": [
+        {
+          "sha256": "6cb8c5a59bef4fcfb8f6b0d071d6b007820e59b27586758ac9900553672bc796",
+          "reason": "Unsupported/HTTP photo source URL; keep exact original ZIP archive",
+          "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp616348906324044412925.att.JPG"
+        }
+      ]
+    },
+    {
+      "species": "Vitis cinerea",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Vitis mustangensis",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Vitis palmata",
+      "hosted": 5,
+      "pending": []
+    }
+  ]
+}
