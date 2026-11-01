@@ -40,3 +40,5 @@ jobs:
             git commit -m "Install Phase 1 photos with hash-checked source and license records"
             git push origin HEAD:staging/original-source-transfer
           fi
+
+# One-time retry: hash-pinned Texas herbarium legacy HTTP source; URL bytes must match SHA256.
