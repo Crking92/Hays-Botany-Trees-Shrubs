@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Keep existing species cards/images and morphology unchanged. CC BY-NC-SA has attribution, noncommercial, and ShareAlike terms; preserve exact source metadata and modifications.",
+  "family": "Sapotaceae",
+  "target_repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Sapotaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Sideroxylon lanuginosum",
+      "species_id": "sideroxylon-lanuginosum",
+      "photos": [
+        {
+          "source_zip": "Sapotaceae.zip",
+          "zip_entry": "Sapotaceae/Sideroxylon_lanuginosum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Christopher",
+          "license_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341640626",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621988238/original.jpg",
+          "sha256": "376d3abb860b4f2fa07ef3831f9d01cf66bac4b451f0756a314076937f98e637",
+          "bytes": 2837812,
+          "gbif_id": 6178504340
+        },
+        {
+          "source_zip": "Sapotaceae.zip",
+          "zip_entry": "Sapotaceae/Sideroxylon_lanuginosum/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Mike Quinn, San Marcos",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341745672",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622197415/original.jpg",
+          "sha256": "f36b38a75c451948cfa4bad733aeb49dca40f72c74b8613d96ed39700dd5f9ab",
+          "bytes": 2449285,
+          "gbif_id": 6178576773
+        },
+        {
+          "source_zip": "Sapotaceae.zip",
+          "zip_entry": "Sapotaceae/Sideroxylon_lanuginosum/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Chase",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342167842",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623046908/original.jpg",
+          "sha256": "039458453beb4d89e9a47dbe3fb83dfca9e033f94d80dec15c73df4353769dbd",
+          "bytes": 1904974,
+          "gbif_id": 6179083938
+        },
+        {
+          "source_zip": "Sapotaceae.zip",
+          "zip_entry": "Sapotaceae/Sideroxylon_lanuginosum/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Mike Quinn, San Marcos",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341745708",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622197543/original.jpg",
+          "sha256": "d12746d2b7bbc2b093e351978002b8667de0d9701ff53214779ec490095a082f",
+          "bytes": 2632562,
+          "gbif_id": 6179471062
+        },
+        {
+          "source_zip": "Sapotaceae.zip",
+          "zip_entry": "Sapotaceae/Sideroxylon_lanuginosum/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "c0raline",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/344516958",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627736550/original.jpg",
+          "sha256": "1487ff6063441998d953f4b5674a041f1833507d47a22e94ff9c330081987493",
+          "bytes": 3367856,
+          "gbif_id": 6184900822
+        }
+      ]
+    }
+  ]
+}
