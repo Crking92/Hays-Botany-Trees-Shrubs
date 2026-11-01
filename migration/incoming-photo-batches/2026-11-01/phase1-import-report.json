@@ -33,14 +33,8 @@
     },
     {
       "species": "Vitis berlandieri",
-      "hosted": 4,
-      "pending": [
-        {
-          "sha256": "6cb8c5a59bef4fcfb8f6b0d071d6b007820e59b27586758ac9900553672bc796",
-          "reason": "Unsupported/HTTP photo source URL; keep exact original ZIP archive",
-          "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp616348906324044412925.att.JPG"
-        }
-      ]
+      "hosted": 5,
+      "pending": []
     },
     {
       "species": "Vitis cinerea",

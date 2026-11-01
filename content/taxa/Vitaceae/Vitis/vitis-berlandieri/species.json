@@ -164,6 +164,21 @@
       "public_reuse": "noncommercial educational use with attribution, subject to source verification",
       "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
       "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "The University of Texas at Austin",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_page": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp616348906324044412925.att.JPG",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "6cb8c5a59bef4fcfb8f6b0d071d6b007820e59b27586758ac9900553672bc796",
+      "media_source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp616348906324044412925.att.JPG",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "file": "images/phase1-6cb8c5a59bef4fcfb8f6.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "learner_visual_status": {
@@ -180,9 +195,9 @@
     "added_external_gallery_refs": 4,
     "held_remote_http_links": 1,
     "preserved_original_zip_in_chatgpt_library": true,
-    "github_hosted_copy_completed": false,
-    "github_hosted_count": 4,
-    "pending_count": 1,
+    "github_hosted_copy_completed": true,
+    "github_hosted_count": 5,
+    "pending_count": 0,
     "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
   }
 }
