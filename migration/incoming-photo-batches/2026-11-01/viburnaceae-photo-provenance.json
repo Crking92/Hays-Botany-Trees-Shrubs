@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Keep existing species cards and images intact. Photo source links, credited creators and exact hashes retained for Phase 1 import. CC BY-NC photos require noncommercial license compliance; do not silently change license.",
+  "family": "Viburnaceae",
+  "target_repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Viburnaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Sambucus canadensis",
+      "species_id": "sambucus-canadensis",
+      "photos": [
+        {
+          "source_zip": "Viburnaceae.zip",
+          "zip_entry": "Viburnaceae/Sambucus_canadensis/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "mana-na",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/369150893",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/674286509/original.jpg",
+          "sha256": "b3cddc339b14a6cb032933c0a795d91360a2d068ebdce901adbfbab8f7213d68",
+          "bytes": 3205251,
+          "gbif_id": 6398859742
+        },
+        {
+          "source_zip": "Viburnaceae.zip",
+          "zip_entry": "Viburnaceae/Sambucus_canadensis/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "raeatx",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/372173200",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/680052501/original.jpg",
+          "sha256": "8c248fd7f19a6d4ca1c61e0f54a9b8952c288b352ca1c26dcc88e54ce207b7a2",
+          "bytes": 898318,
+          "gbif_id": 6413673577
+        },
+        {
+          "source_zip": "Viburnaceae.zip",
+          "zip_entry": "Viburnaceae/Sambucus_canadensis/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Ren",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/377573163",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/690473557/original.jpg",
+          "sha256": "0df1bad1d35cb1111da7c66970477b7a5914f8efb5762928efbb37ad7512d90d",
+          "bytes": 3370607,
+          "gbif_id": 6431637302
+        },
+        {
+          "source_zip": "Viburnaceae.zip",
+          "zip_entry": "Viburnaceae/Sambucus_canadensis/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Rachael W",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/371044599",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/678046244/original.jpg",
+          "sha256": "9991272ac75b0dfabfa07d2019c5c6bdb46bfb6c8199e65ecc1ef3843a3da11e",
+          "bytes": 3606341,
+          "gbif_id": 6441608688
+        },
+        {
+          "source_zip": "Viburnaceae.zip",
+          "zip_entry": "Viburnaceae/Sambucus_canadensis/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "alexis1756",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/377830691",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/690968620/original.jpg",
+          "sha256": "2ee1edbb254acc26f100463fb55eafe4e409dca82f798ed650000c8f06ed4345",
+          "bytes": 3893639,
+          "gbif_id": 6431464868
+        }
+      ]
+    }
+  ]
+}
