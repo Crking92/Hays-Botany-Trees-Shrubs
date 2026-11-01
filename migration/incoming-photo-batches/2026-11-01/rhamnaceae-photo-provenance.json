@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Preserve existing cards, image records, range flags, anatomy. Photos are CC BY and CC BY-NC per source metadata. Public release requires independent photo and license confirmation.",
+  "family": "Rhamnaceae",
+  "target_repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Rhamnaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Ceanothus herbaceus",
+      "species_id": "ceanothus-herbaceus",
+      "photos": [
+        {
+          "source_zip": "Rhamnaceae.zip",
+          "zip_entry": "Rhamnaceae/Ceanothus_herbaceus/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "mutemanifesto",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341163929",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621004278/original.jpg",
+          "sha256": "37a292ac371de85dd26a2f3947e6db77b7452b68d3d816e9dca1cea5f7283742",
+          "bytes": 809522,
+          "gbif_id": 6178432806
+        },
+        {
+          "source_zip": "Rhamnaceae.zip",
+          "zip_entry": "Rhamnaceae/Ceanothus_herbaceus/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "vgabbard",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/347386244",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633384164/original.jpg",
+          "sha256": "3b1d5e9e67343977e9f41750492b3697669d85917575ce59d3688a816c351b0b",
+          "bytes": 942812,
+          "gbif_id": 6187986398
+        },
+        {
+          "source_zip": "Rhamnaceae.zip",
+          "zip_entry": "Rhamnaceae/Ceanothus_herbaceus/photos/photo_2.jpeg",
+          "filename": "photo_2.jpeg",
+          "creator": "Reid Hardin",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/203187858",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358957207/original.jpeg",
+          "sha256": "4c833cee94a0cab2d1176f959652363e4a481867718640f5bffd8b79c30c77c0",
+          "bytes": 1099595,
+          "gbif_id": 4599823662
+        },
+        {
+          "source_zip": "Rhamnaceae.zip",
+          "zip_entry": "Rhamnaceae/Ceanothus_herbaceus/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "barnowl66",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/152367040",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263022164/original.jpg",
+          "sha256": "b282434c83b00e6824fdf8e0f06231425ab502fb2234fb1dd92fa0638951bd79",
+          "bytes": 1789970,
+          "gbif_id": 4075914647
+        },
+        {
+          "source_zip": "Rhamnaceae.zip",
+          "zip_entry": "Rhamnaceae/Ceanothus_herbaceus/photos/photo_4.jpeg",
+          "filename": "photo_4.jpeg",
+          "creator": "Michelle W. （鍾偉瑋）",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/151701311",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261788925/original.jpeg",
+          "sha256": "02474db43e868a6a7cd944e6d57b60b5991dd2bbcd4fae993cffc6439fb4490c",
+          "bytes": 692395,
+          "gbif_id": 4096767630
+        }
+      ]
+    }
+  ]
+}
