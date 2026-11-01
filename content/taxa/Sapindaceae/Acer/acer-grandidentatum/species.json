@@ -77,6 +77,86 @@
       "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
       "public_reuse": "Respect recorded photo-specific license",
       "modifications": "Resized JPEG and EXIF removed"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Bob McLean",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/354658061",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "f9da0e295f22245d27ec0513282f6f05a0920779c55250a1c3f2fe7ea2294987",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646945341/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-f9da0e295f22245d27ec.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Anonymous",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/271722205",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "5e81bba28e8afc5c7827b47f3ca25966fb468378e076486c32b005d96a495cd6",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488792309/original.jpeg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-5e81bba28e8afc5c7827.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "yank1tree",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/279130942",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "8f9aeb2fcea9744a1c63c956daea481a8f81243eb847318ab73b6fd0f2c0b1e2",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501227870/original.jpeg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-8f9aeb2fcea9744a1c63.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "cfrohlich",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/206651752",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "60071b645a2241104ced673fda4a87ba356de0107e1f7aa1a1635bd1624661d8",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365446006/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-60071b645a2241104ced.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "moliveiraatx",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/154838802",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "0bfeed1e0183fb49f93b8fae75a7269a79510a3a61d47be238a99efb4b6292df",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267581184/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-0bfeed1e0183fb49f93b.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "learner_visual_status": {
@@ -117,5 +197,15 @@
     "photo_files_present": 2,
     "gbif_manual_photo_enrichment": "2026-10-15"
   },
-  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Sapindaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
+  }
 }

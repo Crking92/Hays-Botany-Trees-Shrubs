@@ -157,9 +157,99 @@
       "public_reuse": "yes",
       "photo_review": "hand-reviewed and exact-species observation verified",
       "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Ashley Shepherd",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/345726325",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "abbae2724ece7f73917f70dd204b693344f9d7109563ce6db036573eef9c1626",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630100672/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-abbae2724ece7f73917f.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Jason Azar",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/345213981",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "cc3070cd14616900aeb0f82f60baee30c7107ab1eab8c5f6207f39007d68fdab",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629093492/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-cc3070cd14616900aeb0.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "chloemasi",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/345799769",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "9af78622700614eea110da5d52c2f971ad578d125320adc6e7fa45a7f9e6976e",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630242842/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-9af78622700614eea110.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Shelia Hargis",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/348849717",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "0f9398cbc1275c0d048b51a17f986eb35df1ad27e1c6844291c1229de3b4d1a9",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636293507/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-0f9398cbc1275c0d048b.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "sageost",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/347878178",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "13193ccf770c1478628a3beff0813a0075a6c3bc8e6f273d704921f09debba58",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634361468/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-13193ccf770c1478628a.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "diagnostic_image_needs": [
     "Fruit clusters, bark/trunk texture, whole-tree form, and a closer leaflet attachment view."
-  ]
+  ],
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Sapindaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
+  }
 }

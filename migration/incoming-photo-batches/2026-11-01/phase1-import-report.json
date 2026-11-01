@@ -2,6 +2,41 @@
   "schema_version": 1,
   "report": [
     {
+      "species": "Acer grandidentatum",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Acer palmatum",
+      "hosted": 1,
+      "pending": []
+    },
+    {
+      "species": "Acer saccharinum",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Aesculus glabra",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Aesculus pavia",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Cardiospermum halicacabum",
+      "hosted": 5,
+      "pending": []
+    },
+    {
+      "species": "Sapindus drummondii",
+      "hosted": 5,
+      "pending": []
+    },
+    {
       "species": "Sideroxylon lanuginosum",
       "hosted": 5,
       "pending": []

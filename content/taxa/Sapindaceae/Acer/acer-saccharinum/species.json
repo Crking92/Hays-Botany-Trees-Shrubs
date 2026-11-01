@@ -62,6 +62,86 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Acer_saccharinum_samaras_Churchill_Woods_Glen_Ellyn_Illinois.jpg",
       "study_use": "yes",
       "public_reuse": "yes"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Charles Franks",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/273235837",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "8100c661d93d1c9825a46bcb3860e37191f5f1e30f27c0615bc6f356bd496469",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491468210/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-8100c661d93d1c9825a4.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "benjamin_z",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/73072688",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "d7c0547303727ec445dadf90575f2f87dd7ab204ad7f149256f371eecb55a474",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119250658/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-d7c0547303727ec445da.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "cirruswing",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/48782735",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "13e291bce44a0238ec4ef7e76673eaa51c9c8ae5c732bb7c3c980c94c8c45b2c",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77419946/original.jpeg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-13e291bce44a0238ec4e.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "kpierce1613",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/325350651",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "b2dadfe2cd140eae9ec467bac30fec361cb9e9a62bee6ede323370bd1dfa5cdd",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589050344/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-b2dadfe2cd140eae9ec4.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Joel Chamberlain",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/241496224",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "87b4c5b5ce6856454fa5c1d0146fcb386ab54e71166d5b28c878ace049d8ceeb",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430408862/original.jpeg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-87b4c5b5ce6856454fa5.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "learner_visual_status": {
@@ -101,5 +181,15 @@
     "photo_metadata_count": 2,
     "photo_files_present": 2
   },
-  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Sapindaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
+  }
 }
