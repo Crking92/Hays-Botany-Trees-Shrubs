@@ -92,6 +92,74 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_in_Texas.jpg",
       "study_use": "yes",
       "public_reuse": "yes"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/653239065/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "plectrudis",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/358113171",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653239065/original.jpg",
+      "original_source_sha256": "ba878932e9dcdc8f5712d001bdc8a69d27d28d30f0279a55529d3a77fc0a443f",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Vitaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/655036339/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Jim Davenport",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/359048374",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/655036339/original.jpg",
+      "original_source_sha256": "1304e64b074e53e6cb78f9bc0cea559d99a82967a4f70a21ecc551f916357840",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Vitaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/647059518/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Michael Knox",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/354722081",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647059518/original.jpg",
+      "original_source_sha256": "58d60f04b1c8a019225eb24a120f8bc613bd0cb75061d6c497d4e90bee87e595",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Vitaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/494507014/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Russell Sanders",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/275163139",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494507014/original.jpg",
+      "original_source_sha256": "1fdb7fdb975584104d7d8da74aebc1b27359a31fc19f4662cd5a70f321b06bd5",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Vitaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
     }
   ],
   "learner_visual_status": {
@@ -100,5 +168,14 @@
     "image_count": 3,
     "filled_at": "2026-10-06",
     "note": "Three real licensed photographs intended after curation; original plus two targeted additional views. Physical count must be verified in final pipeline report."
+  },
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Vitaceae",
+    "incoming_photo_count": 5,
+    "added_external_gallery_refs": 4,
+    "held_remote_http_links": 1,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "github_hosted_copy_completed": false
   }
 }
