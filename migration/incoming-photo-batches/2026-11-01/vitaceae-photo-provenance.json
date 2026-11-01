@@ -1,0 +1,414 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Keep existing species cards and images intact. Photo source links, credited creators and exact hashes retained for Phase 1 import. CC BY-NC photos require noncommercial license compliance; do not silently change license.",
+  "family": "Vitaceae",
+  "target_repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Vitaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Ampelopsis cordata",
+      "species_id": "ampelopsis-cordata",
+      "photos": [
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Ampelopsis_cordata/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Mike Quinn, San Marcos",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/347332297",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633276967/original.jpg",
+          "sha256": "584acd4b320433318ea0f0faf05623acf350f4c6c8f589d2a936eb6ecb9c02fc",
+          "bytes": 2637674,
+          "gbif_id": 6234498569
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Ampelopsis_cordata/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "magicmeg",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353553628",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645073838/original.jpg",
+          "sha256": "f0cf73766ce8483d8059dd169d867519fc842fe85ce81198880cfa03e8235e4c",
+          "bytes": 1641101,
+          "gbif_id": 6235257269
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Ampelopsis_cordata/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Emma Berndt",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/355619495",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648528335/original.jpg",
+          "sha256": "26ba9ba8c131c7e5d04a787a4cee64d3dd5008be25f4dd39ee94e9ab1702905a",
+          "bytes": 3516325,
+          "gbif_id": 6252740334
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Ampelopsis_cordata/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "magiskarp",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/277482328",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498243203/original.jpeg",
+          "sha256": "2bd943ef44342413c707dc19f02972748dc0e85aa659b172c12021222761dc2a",
+          "bytes": 2069585,
+          "gbif_id": 5154499365
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Ampelopsis_cordata/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "crburkhardt",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/330607346",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/599545866/original.jpg",
+          "sha256": "79ea1eee8863ba6d5f1a227253757ec47f6ac0b652104294a32c318b7e9577d5",
+          "bytes": 2843434,
+          "gbif_id": 5932606836
+        }
+      ]
+    },
+    {
+      "species": "Cissus trifoliata",
+      "species_id": "cissus-trifoliata",
+      "photos": [
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Cissus_trifoliata/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "sbeth",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/346250135",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631133285/original.jpg",
+          "sha256": "0f460b5a6a718fddad260b208e2ecc05ab09f6cbee27a599df4b907873860e25",
+          "bytes": 2250130,
+          "gbif_id": 6188588796
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Cissus_trifoliata/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Shelia Hargis",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/349230926",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637033101/original.jpg",
+          "sha256": "119845a8c7a978e316891ad009f8c8e955bc660e6bbf42aefb641930367ee77a",
+          "bytes": 913698,
+          "gbif_id": 6320823388
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Cissus_trifoliata/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "atxbackyardigan",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/346711047",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/632044501/original.jpg",
+          "sha256": "1242fb0d99beb8f4cd27a4b1cd7985dfc378a1f48bf56c59720e6ee49f28dc59",
+          "bytes": 1143259,
+          "gbif_id": 6188501106
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Cissus_trifoliata/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Keith Riggle",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/355388882",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648153595/original.jpg",
+          "sha256": "efc54c02a0ebeb79501ee031a01b20c4aafa0f365a07e332c7bd78fa3df34171",
+          "bytes": 1936448,
+          "gbif_id": 6234186545
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Cissus_trifoliata/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Carlos/Giancarla Ross (AnimeBirder)",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/353115541",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644350358/original.jpg",
+          "sha256": "8bd5a8b7ced9b9709c72d640a8e27fb0f7f810e293100397a2f2b244b44b948d",
+          "bytes": 2637826,
+          "gbif_id": 6234223990
+        }
+      ]
+    },
+    {
+      "species": "Vitis berlandieri",
+      "species_id": "vitis-berlandieri",
+      "photos": [
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_berlandieri/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "plectrudis",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/358113171",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/653239065/original.jpg",
+          "sha256": "ba878932e9dcdc8f5712d001bdc8a69d27d28d30f0279a55529d3a77fc0a443f",
+          "bytes": 904635,
+          "gbif_id": 6273674716
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_berlandieri/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Jim Davenport",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/359048374",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/655036339/original.jpg",
+          "sha256": "1304e64b074e53e6cb78f9bc0cea559d99a82967a4f70a21ecc551f916357840",
+          "bytes": 1370267,
+          "gbif_id": 6274246722
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_berlandieri/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Michael Knox",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354722081",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/647059518/original.jpg",
+          "sha256": "58d60f04b1c8a019225eb24a120f8bc613bd0cb75061d6c497d4e90bee87e595",
+          "bytes": 2743144,
+          "gbif_id": 6321173966
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_berlandieri/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Russell Sanders",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/275163139",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494507014/original.jpg",
+          "sha256": "1fdb7fdb975584104d7d8da74aebc1b27359a31fc19f4662cd5a70f321b06bd5",
+          "bytes": 3491789,
+          "gbif_id": 5153325906
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_berlandieri/photos/photo_4.JPG",
+          "filename": "photo_4.JPG",
+          "creator": "The University of Texas at Austin",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp616348906324044412925.att.JPG",
+          "image_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp616348906324044412925.att.JPG",
+          "sha256": "6cb8c5a59bef4fcfb8f6b0d071d6b007820e59b27586758ac9900553672bc796",
+          "bytes": 13168935,
+          "gbif_id": 4403304433
+        }
+      ]
+    },
+    {
+      "species": "Vitis cinerea",
+      "species_id": "vitis-cinerea",
+      "photos": [
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_cinerea/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Caleb Helsel",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/116493278",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/196648099/original.jpg",
+          "sha256": "735c150333c711894d86dccc4fba99ba9e891b85c76c44bfcf3ae5923d974441",
+          "bytes": 1152372,
+          "gbif_id": 3784787481
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_cinerea/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Caleb Helsel",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/72574395",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/118349176/original.jpg",
+          "sha256": "3314ea38dd268a8aac14b73ded632e369ad273432da1edb33377fbfe42741e97",
+          "bytes": 838527,
+          "gbif_id": 3097274481
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_cinerea/photos/photo_2.jpeg",
+          "filename": "photo_2.jpeg",
+          "creator": "Alison Northup",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/10856434",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15230409/original.jpeg",
+          "sha256": "c42e949e2fcb7d166fbe4c01a25d89d12e55e7b13b0092aa9849407a1bcc5a5b",
+          "bytes": 2706594,
+          "gbif_id": 1847414584
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_cinerea/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "Becky Brenner",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/11720049",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/16756730/original.jpeg",
+          "sha256": "b0caf3b194041ffbbb3c2591de1b370dde487f9958be1bbcf76a6ff426d49ca1",
+          "bytes": 1036138,
+          "gbif_id": 4936445242
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_cinerea/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Conveyor Belt",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "source_url": "https://collections.nmnh.si.edu/media/?i=13750422&h=2000",
+          "image_url": "https://collections.nmnh.si.edu/media/?i=13750422&h=2000",
+          "sha256": "f06cbdfb56299275450a82d673af6837b232a6f223fec20f9ea606a8ee6d866a",
+          "bytes": 325093,
+          "gbif_id": 1318127577
+        }
+      ]
+    },
+    {
+      "species": "Vitis mustangensis",
+      "species_id": "vitis-mustangensis",
+      "photos": [
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_mustangensis/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "sandyhead",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/343125268",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624967733/original.jpg",
+          "sha256": "32813f0c2d742dfaf41a3060b3be4964b6e537c8f386903de511ef563bc09d58",
+          "bytes": 3195432,
+          "gbif_id": 6179085364
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_mustangensis/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Mike Quinn, San Marcos",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345231350",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629130127/original.jpg",
+          "sha256": "9654c5406768534bdcad3efd48ef6d70c9c6a72b4b5b3b30e34c97d0d0fec452",
+          "bytes": 2603509,
+          "gbif_id": 6184785647
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_mustangensis/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "maureensweet",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/344461701",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627630659/original.jpg",
+          "sha256": "69f771188a37bf8f36cb8806981db786c9a6655e6bc1cfcb07598d686ff9ed88",
+          "bytes": 3659311,
+          "gbif_id": 6184918772
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_mustangensis/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Ashley Shepherd",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345750496",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630146647/original.jpg",
+          "sha256": "ce38158dd180c3f449699ba6752c02648562c2743a99e1c805e8795b4edd0c0f",
+          "bytes": 1484772,
+          "gbif_id": 6184971555
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_mustangensis/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "twilightecologist",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/344081668",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626889991/original.jpg",
+          "sha256": "1cbe879e08f735fabb18e9d99c5eac1bd76f3b6fcc51cd32f47e07de203f9e2d",
+          "bytes": 3134917,
+          "gbif_id": 6185043387
+        }
+      ]
+    },
+    {
+      "species": "Vitis palmata",
+      "species_id": "vitis-palmata",
+      "photos": [
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_palmata/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Jon McIntyre",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/282455683",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/507462602/original.jpg",
+          "sha256": "02cadb50b9321ea583e16d30ff6a333f30096614f91e80bce8ea0f8c10d8be0f",
+          "bytes": 1146048,
+          "gbif_id": 5166908176
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_palmata/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Sam Kieschnick",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/155223676",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/268286019/original.jpg",
+          "sha256": "12276301fe23d0f678bb98dd1ba05e4c80dafab44314398069b3136f68b31d53",
+          "bytes": 972275,
+          "gbif_id": 4420839504
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_palmata/photos/photo_2.jpeg",
+          "filename": "photo_2.jpeg",
+          "creator": "Dan Johnson",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/153256054",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/264671912/original.jpeg",
+          "sha256": "87959c6beb7de041962442574b9e531e3853d7cc60f9dd98849454a2778d09d5",
+          "bytes": 907973,
+          "gbif_id": 4952190767
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_palmata/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "Clifton Albrecht",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/117485403",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/198417253/original.jpeg",
+          "sha256": "412935779b76aee55024452fcbb039087d2932697bc34e5a3fd255efc39f9465",
+          "bytes": 957203,
+          "gbif_id": 3784901521
+        },
+        {
+          "source_zip": "Vitaceae(1).zip",
+          "zip_entry": "Vitaceae/Vitis_palmata/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Aidan Campos",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/45921859",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72832187/original.jpg",
+          "sha256": "b74de73aee8e69a5645b3ac24dbc37802c98effa53bf3321fb2bb1b58c632458",
+          "bytes": 1328454,
+          "gbif_id": 3321117361
+        }
+      ]
+    }
+  ]
+}
