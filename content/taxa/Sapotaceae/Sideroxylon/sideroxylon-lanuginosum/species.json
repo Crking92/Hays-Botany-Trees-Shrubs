@@ -89,6 +89,86 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Sideroxylon_lanuginosum_in_Lyon_BG_(3).jpg",
       "study_use": "yes",
       "public_reuse": "yes"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Christopher",
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341640626",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "376d3abb860b4f2fa07ef3831f9d01cf66bac4b451f0756a314076937f98e637",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621988238/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-376d3abb860b4f2fa07e.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Mike Quinn, San Marcos",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341745672",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "f36b38a75c451948cfa4bad733aeb49dca40f72c74b8613d96ed39700dd5f9ab",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622197415/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-f36b38a75c451948cfa4.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Chase",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/342167842",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "039458453beb4d89e9a47dbe3fb83dfca9e033f94d80dec15c73df4353769dbd",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623046908/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-039458453beb4d89e9a4.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Mike Quinn, San Marcos",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341745708",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "d12746d2b7bbc2b093e351978002b8667de0d9701ff53214779ec490095a082f",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622197543/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-d12746d2b7bbc2b093e3.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "c0raline",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/344516958",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "1487ff6063441998d953f4b5674a041f1833507d47a22e94ff9c330081987493",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627736550/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-1487ff6063441998d953.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "learner_visual_status": {
@@ -124,5 +204,15 @@
       "role": "latex already exposed and seed close-up; side-by-side S. celastrinum",
       "status": "FINAL_POLISH"
     }
-  ]
+  ],
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Sapotaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
+  }
 }
