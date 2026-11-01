@@ -7,41 +7,45 @@
   "look_here_first": "Check the stem before the fruit: branchlets are uniformly red to purplish-red or chestnut, while leaves are usually deeply 3–5-lobed with long-pointed lobes and nearly glabrous undersides.",
   "key_traits": [
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "high-climbing woody vine"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "branchlets uniformly red, purplish-red, or chestnut"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "branchlets glabrous or only sparsely cobwebby"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "leaves usually deeply 3–5-lobed with long-acuminate tips"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "leaf undersides glabrous or nearly so"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "young tendrils often red-pigmented"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "berries blue-black to black, roughly 8–10 mm"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "riverbank, slough, and alluvial floodplain habitat"
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": "The combination of red stems, deep lobing, and nearly glabrous lower leaf surfaces separates it from the hairier V. cinerea and more glaucous-fruited V. berlandieri."
+    "names": [
+      "Vitis berlandieri",
+      "Vitis cinerea",
+      "Vitis mustangensis"
+    ],
+    "differences": "Uniform red branchlets + deeply lobed leaves + glabrous lower surface are the fastest field combination."
   },
   "verified_photos": [
     {
@@ -60,5 +64,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8ee8c6a652847d55fd403df03093a82e096a646e5b6b8c2c6106c466bbeabd5c",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "169f27fcabab002be037ef34eb10628675cd7d840c650e7247b063dfa5bd9844",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }
