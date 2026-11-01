@@ -13,6 +13,86 @@
       "source_page": "https://commons.wikimedia.org/wiki/File:Ceanothus_herbaceus_(8932370773).jpg",
       "study_use": "private_educational",
       "public_reuse": "cc_by_sa_attribution_sharealike_required"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "mutemanifesto",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/341163929",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "37a292ac371de85dd26a2f3947e6db77b7452b68d3d816e9dca1cea5f7283742",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621004278/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-37a292ac371de85dd26a.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "vgabbard",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/347386244",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "3b1d5e9e67343977e9f41750492b3697669d85917575ce59d3688a816c351b0b",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633384164/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-3b1d5e9e67343977e9f4.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Reid Hardin",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/203187858",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "4c833cee94a0cab2d1176f959652363e4a481867718640f5bffd8b79c30c77c0",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358957207/original.jpeg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-4c833cee94a0cab2d117.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "barnowl66",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/152367040",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "b282434c83b00e6824fdf8e0f06231425ab502fb2234fb1dd92fa0638951bd79",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/263022164/original.jpg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-b282434c83b00e6824fd.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
+    },
+    {
+      "role": "Phase 1 source photo; anatomy not yet manually verified",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/151701311",
+      "source_platform": "GBIF/inaturalist",
+      "original_source_sha256": "02474db43e868a6a7cd944e6d57b60b5991dd2bbcd4fae993cffc6439fb4490c",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261788925/original.jpeg",
+      "photo_review": "Exact original pixels hash checked; identity and source license still require photo-specific review before publication",
+      "anatomy_arrows": "not added",
+      "license_note": "Noncommercial and ShareAlike requirements apply where indicated; give source credit and license link; original file retains copyright",
+      "file": "images/phase1-02474db43e868a6a7cd9.jpg",
+      "hosting_status": "GITHUB_HOSTED_STAGING_ONLY_NOT_PUBLISHED",
+      "modifications": "Downscaled to 1600px maximum; JPEG conversion; EXIF stripped"
     }
   ],
   "common_name": "Inland New Jersey tea",
@@ -43,5 +123,15 @@
     "filled_at": "2026-10-17",
     "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
   },
-  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Rhamnaceae",
+    "incoming_photo_count": 5,
+    "github_hosted_count": 5,
+    "pending_count": 0,
+    "github_hosted_copy_completed": true,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "deployment_status": "STAGING_ONLY_NO_PUBLIC_SITE_CUTOVER"
+  }
 }

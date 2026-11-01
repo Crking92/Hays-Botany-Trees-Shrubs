@@ -2,6 +2,11 @@
   "schema_version": 1,
   "report": [
     {
+      "species": "Ceanothus herbaceus",
+      "hosted": 5,
+      "pending": []
+    },
+    {
       "species": "Geum canadense",
       "hosted": 5,
       "pending": []
