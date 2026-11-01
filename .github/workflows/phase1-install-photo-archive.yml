@@ -46,3 +46,5 @@ jobs:
 # One-time 2026-11-01 Sapotaceae archive with BY-NC-SA handling and exact SHA-256 check.
 
 # Sapindaceae incoming archive: one-time SHA256-verified staging install on 2026-11-01.
+
+# Rosaceae 35-photo archive: one-time exact-hash staging install 2026-11-01.
