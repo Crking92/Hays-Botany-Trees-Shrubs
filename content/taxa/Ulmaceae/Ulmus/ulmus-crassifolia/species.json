@@ -160,6 +160,91 @@
       "public_reuse": "yes",
       "photo_review": "hand-reviewed and exact-species observation verified",
       "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/622689916/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "losthorizons",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/341989560",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622689916/original.jpg",
+      "original_source_sha256": "d9d4645f2289cf5b8e32bfe4e107d9dab1f8d58d0892dd8fb7b235e3d28b60b2",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Ulmaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/622234959/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Drew Starnes",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/341759743",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622234959/original.jpg",
+      "original_source_sha256": "b0a454273f3a3b6f419987812b12a7b00f37e44c05194285417d00ac5345e744",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Ulmaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/620957644/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "sycamore_snow",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/341141957",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620957644/original.jpg",
+      "original_source_sha256": "d30f0b6bfad95ee11cdd64a737e3f288267e9d60079d93b73c86beee7db5251b",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Ulmaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/623312890/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "mattriojas",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/342297990",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623312890/original.jpg",
+      "original_source_sha256": "e9963c5284022f45935cd92a8fc3230460034db13495262f6f07eaca23bf1390",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Ulmaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
+    },
+    {
+      "file": "https://inaturalist-open-data.s3.amazonaws.com/photos/623451097/original.jpg",
+      "role": "Phase 1 source photo; diagnostic anatomy not yet visually verified",
+      "creator": "Avery Huff",
+      "license": "CC BY-NC 4.0",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist / GBIF photo source",
+      "source_page": "https://www.inaturalist.org/observations/342365382",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623451097/original.jpg",
+      "original_source_sha256": "233e6ba25c3b336d8a1a623b236d7aba4bd81194a9716f19339720b0520fb9cf",
+      "original_batch_zip": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Ulmaceae-original.zip",
+      "downloaded_original_verified": true,
+      "photo_review": "Original ZIP hash verified. Source-specific license and taxon identity still need independent review.",
+      "anatomy_arrows": "not added",
+      "public_reuse": "noncommercial educational use with attribution, subject to source verification",
+      "hosting_status": "EXTERNAL_SOURCE_LINK_GITHUB_COPY_PENDING"
     }
   ],
   "external_study_references": [
@@ -190,5 +275,14 @@
       "study_use": "yes",
       "public_reuse": "no"
     }
-  ]
+  ],
+  "phase1_photo_batch": {
+    "date": "2026-11-01",
+    "source_family": "Ulmaceae",
+    "incoming_photo_count": 5,
+    "added_external_gallery_refs": 5,
+    "held_remote_http_links": 0,
+    "preserved_original_zip_in_chatgpt_library": true,
+    "github_hosted_copy_completed": false
+  }
 }
