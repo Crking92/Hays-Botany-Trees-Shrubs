@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Keep existing species cards and images intact. Photo source links, credited creators and exact hashes retained for Phase 1 import. CC BY-NC photos require noncommercial license compliance; do not silently change license.",
+  "family": "Ulmaceae",
+  "target_repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Ulmaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Ulmus americana",
+      "species_id": "ulmus-americana",
+      "photos": [
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_americana/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Amanda Laboy",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/340996257",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620658180/original.jpg",
+          "sha256": "2bacfd203a88c20aa857067ff433de5a839eb8960852a52f562f05a6dba3bff4",
+          "bytes": 2934969,
+          "gbif_id": 6178657800
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_americana/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Meredith Lovelace",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342808606",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624329235/original.jpg",
+          "sha256": "27691978b0f5a29bb38620d19087b264b0af4b391743f1b27374da5f77df1ad4",
+          "bytes": 612586,
+          "gbif_id": 6179570162
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_americana/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Mike Quinn, San Marcos",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/347550070",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/633711238/original.jpg",
+          "sha256": "bc4a5a54e65f4540b7850d01712fc871087e592bd93f2b7811b2ad2f95d1124f",
+          "bytes": 2742472,
+          "gbif_id": 6188319239
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_americana/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Sophia K",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/348615137",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/635821973/original.jpg",
+          "sha256": "2f588f5e28ee550bf4caff0a0f57c62ca98f9026847dec5830fb7ecdd2cf3492",
+          "bytes": 3284843,
+          "gbif_id": 6195278239
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_americana/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Keith Riggle",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/350957436",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640399145/original.jpg",
+          "sha256": "7e1d0cb4bc5fe9fb6409784d0be23aa6c49d9e1d3e64347f6ad64fb6e2f78b12",
+          "bytes": 2813092,
+          "gbif_id": 6234194078
+        }
+      ]
+    },
+    {
+      "species": "Ulmus crassifolia",
+      "species_id": "ulmus-crassifolia",
+      "photos": [
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_crassifolia/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "losthorizons",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341989560",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622689916/original.jpg",
+          "sha256": "d9d4645f2289cf5b8e32bfe4e107d9dab1f8d58d0892dd8fb7b235e3d28b60b2",
+          "bytes": 2224328,
+          "gbif_id": 6178407859
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_crassifolia/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Drew Starnes",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341759743",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622234959/original.jpg",
+          "sha256": "b0a454273f3a3b6f419987812b12a7b00f37e44c05194285417d00ac5345e744",
+          "bytes": 3195470,
+          "gbif_id": 6178667675
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_crassifolia/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "sycamore_snow",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341141957",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620957644/original.jpg",
+          "sha256": "d30f0b6bfad95ee11cdd64a737e3f288267e9d60079d93b73c86beee7db5251b",
+          "bytes": 2392721,
+          "gbif_id": 6178741459
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_crassifolia/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "mattriojas",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342297990",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623312890/original.jpg",
+          "sha256": "e9963c5284022f45935cd92a8fc3230460034db13495262f6f07eaca23bf1390",
+          "bytes": 4131169,
+          "gbif_id": 6178918510
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_crassifolia/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Avery Huff",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342365382",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623451097/original.jpg",
+          "sha256": "233e6ba25c3b336d8a1a623b236d7aba4bd81194a9716f19339720b0520fb9cf",
+          "bytes": 2117713,
+          "gbif_id": 6178984820
+        }
+      ]
+    },
+    {
+      "species": "Ulmus parvifolia",
+      "species_id": "ulmus-parvifolia",
+      "photos": [
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_parvifolia/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "c0raline",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341107584",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620888775/original.jpg",
+          "sha256": "4dd4271f8d6c5ae060c3330da5c50c2d183a6dc29d4ece02c532d2b694147e19",
+          "bytes": 4124947,
+          "gbif_id": 6178423503
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_parvifolia/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "childnumberthree",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345348279",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629355325/original.jpg",
+          "sha256": "73ee3b86a3403f4ddff44627012314b88e2975e11ffacc18414db7c0cabe58db",
+          "bytes": 1555387,
+          "gbif_id": 6184966854
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_parvifolia/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Tom Forwood Jr.",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/355811987",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648872205/original.jpg",
+          "sha256": "c484d6a05cdb0f0ed7f03adea14c3faaa386a0f2da7c5e65f8a55c35d91bdd63",
+          "bytes": 2323092,
+          "gbif_id": 6253227715
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_parvifolia/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "CompanyInk",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/360650435",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/658100928/original.jpg",
+          "sha256": "ebabc52d87f4d161fbe538f6117e9d22b9bc01a08225a13512965450c452ee4f",
+          "bytes": 1172213,
+          "gbif_id": 6273882858
+        },
+        {
+          "source_zip": "Ulmaceae.zip",
+          "zip_entry": "Ulmaceae/Ulmus_parvifolia/photos/photo_4.jpeg",
+          "filename": "photo_4.jpeg",
+          "creator": "losthorizons",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/275162892",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494579335/original.jpeg",
+          "sha256": "017b94144d97d9870b31168142e0d6347bdb6d1c7106b14df2c8d1d71c9c8e43",
+          "bytes": 3907628,
+          "gbif_id": 5140931533
+        }
+      ]
+    }
+  ]
+}
