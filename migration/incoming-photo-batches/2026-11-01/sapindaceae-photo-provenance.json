@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Preserve existing photos, botanical diagnostic and county range data; source photos CC BY-NC 4.0 per downloader; exact photo license and taxon identification require source review before public learner deployment.",
+  "family": "Sapindaceae",
+  "target_repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Sapindaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Acer grandidentatum",
+      "species_id": "acer-grandidentatum",
+      "photos": [
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_grandidentatum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Bob McLean",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/354658061",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/646945341/original.jpg",
+          "sha256": "f9da0e295f22245d27ec0513282f6f05a0920779c55250a1c3f2fe7ea2294987",
+          "bytes": 2813416,
+          "gbif_id": 6480823679
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_grandidentatum/photos/photo_1.jpeg",
+          "filename": "photo_1.jpeg",
+          "creator": "Anonymous",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/271722205",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488792309/original.jpeg",
+          "sha256": "5e81bba28e8afc5c7827b47f3ca25966fb468378e076486c32b005d96a495cd6",
+          "bytes": 1543926,
+          "gbif_id": 5936087032
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_grandidentatum/photos/photo_2.jpeg",
+          "filename": "photo_2.jpeg",
+          "creator": "yank1tree",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/279130942",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/501227870/original.jpeg",
+          "sha256": "8f9aeb2fcea9744a1c63c956daea481a8f81243eb847318ab73b6fd0f2c0b1e2",
+          "bytes": 2545832,
+          "gbif_id": 5153663893
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_grandidentatum/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "cfrohlich",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/206651752",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/365446006/original.jpg",
+          "sha256": "60071b645a2241104ced673fda4a87ba356de0107e1f7aa1a1635bd1624661d8",
+          "bytes": 991308,
+          "gbif_id": 4945527087
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_grandidentatum/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "moliveiraatx",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/154838802",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267581184/original.jpg",
+          "sha256": "0bfeed1e0183fb49f93b8fae75a7269a79510a3a61d47be238a99efb4b6292df",
+          "bytes": 1227528,
+          "gbif_id": 4091923030
+        }
+      ]
+    },
+    {
+      "species": "Acer palmatum",
+      "species_id": "acer-palmatum",
+      "photos": [
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_palmatum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "artistanitamarie",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/173270645",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/300885052/original.jpg",
+          "sha256": "b0d9fb68ec709a143d38d8d03ea864352e536095b0a179954d4e2d671f6521a3",
+          "bytes": 815364,
+          "gbif_id": 6422066101
+        }
+      ]
+    },
+    {
+      "species": "Acer saccharinum",
+      "species_id": "acer-saccharinum",
+      "photos": [
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_saccharinum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Charles Franks",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/273235837",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/491468210/original.jpg",
+          "sha256": "8100c661d93d1c9825a46bcb3860e37191f5f1e30f27c0615bc6f356bd496469",
+          "bytes": 1157807,
+          "gbif_id": 5140220204
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_saccharinum/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "benjamin_z",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/73072688",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/119250658/original.jpg",
+          "sha256": "d7c0547303727ec445dadf90575f2f87dd7ab204ad7f149256f371eecb55a474",
+          "bytes": 899202,
+          "gbif_id": 3079607808
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_saccharinum/photos/photo_2.jpeg",
+          "filename": "photo_2.jpeg",
+          "creator": "cirruswing",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/48782735",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77419946/original.jpeg",
+          "sha256": "13e291bce44a0238ec4ef7e76673eaa51c9c8ae5c732bb7c3c980c94c8c45b2c",
+          "bytes": 838091,
+          "gbif_id": 3008499416
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_saccharinum/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "kpierce1613",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/325350651",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589050344/original.jpg",
+          "sha256": "b2dadfe2cd140eae9ec467bac30fec361cb9e9a62bee6ede323370bd1dfa5cdd",
+          "bytes": 2189806,
+          "gbif_id": 5892448063
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Acer_saccharinum/photos/photo_4.jpeg",
+          "filename": "photo_4.jpeg",
+          "creator": "Joel Chamberlain",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/241496224",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430408862/original.jpeg",
+          "sha256": "87b4c5b5ce6856454fa5c1d0146fcb386ab54e71166d5b28c878ace049d8ceeb",
+          "bytes": 1215195,
+          "gbif_id": 4994491475
+        }
+      ]
+    },
+    {
+      "species": "Aesculus glabra",
+      "species_id": "aesculus-glabra",
+      "photos": [
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_glabra/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "champagnejasmine6",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/340892801",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620444951/original.jpg",
+          "sha256": "0f9d0571b28c39597a4e64418fda1610606892070031d1ed26ddd034094114e6",
+          "bytes": 650286,
+          "gbif_id": 6171081980
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_glabra/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Jeremy Collison",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/346300846",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631219489/original.jpg",
+          "sha256": "9961aca0b19f8550ae2ff6eba574a045b5ebceb7051f3fe3d2e5340dad6d9edd",
+          "bytes": 1665889,
+          "gbif_id": 6188282792
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_glabra/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Kin8man",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/351145103",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640755680/original.jpg",
+          "sha256": "53b2876554907718fc28932267d79400344930c9df206b86bc8cfab5819f1d34",
+          "bytes": 1631162,
+          "gbif_id": 6235575475
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_glabra/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "ashwmash",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/349245936",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637064708/original.jpg",
+          "sha256": "c0b9784080315d8cc0445ba6869f76a230ea830c15395c38d36b6ad1753b5726",
+          "bytes": 2540949,
+          "gbif_id": 6320874748
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_glabra/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "mountainlionwoman",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/378580844",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/692410028/original.jpg",
+          "sha256": "2b9703db0e4a0861416bbce9cb16f2ed6498b144f89ad83ddc6c6ff3d43cff63",
+          "bytes": 1009015,
+          "gbif_id": 6479178818
+        }
+      ]
+    },
+    {
+      "species": "Aesculus pavia",
+      "species_id": "aesculus-pavia",
+      "photos": [
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_pavia/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "aaves69",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341003691",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620674321/original.jpg",
+          "sha256": "7c5cd8044a226e78bbb12f8f395b858dabed9feba65287431cecebe141207f5b",
+          "bytes": 1594895,
+          "gbif_id": 6170934384
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_pavia/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "tshiroky",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/340895976",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620451997/original.jpg",
+          "sha256": "af10b0ad160564acce6defe996adf1c5c303c25673fbdb909f62a4e6d48ef140",
+          "bytes": 2164515,
+          "gbif_id": 6171326489
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_pavia/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "twilightecologist",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342826106",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624364416/original.jpg",
+          "sha256": "1d792f03add0cc802c12a50fb9f5cc8d232cc0f8bd8c9d40ed3dc444e0ec34d5",
+          "bytes": 3077385,
+          "gbif_id": 6178378349
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_pavia/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Siglo Group",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342265102",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623245164/original.jpg",
+          "sha256": "3fd8a0fc0b9ac84db1a4008e14dce5decad8341a31130a73afa0b0ffb2fb199f",
+          "bytes": 2428329,
+          "gbif_id": 6178446713
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Aesculus_pavia/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "samuel_s22",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341987605",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622686031/original.jpg",
+          "sha256": "675aac82f90d56c93279566833b8f31ddb47a3374fc010b54348117db30e2500",
+          "bytes": 757674,
+          "gbif_id": 6178545633
+        }
+      ]
+    },
+    {
+      "species": "Cardiospermum halicacabum",
+      "species_id": "cardiospermum-halicacabum",
+      "photos": [
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Cardiospermum_halicacabum/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "ocglittersparkle",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/379414540",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/694023297/original.jpg",
+          "sha256": "a85824ef0fe2aa0aafa7b13f5d7db663b679c4ff170befd17a0a5baabff4b077",
+          "bytes": 2654720,
+          "gbif_id": 6441016902
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Cardiospermum_halicacabum/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "ocglittersparkle",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/379415277",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/694024859/original.jpg",
+          "sha256": "ea2d77b5d4d0b71f56affc643227304037e8bd56e6ae901be64f01e816623218",
+          "bytes": 2596956,
+          "gbif_id": 6441333087
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Cardiospermum_halicacabum/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "milosmith",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/392164444",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/718655649/original.jpg",
+          "sha256": "76a3dc4071435827909297bbedf6be355da5ad38904ea7da138342ff1e275fc3",
+          "bytes": 2824408,
+          "gbif_id": 6498176587
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Cardiospermum_halicacabum/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Jean Solana",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/391388198",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/717152212/original.jpg",
+          "sha256": "d2614fa32bc8a72fee0daf3cb0ba569be370c358dc98f6efdd864c87e768674f",
+          "bytes": 718516,
+          "gbif_id": 6498964309
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Cardiospermum_halicacabum/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "slogworx",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/391420028",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/717214302/original.jpg",
+          "sha256": "7bef860e4d27aa065001bc4918f65a84e5a6709958b6d5024080151bfdf68156",
+          "bytes": 3350162,
+          "gbif_id": 6500329811
+        }
+      ]
+    },
+    {
+      "species": "Sapindus drummondii",
+      "species_id": "sapindus-drummondii",
+      "photos": [
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Sapindus_drummondii/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Ashley Shepherd",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345726325",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630100672/original.jpg",
+          "sha256": "abbae2724ece7f73917f70dd204b693344f9d7109563ce6db036573eef9c1626",
+          "bytes": 1087304,
+          "gbif_id": 6184750461
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Sapindus_drummondii/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Jason Azar",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345213981",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629093492/original.jpg",
+          "sha256": "cc3070cd14616900aeb0f82f60baee30c7107ab1eab8c5f6207f39007d68fdab",
+          "bytes": 2877901,
+          "gbif_id": 6185600363
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Sapindus_drummondii/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "chloemasi",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345799769",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630242842/original.jpg",
+          "sha256": "9af78622700614eea110da5d52c2f971ad578d125320adc6e7fa45a7f9e6976e",
+          "bytes": 3525368,
+          "gbif_id": 6185648638
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Sapindus_drummondii/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Shelia Hargis",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/348849717",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/636293507/original.jpg",
+          "sha256": "0f9398cbc1275c0d048b51a17f986eb35df1ad27e1c6844291c1229de3b4d1a9",
+          "bytes": 1160309,
+          "gbif_id": 6234409541
+        },
+        {
+          "source_zip": "Sapindaceae.zip",
+          "zip_entry": "Sapindaceae/Sapindus_drummondii/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "sageost",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/347878178",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634361468/original.jpg",
+          "sha256": "13193ccf770c1478628a3beff0813a0075a6c3bc8e6f273d704921f09debba58",
+          "bytes": 1193073,
+          "gbif_id": 6188090752
+        }
+      ]
+    }
+  ]
+}
