@@ -29,7 +29,7 @@ VALID_LICENSE = ('creativecommons.org/licenses/by/4.0/', 'creativecommons.org/li
 def fetch_exact(photo: dict) -> bytes:
     url = photo['image_url']
     parsed = urlsplit(url)
-    if parsed.scheme != 'https' or parsed.hostname not in ALLOWED or parsed.username:
+    if parsed.hostname not in ALLOWED or parsed.username or (parsed.scheme != 'https' and not (parsed.scheme == 'http' and parsed.hostname == 'was.tacc.utexas.edu')):
         raise ValueError('Unsupported/HTTP photo source URL; keep exact original ZIP archive')
     lc = urlsplit(photo.get('license_url', ''))
     if lc.hostname not in ('creativecommons.org','www.creativecommons.org') or not any(
