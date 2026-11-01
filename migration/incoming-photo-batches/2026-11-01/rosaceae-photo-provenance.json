@@ -1,0 +1,480 @@
+{
+  "schema_version": 1,
+  "source_license_metadata_captured": true,
+  "source_pixels_archived_in_chatgpt_library": true,
+  "hash_verified_against_original_zip": true,
+  "individual_license_current_status_verified": false,
+  "photographic_id_expert_verified": false,
+  "automated_public_gallery_install_complete": false,
+  "notes": "Existing botanical data and old photos preserved. Rights include CC BY-NC-SA 4.0; resized adaptations remain subject to CC share-alike attribution and noncommercial conditions. Staging repository is public; final site release not yet verified.",
+  "family": "Rosaceae",
+  "target_repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "target_branch": "staging/original-source-transfer",
+  "source_storage": "ChatGPT Library /Hays Botany Photo Batch Archive/2026-11-01/Rosaceae-original.zip",
+  "review_status": "SOURCE_ARCHIVED_HASH_VERIFIED_PENDING_LIVE_LICENSE_AND_ID_CHECK",
+  "site_published": false,
+  "species": [
+    {
+      "species": "Geum canadense",
+      "species_id": "geum-canadense",
+      "photos": [
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Geum_canadense/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Sue Ann Kendall",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/350951574",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640388050/original.jpg",
+          "sha256": "f4a21d9d0a8659655c4c6262a6f33317ef49030d32edc044cdcebf1d319c7675",
+          "bytes": 2584196,
+          "gbif_id": 6234175555
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Geum_canadense/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Michael Knox",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/363994350",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/664491544/original.jpg",
+          "sha256": "4096e4e09c912d047d0384d5d4497109eb6f3aa11b6134243a94b7e906836ed6",
+          "bytes": 2114697,
+          "gbif_id": 6334259612
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Geum_canadense/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "kbeisner",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/264551763",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/475046481/original.jpg",
+          "sha256": "9a73633f632b57346265318a810a216af505427705882537030a29f823850b3a",
+          "bytes": 1408442,
+          "gbif_id": 5087654200
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Geum_canadense/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Caleb Helsel",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/266183688",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478232623/original.jpg",
+          "sha256": "c2dbceb25a842dcf3ff64f815ae0e4ef080c91344646f8c909a8001c10afe196",
+          "bytes": 1073557,
+          "gbif_id": 5104424562
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Geum_canadense/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "claycountyranch",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/271698563",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/488749524/original.jpg",
+          "sha256": "3edf5beb164f2e9bccc42077a4bc3c5b8ba5e7ff0d99b3aec858ed8c4162f09a",
+          "bytes": 831578,
+          "gbif_id": 5134604502
+        }
+      ]
+    },
+    {
+      "species": "Malus ioensis",
+      "species_id": "malus-ioensis",
+      "photos": [
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Malus_ioensis/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Susan Crawford Tracy",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/275761318",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/495406503/original.jpg",
+          "sha256": "1ddd791f77293a4e7b369ff45096937d8eaeb784685b1969f1c490819fa121e7",
+          "bytes": 539154,
+          "gbif_id": 5141024505
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Malus_ioensis/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Susan Crawford Tracy",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/76811804",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/125598966/original.jpg",
+          "sha256": "17e34c3353efe037a60bc2701c42c8737f27ffbffff6380ef00a129847df7640",
+          "bytes": 681350,
+          "gbif_id": 3112805763
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Malus_ioensis/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "johnsmithjr",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/41483277",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/65887843/original.jpg",
+          "sha256": "92f4f3aaa2d52f4ef570949e46b2a055aa5ea933a848b1075ea111c0b0166211",
+          "bytes": 994579,
+          "gbif_id": 2597713403
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Malus_ioensis/photos/photo_3.jpeg",
+          "filename": "photo_3.jpeg",
+          "creator": "Ron Chang (curated by Cat Chang)",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/10480966",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14571846/original.jpeg",
+          "sha256": "a42276e5d84ff724af8f9de83d40e4780a1ad10ae30afe552326aeffd2f3d7a6",
+          "bytes": 1020555,
+          "gbif_id": 1850892307
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Malus_ioensis/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "Cat Chang",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/12591360",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/18199392/original.jpg",
+          "sha256": "2d648fffe0f5e47b66d012d5684f1895eaa36aea7e0ee82fbd1f530fab790258",
+          "bytes": 983324,
+          "gbif_id": 1847551673
+        }
+      ]
+    },
+    {
+      "species": "Prunus angustifolia",
+      "species_id": "prunus-angustifolia",
+      "photos": [
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_angustifolia/photos/photo_0.jpeg",
+          "filename": "photo_0.jpeg",
+          "creator": "Michelle W. （鍾偉瑋）",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/109012669",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/183649792/original.jpeg",
+          "sha256": "5705b646edec3eac8e2faf929eb5161661fa1257e84a8b543d04dd61cfc3c53a",
+          "bytes": 477842,
+          "gbif_id": 3747047738
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_angustifolia/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "183rdTonkawa Tonkawa",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/70788307",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115141436/original.jpg",
+          "sha256": "180f9617c7ee89466cb00ff60f3ce17b51c3cad15688c77845b6ede0dd5265c6",
+          "bytes": 1090031,
+          "gbif_id": 3079484145
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_angustifolia/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "svrharding",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/220904731",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391152680/original.jpg",
+          "sha256": "9a4197afe007dee1e59423c021ac4c0d2506aa7edb2dd89d7429187dd542f3a0",
+          "bytes": 1556461,
+          "gbif_id": 4901972555
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_angustifolia/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Nate Sabo",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/148914544",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/256528145/original.jpg",
+          "sha256": "975d7e301e6bd72dbe43716590a877da2d1e69bea16cb0cafe12f74a67956e50",
+          "bytes": 874899,
+          "gbif_id": 4171270645
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_angustifolia/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "lanechaffin",
+          "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+          "source_url": "https://www.inaturalist.org/observations/355740203",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648741831/original.jpg",
+          "sha256": "6d2fb103ad939003221701f0973c69def55be922475507a593a2ec5ae6f06a6c",
+          "bytes": 990605,
+          "gbif_id": 6252339612
+        }
+      ]
+    },
+    {
+      "species": "Prunus caroliniana",
+      "species_id": "prunus-caroliniana",
+      "photos": [
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_caroliniana/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Christopher",
+          "license_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341640767",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621988456/original.jpg",
+          "sha256": "43ec83388e5f36232dc9e09975bef112fd4e42bbcc12e7a7528e1d000b1dc2f6",
+          "bytes": 2001775,
+          "gbif_id": 6178417185
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_caroliniana/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "daviddeleon",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/343055468",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624813386/original.jpg",
+          "sha256": "8d9381f6b46a98d798c84e259a1be04ffc7f25482027fd433316c9e348123ea5",
+          "bytes": 2332596,
+          "gbif_id": 6178910976
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_caroliniana/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Christian A. Lopez",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342182034",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623076936/original.jpg",
+          "sha256": "ff4822db0b9401e53a4a6d2dbf3028bda8394e7b1be770cc0582b9227bd026b8",
+          "bytes": 2632134,
+          "gbif_id": 6178934891
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_caroliniana/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Chase",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341425591",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621545471/original.jpg",
+          "sha256": "39e1d79594a69569ce797912af4c4a96591ac82e078709ea2d9e4099ffb5e28f",
+          "bytes": 2280784,
+          "gbif_id": 6179119866
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_caroliniana/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "adanortega_12",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341151000",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620977688/original.jpg",
+          "sha256": "c662cef3d36891ae9594100826337cedd175a087cacb5954a6c1600c47bef78d",
+          "bytes": 3142292,
+          "gbif_id": 6179137530
+        }
+      ]
+    },
+    {
+      "species": "Prunus mexicana",
+      "species_id": "prunus-mexicana",
+      "photos": [
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_mexicana/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "colleendieter",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/340976031",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620616973/original.jpg",
+          "sha256": "aa205837add4a6f15c97156d6d55419b6624bc0190d7c3f740273f1c736937de",
+          "bytes": 4235048,
+          "gbif_id": 6171172540
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_mexicana/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Erinn (Ren)",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342143611",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622998771/original.jpg",
+          "sha256": "0b870199216733c76b78586d80b0d843ae396ea0d526d469de8a4318ac6c679f",
+          "bytes": 848023,
+          "gbif_id": 6179277709
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_mexicana/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "H.D.",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341580676",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621860582/original.jpg",
+          "sha256": "684bb63a1e0bc04d36dca12b8d9fd5bea2356095fba274362700c6f4845fd9e8",
+          "bytes": 2051059,
+          "gbif_id": 6179536420
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_mexicana/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Saunders Drukker",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/345684603",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630020377/original.jpg",
+          "sha256": "6e6d24ca98e79f6b26b324c2a44073c58481334cd885848881e29a50a0817bff",
+          "bytes": 1108819,
+          "gbif_id": 6188311055
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_mexicana/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "gusmoore",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/367073898",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/670319659/original.jpg",
+          "sha256": "894ef03933208b384f7f5dbe121059633c0d66a6f457d93d8407c2d4ae3971ee",
+          "bytes": 727223,
+          "gbif_id": 6352246363
+        }
+      ]
+    },
+    {
+      "species": "Prunus rivularis",
+      "species_id": "prunus-rivularis",
+      "photos": [
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_rivularis/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "Walker Pickens",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341604678",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621912015/original.jpg",
+          "sha256": "f61ce9d97b062909f7fd864ad25b55daa2e30823717d8890f2daa9e1285ee828",
+          "bytes": 806158,
+          "gbif_id": 6480340724
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_rivularis/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Walker Pickens",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341017304",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620699722/original.jpg",
+          "sha256": "b60dc38ea5a56e9fb2f5e9aacb82ed54a886a0a9457a94fc1de2679a654f3125",
+          "bytes": 913792,
+          "gbif_id": 6481216219
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_rivularis/photos/photo_2.JPG",
+          "filename": "photo_2.JPG",
+          "creator": "The University of Texas at Austin",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=aa437d97-b85c-40b6-a491-ed6f74fbd343.JPG",
+          "image_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=aa437d97-b85c-40b6-a491-ed6f74fbd343.JPG",
+          "sha256": "048a95f7d1e9cc71de0c7fd3d5f2f41a24b37c8ae0062e6f3d0711bd480fcbe8",
+          "bytes": 1459231,
+          "gbif_id": 6158966506
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_rivularis/photos/photo_3.JPG",
+          "filename": "photo_3.JPG",
+          "creator": "The University of Texas at Austin",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=2fc2511b-015b-44d2-b9d5-28acfcd4b3e5.JPG",
+          "image_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=2fc2511b-015b-44d2-b9d5-28acfcd4b3e5.JPG",
+          "sha256": "c3867559b760e1a0ff65ed0ce3be95fbede159bf1bc4d7345028afb6ee5bd5ac",
+          "bytes": 1356755,
+          "gbif_id": 6158966817
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Prunus_rivularis/photos/photo_4.JPG",
+          "filename": "photo_4.JPG",
+          "creator": "The University of Texas at Austin",
+          "license_url": "http://creativecommons.org/licenses/by/4.0/",
+          "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=34f4d3db-a6c6-4180-8310-9e1fc9cf35e5.JPG",
+          "image_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=34f4d3db-a6c6-4180-8310-9e1fc9cf35e5.JPG",
+          "sha256": "5e488974c71c82da88d5768f49c3963b9b55c1903dc0162b30e89f19f1fb6011",
+          "bytes": 1342635,
+          "gbif_id": 6158967590
+        }
+      ]
+    },
+    {
+      "species": "Rubus trivialis",
+      "species_id": "rubus-trivialis",
+      "photos": [
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Rubus_trivialis/photos/photo_0.jpg",
+          "filename": "photo_0.jpg",
+          "creator": "losthorizons",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341989375",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622689541/original.jpg",
+          "sha256": "62f1f99e224c7c6cf83ef6cf268d8a03d658903c3062192e2372cb0abaa6fd93",
+          "bytes": 2359565,
+          "gbif_id": 6178416963
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Rubus_trivialis/photos/photo_1.jpg",
+          "filename": "photo_1.jpg",
+          "creator": "Ashley Worthington",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342631977",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623989173/original.jpg",
+          "sha256": "361e4e1996261593428a47a1c6ea4cb43d7936b3b43253001e6aaeed0946c329",
+          "bytes": 1338814,
+          "gbif_id": 6178536429
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Rubus_trivialis/photos/photo_2.jpg",
+          "filename": "photo_2.jpg",
+          "creator": "Gary St.Clair",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342676945",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624080207/original.jpg",
+          "sha256": "abc9fe4d7536285c55f03da3631f7ce84ef0cd66ba651ac84993225bed0de617",
+          "bytes": 1738488,
+          "gbif_id": 6178621794
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Rubus_trivialis/photos/photo_3.jpg",
+          "filename": "photo_3.jpg",
+          "creator": "Emma Berndt",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/341735250",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622176944/original.jpg",
+          "sha256": "dfc348f069dad6117e6ce81a6ed190669731f0a357a92d41f330a7d45c23521e",
+          "bytes": 3277571,
+          "gbif_id": 6178758295
+        },
+        {
+          "source_zip": "Rosaceae.zip",
+          "zip_entry": "Rosaceae/Rubus_trivialis/photos/photo_4.jpg",
+          "filename": "photo_4.jpg",
+          "creator": "milosmith",
+          "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "source_url": "https://www.inaturalist.org/observations/342501849",
+          "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623728733/original.jpg",
+          "sha256": "6b457c647b10d42c9760a4dda8aaa374c7350009543b9653a5aad8e1a9f47c9a",
+          "bytes": 3136545,
+          "gbif_id": 6179031589
+        }
+      ]
+    }
+  ]
+}
