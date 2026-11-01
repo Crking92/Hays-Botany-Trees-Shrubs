@@ -7,41 +7,41 @@
   "look_here_first": "Look at bark and leaf texture together: Chinese elm has distinctive exfoliating mottled tan/orange/gray bark and small glossy, mostly singly serrate leaves; it flowers and fruits in late summer-fall.",
   "key_traits": [
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "introduced Asian elm, often planted and sometimes naturalized"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "mature bark exfoliates in irregular plates creating mottled tan, orange, gray and olive patches"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "leaves small, dark, lustrous/glabrous above, mostly singly serrate"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "twigs generally not corky-winged"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "flowers in late summer to early fall"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "small glabrous samara; seed nearly fills samara"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "disturbed-site escape/naturalization makes it a useful field comparison"
-    },
-    {
-      "label": "Elm training",
-      "text": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Ulmus crassifolia",
+      "Ulmus pumila",
+      "Ulmus alata"
+    ],
+    "differences": "Ulmus crassifolia: Both can have small leaves and fall reproduction. Cedar elm has rough hairy leaves, often corky twigs, and hairy samaras; Chinese elm has exfoliating mottled bark, glossy smoother leaves, and glabrous samaras. Ulmus pumila: Siberian elm also has small leaves but lacks Chinese elm's distinctive lacebark exfoliation and has different samara/flowering timing. Ulmus alata: Winged elm has regular corky wings and spring reproduction rather than mottled exfoliating bark and fall reproduction."
   },
   "verified_photos": [
     {
@@ -60,5 +60,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2373760780d099d100b10928679a28c8a112f56f99627acef5357b7f7ee37b03",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "aa4019197aca2c0df199931e3c346751bfbe06bedac2557e36981d24fd49e4c6",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }

@@ -7,41 +7,41 @@
   "look_here_first": "Look at the calendar and the twig before the leaf: cedar elm is a fall-flowering elm with very small rough leaves; corky twig wings, when present, can continue around the leaf node.",
   "key_traits": [
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "deciduous Texas elm; often common on limestone and clay"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "leaves small, generally under about 5 cm, often obovate/elliptic and bluntish"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "upper leaf surface dark and distinctly rough/scabrous"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "lower surface and petiole hairy"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "young twigs may develop thin corky wings continuous around nodes"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "flowers in late summer to fall rather than spring"
     },
     {
-      "label": "Identification",
+      "label": "Field character",
       "text": "small oval samara hairy over the body/edge and deeply notched at apex"
-    },
-    {
-      "label": "Elm training",
-      "text": "Read leaf texture/asymmetry together with twig wings, bark, reproductive season and samara characters."
     }
   ],
   "lookalikes": {
-    "names": [],
-    "differences": ""
+    "names": [
+      "Ulmus alata",
+      "Ulmus parvifolia",
+      "Ulmus americana"
+    ],
+    "differences": "Ulmus alata: Both can have corky wings. Winged elm usually has persistent regular wings ending abruptly at the node, pointed leaves, and spring flowers/fruit; cedar elm wings can continue around the node and reproduction is in fall. Ulmus parvifolia: Both can reproduce late in the year and have small leaves, but Chinese elm has smoother/lustrous mostly singly serrate leaves and exfoliating mottled bark; cedar elm leaves are rough and its samara/calyx are hairy. Ulmus americana: American elm has much larger strongly asymmetric leaves, no regular corky branch wings, and spring fruit."
   },
   "verified_photos": [
     {
@@ -99,5 +99,7 @@
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c9f022acf4680f46af65757363cec06c2892f9ab52d032b41336a36836659084",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "45408ca9c2485736f8022872a6cdcb960d4b85892c0cd9e5782beeccb26ca30c",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }
