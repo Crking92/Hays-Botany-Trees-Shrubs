@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 71,
-  "photo_count": 209,
+  "photo_species": 84,
+  "photo_count": 274,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -294,32 +294,32 @@
       "first_src": "media/platanus-occidentalis/01-leaves.jpg"
     },
     "ceanothus-herbaceus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ceanothus-herbaceus/ceanothus-herbaceus-joshua-mayer.jpg"
     },
     "colubrina-texensis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/colubrina-texensis/inat-620628646.jpg"
     },
     "condalia-hookeri": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/condalia-hookeri/inat-620618007.jpg"
     },
     "condaliopsis-obtusifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/condaliopsis-obtusifolia/inat-181632616.jpeg"
     },
     "frangula-caroliniana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/frangula-caroliniana/inat-623927027.jpg"
     },
     "crataegus-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/crataegus-texana/inat-187782261.jpg"
     },
     "crataegus-viridis": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/crataegus-viridis/inat-480007023.jpeg"
     },
     "geum-canadense": {
       "count": 1,
@@ -330,8 +330,8 @@
       "first_src": "media/malus-ioensis/malus-ioensis-kenraiz-kz03.jpg"
     },
     "photinia-serratifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/photinia-serratifolia/inat-622561424.jpg"
     },
     "prunus-angustifolia": {
       "count": 1,
@@ -350,32 +350,32 @@
       "first_src": "media/prunus-rivularis/prunus-rivularis-provisional-face.jpg"
     },
     "prunus-serotina": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/prunus-serotina/inat-631453159.jpg"
     },
     "pyrus-calleryana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pyrus-calleryana/inat-478138224.jpg"
     },
     "rhaphiolepis-indica": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/rhaphiolepis-indica/inat-473826216.jpg"
     },
     "rubus-trivialis": {
       "count": 2,
       "first_src": "media/rubus-trivialis/rubus-trivialis-provisional-face.jpg"
     },
     "spiraea-thunbergii": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/spiraea-thunbergii/inat-339406206.jpg"
     },
     "ptelea-trifoliata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/ptelea-trifoliata/inat-621937776.jpg"
     },
     "thamnosma-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/thamnosma-texana/inat-621755404.jpg"
     },
     "zanthoxylum-clava-herculis-subsp-fruticosum": {
       "count": 0,

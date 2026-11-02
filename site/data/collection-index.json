@@ -657,7 +657,7 @@
       "genus": "Ceanothus",
       "scientific_name": "Ceanothus herbaceus",
       "common_name": "Inland New Jersey tea",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -666,8 +666,8 @@
       "genus": "Colubrina",
       "scientific_name": "Colubrina texensis",
       "common_name": "Texas colubrina",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "condalia-hookeri",
@@ -675,8 +675,8 @@
       "genus": "Condalia",
       "scientific_name": "Condalia hookeri",
       "common_name": "Brasil / bluewood condalia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "condaliopsis-obtusifolia",
@@ -684,8 +684,8 @@
       "genus": "Condaliopsis",
       "scientific_name": "Condaliopsis obtusifolia",
       "common_name": "Lotebush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "frangula-caroliniana",
@@ -693,8 +693,8 @@
       "genus": "Frangula",
       "scientific_name": "Frangula caroliniana",
       "common_name": "Carolina buckthorn",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "crataegus-texana",
@@ -702,8 +702,8 @@
       "genus": "Crataegus",
       "scientific_name": "Crataegus texana",
       "common_name": "Texas Hawthorn",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "crataegus-viridis",
@@ -711,8 +711,8 @@
       "genus": "Crataegus",
       "scientific_name": "Crataegus viridis",
       "common_name": "Green hawthorn",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "geum-canadense",
@@ -738,8 +738,8 @@
       "genus": "Photinia",
       "scientific_name": "Photinia serratifolia",
       "common_name": "Chinese photinia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "prunus-angustifolia",
@@ -783,8 +783,8 @@
       "genus": "Prunus",
       "scientific_name": "Prunus serotina",
       "common_name": "Black Cherry / Escarpment Black Cherry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pyrus-calleryana",
@@ -792,8 +792,8 @@
       "genus": "Pyrus",
       "scientific_name": "Pyrus calleryana",
       "common_name": "Callery pear",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhaphiolepis-indica",
@@ -801,8 +801,8 @@
       "genus": "Rhaphiolepis",
       "scientific_name": "Rhaphiolepis indica",
       "common_name": "Indian hawthorn",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rubus-trivialis",
@@ -819,8 +819,8 @@
       "genus": "Spiraea",
       "scientific_name": "Spiraea thunbergii",
       "common_name": "Thunberg spirea",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ptelea-trifoliata",
@@ -828,8 +828,8 @@
       "genus": "Ptelea",
       "scientific_name": "Ptelea trifoliata",
       "common_name": "Common hoptree / wafer ash",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "thamnosma-texana",
@@ -837,8 +837,8 @@
       "genus": "Thamnosma",
       "scientific_name": "Thamnosma texana",
       "common_name": "Texas desert rue",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "zanthoxylum-clava-herculis-subsp-fruticosum",
