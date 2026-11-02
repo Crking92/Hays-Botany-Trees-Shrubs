@@ -1,0 +1,16 @@
+{
+  "original_held": 1,
+  "approved_for_install": 1,
+  "published": 1,
+  "held": 0,
+  "checked_at": "2026-11-02T20:59:39.933206+00:00",
+  "records": [
+    {
+      "species_id": "ulmus-alata",
+      "gbif_id": 2807453492,
+      "status": "RIGHTS_AND_IMAGE_VERIFIED",
+      "license": "CC BY 4.0",
+      "sha256": "3e372ae7d969477409b78c071a5d0ae014c24cf0604255dd20958531183813cf"
+    }
+  ]
+}

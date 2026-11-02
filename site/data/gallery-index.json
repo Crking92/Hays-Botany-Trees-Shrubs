@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 71,
-  "photo_count": 203,
+  "photo_count": 204,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -458,7 +458,7 @@
       "first_src": "media/planera-aquatica/inat-625448827.jpg"
     },
     "ulmus-alata": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/ulmus-alata/inat-408285343.jpeg"
     },
     "ulmus-americana": {
