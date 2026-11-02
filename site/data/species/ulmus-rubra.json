@@ -65,7 +65,7 @@
     },
     {
       "src": "media/ulmus-rubra/inat-193021415.jpg",
-      "creator": "no rights reserved",
+      "creator": "lanechaffin",
       "source_page": "https://www.inaturalist.org/photos/193021415",
       "source_page_is_exact": true,
       "license": "CC0 1.0",
@@ -75,7 +75,7 @@
       "modified": "Unmodified original iNaturalist JPEG",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
+      "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks. Original ZIP metadata explicitly credits lanechaffin; the provider API's 'no rights reserved' text is a rights label, not a photographer's name.",
       "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 114297126 explicitly lists exact photo 193021415; individual photo license cc0 and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 8cd1eaea30ec4395a4d5e8293af441ae87525523a4dbb52bb89a0674ef320681.",
