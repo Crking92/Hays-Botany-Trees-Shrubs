@@ -1071,8 +1071,8 @@
       "genus": "Boehmeria",
       "scientific_name": "Boehmeria cylindrica",
       "common_name": "False nettle",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "parietaria-pensylvanica",
@@ -1080,8 +1080,8 @@
       "genus": "Parietaria",
       "scientific_name": "Parietaria pensylvanica",
       "common_name": "Pennsylvania pellitory",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "urtica-chamaedryoides",
@@ -1089,8 +1089,8 @@
       "genus": "Urtica",
       "scientific_name": "Urtica chamaedryoides",
       "common_name": "Heartleaf nettle",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sambucus-canadensis",

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 53,
-  "photo_count": 113,
+  "photo_species": 56,
+  "photo_count": 128,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -478,16 +478,16 @@
       "first_src": null
     },
     "boehmeria-cylindrica": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/boehmeria-cylindrica/inat-478476124.jpg"
     },
     "parietaria-pensylvanica": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/parietaria-pensylvanica/inat-620423519.jpg"
     },
     "urtica-chamaedryoides": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/urtica-chamaedryoides/inat-626086060.jpg"
     },
     "sambucus-canadensis": {
       "count": 3,
