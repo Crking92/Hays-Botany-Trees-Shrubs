@@ -30,7 +30,10 @@ for row in idx["entries"]:
         src=p["src"]
         assert src.startswith("media/"+sid+"/") and ".." not in src
         assert p["creator"] and p["source_page"].startswith("https://") and p["license_url"].startswith("https://creativecommons.org/")
-        assert p["noncommercial_only"] is False and p["private_rights_review_only"] is False
+        assert p["private_rights_review_only"] is False
+        nc=p["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+        assert p["noncommercial_only"] is nc
+        if nc:assert m.get("photo_license_policy",{}).get("noncommercial_educational_use") is True
         path=SITE/src
         assert path.is_file() and path.stat().st_size>500,src
         content=path.read_bytes()

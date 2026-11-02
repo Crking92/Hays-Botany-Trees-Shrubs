@@ -38,5 +38,9 @@
     "Viburnaceae",
     "Vitaceae"
   ],
-  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS"
+  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS",
+  "photo_license_policy": {
+    "noncommercial_educational_use": true,
+    "notice": "This gallery is educational and noncommercial. Photos remain separately licensed by their original creators. If site use becomes commercial, remove or separately relicense CC BY-NC and CC BY-NC-SA images before commercial use."
+  }
 }
