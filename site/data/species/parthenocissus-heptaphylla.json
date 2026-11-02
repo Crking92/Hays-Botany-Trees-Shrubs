@@ -86,6 +86,25 @@
       "source_review_evidence": "Live iNaturalist photo ID 756421698 inside observation 411205559; exact photo license cc-by and creator Chris Hughes match the source ZIP; SHA-256 a8a307bf2de67f5abbc72a9b0994a6295bd854d4a860a9965145a4a4f1622936 verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus heptaphylla confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
       "sha256": "a8a307bf2de67f5abbc72a9b0994a6295bd854d4a860a9965145a4a4f1622936"
+    },
+    {
+      "src": "media/parthenocissus-heptaphylla/inat-photo-627601615.jpg",
+      "creator": "maureensweet",
+      "source_page": "https://www.inaturalist.org/photos/627601615",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "47652c8ed335c164d7398e9060245ffca81595e5",
+      "role": "Live palmate foliage and branches in a natural setting",
+      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
+      "source_review_evidence": "Live iNaturalist photo ID 627601615 inside observation 344446117; exact photo license cc-by-nc and creator maureensweet match the source ZIP; SHA-256 126771319b7274bb3fa274f3529599241a4b3edca1ba5327f83f7d54c0143e9f verified against original archived bytes at 2026-11-02T21:04:43.126291+00:00",
+      "taxon_review_evidence": "Original archived in Contact-sheet sanity check Nov 2 2026; plausible foliage habit and seasonal structure, not expert voucher determination. Observation-level taxon Parthenocissus heptaphylla confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
+      "sha256": "126771319b7274bb3fa274f3529599241a4b3edca1ba5327f83f7d54c0143e9f"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
