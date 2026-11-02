@@ -1,10 +1,16 @@
 # Hays Botany — Trees & Shrubs
 
-**Historical source transfer COMPLETE; existing public family learner active. New botanical/photo enrichment is deferred.**
+**Historical source transfer complete; public family learner active. PHOTO-FIRST gallery enrichment is now the active user priority (November 2, 2026): publish credited, source-verified general photos before anatomy arrows.**
 
 [Open the family Visual Learner](https://crking92.github.io/Hays-Botany-Trees-Shrubs/site/) · [Original read-only Hays Botany hub](https://crking92.github.io/Hays-County-Botany/) · [Current botanical write routing](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/ACTIVE_NEW_PLANT_WRITE_ROUTING_20261028.json)
 
 This collection contains **133 existing species lessons across 36 assigned families**. Its complete original scientific/photo source is preserved on branch [`staging/original-source-transfer`](https://github.com/Crking92/Hays-Botany-Trees-Shrubs/tree/staging/original-source-transfer), whereas its photo-backed public learner lives under `main/site`. New botanical edits go to the approved family branch, not to the legacy hub.
+
+## Current photo-first operating direction — November 2, 2026
+
+Read [photo-first publication policy](workflow/PHOTO_FIRST_PUBLIC_GALLERY_POLICY_2026-11-02.md) before family photo batches. [Paste-ready ChatGPT Project instructions](workflow/CHATGPT_PROJECT_PHOTO_FIRST_INSTRUCTIONS_2026-11-02.md) are included for alignment across chats. The user prioritizes multiple useful general views per species **without waiting for arrows or finished anatomy lessons**. The public site currently has **108 photos across 52 photographed species** after the first separately credited November 2 general-photo addition; these counts change as photo batches are installed.
+
+The Trees & Shrubs automatic photo publisher now supports two honestly documented review modes: the original named-human source/taxon approval, or the owner-standing photo-first policy with actual photo-specific source and identity evidence. **Neither mode allows invented proof or uncertain image rights.** The publisher also accepts CC BY-NC and CC BY-NC-SA only when each photo confirms noncommercial site use; the site clearly labels NC restrictions. Exact-photo rights/ID review and GitHub Pages QA remain required. An eligible general image need not show anatomy or have arrows. Preserve the historical audit counts below as an October migration snapshot, not today's site totals.
 
 ## Migration-only source/file results — October 30, 2026
 
