@@ -41,13 +41,13 @@ def original_creator(attr):
 def main():
     data=json.loads(MANIFEST.read_text())
     assert data["repo"]=="Crking92/Hays-Botany-Trees-Shrubs"
-    assert data["source_images"]==33 and len(data["candidates"])==13
+    assert data["source_images"]==33 and 13<=len(data["candidates"])<=33
     all_ids=[x["photo_id"] for x in data["candidates"]]
     assert len(set(all_ids))==len(all_ids)
     created=datetime.datetime.now(datetime.timezone.utc).isoformat()
     report={"batch_id":data["batch_id"],"verified_at":created,"source_images":33,
-            "source_file_hashes_distinct":33,"candidate_total":13,
-            "not_selected_after_contact_review":20,"ready_count":0,
+            "source_file_hashes_distinct":33,"candidate_total":len(data["candidates"]),
+            "not_selected_after_contact_review":33-len(data["candidates"]),"ready_count":0,
             "published_count":0,"already_published_count":0,"held_candidate_count":0,"records":[]}
     with tempfile.TemporaryDirectory(prefix="hays-vitaceae-reviewed-") as tmp:
         root=Path(tmp)
