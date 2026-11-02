@@ -1,0 +1,84 @@
+name: Recover source-verified Vitaceae archive photos onto family Pages
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/recover-source-verified-vitaceae.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: trees-shrubs-approved-photo-release
+  cancel-in-progress: false
+jobs:
+  verify-and-publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install photo decoder
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify exact media rights, taxon, archive bytes and install passing originals
+        run: python3 scripts/process_vitaceae_archived_photo_candidates.py
+      - name: Validate every family gallery photo and original credit
+        run: python3 scripts/verify_existing_site.py
+      - name: Commit checked photos only to the correct family website
+        id: release
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json workflow/vitaceae-photo-first-execution-2026-11-02.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Install source-verified Vitaceae photos from preserved ZIPs"
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Request GitHub Pages rebuild
+        if: steps.release.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - name: Confirm actual photos and credits on public Pages
+        if: steps.release.outputs.published == 'true'
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,time,urllib.request
+          from pathlib import Path
+          base="https://crking92.github.io/Hays-Botany-Trees-Shrubs/site/"
+          root=Path("site")
+          expected=(root/"data/gallery-index.json").read_bytes()
+          report=json.loads(Path("workflow/vitaceae-photo-first-execution-2026-11-02.json").read_text())
+          def fetch(rel):
+              with urllib.request.urlopen(urllib.request.Request(base+rel,headers={"User-Agent":"HaysBotanyVitaceaeArchiveQA/1.0"}),timeout=20) as response:
+                  assert response.status==200
+                  return response.read()
+          for k in range(44):
+              try:
+                  if fetch("data/gallery-index.json")==expected:
+                      print("LIVE_VITACEAE_GALLERY_INDEX_MATCH",flush=True)
+                      break
+              except Exception as e:
+                  print("Pages pending",str(e),flush=True)
+              time.sleep(9)
+          else:raise AssertionError("Public gallery index is not updated")
+          checked=0
+          for record in report["records"]:
+              if record["status"]!="RIGHTS_VERIFIED_READY":continue
+              sid=record["species_id"];pid=record["photo_id"]
+              paths=list((root/"media"/sid).glob("inat-photo-"+str(pid)+".*"))
+              assert len(paths)==1,(sid,pid,paths)
+              rel=paths[0].relative_to(root).as_posix()
+              assert hashlib.sha256(fetch(rel)).digest()==hashlib.sha256(paths[0].read_bytes()).digest(),rel
+              card=json.loads(fetch("data/species/"+sid+".json"))
+              assert any(p.get("src")==rel and p.get("creator")==record["creator"] and p.get("license")==record["license"] for p in card["verified_photos"]),rel
+              checked+=1
+          assert checked==report["published_count"]
+          print("VITACEAE_PUBLIC_PHOTO_DELIVERY_PASS",json.dumps({"new_photos_visible_with_correct_credits":checked}))
+          PY
