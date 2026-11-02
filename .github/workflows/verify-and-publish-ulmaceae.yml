@@ -1,0 +1,59 @@
+name: Verify and publish Ulmaceae general photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-photo-manifests/ulmaceae-2026-11-02.json'
+      - 'scripts/verify_ulmaceae_photo_sources.py'
+      - '.github/workflows/verify-and-publish-ulmaceae.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: trees-shrubs-approved-photo-release
+  cancel-in-progress: false
+jobs:
+  photo-first:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Recheck individual elm photo licenses and original ZIP hashes
+        run: python3 scripts/verify_ulmaceae_photo_sources.py
+      - name: Install only source-verified credited photos
+        run: |
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/ulmaceae-verified" --site-root site --check
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/ulmaceae-verified" --site-root site
+          python3 scripts/verify_automatic_gallery.py --site-root site
+      - name: Commit image bytes and caption/attribution records
+        id: publish
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Install exact-photo rights-verified Ulmaceae general views"
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Trigger public Pages website build
+        if: steps.publish.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ulmaceae-original-photo-source-rights-review
+          path: ${{ runner.temp }}/ulmaceae-exact-photo-rights.json
+          if-no-files-found: warn
+          retention-days: 30
