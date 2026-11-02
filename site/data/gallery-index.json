@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 56,
-  "photo_count": 128,
+  "photo_species": 59,
+  "photo_count": 142,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -454,12 +454,12 @@
       "first_src": null
     },
     "planera-aquatica": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/planera-aquatica/inat-625448827.jpg"
     },
     "ulmus-alata": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/ulmus-alata/inat-408285343.jpeg"
     },
     "ulmus-americana": {
       "count": 1,
@@ -474,8 +474,8 @@
       "first_src": "media/ulmus-parvifolia/ulmus-parvifolia-bark.jpg"
     },
     "ulmus-rubra": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/ulmus-rubra/inat-131173740.jpeg"
     },
     "boehmeria-cylindrica": {
       "count": 5,

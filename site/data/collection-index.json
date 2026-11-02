@@ -1017,8 +1017,8 @@
       "genus": "Planera",
       "scientific_name": "Planera aquatica",
       "common_name": "Water elm",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ulmus-alata",
@@ -1026,8 +1026,8 @@
       "genus": "Ulmus",
       "scientific_name": "Ulmus alata",
       "common_name": "Winged elm",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ulmus-americana",
@@ -1062,8 +1062,8 @@
       "genus": "Ulmus",
       "scientific_name": "Ulmus rubra",
       "common_name": "Slippery elm",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "boehmeria-cylindrica",
