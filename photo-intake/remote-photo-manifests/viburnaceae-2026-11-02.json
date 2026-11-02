@@ -1,0 +1,66 @@
+{
+  "batch_id": "viburnaceae-2026-11-02",
+  "family": "Viburnaceae",
+  "source_zip": "Viburnaceae(1).zip",
+  "source_zip_sha256": "ac96d1c6b2466279f009b34f00a902d9f6fe15e532cb162ffffb44f9ca245c20",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Viburnaceae-2026-11-02.zip",
+  "notes": "Visual contact sheet reviewed; basic plant assignment looks credible for five Viburnum rufidulum photos. The separate Sambucus nigra-labelled West Texas herbarium image is withheld due to likely blue elderberry/infraspecific taxon concept conflict with existing European elder card.",
+  "photo_license_from_zip": "CC BY-NC 4.0",
+  "photo_records": [
+    {
+      "species_id": "viburnum-rufidulum",
+      "expected_scientific_name": "Viburnum rufidulum",
+      "photo_id": 624309776,
+      "observation_id": 342799151,
+      "sha256": "d0d133088a483492dc3b06bcceea0084ddf1f37b16df7f119ef7ba92e21c61f5",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624309776/original.jpg",
+      "source_page": "https://www.inaturalist.org/photos/624309776",
+      "credit_from_zip": "Meredith Lovelace",
+      "role": "Flower clusters and opposite foliage"
+    },
+    {
+      "species_id": "viburnum-rufidulum",
+      "expected_scientific_name": "Viburnum rufidulum",
+      "photo_id": 622229420,
+      "observation_id": 341762227,
+      "sha256": "36ee19307d5f793fd690e9ab608ec246e4d930872c91d2313974d23fa6191fa2",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/622229420/original.jpg",
+      "source_page": "https://www.inaturalist.org/photos/622229420",
+      "credit_from_zip": "Drew Starnes",
+      "role": "Whole shrub and seasonal foliage"
+    },
+    {
+      "species_id": "viburnum-rufidulum",
+      "expected_scientific_name": "Viburnum rufidulum",
+      "photo_id": 623932764,
+      "observation_id": 342603281,
+      "sha256": "64995070605c2cd88ab2b9fe8341e9d5de08d7124be4ac5d809a455018804a79",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623932764/original.jpg",
+      "source_page": "https://www.inaturalist.org/photos/623932764",
+      "credit_from_zip": "colleendieter",
+      "role": "Tall shrub growth habit"
+    },
+    {
+      "species_id": "viburnum-rufidulum",
+      "expected_scientific_name": "Viburnum rufidulum",
+      "photo_id": 624079645,
+      "observation_id": 342676662,
+      "sha256": "105c1a08e0aec1f2101c6a0c2fa2a1757dd2987e7286452e1eeb1262d42f751c",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/624079645/original.jpg",
+      "source_page": "https://www.inaturalist.org/photos/624079645",
+      "credit_from_zip": "Gary St.Clair",
+      "role": "White flower clusters and branches"
+    },
+    {
+      "species_id": "viburnum-rufidulum",
+      "expected_scientific_name": "Viburnum rufidulum",
+      "photo_id": 621457362,
+      "observation_id": 341381782,
+      "sha256": "0d1f355243495a0778a2582254911b96bb4487bf4c74b9f4ab91ac1a6f4872c5",
+      "photo_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/621457362/original.jpg",
+      "source_page": "https://www.inaturalist.org/photos/621457362",
+      "credit_from_zip": "sun gatto",
+      "role": "Flower cluster and green leaves"
+    }
+  ]
+}
