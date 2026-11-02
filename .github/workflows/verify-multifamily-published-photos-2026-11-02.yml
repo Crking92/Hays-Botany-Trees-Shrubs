@@ -4,6 +4,10 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/verify-multifamily-published-photos-2026-11-02.yml'
+      - 'site/media/**'
+      - 'site/data/species/**'
+      - 'site/data/gallery-index.json'
+      - 'site/data/collection-index.json'
   workflow_dispatch:
 permissions: {contents: read}
 jobs:
