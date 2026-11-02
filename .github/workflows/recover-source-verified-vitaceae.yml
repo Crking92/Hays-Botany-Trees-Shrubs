@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/recover-source-verified-vitaceae.yml'
+      - 'workflow/vitaceae-photo-first-candidate-audit-2026-11-02.json'
+      - 'scripts/process_vitaceae_archived_photo_candidates.py'
   workflow_dispatch:
 permissions:
   contents: write
