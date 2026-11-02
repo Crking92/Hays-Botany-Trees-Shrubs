@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 52,
-  "photo_count": 108,
+  "photo_species": 53,
+  "photo_count": 113,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -498,8 +498,8 @@
       "first_src": null
     },
     "viburnum-rufidulum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/viburnum-rufidulum/inat-621457362.jpg"
     },
     "ampelopsis-cordata": {
       "count": 1,
