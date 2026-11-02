@@ -24,7 +24,10 @@
       "license": "CC BY 2.0",
       "source_page": "https://commons.wikimedia.org/wiki/File:Parthenocissus_quinquefolia_-_whole_plant%2C_stem_(19063471491).jpg",
       "study_use": "Noncommercial visual learner",
-      "public_reuse": "Credit creator and photo source under Creative Commons license"
+      "public_reuse": "Credit creator and photo source under Creative Commons license",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_license_evidence": "Wikimedia Commons exact file page names NY State IPM Program at Cornell University and CC BY 2.0, including Flickr license review dated 2021-09-23; checked 2026-11-02. This confirms source-page licensing only, not byte identity of staged copy or independent taxon approval.",
+      "photo_publication_approval": "PENDING_EXACT_BYTES_TAXON_HUMAN_REVIEW"
     }
   ],
   "learner_visual_status": {
