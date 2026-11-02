@@ -13,5 +13,7 @@
   "verified_photos": [],
   "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
   "original_species_sha256": "b917e780bad5c01e2420396ba7a30a3055cf7c94466724fe3105043eb8d6abd4",
-  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
+  "source_record_sha256": "006541250fec623c595225dab907985503d89b274a15a3c7bf9db10b21a58592",
+  "source_sync_status": "AUTO_IMPORTED_SOURCE_RECORD_REVIEW_WELCOME"
 }
