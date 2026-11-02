@@ -50,3 +50,18 @@ The original *Parthenocissus quinquefolia* habit photograph on Wikimedia Commons
 5. Keep missing-photo requests in the shared master tracker. Do not scrape more generic Vitaceae until these image candidates and historic archives are reconciled.
 
 **Repo boundaries:** Future Vitaceae source work belongs in `Crking92/Hays-Botany-Trees-Shrubs` on `staging/original-source-transfer`. Legacy Hays-County-Botany is read-only. No public release, visibility change, auto-resumption or source photo deletion is authorized by this review.
+
+## Follow-on pixel-level archive review (same date)
+
+The following existing **actual image files** were opened from the assigned family's staged hold archive or published media paths. This corrects any earlier speculative assumption that these morphological structures were absent merely because captions were vague:
+
+- **Ampelopsis cordata:** Existing released Commons shot visually shows simple leaves and fruit at multiple ripeness stages. The archived source-record CC0 GBIF photo shows a clear, toothed, simple leaf, not a cut white-pith stem. Therefore the decisive white-pith photographic gap remains.
+- **Cissus trifoliata:** Public Texas `cissus-trifoliata-texas-node-3.jpg` shows a trifoliolate leaf with chunky leaflet margins alongside a reddish shoot. It does *not* clearly isolate the decisive unbranched tendril or measure a swollen node.
+- **Parthenocissus heptaphylla:** Archived exact-source photo `inat-82833009.jpg` shows an attached mature palmate compound leaf clearly; retain as foliar evidence after exact-image source and identity review. Do not recollect generic leaves for this species.
+- **Parthenocissus quinquefolia:** Cornell source image visually depicts a recognizable five-leaflet foliage and spreading habit, not flower anatomy, ripened fruit or adhesive disks. Wikimedia Commons independently labels this specific image CC BY 2.0.
+- **Vitis berlandieri:** Original `vitis-berlandieri-texas-second-view.jpg` illustrates climbing habit on a large tree, not diagnostic node hairs. Archived `vitis-berlandieri-leaf-underside.jpg` is a useful clear macro of visible blade tissue and sparse hairs (cultivated French reference, not a Hays County voucher), but source/rights review is still required before any newly published entry.
+- **Vitis cinerea:** Archived USDA `vitis-cinerea-usda-leaf.jpg` demonstrates the pale/gray-green lower leaf surface and node architecture; this does NOT resolve strict `V. cinerea` taxonomic identity or Hays target-range status.
+- **Vitis mustangensis:** **Correction** — the *currently published* `site/media/vitis-mustangensis/vitis-mustangensis-north-texas-leaves.jpg` already gives an excellent close view of the densely white-woolly leaf underside against the upper green leaf. Do **not** request another generic underside image unless a measured finer macro is demonstrably necessary. The master queue was updated accordingly.
+- **Vitis palmata:** Two archived USDA `vitis-palmata-usda-leaf.jpg` and `vitis-palmata-usda-plant.jpg` show entire deeply lobed leaves well. Neither alone documents diagnostic red-purple young branchlets, a near-glabrous leaf underside macro, or ripe fruit.
+
+**Status:** The actual images support improving a few existing photo roles now, and leaving a much narrower list of true missing structures. This was a spot inspection of 14 historical image files across the collection, **not** a claim that all 50 original photo records were opened or that every source license was revalidated.
