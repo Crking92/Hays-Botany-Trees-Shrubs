@@ -20,8 +20,9 @@
       "observation_id": 343362617,
       "sha256": "c04af07f0b111cb7bf4d52b517635c64fde26d2b07a772e3c03d28ed346696f8",
       "extension": "jpg",
-      "photographer": "cc-by-nc",
-      "caption": "Matt"
+      "photographer": "Matt",
+      "caption": "Water elm in wetland habitat",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "planera-aquatica",
@@ -29,8 +30,9 @@
       "observation_id": 343580364,
       "sha256": "54be3257fa4e2044d2912eb31e38ec87e689f155ea5272bf49636321ced28691",
       "extension": "jpg",
-      "photographer": "cc-by-nc",
-      "caption": "crcrogers"
+      "photographer": "crcrogers",
+      "caption": "Water elm trunk and bark",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "planera-aquatica",
@@ -38,8 +40,9 @@
       "observation_id": 345825973,
       "sha256": "4c1e793debaf737647bc7facd008944e695f30bfd70ba19fde8ff8a97a0003be",
       "extension": "jpg",
-      "photographer": "cc-by-nc",
-      "caption": "A. Rector"
+      "photographer": "A. Rector",
+      "caption": "Water elm foliage and developing fruits",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "planera-aquatica",
@@ -47,8 +50,9 @@
       "observation_id": 346616914,
       "sha256": "0dba0277b0847975f2e49be88138330c1d68e85d98615c70f018aa9bfe5db9ce",
       "extension": "jpg",
-      "photographer": "cc-by-nc",
-      "caption": "botanye"
+      "photographer": "botanye",
+      "caption": "Water elm leaves and fruits",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "planera-aquatica",
@@ -56,8 +60,9 @@
       "observation_id": 344736526,
       "sha256": "91c28f94bb518b54fd66fd9041dfd4e8e02e2e57f495d19a85f251837f61a17a",
       "extension": "jpg",
-      "photographer": "cc-by-nc",
-      "caption": "sawyer225"
+      "photographer": "sawyer225",
+      "caption": "Water elm wetland habit",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "ulmus-alata",
@@ -65,8 +70,9 @@
       "observation_id": 360902763,
       "sha256": "4c93113a9c0e6baee7d1243677d01b11c3b24f7869f38f3cf13163d49bc1d811",
       "extension": "jpg",
-      "photographer": "cc-by-nc",
-      "caption": "Cynthia Sechrest"
+      "photographer": "Cynthia Sechrest",
+      "caption": "Winged elm foliage and twigs",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "ulmus-alata",
@@ -74,8 +80,9 @@
       "observation_id": 229975621,
       "sha256": "4b61103068eac704161fa8510e3e790ce55439b153f1601692bb03020e074057",
       "extension": "jpeg",
-      "photographer": "cc-by-nc",
-      "caption": "pinkelephant13"
+      "photographer": "pinkelephant13",
+      "caption": "Winged elm foliage",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "ulmus-alata",
@@ -83,8 +90,9 @@
       "observation_id": 230972106,
       "sha256": "5570e9d19452a811eb2f0625845d621edb8e07a939d2f2fc06c48600302630f4",
       "extension": "jpeg",
-      "photographer": "cc-by-nc",
-      "caption": "Cynthia Sechrest"
+      "photographer": "Cynthia Sechrest",
+      "caption": "Winged elm leaves and twigs",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "ulmus-alata",
@@ -92,8 +100,9 @@
       "observation_id": 356840287,
       "sha256": "b2c63bd1d4f5240ef79843e799eac892e763aaea0f098c2c0142036d8fd3fa82",
       "extension": "jpg",
-      "photographer": "cc-by-nc",
-      "caption": "milliejohnson"
+      "photographer": "milliejohnson",
+      "caption": "Winged elm woody habit and bark",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "ulmus-rubra",
@@ -101,8 +110,9 @@
       "observation_id": 125239656,
       "sha256": "6060b60247ff5fc21f732021ffb744a312e1023a450cad10aef7f2acb9cd8b15",
       "extension": "jpg",
-      "photographer": "cc-by",
-      "caption": "Cody Stricker"
+      "photographer": "Cody Stricker",
+      "caption": "Slippery elm leaves",
+      "license_code": "cc-by"
     },
     {
       "species_id": "ulmus-rubra",
@@ -110,8 +120,9 @@
       "observation_id": 114297126,
       "sha256": "8cd1eaea30ec4395a4d5e8293af441ae87525523a4dbb52bb89a0674ef320681",
       "extension": "jpg",
-      "photographer": "cc0",
-      "caption": "lanechaffin"
+      "photographer": "lanechaffin",
+      "caption": "Slippery elm foliage and growth",
+      "license_code": "cc0"
     },
     {
       "species_id": "ulmus-rubra",
@@ -119,8 +130,9 @@
       "observation_id": 80055002,
       "sha256": "937bd7f96b1ce4f11d828bbf7d5de41ddad196378104397acf3319e5301de11b",
       "extension": "jpeg",
-      "photographer": "cc-by-nc",
-      "caption": "Andy Blair"
+      "photographer": "Andy Blair",
+      "caption": "Slippery elm foliage",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "ulmus-rubra",
@@ -128,8 +140,9 @@
       "observation_id": 43216874,
       "sha256": "93d3c7a5bef844fd12a385a3c064af0ebf26a3638a8ad2b724811d68cab264a0",
       "extension": "jpeg",
-      "photographer": "cc-by-nc",
-      "caption": "Kenneth Bader"
+      "photographer": "Kenneth Bader",
+      "caption": "Slippery elm leaves and branches",
+      "license_code": "cc-by-nc"
     },
     {
       "species_id": "ulmus-rubra",
@@ -137,8 +150,9 @@
       "observation_id": 44066525,
       "sha256": "63c97ba20ec5c706c99fc3e7a8c4890e277c0e8e92cf77a30332d023a6d7ac0f",
       "extension": "jpg",
-      "photographer": "cc-by-nc",
-      "caption": "183rdTonkawa Tonkawa"
+      "photographer": "183rdTonkawa Tonkawa",
+      "caption": "Slippery elm growing habit and foliage",
+      "license_code": "cc-by-nc"
     }
   ]
 }
