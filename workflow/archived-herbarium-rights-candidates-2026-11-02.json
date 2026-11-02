@@ -1,0 +1,17 @@
+{
+  "repo": "Crking92/Hays-Botany-Trees-Shrubs",
+  "source_photos_historically_held": 1,
+  "candidates": [
+    {
+      "species_id": "ulmus-alata",
+      "gbif_id": 2807453492,
+      "sha256": "3e372ae7d969477409b78c071a5d0ae014c24cf0604255dd20958531183813cf",
+      "source_url": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp6177931056037152912.att.jpg",
+      "license": "CC BY 4.0",
+      "creator": "The University of Texas at Austin",
+      "role": "Pressed winged elm branch with leaves and winged corky twigs",
+      "original_zip": "Ulmaceae-2026-11-02.zip"
+    }
+  ],
+  "review": "Contact sheet of original ZIP photos visually checked Nov 2 2026 for basic specimen plausibility; rights not yet approved, live GBIF occurrence media, license and exact original SHA must match before publication."
+}
