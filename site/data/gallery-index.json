@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 84,
-  "photo_count": 274,
+  "photo_species": 85,
+  "photo_count": 280,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -350,7 +350,7 @@
       "first_src": "media/prunus-rivularis/prunus-rivularis-provisional-face.jpg"
     },
     "prunus-serotina": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/prunus-serotina/inat-631453159.jpg"
     },
     "pyrus-calleryana": {
@@ -378,8 +378,8 @@
       "first_src": "media/thamnosma-texana/inat-621755404.jpg"
     },
     "zanthoxylum-clava-herculis-subsp-fruticosum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/zanthoxylum-clava-herculis-subsp-fruticosum/inat-622589747.jpg"
     },
     "phoradendron-leucarpum": {
       "count": 5,
