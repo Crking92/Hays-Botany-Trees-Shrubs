@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 69,
-  "photo_count": 190,
+  "photo_species": 71,
+  "photo_count": 203,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -510,15 +510,15 @@
       "first_src": "media/cissus-trifoliata/cissus-trifoliata-provisional-face.jpg"
     },
     "nekemias-arborea": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/nekemias-arborea/inat-photo-716973706.jpg"
     },
     "parthenocissus-heptaphylla": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/parthenocissus-heptaphylla/inat-photo-156748081.jpeg"
     },
     "parthenocissus-quinquefolia": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/parthenocissus-quinquefolia/commons-parthenocissus-quinquefolia.jpg"
     },
     "vitis-berlandieri": {

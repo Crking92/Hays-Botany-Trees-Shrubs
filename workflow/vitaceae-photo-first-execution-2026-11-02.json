@@ -1,0 +1,136 @@
+{
+  "batch_id": "vitaceae-held-zips-reviewed-2026-11-02",
+  "verified_at": "2026-11-02T20:54:03.610612+00:00",
+  "source_images": 33,
+  "source_file_hashes_distinct": 33,
+  "candidate_total": 13,
+  "not_selected_after_contact_review": 20,
+  "ready_count": 13,
+  "published_count": 13,
+  "already_published_count": 0,
+  "held_candidate_count": 0,
+  "records": [
+    {
+      "species_id": "nekemias-arborea",
+      "photo_id": 716973706,
+      "source_page": "https://www.inaturalist.org/photos/716973706",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Linda Jo Conn",
+      "sha256": "9a84328ddf533e8128d76e9a04b622a381443fa78c3619488b120d414ae642cf"
+    },
+    {
+      "species_id": "nekemias-arborea",
+      "photo_id": 720460847,
+      "source_page": "https://www.inaturalist.org/photos/720460847",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Linda Jo Conn",
+      "sha256": "cd561d68a6845ff37030171f42d9b7e04f35cc54e8aad24a0f4e758f74ef0543"
+    },
+    {
+      "species_id": "nekemias-arborea",
+      "photo_id": 724273064,
+      "source_page": "https://www.inaturalist.org/photos/724273064",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "sha256": "03420eb218bc8de3101ff8702018008186dca4fd01d861a0e3d32a5c4adbd2ba"
+    },
+    {
+      "species_id": "nekemias-arborea",
+      "photo_id": 739046379,
+      "source_page": "https://www.inaturalist.org/photos/739046379",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Linda Jo Conn",
+      "sha256": "06aaccb9cc96e5a95299ed91db99edd8e31b00bb91e97634bdcfc6bc96cb567f"
+    },
+    {
+      "species_id": "nekemias-arborea",
+      "photo_id": 753121004,
+      "source_page": "https://www.inaturalist.org/photos/753121004",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Linda Jo Conn",
+      "sha256": "245edc2420ef2a467cd5f1baa1becf4fe5c28d5e946cbf856f8715eca12d4165"
+    },
+    {
+      "species_id": "parthenocissus-heptaphylla",
+      "photo_id": 156748081,
+      "source_page": "https://www.inaturalist.org/photos/156748081",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Jo Roberts",
+      "sha256": "64d7b9e2196829f6b807cd39a7ff2be23cd4caec3869f4c1498e20cffaa961e4"
+    },
+    {
+      "species_id": "parthenocissus-heptaphylla",
+      "photo_id": 656078246,
+      "source_page": "https://www.inaturalist.org/photos/656078246",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Jo Roberts",
+      "sha256": "d0944c05adbc8723afbe6080bf65903ca937d968a68e6ba57a8b90d0f5baf014"
+    },
+    {
+      "species_id": "parthenocissus-heptaphylla",
+      "photo_id": 722465127,
+      "source_page": "https://www.inaturalist.org/photos/722465127",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "sha256": "9a3ab28f8a1e635d27c13d2be6853eceefec5fccd1a365f921ea88d25e866449"
+    },
+    {
+      "species_id": "parthenocissus-heptaphylla",
+      "photo_id": 756421698,
+      "source_page": "https://www.inaturalist.org/photos/756421698",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Chris Hughes",
+      "sha256": "a8a307bf2de67f5abbc72a9b0994a6295bd854d4a860a9965145a4a4f1622936"
+    },
+    {
+      "species_id": "parthenocissus-quinquefolia",
+      "photo_id": 296131856,
+      "source_page": "https://www.inaturalist.org/photos/296131856",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Steve Young",
+      "sha256": "e3cfbe6b520202aa75a68f1fd7d1b2b010dff0b7bf4ce10f601172a6c2b62fbe"
+    },
+    {
+      "species_id": "parthenocissus-quinquefolia",
+      "photo_id": 520982231,
+      "source_page": "https://www.inaturalist.org/photos/520982231",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "jonsense",
+      "sha256": "0ac5882ded31d43eb321dc0289ab6aa00475972c7e51135a4732cae71ecaa91b"
+    },
+    {
+      "species_id": "parthenocissus-quinquefolia",
+      "photo_id": 678834341,
+      "source_page": "https://www.inaturalist.org/photos/678834341",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "sha256": "ec78a403e1ddcbf6057ec46fc9d967a474ce0e6e2ab6671426294865d39e63d6"
+    },
+    {
+      "species_id": "parthenocissus-quinquefolia",
+      "photo_id": 743154330,
+      "source_page": "https://www.inaturalist.org/photos/743154330",
+      "status": "RIGHTS_VERIFIED_READY",
+      "license": "CC BY 4.0",
+      "creator": "Cody Stricker",
+      "sha256": "1b72ed1ec40a464a15f591025fc93a6543ec388ae0ee45eb3ba5fe0c6b06e9ab"
+    }
+  ],
+  "gallery_after": {
+    "photo_count": 203,
+    "photo_species": 71
+  },
+  "eligible_unpublished_count": 0
+}
