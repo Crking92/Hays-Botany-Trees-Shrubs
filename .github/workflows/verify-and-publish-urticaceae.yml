@@ -1,0 +1,60 @@
+name: Verify and publish Urticaceae general photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-photo-manifests/urticaceae-2026-11-02.json'
+      - 'scripts/verify_urticaceae_photo_sources.py'
+      - '.github/workflows/verify-and-publish-urticaceae.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: trees-shrubs-approved-photo-release
+  cancel-in-progress: false
+jobs:
+  photo-first:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify exact-photo iNaturalist source rights and original ZIP hashes
+        run: python3 scripts/verify_urticaceae_photo_sources.py
+      - name: Install only verified photos into existing species galleries
+        run: |
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/urticaceae-verified" --site-root site --check
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/urticaceae-verified" --site-root site
+          python3 scripts/verify_automatic_gallery.py --site-root site
+      - name: Commit credited original image bytes and gallery records
+        id: publish
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media/ site/data/species/ site/data/gallery-index.json site/data/collection-index.json
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+            echo "No photos qualified in this pass"
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Publish rights-verified Urticaceae general photo ZIP batch"
+          git push origin HEAD:main
+          echo "published=true" >> "$GITHUB_OUTPUT"
+      - name: Trigger GitHub Pages rebuild for bot-published photos
+        if: steps.publish.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: urticaceae-individual-photo-credits-and-rights-review
+          path: ${{ runner.temp }}/urticaceae-source-rights-report.json
+          if-no-files-found: warn
+          retention-days: 30

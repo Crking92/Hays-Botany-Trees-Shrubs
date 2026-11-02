@@ -1,0 +1,145 @@
+{
+  "family": "Urticaceae",
+  "uploaded_zip": "Urticaceae.zip",
+  "source_zip_sha256": "b97da9be98db97b1f32ef13552d93e6f07561c4506e1355f444ae55e484bb14b",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Urticaceae-2026-11-02.zip",
+  "initial_license_from_photo_metadata": "CC BY-NC 4.0",
+  "initial_integrity": "15/15 original ZIP image bytes matched metadata SHA256; 15 unique iNaturalist photo IDs, contact sheet reviewed for basic species plausibility; specialist anatomical determination deferred",
+  "photos": [
+    {
+      "species_id": "boehmeria-cylindrica",
+      "photo_id": 630640133,
+      "observation_id": 346002288,
+      "sha256": "34a58dd71a1d03a132c4d05442b153677600bc48679381fdc2ae28ead3e151d2",
+      "photographer_from_zip": "S.",
+      "source_page": "https://www.inaturalist.org/photos/630640133",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630640133/original.jpg"
+    },
+    {
+      "species_id": "boehmeria-cylindrica",
+      "photo_id": 645126585,
+      "observation_id": 353587092,
+      "sha256": "f6697f2d02ce1212136248af69de496db22424d47f98e7dd770c205f5a821092",
+      "photographer_from_zip": "Charles Franks",
+      "source_page": "https://www.inaturalist.org/photos/645126585",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645126585/original.jpg"
+    },
+    {
+      "species_id": "boehmeria-cylindrica",
+      "photo_id": 644269777,
+      "observation_id": 353070712,
+      "sha256": "16d6fbd9a74047ef7cbb669d4ad2f68825bfb1a51949e4894043cb9002ca3344",
+      "photographer_from_zip": "kathybf",
+      "source_page": "https://www.inaturalist.org/photos/644269777",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/644269777/original.jpg"
+    },
+    {
+      "species_id": "boehmeria-cylindrica",
+      "photo_id": 478476124,
+      "observation_id": 266285273,
+      "sha256": "f963f98cf7c8ccb64925726a7d1dfeeb682a4b162032dc531bcd9ce090f37331",
+      "photographer_from_zip": "Mikayla M.",
+      "source_page": "https://www.inaturalist.org/photos/478476124",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478476124/original.jpg"
+    },
+    {
+      "species_id": "boehmeria-cylindrica",
+      "photo_id": 485571344,
+      "observation_id": 270027680,
+      "sha256": "8e99199c5ba269c7e6862cc13d5f9044977b5a2ae3b6e042f9d55223bd0e37f7",
+      "photographer_from_zip": "mferguson98",
+      "source_page": "https://www.inaturalist.org/photos/485571344",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/485571344/original.jpg"
+    },
+    {
+      "species_id": "parietaria-pensylvanica",
+      "photo_id": 620423519,
+      "observation_id": 340885619,
+      "sha256": "f0c13d7479166bd131872f85fb94c2e8c9951c9670b53659ed32ee1c91595d77",
+      "photographer_from_zip": "hannahstru",
+      "source_page": "https://www.inaturalist.org/photos/620423519",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/620423519/original.jpg"
+    },
+    {
+      "species_id": "parietaria-pensylvanica",
+      "photo_id": 623451558,
+      "observation_id": 342365635,
+      "sha256": "e56383b3ea639f1724204d04d709ef86f4ec2d97cd94dd80053700dac356f602",
+      "photographer_from_zip": "Avery Huff",
+      "source_page": "https://www.inaturalist.org/photos/623451558",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623451558/original.jpg"
+    },
+    {
+      "species_id": "parietaria-pensylvanica",
+      "photo_id": 623458148,
+      "observation_id": 342368442,
+      "sha256": "6451c7874ec66acf978163c7039fbe6404683bd082c87523fe4325a8a84a692d",
+      "photographer_from_zip": "Ryleigh Minshew",
+      "source_page": "https://www.inaturalist.org/photos/623458148",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/623458148/original.jpg"
+    },
+    {
+      "species_id": "parietaria-pensylvanica",
+      "photo_id": 625180122,
+      "observation_id": 343229797,
+      "sha256": "bf18152367e38eb29d0eaf75f39755d11d35e94f03ee11b186d6a64c3a5bc96b",
+      "photographer_from_zip": "ahirs01",
+      "source_page": "https://www.inaturalist.org/photos/625180122",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/625180122/original.jpg"
+    },
+    {
+      "species_id": "parietaria-pensylvanica",
+      "photo_id": 630014001,
+      "observation_id": 345681321,
+      "sha256": "6ea2f23abe3fc480d92ecf3524847f44e186f01d653e951018c68b7235ec7da4",
+      "photographer_from_zip": "janetcidjieu06",
+      "source_page": "https://www.inaturalist.org/photos/630014001",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/630014001/original.jpg"
+    },
+    {
+      "species_id": "urtica-chamaedryoides",
+      "photo_id": 629347604,
+      "observation_id": 345344259,
+      "sha256": "9668dd40dcaf2dc7b071922c7213dd8abcae3dd942b64d97d6a698ff2be12718",
+      "photographer_from_zip": "Gary St.Clair",
+      "source_page": "https://www.inaturalist.org/photos/629347604",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/629347604/original.jpg"
+    },
+    {
+      "species_id": "urtica-chamaedryoides",
+      "photo_id": 626086060,
+      "observation_id": 343673757,
+      "sha256": "5f6b8b64de6a2ea9629560c212347d453e7671c008474992d234b5f3d8de2ef0",
+      "photographer_from_zip": "Chelsea Levin",
+      "source_page": "https://www.inaturalist.org/photos/626086060",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626086060/original.jpg"
+    },
+    {
+      "species_id": "urtica-chamaedryoides",
+      "photo_id": 639315492,
+      "observation_id": 350395745,
+      "sha256": "395bfd638214b70b7e3c569bf540720a5c6d6a751fcb303d76934b5e70d28335",
+      "photographer_from_zip": "George Afghan",
+      "source_page": "https://www.inaturalist.org/photos/639315492",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/639315492/original.jpg"
+    },
+    {
+      "species_id": "urtica-chamaedryoides",
+      "photo_id": 637721873,
+      "observation_id": 349578256,
+      "sha256": "d2d9cd73665053f218fa753d866a6c75a21e6c91cfe1ed9de81f16b5978aa2ff",
+      "photographer_from_zip": "wmirshell",
+      "source_page": "https://www.inaturalist.org/photos/637721873",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/637721873/original.jpg"
+    },
+    {
+      "species_id": "urtica-chamaedryoides",
+      "photo_id": 640381230,
+      "observation_id": 350947663,
+      "sha256": "2edc440753b2e11498dabea62443bc9622f3790cf6ea85eaccf78520ed8f9fcf",
+      "photographer_from_zip": "Keith Riggle",
+      "source_page": "https://www.inaturalist.org/photos/640381230",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/640381230/original.jpg"
+    }
+  ]
+}
