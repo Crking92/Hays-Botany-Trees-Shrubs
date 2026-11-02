@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 51,
-  "photo_count": 107,
+  "photo_species": 52,
+  "photo_count": 108,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -518,8 +518,8 @@
       "first_src": null
     },
     "parthenocissus-quinquefolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/parthenocissus-quinquefolia/commons-parthenocissus-quinquefolia.jpg"
     },
     "vitis-berlandieri": {
       "count": 1,

@@ -10,8 +10,24 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/parthenocissus-quinquefolia/commons-parthenocissus-quinquefolia.jpg",
+      "creator": "NY State IPM Program at Cornell University",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parthenocissus_quinquefolia_-_whole_plant%2C_stem_(19063471491).jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "ae4a244f5f4d5a4cd75b76e15b15094771990a34",
+      "role": "General climbing-vine habit and compound foliage; adhesive tendril pads and fruit not shown clearly",
+      "modified": "Archived copy of original source photograph; no additional alterations in this release",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Wikimedia Commons exact file page identifies Virginia creeper, names Cornell creator and confirms CC BY 2.0 (Flickr license check 2021-09-23); reviewed again 2026-11-02. User authorized release of eligible general plant photos in chat 2026-11-02. Existing archived photo blob reused without recoding.",
+      "photo_approved_by": "Calvin King (repository owner, general-photo publication instruction 2026-11-02)"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5cfebae50121a9a9f9dd7d852ca36843f6de1712f81f90e6945684df11154cbd",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch",
   "source_record_sha256": "0942ad2ae993be234c9bd680ad4cad3b6aadaf6bfbb26cd59d59d081ca4b24c0",
