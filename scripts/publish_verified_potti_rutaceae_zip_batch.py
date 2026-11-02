@@ -20,6 +20,12 @@ SYNONYMS={
  "capsicum-annuum-var-aviculare":{"capsicum annuum var. glabriusculum"},
  "buddleja-racemosa":{"buddleja sessiliflora"},
  "talinum-aurantiacum":{"phemeranthus aurantiacus"},
+ # Kew POWO: Zanthoxylum hirsutum = Z. clava-herculis subsp. fruticosum
+ # https://powo.science.kew.org/taxon/775771-1
+ "zanthoxylum-clava-herculis-subsp-fruticosum":{"zanthoxylum hirsutum"},
+ # iNaturalist's Prunus serotina eximia is an infraspecific member of P. serotina
+ # https://powo.science.kew.org/taxon/210894-2
+ "prunus-serotina":{"prunus serotina eximia"},
 }
 def grab(url,maxsize):
     req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyEducationalPhotoFirst/1.0 (original-media license verification)"})
