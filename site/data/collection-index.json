@@ -855,8 +855,8 @@
       "genus": "Phoradendron",
       "scientific_name": "Phoradendron leucarpum",
       "common_name": "American mistletoe",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "acer-grandidentatum",
@@ -873,8 +873,8 @@
       "genus": "Acer",
       "scientific_name": "Acer negundo",
       "common_name": "Boxelder / box elder maple",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "acer-palmatum",
@@ -927,8 +927,8 @@
       "genus": "Koelreuteria",
       "scientific_name": "Koelreuteria paniculata",
       "common_name": "Goldenrain tree",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sapindus-drummondii",
@@ -945,8 +945,8 @@
       "genus": "Ungnadia",
       "scientific_name": "Ungnadia speciosa",
       "common_name": "Mexican buckeye",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sideroxylon-lanuginosum",
@@ -963,8 +963,8 @@
       "genus": "Ailanthus",
       "scientific_name": "Ailanthus altissima",
       "common_name": "Tree-of-heaven",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "halesia-diptera",
@@ -972,8 +972,8 @@
       "genus": "Halesia",
       "scientific_name": "Halesia diptera",
       "common_name": "Two-wing silverbell",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "styrax-platanifolius",
@@ -981,8 +981,8 @@
       "genus": "Styrax",
       "scientific_name": "Styrax platanifolius",
       "common_name": "Sycamoreleaf snowbell",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "symplocos-tinctoria",
@@ -990,8 +990,8 @@
       "genus": "Symplocos",
       "scientific_name": "Symplocos tinctoria",
       "common_name": "Horsesugar",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tamarix-aphylla",
@@ -999,8 +999,8 @@
       "genus": "Tamarix",
       "scientific_name": "Tamarix aphylla",
       "common_name": "Athel tamarisk",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tamarix-ramosissima",
@@ -1008,8 +1008,8 @@
       "genus": "Tamarix",
       "scientific_name": "Tamarix ramosissima",
       "common_name": "Saltcedar (introduced/invasive comparison)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "planera-aquatica",

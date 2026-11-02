@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 59,
-  "photo_count": 142,
+  "photo_species": 69,
+  "photo_count": 190,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -382,16 +382,16 @@
       "first_src": null
     },
     "phoradendron-leucarpum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/phoradendron-leucarpum/inat-624350643.jpg"
     },
     "acer-grandidentatum": {
       "count": 1,
       "first_src": "media/acer-grandidentatum/acer-grandidentatum-leaf.jpg"
     },
     "acer-negundo": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/acer-negundo/inat-620589428.jpg"
     },
     "acer-palmatum": {
       "count": 1,
@@ -414,44 +414,44 @@
       "first_src": "media/cardiospermum-halicacabum/cardiospermum-halicacabum-habit-fruit-commons.jpg"
     },
     "koelreuteria-paniculata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/koelreuteria-paniculata/inat-357513921.jpeg"
     },
     "sapindus-drummondii": {
       "count": 2,
       "first_src": "media/sapindus-drummondii/glass-root-garden-566017234-fruit.jpg"
     },
     "ungnadia-speciosa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/ungnadia-speciosa/inat-621874173.jpg"
     },
     "sideroxylon-lanuginosum": {
       "count": 3,
       "first_src": "media/sideroxylon-lanuginosum/sideroxylon-lanuginosum-provisional-face.jpg"
     },
     "ailanthus-altissima": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/ailanthus-altissima/inat-626099693.jpg"
     },
     "halesia-diptera": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/halesia-diptera/inat-622213057.jpg"
     },
     "styrax-platanifolius": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/styrax-platanifolius/inat-16235640.jpg"
     },
     "symplocos-tinctoria": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/symplocos-tinctoria/inat-628034120.jpg"
     },
     "tamarix-aphylla": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/tamarix-aphylla/inat-284295297.jpg"
     },
     "tamarix-ramosissima": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/tamarix-ramosissima/inat-270130404.jpg"
     },
     "planera-aquatica": {
       "count": 5,
