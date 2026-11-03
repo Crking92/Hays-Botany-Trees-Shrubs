@@ -1,0 +1,28 @@
+{
+  "batch_id": "t-zip-2026-11-03",
+  "zip_sha256": "68d7104b7823196988861d592a49360e16b273b32d6ed4f41a72d5720093548c",
+  "library_backup": "NONE__OWNER_KEEP_ORIGINAL_IN_LAPTOP_ARCHIVED_FOLDER",
+  "sha256_checked_original_images": 10,
+  "exact_internal_duplicates": 0,
+  "original_images": 10,
+  "photos_for_live_source_recheck": 10,
+  "source_rights_holds": 0,
+  "species": [
+    "camphora-officinarum",
+    "lindera-benzoin"
+  ],
+  "records_base64": "ACX6cIcU0eHybdycpJ3cVJkYjnWm5iLVD0PvU+QjgSnvjfwhPdmsBFgAACaRq/oVJNKYKkWFTJRjRlvM+gUMTuJrVNZtJzOsVG9utaOsnwrn4icAAB2sHTYQhkpqnB40QiT/n8IWKp+nhMrpxcamZg3bBgRI43ucFoyaiOoAAB17GkYQZ5a6jEA3CxRuF/6vsAx9Kn68damTmXmvCpQspOuGurlfFVgAAChb0boWF2hlcCGtFQQXk5shC5ljKiUTAAiOlQeNreJivOaHNCm4gHQAASamT1MVMXnWK6yXpS4AbzAr8bNGZnMyZkLgXOqrO+TmdOuQIBNRql8AASZ9nk8VGPGVDE+8MD8ZD5YqqLHRvmojqkCZjjE85O9sqlrspoailpMAARaMc3oMwiCxY3Zg4mxhAdQtzmLNy9MtiyyzoEqUNhORrOy/ncgXIoMAARbX/+kM6nD54k3mdWjF+V2p1AFZY7XocdPGf/bL7AtGPRDdRp60wpUAAQvXDcYHApOy/rtFnaylvYzTWRW2DwnVjiIYU0i8FxF9KMnYdEWfW3AA",
+  "source_metadata_credits": {
+    "198643142": "eandson",
+    "378303354": "shagbark4507",
+    "383254505": "keriamg",
+    "494606918": "Jaime González",
+    "497818934": "pinkspoonbill",
+    "637169799": "Tamara",
+    "645766735": "jamesaustinhall",
+    "647080954": "sashiequeen",
+    "648433491": "PeaceBwU",
+    "677106106": "suzbird"
+  },
+  "offline_held_media": []
+}
