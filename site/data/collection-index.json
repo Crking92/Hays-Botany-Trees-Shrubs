@@ -216,8 +216,8 @@
       "genus": "Symphoricarpos",
       "scientific_name": "Symphoricarpos albus",
       "common_name": "Common snowberry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "symphoricarpos-orbiculatus",
@@ -225,8 +225,8 @@
       "genus": "Symphoricarpos",
       "scientific_name": "Symphoricarpos orbiculatus",
       "common_name": "Coralberry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "valeriana-amarella",
@@ -594,7 +594,7 @@
       "genus": "Magnolia",
       "scientific_name": "Magnolia grandiflora",
       "common_name": "Southern magnolia",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -621,7 +621,7 @@
       "genus": "Morus",
       "scientific_name": "Morus alba",
       "common_name": "White mulberry (introduced)",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -828,7 +828,7 @@
       "genus": "Ptelea",
       "scientific_name": "Ptelea trifoliata",
       "common_name": "Common hoptree / wafer ash",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1008,7 +1008,7 @@
       "genus": "Tamarix",
       "scientific_name": "Tamarix ramosissima",
       "common_name": "Saltcedar (introduced/invasive comparison)",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1017,7 +1017,7 @@
       "genus": "Planera",
       "scientific_name": "Planera aquatica",
       "common_name": "Water elm",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

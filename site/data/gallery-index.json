@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 116,
-  "photo_count": 412,
+  "photo_species": 118,
+  "photo_count": 419,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -98,12 +98,12 @@
       "first_src": "media/lonicera-sempervirens/01-coral-honeysuckle-flower-and-vine.jpg"
     },
     "symphoricarpos-albus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/symphoricarpos-albus/archived-7bd86db54899788d.jpg"
     },
     "symphoricarpos-orbiculatus": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/symphoricarpos-orbiculatus/archived-ce279516dfe195dc.jpg"
     },
     "valeriana-amarella": {
       "count": 0,
@@ -266,7 +266,7 @@
       "first_src": "media/lindera-benzoin/inat-198643142.jpg"
     },
     "magnolia-grandiflora": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/magnolia-grandiflora/inat-170805704.jpg"
     },
     "melia-azedarach": {
@@ -278,7 +278,7 @@
       "first_src": "media/maclura-pomifera/osage-orange-leaves.jpg"
     },
     "morus-alba": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/morus-alba/inat-638839964.jpg"
     },
     "morus-microphylla": {
@@ -370,7 +370,7 @@
       "first_src": "media/spiraea-thunbergii/inat-339406206.jpg"
     },
     "ptelea-trifoliata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/ptelea-trifoliata/inat-621937776.jpg"
     },
     "thamnosma-texana": {
@@ -450,11 +450,11 @@
       "first_src": "media/tamarix-aphylla/inat-284295297.jpg"
     },
     "tamarix-ramosissima": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/tamarix-ramosissima/inat-270130404.jpg"
     },
     "planera-aquatica": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/planera-aquatica/inat-625448827.jpg"
     },
     "ulmus-alata": {

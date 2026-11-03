@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/symphoricarpos-orbiculatus/archived-ce279516dfe195dc.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Symphoricarpos_orbiculatus_0zz.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "36924eeeb578b077f2e589242f377e2b901b0f8f",
+      "role": "Provisional coralberry shrub recognition view from Maryland plant",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Symphoricarpos_orbiculatus_0zz.jpg; original individual photographer David J. Stang; archived specific reuse license CC BY-SA 4.0; preserved photo byte SHA checked against original transfer manifest 36924eeeb578b077f2e589242f377e2b901b0f8f; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 36924eeeb578b077f2e589242f377e2b901b0f8f; exact image source https://commons.wikimedia.org/wiki/File:Symphoricarpos_orbiculatus_0zz.jpg",
+      "taxon_review_evidence": "Original species record Symphoricarpos orbiculatus linked to an original image and matching current commons photo of source taxon Symphoricarpos orbiculatus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "ce279516dfe195dcf07a3adc8679d89b08ba0267392c00badcc6e83fa4594b43"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d914f0cf8cc60d08dc14f7ef40efa12011fa44fb3076b769828d8bb2824f4734",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
