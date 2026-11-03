@@ -603,8 +603,8 @@
       "genus": "Melia",
       "scientific_name": "Melia azedarach",
       "common_name": "Chinaberry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "maclura-pomifera",
@@ -612,7 +612,7 @@
       "genus": "Maclura",
       "scientific_name": "Maclura pomifera",
       "common_name": "Osage orange / Bois d'arc / Bodark / Hedge apple",
-      "photo_count": 4,
+      "photo_count": 9,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -621,8 +621,8 @@
       "genus": "Morus",
       "scientific_name": "Morus alba",
       "common_name": "White mulberry (introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "morus-microphylla",
@@ -630,8 +630,8 @@
       "genus": "Morus",
       "scientific_name": "Morus microphylla",
       "common_name": "Texas mulberry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "morus-rubra",
@@ -639,8 +639,8 @@
       "genus": "Morus",
       "scientific_name": "Morus rubra",
       "common_name": "Red mulberry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "platanus-occidentalis",

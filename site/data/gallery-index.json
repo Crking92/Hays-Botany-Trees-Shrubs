@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 106,
-  "photo_count": 367,
+  "photo_species": 110,
+  "photo_count": 392,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -270,24 +270,24 @@
       "first_src": null
     },
     "melia-azedarach": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/melia-azedarach/inat-620350409.jpg"
     },
     "maclura-pomifera": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/maclura-pomifera/osage-orange-leaves.jpg"
     },
     "morus-alba": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/morus-alba/inat-638839964.jpg"
     },
     "morus-microphylla": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/morus-microphylla/inat-495172410.jpg"
     },
     "morus-rubra": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/morus-rubra/inat-262262956.jpg"
     },
     "platanus-occidentalis": {
       "count": 8,
