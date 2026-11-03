@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 114,
-  "photo_count": 398,
+  "photo_species": 115,
+  "photo_count": 402,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -266,8 +266,8 @@
       "first_src": null
     },
     "magnolia-grandiflora": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/magnolia-grandiflora/inat-170805704.jpg"
     },
     "melia-azedarach": {
       "count": 5,
