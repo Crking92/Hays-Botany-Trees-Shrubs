@@ -153,6 +153,25 @@
       "source_review_evidence": "GBIF occurrence 6130078202 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/609793760/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator Becky Dill; dHash distance 0; archived source SHA 9fbaf52ab9d05987eb9ded84a1140c930836ce1b; exact image source https://www.inaturalist.org/photos/609793760",
       "taxon_review_evidence": "Original species record Ulmus alata linked to an original image and matching current gbif photo of source taxon Ulmus alata. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "d0c799ee383eeb95bb9a3acb99b364d3877a69db0824dcf807f0e512cdcacb07"
+    },
+    {
+      "src": "media/ulmus-alata/archived-aa2f313cac6358c9.jpg",
+      "creator": "Ronnie Nijboer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_alata_071007c.jpg",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "a66a19bac982f88068a52b215cf398a5ebd19a21",
+      "role": "pointed leaves: species foliage view; node and samara still needed",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Wikimedia exact file page author and CC0 1.0 with Wikimedia VRT confirmation ticket 2011072510013852 independently checked 2026-11-03; direct original file https://upload.wikimedia.org/wikipedia/commons/4/4d/Ulmus_alata_071007c.jpg; archived original pixel difference 0; archived source SHA a66a19bac982f88068a52b215cf398a5ebd19a21; exact image source https://commons.wikimedia.org/wiki/File:Ulmus_alata_071007c.jpg",
+      "taxon_review_evidence": "Original species record Ulmus alata linked to an original image and matching current commons photo of source taxon Ulmus alata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "aa2f313cac6358c994d0f19faf8d3b85c31ed22e9922b68435568d103b1ae8e7"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

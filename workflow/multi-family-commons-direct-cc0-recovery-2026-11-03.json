@@ -1,0 +1,76 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC0_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T17:01:33.168949+00:00",
+  "source_files": 320,
+  "historical_cc0_deed_holds": 3,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 3,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 3,
+  "selected_by_lane": {
+    "commons": 3
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 317
+  },
+  "new_installed": 3,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "halesia-diptera",
+      "family": "Styracaceae",
+      "filename": "commons-halesia-diptera.jpg",
+      "original_path": "content/taxa/Styracaceae/Halesia/halesia-diptera/images/commons-halesia-diptera.jpg",
+      "archive_path": "migration/private-original-photo-holds/Styracaceae/Halesia/halesia-diptera/images/commons-halesia-diptera.jpg",
+      "git_blob_sha": "fda48b98c5e55e607a2bee2291793ec47c72383e",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Daderot",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Halesia_diptera_-_Bartholdi_Park_-_Washington,_DC_-_DSC09444.JPG",
+      "taxon": "Halesia diptera",
+      "src": "media/halesia-diptera/archived-77cdc2738ef1c942.jpg",
+      "sha256": "77cdc2738ef1c942b230e2d91d486b83b71e129f86383698ea9d9f020e82e96f"
+    },
+    {
+      "species_id": "liquidambar-styraciflua",
+      "family": "Altingiaceae",
+      "filename": "commons-liquidambar-styraciflua.jpg",
+      "original_path": "content/taxa/Altingiaceae/Liquidambar/liquidambar-styraciflua/images/commons-liquidambar-styraciflua.jpg",
+      "archive_path": "migration/private-original-photo-holds/Altingiaceae/Liquidambar/liquidambar-styraciflua/images/commons-liquidambar-styraciflua.jpg",
+      "git_blob_sha": "cc32a5c301dca97006f12b89fc83fdf13a8cc694",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "AnRo0002",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:20161031Liquidambar_styraciflua.jpg",
+      "taxon": "Liquidambar styraciflua",
+      "src": "media/liquidambar-styraciflua/archived-d7a638b40019f2d6.jpg",
+      "sha256": "d7a638b40019f2d6e7400392e9e5fe04409a631f0ecc73b00fadf88768eee68c"
+    },
+    {
+      "species_id": "ulmus-alata",
+      "family": "Ulmaceae",
+      "filename": "ulmus-alata-leaves.jpg",
+      "original_path": "content/taxa/Ulmaceae/Ulmus/ulmus-alata/images/ulmus-alata-leaves.jpg",
+      "archive_path": "migration/private-original-photo-holds/Ulmaceae/Ulmus/ulmus-alata/images/ulmus-alata-leaves.jpg",
+      "git_blob_sha": "a66a19bac982f88068a52b215cf398a5ebd19a21",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Ronnie Nijboer",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_alata_071007c.jpg",
+      "taxon": "Ulmus alata",
+      "src": "media/ulmus-alata/archived-aa2f313cac6358c9.jpg",
+      "sha256": "aa2f313cac6358c994d0f19faf8d3b85c31ed22e9922b68435568d103b1ae8e7"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 3,
+  "cumulative_held_reviewed": 0
+}

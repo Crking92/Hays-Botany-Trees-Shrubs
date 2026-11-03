@@ -9,8 +9,8 @@
       "genus": "Liquidambar",
       "scientific_name": "Liquidambar styraciflua",
       "common_name": "American sweetgum",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cotinus-obovatus",
@@ -972,7 +972,7 @@
       "genus": "Halesia",
       "scientific_name": "Halesia diptera",
       "common_name": "Two-wing silverbell",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1026,7 +1026,7 @@
       "genus": "Ulmus",
       "scientific_name": "Ulmus alata",
       "common_name": "Winged elm",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

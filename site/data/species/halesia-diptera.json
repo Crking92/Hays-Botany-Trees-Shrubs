@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 353748225, photo 645394030, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c28e056b303ee6d12dc5b31c5f03ec8dbc312c5fc5e0b150d256ba649bdb5fc5.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Halesia diptera maps to indexed species halesia-diptera; specialist morphology and BONAP range deferred.",
       "sha256": "c28e056b303ee6d12dc5b31c5f03ec8dbc312c5fc5e0b150d256ba649bdb5fc5"
+    },
+    {
+      "src": "media/halesia-diptera/archived-77cdc2738ef1c942.jpg",
+      "creator": "Daderot",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Halesia_diptera_-_Bartholdi_Park_-_Washington,_DC_-_DSC09444.JPG",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "fda48b98c5e55e607a2bee2291793ec47c72383e",
+      "role": "Provisional drooping white flower detail; fruit and whole-tree habit not shown.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Wikimedia exact file page author and CC0 1.0 independently checked 2026-11-03; direct original file https://upload.wikimedia.org/wikipedia/commons/8/85/Halesia_diptera_-_Bartholdi_Park_-_Washington%2C_DC_-_DSC09444.JPG; archived original pixel difference 0; archived source SHA fda48b98c5e55e607a2bee2291793ec47c72383e; exact image source https://commons.wikimedia.org/wiki/File:Halesia_diptera_-_Bartholdi_Park_-_Washington,_DC_-_DSC09444.JPG",
+      "taxon_review_evidence": "Original species record Halesia diptera linked to an original image and matching current commons photo of source taxon Halesia diptera. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "77cdc2738ef1c942b230e2d91d486b83b71e129f86383698ea9d9f020e82e96f"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

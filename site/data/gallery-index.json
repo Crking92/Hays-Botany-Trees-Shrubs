@@ -2,12 +2,12 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 111,
-  "photo_count": 393,
+  "photo_species": 112,
+  "photo_count": 396,
   "entries": {
     "liquidambar-styraciflua": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/liquidambar-styraciflua/archived-d7a638b40019f2d6.jpg"
     },
     "cotinus-obovatus": {
       "count": 2,
@@ -434,7 +434,7 @@
       "first_src": "media/ailanthus-altissima/inat-626099693.jpg"
     },
     "halesia-diptera": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/halesia-diptera/inat-622213057.jpg"
     },
     "styrax-platanifolius": {
@@ -458,7 +458,7 @@
       "first_src": "media/planera-aquatica/inat-625448827.jpg"
     },
     "ulmus-alata": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/ulmus-alata/inat-408285343.jpeg"
     },
     "ulmus-americana": {
