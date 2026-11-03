@@ -198,7 +198,7 @@
       "genus": "Lonicera",
       "scientific_name": "Lonicera japonica",
       "common_name": "Japanese honeysuckle",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -207,7 +207,7 @@
       "genus": "Lonicera",
       "scientific_name": "Lonicera sempervirens",
       "common_name": "Coral honeysuckle / trumpet honeysuckle",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -612,7 +612,7 @@
       "genus": "Maclura",
       "scientific_name": "Maclura pomifera",
       "common_name": "Osage orange / Bois d'arc / Bodark / Hedge apple",
-      "photo_count": 11,
+      "photo_count": 12,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -639,7 +639,7 @@
       "genus": "Morus",
       "scientific_name": "Morus rubra",
       "common_name": "Red mulberry",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1080,7 +1080,7 @@
       "genus": "Parietaria",
       "scientific_name": "Parietaria pensylvanica",
       "common_name": "Pennsylvania pellitory",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1089,7 +1089,7 @@
       "genus": "Urtica",
       "scientific_name": "Urtica chamaedryoides",
       "common_name": "Heartleaf nettle",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1179,7 +1179,7 @@
       "genus": "Vitis",
       "scientific_name": "Vitis cinerea",
       "common_name": "Graybark grape",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1197,7 +1197,7 @@
       "genus": "Vitis",
       "scientific_name": "Vitis palmata",
       "common_name": "Catbird grape",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     }
   ]

@@ -224,6 +224,25 @@
       "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Maclura_pomifera_male_iflorescence.jpg; original individual photographer Gmihail; archived specific reuse license CC BY-SA 3.0 RS; preserved photo byte SHA checked against original transfer manifest 229a0d8e7f20a57f032df529f45b769ae4f51308; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 229a0d8e7f20a57f032df529f45b769ae4f51308; exact image source https://commons.wikimedia.org/wiki/File:Maclura_pomifera_male_iflorescence.jpg",
       "taxon_review_evidence": "Original species record Maclura pomifera linked to an original image and matching current commons photo of source taxon Maclura pomifera. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "acb276d0c5a98ea6a48242723dee5d634502de37092fc92211b7ec455639c3ea"
+    },
+    {
+      "src": "media/maclura-pomifera/archived-891c4cfbbdf57c71.jpg",
+      "creator": "MONGO",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Osage_Orange_(Maclura_pomifera)_bark_detail.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "3a72c81cb2ad83c0fbb7ec69cdd29d4e93409d3a",
+      "role": "Mature bark closeup, irregular deeply furrowed scaly texture; non-Texas reference",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Osage_Orange_(Maclura_pomifera)_bark_detail.jpg; original individual photographer MONGO; archived specific reuse license PUBLIC DOMAIN (AUTHOR RELEASED); preserved photo byte SHA checked against original transfer manifest 3a72c81cb2ad83c0fbb7ec69cdd29d4e93409d3a; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 3a72c81cb2ad83c0fbb7ec69cdd29d4e93409d3a; exact image source https://commons.wikimedia.org/wiki/File:Osage_Orange_(Maclura_pomifera)_bark_detail.jpg",
+      "taxon_review_evidence": "Original species record Maclura pomifera linked to an original image and matching current commons photo of source taxon Maclura pomifera. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "891c4cfbbdf57c714ac77e4812868d46d61fb4a1a628c304d6efc69c7343a3ec"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

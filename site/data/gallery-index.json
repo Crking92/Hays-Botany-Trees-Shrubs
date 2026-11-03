@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 118,
-  "photo_count": 424,
+  "photo_count": 434,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -90,11 +90,11 @@
       "first_src": "media/lonicera-albiflora/01-texas-honeysuckle-live.jpg"
     },
     "lonicera-japonica": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/lonicera-japonica/01-japanese-honeysuckle-axillary-flowers.jpg"
     },
     "lonicera-sempervirens": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/lonicera-sempervirens/01-coral-honeysuckle-flower-and-vine.jpg"
     },
     "symphoricarpos-albus": {
@@ -274,7 +274,7 @@
       "first_src": "media/melia-azedarach/inat-620350409.jpg"
     },
     "maclura-pomifera": {
-      "count": 11,
+      "count": 12,
       "first_src": "media/maclura-pomifera/osage-orange-leaves.jpg"
     },
     "morus-alba": {
@@ -286,7 +286,7 @@
       "first_src": "media/morus-microphylla/inat-495172410.jpg"
     },
     "morus-rubra": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/morus-rubra/inat-262262956.jpg"
     },
     "platanus-occidentalis": {
@@ -482,11 +482,11 @@
       "first_src": "media/boehmeria-cylindrica/inat-478476124.jpg"
     },
     "parietaria-pensylvanica": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/parietaria-pensylvanica/inat-620423519.jpg"
     },
     "urtica-chamaedryoides": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/urtica-chamaedryoides/inat-626086060.jpg"
     },
     "sambucus-canadensis": {
@@ -526,7 +526,7 @@
       "first_src": "media/vitis-berlandieri/vitis-berlandieri-leaf-underside.jpg"
     },
     "vitis-cinerea": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/vitis-cinerea/vitis-cinerea-provisional-face.jpg"
     },
     "vitis-mustangensis": {
@@ -534,7 +534,7 @@
       "first_src": "media/vitis-mustangensis/vitis-mustangensis-provisional-face.jpg"
     },
     "vitis-palmata": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/vitis-palmata/vitis-palmata-provisional-face.jpg"
     }
   }

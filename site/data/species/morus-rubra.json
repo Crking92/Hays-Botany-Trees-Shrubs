@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 351355694, photo 641169101, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad4657e3d2f9c1b074a24034d93eaea3932308cc4072ba6a65af5264379eb84d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus rubra maps to indexed species morus-rubra; specialist morphology and BONAP range deferred.",
       "sha256": "ad4657e3d2f9c1b074a24034d93eaea3932308cc4072ba6a65af5264379eb84d"
+    },
+    {
+      "src": "media/morus-rubra/archived-e5b4a8b855f65bfe.png",
+      "creator": "U.S. Forest Service / National Agricultural Library / USDA-NRCS PLANTS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Morus_rubra_NRCS-2.png",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "98b8636a9f8390e42dc7032df4c765b1eb11f3d0",
+      "role": "Provisional leaf recognition: mulberry leaf blades and margins; underside hairs, flowers and fruit still need diagnostic photos.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Morus_rubra_NRCS-2.png; original individual photographer U.S. Forest Service / National Agricultural Library / USDA-NRCS PLANTS; archived specific reuse license PUBLIC DOMAIN (U.S. FEDERAL WORK); preserved photo byte SHA checked against original transfer manifest 98b8636a9f8390e42dc7032df4c765b1eb11f3d0; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 98b8636a9f8390e42dc7032df4c765b1eb11f3d0; exact image source https://commons.wikimedia.org/wiki/File:Morus_rubra_NRCS-2.png",
+      "taxon_review_evidence": "Original species record Morus rubra linked to an original image and matching current commons photo of source taxon Morus rubra. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "e5b4a8b855f65bfea8e0d4e43f9b1a336f50b87442ca3ff5c2d9414560c58443"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

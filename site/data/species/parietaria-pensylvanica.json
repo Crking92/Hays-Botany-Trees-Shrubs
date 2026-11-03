@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 345681321 lists exact photo 630014001 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 6ea2f23abe3fc480d92ecf3524847f44e186f01d653e951018c68b7235ec7da4.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 345681321 taxon parietaria pensylvanica agrees; specialist anatomy ID postponed.",
       "sha256": "6ea2f23abe3fc480d92ecf3524847f44e186f01d653e951018c68b7235ec7da4"
+    },
+    {
+      "src": "media/parietaria-pensylvanica/archived-5ddb8f1b0fc6ea40.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parietaria_pensylvanica.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "4e05d113375278e3f6bdd589949f6040898329f8",
+      "role": "Provisional whole-herb recognition; tiny flowers and fruit require magnification.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Parietaria_pensylvanica.jpg; original individual photographer Mason Brock (Masebrock); archived specific reuse license PUBLIC DOMAIN (AUTHOR RELEASED); preserved photo byte SHA checked against original transfer manifest 4e05d113375278e3f6bdd589949f6040898329f8; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 4e05d113375278e3f6bdd589949f6040898329f8; exact image source https://commons.wikimedia.org/wiki/File:Parietaria_pensylvanica.jpg",
+      "taxon_review_evidence": "Original species record Parietaria pensylvanica linked to an original image and matching current commons photo of source taxon Parietaria pensylvanica. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "5ddb8f1b0fc6ea4010a04539279d4121c74e0a707d089ff058245a6822638828"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

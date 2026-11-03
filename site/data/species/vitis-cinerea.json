@@ -61,6 +61,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/vitis-cinerea/archived-2147150af385b3e0.jpg",
+      "creator": "Robert H. Mohlenbrock / USDA-NRCS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_cinerea_(USDA).jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "3bdd369567f8c77a3c6b4178350e0a4395a19a22",
+      "role": "USDA botanical species leaf reference; strict cinerea taxonomic concept and target-zone HOLD preserved",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Vitis_cinerea_(USDA).jpg; original individual photographer Robert H. Mohlenbrock / USDA-NRCS; archived specific reuse license PUBLIC DOMAIN (U.S. FEDERAL WORK); preserved photo byte SHA checked against original transfer manifest 3bdd369567f8c77a3c6b4178350e0a4395a19a22; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 3bdd369567f8c77a3c6b4178350e0a4395a19a22; exact image source https://commons.wikimedia.org/wiki/File:Vitis_cinerea_(USDA).jpg",
+      "taxon_review_evidence": "Original species record Vitis cinerea linked to an original image and matching current commons photo of source taxon Vitis cinerea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "2147150af385b3e0118603b8bd0e1a0a39ee783a86ad934be209e67defa03212"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

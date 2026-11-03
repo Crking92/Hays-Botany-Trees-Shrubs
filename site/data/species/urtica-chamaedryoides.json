@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 350947663 lists exact photo 640381230 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 2edc440753b2e11498dabea62443bc9622f3790cf6ea85eaccf78520ed8f9fcf.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 350947663 taxon urtica chamaedryoides agrees; specialist anatomy ID postponed.",
       "sha256": "2edc440753b2e11498dabea62443bc9622f3790cf6ea85eaccf78520ed8f9fcf"
+    },
+    {
+      "src": "media/urtica-chamaedryoides/archived-5304621f69cbb447.jpg",
+      "creator": "Mason Brock (Masebrock)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Urtica_chamaedryoides.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "4a17aa23da2ac85d13bfef9bc20a0ed225718404",
+      "role": "Provisional leafy nettle habit; stinging hairs and flowers need macro views.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Urtica_chamaedryoides.jpg; original individual photographer Mason Brock (Masebrock); archived specific reuse license PUBLIC DOMAIN (AUTHOR RELEASED); preserved photo byte SHA checked against original transfer manifest 4a17aa23da2ac85d13bfef9bc20a0ed225718404; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 4a17aa23da2ac85d13bfef9bc20a0ed225718404; exact image source https://commons.wikimedia.org/wiki/File:Urtica_chamaedryoides.jpg",
+      "taxon_review_evidence": "Original species record Urtica chamaedryoides linked to an original image and matching current commons photo of source taxon Urtica chamaedryoides. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "5304621f69cbb447542d54b9e7c4f5a770fa1c45887413b14168e17695f1ea59"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
