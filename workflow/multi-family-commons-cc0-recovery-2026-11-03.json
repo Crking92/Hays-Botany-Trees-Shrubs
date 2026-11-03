@@ -1,0 +1,74 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_COMMONS_CC0_DEED_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T16:38:30.484538+00:00",
+  "source_files": 320,
+  "historical_cc0_deed_holds": 4,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 4,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 4,
+  "selected_by_lane": {
+    "commons": 4
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 316
+  },
+  "new_installed": 0,
+  "held_checked": 4,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "diospyros-virginiana",
+      "family": "Ebenaceae",
+      "filename": "diospyros-virginiana-provisional-face.jpg",
+      "original_path": "content/taxa/Ebenaceae/Diospyros/diospyros-virginiana/images/diospyros-virginiana-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Ebenaceae/Diospyros/diospyros-virginiana/images/diospyros-virginiana-provisional-face.jpg",
+      "git_blob_sha": "37c26972172e07d5bcd764b07c295ff1dcea71fe",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "halesia-diptera",
+      "family": "Styracaceae",
+      "filename": "commons-halesia-diptera.jpg",
+      "original_path": "content/taxa/Styracaceae/Halesia/halesia-diptera/images/commons-halesia-diptera.jpg",
+      "archive_path": "migration/private-original-photo-holds/Styracaceae/Halesia/halesia-diptera/images/commons-halesia-diptera.jpg",
+      "git_blob_sha": "fda48b98c5e55e607a2bee2291793ec47c72383e",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "liquidambar-styraciflua",
+      "family": "Altingiaceae",
+      "filename": "commons-liquidambar-styraciflua.jpg",
+      "original_path": "content/taxa/Altingiaceae/Liquidambar/liquidambar-styraciflua/images/commons-liquidambar-styraciflua.jpg",
+      "archive_path": "migration/private-original-photo-holds/Altingiaceae/Liquidambar/liquidambar-styraciflua/images/commons-liquidambar-styraciflua.jpg",
+      "git_blob_sha": "cc32a5c301dca97006f12b89fc83fdf13a8cc694",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    },
+    {
+      "species_id": "ulmus-alata",
+      "family": "Ulmaceae",
+      "filename": "ulmus-alata-leaves.jpg",
+      "original_path": "content/taxa/Ulmaceae/Ulmus/ulmus-alata/images/ulmus-alata-leaves.jpg",
+      "archive_path": "migration/private-original-photo-holds/Ulmaceae/Ulmus/ulmus-alata/images/ulmus-alata-leaves.jpg",
+      "git_blob_sha": "a66a19bac982f88068a52b215cf398a5ebd19a21",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source unavailable: HTTP Error 429: Too Many Requests (015d12c)": 4
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 4
+}
