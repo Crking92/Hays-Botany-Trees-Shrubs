@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 126,
-  "photo_count": 538,
+  "photo_count": 576,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -186,19 +186,19 @@
       "first_src": "media/quercus-muehlenbergii/01-leaves-acorns.jpg"
     },
     "quercus-nigra": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/quercus-nigra/plantnet-archive-2b0d9ee6193380b9.jpg"
     },
     "quercus-phellos": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/quercus-phellos/plantnet-archive-0e48dcb10b4a86ff.jpg"
     },
     "quercus-polymorpha": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/quercus-polymorpha/archived-704efdd42c0541d0.jpg"
     },
     "quercus-shumardii": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/quercus-shumardii/01-reference.jpg"
     },
     "quercus-sinuata-var-breviloba": {
@@ -206,19 +206,19 @@
       "first_src": "media/quercus-sinuata-var-breviloba/archived-abf42d6dce910cd6.jpg"
     },
     "quercus-stellata": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/quercus-stellata/archived-5201133ce74b68d8.jpg"
     },
     "quercus-vaseyana": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/quercus-vaseyana/archived-0871f249da5e041b.jpg"
     },
     "quercus-virginiana": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/quercus-virginiana/archived-a9d9937f77c0e791.jpg"
     },
     "garrya-lindheimeri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/garrya-lindheimeri/archived-aad74d9601864e56.jpg"
     },
     "ribes-aureum": {
