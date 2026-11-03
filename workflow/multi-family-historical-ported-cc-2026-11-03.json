@@ -1,0 +1,122 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PORTED_CC_2026-11-03",
+  "checked_at": "2026-11-03T19:33:59.053915+00:00",
+  "source_files": 320,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 6,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 6,
+  "selected_by_lane": {
+    "commons": 6
+  },
+  "skipped_or_previously_published": {
+    "already_public_identical_bytes": 13,
+    "outside_reviewed_commons_recovery_lane": 289,
+    "not_an_explicit_older_cc_license": 12
+  },
+  "new_installed": 5,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "acer-negundo",
+      "family": "Sapindaceae",
+      "filename": "01-paired-samaras.jpg",
+      "original_path": "content/taxa/Sapindaceae/Acer/acer-negundo/images/01-paired-samaras.jpg",
+      "archive_path": "migration/private-original-photo-holds/Sapindaceae/Acer/acer-negundo/images/01-paired-samaras.jpg",
+      "git_blob_sha": "c1304bdf6a5f23889cdf8bd56dcf6526cf254e3e",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Gmihail",
+      "license": "CC BY-SA 3.0 RS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Negundo_samaras.jpg",
+      "taxon": "Acer negundo",
+      "src": "media/acer-negundo/archived-04780620a214433e.jpg",
+      "sha256": "04780620a214433effd8671ff0829facb7e7a290d747a9e2c22b0aa3766403aa"
+    },
+    {
+      "species_id": "ailanthus-altissima",
+      "family": "Simaroubaceae",
+      "filename": "ailanthus-altissima-luis-fernandez.jpg",
+      "original_path": "content/taxa/Simaroubaceae/Ailanthus/ailanthus-altissima/images/ailanthus-altissima-luis-fernandez.jpg",
+      "archive_path": "migration/private-original-photo-holds/Simaroubaceae/Ailanthus/ailanthus-altissima/images/ailanthus-altissima-luis-fernandez.jpg",
+      "git_blob_sha": "4d56731778f52db55a31b18abb44c6b27989e1dd",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Luis Fernández García",
+      "license": "CC BY-SA 2.1 ES",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ailanthus-altissima.jpg",
+      "taxon": "Ailanthus altissima",
+      "src": "media/ailanthus-altissima/archived-a7da8a991dbf62ac.jpg",
+      "sha256": "a7da8a991dbf62ac99190e229e67297b65114c77833ad077edb7ac0f543ddbba"
+    },
+    {
+      "species_id": "maclura-pomifera",
+      "family": "Moraceae",
+      "filename": "osage-orange-female-head.jpg",
+      "original_path": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-female-head.jpg",
+      "archive_path": "migration/private-original-photo-holds/Moraceae/Maclura/maclura-pomifera/images/osage-orange-female-head.jpg",
+      "git_blob_sha": "6740f42bc2d93be68700cc7c1d9fa336db89474c",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Gmihail",
+      "license": "CC BY-SA 3.0 RS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_female_inflorescence.jpg",
+      "taxon": "Maclura pomifera",
+      "src": "media/maclura-pomifera/archived-9b5b9c8f74a479fd.jpg",
+      "sha256": "9b5b9c8f74a479fd3d98bb18e57559ab2b474ddf082e4eb786e0fbd8f1b3010a"
+    },
+    {
+      "species_id": "maclura-pomifera",
+      "family": "Moraceae",
+      "filename": "osage-orange-male-head.jpg",
+      "original_path": "content/taxa/Moraceae/Maclura/maclura-pomifera/images/osage-orange-male-head.jpg",
+      "archive_path": "migration/private-original-photo-holds/Moraceae/Maclura/maclura-pomifera/images/osage-orange-male-head.jpg",
+      "git_blob_sha": "229a0d8e7f20a57f032df529f45b769ae4f51308",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Gmihail",
+      "license": "CC BY-SA 3.0 RS",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maclura_pomifera_male_iflorescence.jpg",
+      "taxon": "Maclura pomifera",
+      "src": "media/maclura-pomifera/archived-acb276d0c5a98ea6.jpg",
+      "sha256": "acb276d0c5a98ea6a48242723dee5d634502de37092fc92211b7ec455639c3ea"
+    },
+    {
+      "species_id": "vitis-berlandieri",
+      "family": "Vitaceae",
+      "filename": "vitis-berlandieri-provisional-face.jpg",
+      "original_path": "content/taxa/Vitaceae/Vitis/vitis-berlandieri/images/vitis-berlandieri-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Vitaceae/Vitis/vitis-berlandieri/images/vitis-berlandieri-provisional-face.jpg",
+      "git_blob_sha": "012a56ea4e6da0735ee10ba783741b31cb35f37a",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Historic direct photo media URL does not match exact Commons file page"
+    },
+    {
+      "species_id": "vitis-berlandieri",
+      "family": "Vitaceae",
+      "filename": "vitis-berlandieri-texas-second-view.jpg",
+      "original_path": "content/taxa/Vitaceae/Vitis/vitis-berlandieri/images/vitis-berlandieri-texas-second-view.jpg",
+      "archive_path": "migration/private-original-photo-holds/Vitaceae/Vitis/vitis-berlandieri/images/vitis-berlandieri-texas-second-view.jpg",
+      "git_blob_sha": "470a308329c2d65cdd3a1fcb458e10195bb3723e",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Joachim Schmid",
+      "license": "CC BY 3.0 DE",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_in_Texas.jpg",
+      "taxon": "Vitis berlandieri",
+      "src": "media/vitis-berlandieri/archived-25b27786c4576ce5.jpg",
+      "sha256": "25b27786c4576ce5bbaaf8e5b1e19ef9e302d7aab8413374b792c3759025cc37"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Historic direct photo media URL does not match exact Commons file page": 1
+  },
+  "cumulative_installed": 5,
+  "cumulative_held_reviewed": 1
+}

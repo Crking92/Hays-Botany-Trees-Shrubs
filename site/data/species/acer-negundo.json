@@ -154,6 +154,25 @@
       "source_review_evidence": "Live iNaturalist observation 343144023, photo 625004192, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f469fa404121606a34db2c3ef6e895eb74cdf4ca275e62a961b3669f862548eb.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Acer negundo maps to indexed species acer-negundo; specialist morphology and BONAP range deferred.",
       "sha256": "f469fa404121606a34db2c3ef6e895eb74cdf4ca275e62a961b3669f862548eb"
+    },
+    {
+      "src": "media/acer-negundo/archived-04780620a214433e.jpg",
+      "creator": "Gmihail",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Negundo_samaras.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 3.0 RS",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/rs/",
+      "source_blob_sha": "c1304bdf6a5f23889cdf8bd56dcf6526cf254e3e",
+      "role": "Paired V-shaped samaras; strongest reproductive confirmation against ash",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Negundo_samaras.jpg; original individual photographer Gmihail; archived specific reuse license CC BY-SA 3.0 RS; preserved photo byte SHA checked against original transfer manifest c1304bdf6a5f23889cdf8bd56dcf6526cf254e3e; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA c1304bdf6a5f23889cdf8bd56dcf6526cf254e3e; exact image source https://commons.wikimedia.org/wiki/File:Negundo_samaras.jpg",
+      "taxon_review_evidence": "Original species record Acer negundo linked to an original image and matching current commons photo of source taxon Acer negundo. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "04780620a214433effd8671ff0829facb7e7a290d747a9e2c22b0aa3766403aa"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 358102953, photo 653218705, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f593a2e706ef2454aa3605ea9ea20a9a7744c93d23f225a5258ecc2b850fd3c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ailanthus altissima maps to indexed species ailanthus-altissima; specialist morphology and BONAP range deferred.",
       "sha256": "0f593a2e706ef2454aa3605ea9ea20a9a7744c93d23f225a5258ecc2b850fd3c"
+    },
+    {
+      "src": "media/ailanthus-altissima/archived-a7da8a991dbf62ac.jpg",
+      "creator": "Luis Fernández García",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ailanthus-altissima.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.1 ES",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.1/es/",
+      "source_blob_sha": "4d56731778f52db55a31b18abb44c6b27989e1dd",
+      "role": "provisional_fruiting_foliage",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Ailanthus-altissima.jpg; original individual photographer Luis Fernández García; archived specific reuse license CC BY-SA 2.1 ES; preserved photo byte SHA checked against original transfer manifest 4d56731778f52db55a31b18abb44c6b27989e1dd; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 4d56731778f52db55a31b18abb44c6b27989e1dd; exact image source https://commons.wikimedia.org/wiki/File:Ailanthus-altissima.jpg",
+      "taxon_review_evidence": "Original species record Ailanthus altissima linked to an original image and matching current commons photo of source taxon Ailanthus altissima. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a7da8a991dbf62ac99190e229e67297b65114c77833ad077edb7ac0f543ddbba"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

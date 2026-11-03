@@ -60,6 +60,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/vitis-berlandieri/archived-25b27786c4576ce5.jpg",
+      "creator": "Joachim Schmid",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_in_Texas.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 3.0 DE",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/de/",
+      "source_blob_sha": "470a308329c2d65cdd3a1fcb458e10195bb3723e",
+      "role": "Second Texas documented exact species V. berlandieri recognition photo; morphology comparison photo",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Vitis_berlandieri_in_Texas.jpg; original individual photographer Joachim Schmid; archived specific reuse license CC BY 3.0 DE; preserved photo byte SHA checked against original transfer manifest 470a308329c2d65cdd3a1fcb458e10195bb3723e; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 470a308329c2d65cdd3a1fcb458e10195bb3723e; exact image source https://commons.wikimedia.org/wiki/File:Vitis_berlandieri_in_Texas.jpg",
+      "taxon_review_evidence": "Original species record Vitis berlandieri linked to an original image and matching current commons photo of source taxon Vitis berlandieri. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "25b27786c4576ce5bbaaf8e5b1e19ef9e302d7aab8413374b792c3759025cc37"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
