@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/schaefferia-cuneifolia/archived-8a73e43b29f54722.jpg",
+      "creator": "interial431",
+      "source_page": "https://www.inaturalist.org/photos/352784895",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "014ae1cf3f8b0961c7c289ed7004cad8a85f3980",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 200003292 photo 352784895 individual CC code cc-by-nc; photographer (c) interial431, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 014ae1cf3f8b0961c7c289ed7004cad8a85f3980; exact image source https://www.inaturalist.org/photos/352784895",
+      "taxon_review_evidence": "Original species record Schaefferia cuneifolia linked to an original image and matching current inat photo of source taxon Schaefferia cuneifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "8a73e43b29f54722de294393b973a4f08c0fb395781dd45ae2c34c9e5d849b35"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f64695c5891d268a643e766a11bbe0c1805d37ddca29cef01c5eed8122c5a4a3",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

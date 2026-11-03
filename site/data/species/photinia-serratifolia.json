@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 346623208, photo 631869476, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7061841891c6eb8f0ab50f8bb9b392ae19cd0aab31bdd91fbd30a7202bec5d4b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Photinia serratifolia maps to indexed species photinia-serratifolia; specialist morphology and BONAP range deferred.",
       "sha256": "7061841891c6eb8f0ab50f8bb9b392ae19cd0aab31bdd91fbd30a7202bec5d4b"
+    },
+    {
+      "src": "media/photinia-serratifolia/archived-2cb45945df07604a.jpg",
+      "creator": "hansoes",
+      "source_page": "https://www.inaturalist.org/photos/263176307",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "96bf5320fd6b0282b729f066862b92e55f989873",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 152451169 photo 263176307 individual CC code cc-by-nc; photographer (c) hansoes, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 96bf5320fd6b0282b729f066862b92e55f989873; exact image source https://www.inaturalist.org/photos/263176307",
+      "taxon_review_evidence": "Original species record Photinia serratifolia linked to an original image and matching current inat photo of source taxon Photinia serratifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "2cb45945df07604a8e405b04f43e24cef778da853a0ebea54f6a59720fba7eb4"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

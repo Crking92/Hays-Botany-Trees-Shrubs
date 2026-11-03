@@ -67,6 +67,25 @@
       "source_review_evidence": "Live iNaturalist observation 345282209, photo 629227702, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1c34eed8d6f24e37c7e397b1604691b2b2fdd3af9e6ede7290d1bf906a180bdb.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rhaphiolepis indica maps to indexed species rhaphiolepis-indica; specialist morphology and BONAP range deferred.",
       "sha256": "1c34eed8d6f24e37c7e397b1604691b2b2fdd3af9e6ede7290d1bf906a180bdb"
+    },
+    {
+      "src": "media/rhaphiolepis-indica/archived-a0da86240dab5de6.jpg",
+      "creator": "Ross Coupland",
+      "source_page": "https://www.inaturalist.org/photos/531597438",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "827cecdd3c26764ba2d79b1875ce7eb234fdf747",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 295299176 photo 531597438 individual CC code cc-by-nc; photographer (c) Ross Coupland, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 827cecdd3c26764ba2d79b1875ce7eb234fdf747; exact image source https://www.inaturalist.org/photos/531597438",
+      "taxon_review_evidence": "Original species record Rhaphiolepis indica linked to an original image and matching current inat photo of source taxon Rhaphiolepis indica. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a0da86240dab5de60f79e36c6fb4b71e08a28243b3a1e17b6b88c01fb7d86186"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

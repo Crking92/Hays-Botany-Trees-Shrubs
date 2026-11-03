@@ -18,7 +18,7 @@
       "genus": "Cotinus",
       "scientific_name": "Cotinus obovatus",
       "common_name": "American smoketree",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -27,8 +27,8 @@
       "genus": "Pistacia",
       "scientific_name": "Pistacia chinensis",
       "common_name": "Chinese pistache",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhus-aromatica",
@@ -54,7 +54,7 @@
       "genus": "Rhus",
       "scientific_name": "Rhus microphylla",
       "common_name": "Littleleaf sumac",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -135,8 +135,8 @@
       "genus": "Hydrocotyle",
       "scientific_name": "Hydrocotyle umbellata",
       "common_name": "Manyflower marshpennywort",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "hydrocotyle-verticillata",
@@ -162,7 +162,7 @@
       "genus": "Celtis",
       "scientific_name": "Celtis lindheimeri",
       "common_name": "Lindheimer hackberry",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -171,7 +171,7 @@
       "genus": "Celtis",
       "scientific_name": "Celtis pallida",
       "common_name": "Spiny Hackberry / Granjeno",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -252,8 +252,8 @@
       "genus": "Mortonia",
       "scientific_name": "Mortonia greggii",
       "common_name": "Gregg's mortonia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "schaefferia-cuneifolia",
@@ -261,8 +261,8 @@
       "genus": "Schaefferia",
       "scientific_name": "Schaefferia cuneifolia",
       "common_name": "Desert yaupon",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cornus-drummondii",
@@ -297,8 +297,8 @@
       "genus": "Elaeagnus",
       "scientific_name": "Elaeagnus angustifolia",
       "common_name": "Russian olive",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "arbutus-xalapensis",
@@ -504,8 +504,8 @@
       "genus": "Philadelphus",
       "scientific_name": "Philadelphus lewisii",
       "common_name": "Lewis's mock orange",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "philadelphus-texensis",
@@ -513,8 +513,8 @@
       "genus": "Philadelphus",
       "scientific_name": "Philadelphus texensis",
       "common_name": "Texas mock orange",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "carya-aquatica",
@@ -522,8 +522,8 @@
       "genus": "Carya",
       "scientific_name": "Carya aquatica",
       "common_name": "Water hickory",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "carya-illinoinensis",
@@ -549,8 +549,8 @@
       "genus": "Juglans",
       "scientific_name": "Juglans microcarpa",
       "common_name": "Little Walnut / Texas Walnut",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "juglans-nigra",
@@ -576,8 +576,8 @@
       "genus": "Camphora",
       "scientific_name": "Camphora officinarum",
       "common_name": "Camphor tree",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lindera-benzoin",
@@ -666,7 +666,7 @@
       "genus": "Colubrina",
       "scientific_name": "Colubrina texensis",
       "common_name": "Texas colubrina",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -675,7 +675,7 @@
       "genus": "Condalia",
       "scientific_name": "Condalia hookeri",
       "common_name": "Brasil / bluewood condalia",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -684,7 +684,7 @@
       "genus": "Condaliopsis",
       "scientific_name": "Condaliopsis obtusifolia",
       "common_name": "Lotebush",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -711,7 +711,7 @@
       "genus": "Crataegus",
       "scientific_name": "Crataegus viridis",
       "common_name": "Green hawthorn",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -738,7 +738,7 @@
       "genus": "Photinia",
       "scientific_name": "Photinia serratifolia",
       "common_name": "Chinese photinia",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -792,7 +792,7 @@
       "genus": "Pyrus",
       "scientific_name": "Pyrus calleryana",
       "common_name": "Callery pear",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -801,7 +801,7 @@
       "genus": "Rhaphiolepis",
       "scientific_name": "Rhaphiolepis indica",
       "common_name": "Indian hawthorn",
-      "photo_count": 3,
+      "photo_count": 4,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -819,7 +819,7 @@
       "genus": "Spiraea",
       "scientific_name": "Spiraea thunbergii",
       "common_name": "Thunberg spirea",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -837,7 +837,7 @@
       "genus": "Thamnosma",
       "scientific_name": "Thamnosma texana",
       "common_name": "Texas desert rue",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -864,7 +864,7 @@
       "genus": "Acer",
       "scientific_name": "Acer grandidentatum",
       "common_name": "Bigtooth maple",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -927,7 +927,7 @@
       "genus": "Koelreuteria",
       "scientific_name": "Koelreuteria paniculata",
       "common_name": "Goldenrain tree",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -945,7 +945,7 @@
       "genus": "Ungnadia",
       "scientific_name": "Ungnadia speciosa",
       "common_name": "Mexican buckeye",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -981,7 +981,7 @@
       "genus": "Styrax",
       "scientific_name": "Styrax platanifolius",
       "common_name": "Sycamoreleaf snowbell",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -990,7 +990,7 @@
       "genus": "Symplocos",
       "scientific_name": "Symplocos tinctoria",
       "common_name": "Horsesugar",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -999,7 +999,7 @@
       "genus": "Tamarix",
       "scientific_name": "Tamarix aphylla",
       "common_name": "Athel tamarisk",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1071,7 +1071,7 @@
       "genus": "Boehmeria",
       "scientific_name": "Boehmeria cylindrica",
       "common_name": "False nettle",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1107,8 +1107,8 @@
       "genus": "Sambucus",
       "scientific_name": "Sambucus nigra",
       "common_name": "European elder",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "viburnum-rufidulum",
@@ -1125,7 +1125,7 @@
       "genus": "Ampelopsis",
       "scientific_name": "Ampelopsis cordata",
       "common_name": "heartleaf peppervine",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1143,7 +1143,7 @@
       "genus": "Nekemias",
       "scientific_name": "Nekemias arborea",
       "common_name": "Peppervine",
-      "photo_count": 7,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1152,7 +1152,7 @@
       "genus": "Parthenocissus",
       "scientific_name": "Parthenocissus heptaphylla",
       "common_name": "Sevenleaf creeper",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

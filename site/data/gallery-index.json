@@ -2,20 +2,20 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 85,
-  "photo_count": 285,
+  "photo_species": 96,
+  "photo_count": 330,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
       "first_src": null
     },
     "cotinus-obovatus": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/cotinus-obovatus/cotinus-obovatus-obovate-leaves-commons.jpg"
     },
     "pistacia-chinensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/pistacia-chinensis/archived-dbf1ef474e697085.jpg"
     },
     "rhus-aromatica": {
       "count": 2,
@@ -26,7 +26,7 @@
       "first_src": "media/rhus-copallinum-var-lanceolata/01-compound-leaf-habit.jpg"
     },
     "rhus-microphylla": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/rhus-microphylla/rhus-microphylla-provisional-face.jpg"
     },
     "rhus-virens": {
@@ -62,8 +62,8 @@
       "first_src": null
     },
     "hydrocotyle-umbellata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/hydrocotyle-umbellata/archived-19bff58519c694e1.jpg"
     },
     "hydrocotyle-verticillata": {
       "count": 1,
@@ -74,11 +74,11 @@
       "first_src": "media/celtis-laevigata/01-whole-tree.jpg"
     },
     "celtis-lindheimeri": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/celtis-lindheimeri/celtis-lindheimeri-provisional-face.jpg"
     },
     "celtis-pallida": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/celtis-pallida/01-plant-reference.jpg"
     },
     "celtis-reticulata": {
@@ -114,12 +114,12 @@
       "first_src": null
     },
     "mortonia-greggii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/mortonia-greggii/archived-cbb6712de9225155.jpg"
     },
     "schaefferia-cuneifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/schaefferia-cuneifolia/archived-8a73e43b29f54722.jpg"
     },
     "cornus-drummondii": {
       "count": 1,
@@ -134,8 +134,8 @@
       "first_src": null
     },
     "elaeagnus-angustifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/elaeagnus-angustifolia/archived-9bfbeed0b3cdfe6b.jpg"
     },
     "arbutus-xalapensis": {
       "count": 0,
@@ -226,16 +226,16 @@
       "first_src": null
     },
     "philadelphus-lewisii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/philadelphus-lewisii/archived-247986b2552b6b8e.jpg"
     },
     "philadelphus-texensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/philadelphus-texensis/archived-e6885a8c24eee9ed.jpg"
     },
     "carya-aquatica": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/carya-aquatica/archived-4247bfe447363693.jpg"
     },
     "carya-illinoinensis": {
       "count": 0,
@@ -246,8 +246,8 @@
       "first_src": "media/juglans-major/juglans-major-provisional-face.jpg"
     },
     "juglans-microcarpa": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/juglans-microcarpa/archived-524f896fc45b85c6.jpg"
     },
     "juglans-nigra": {
       "count": 3,
@@ -258,8 +258,8 @@
       "first_src": null
     },
     "camphora-officinarum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/camphora-officinarum/archived-a47d4dd2c2a5d5d0.jpg"
     },
     "lindera-benzoin": {
       "count": 0,
@@ -298,15 +298,15 @@
       "first_src": "media/ceanothus-herbaceus/ceanothus-herbaceus-joshua-mayer.jpg"
     },
     "colubrina-texensis": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/colubrina-texensis/inat-620628646.jpg"
     },
     "condalia-hookeri": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/condalia-hookeri/inat-620618007.jpg"
     },
     "condaliopsis-obtusifolia": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/condaliopsis-obtusifolia/inat-181632616.jpeg"
     },
     "frangula-caroliniana": {
@@ -318,7 +318,7 @@
       "first_src": "media/crataegus-texana/inat-187782261.jpg"
     },
     "crataegus-viridis": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/crataegus-viridis/inat-480007023.jpeg"
     },
     "geum-canadense": {
@@ -330,7 +330,7 @@
       "first_src": "media/malus-ioensis/malus-ioensis-kenraiz-kz03.jpg"
     },
     "photinia-serratifolia": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/photinia-serratifolia/inat-622561424.jpg"
     },
     "prunus-angustifolia": {
@@ -354,11 +354,11 @@
       "first_src": "media/prunus-serotina/inat-631453159.jpg"
     },
     "pyrus-calleryana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/pyrus-calleryana/inat-478138224.jpg"
     },
     "rhaphiolepis-indica": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/rhaphiolepis-indica/inat-473826216.jpg"
     },
     "rubus-trivialis": {
@@ -366,7 +366,7 @@
       "first_src": "media/rubus-trivialis/rubus-trivialis-provisional-face.jpg"
     },
     "spiraea-thunbergii": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/spiraea-thunbergii/inat-339406206.jpg"
     },
     "ptelea-trifoliata": {
@@ -374,7 +374,7 @@
       "first_src": "media/ptelea-trifoliata/inat-621937776.jpg"
     },
     "thamnosma-texana": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/thamnosma-texana/inat-621755404.jpg"
     },
     "zanthoxylum-clava-herculis-subsp-fruticosum": {
@@ -386,7 +386,7 @@
       "first_src": "media/phoradendron-leucarpum/inat-624350643.jpg"
     },
     "acer-grandidentatum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/acer-grandidentatum/acer-grandidentatum-leaf.jpg"
     },
     "acer-negundo": {
@@ -414,7 +414,7 @@
       "first_src": "media/cardiospermum-halicacabum/cardiospermum-halicacabum-habit-fruit-commons.jpg"
     },
     "koelreuteria-paniculata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/koelreuteria-paniculata/inat-357513921.jpeg"
     },
     "sapindus-drummondii": {
@@ -422,7 +422,7 @@
       "first_src": "media/sapindus-drummondii/glass-root-garden-566017234-fruit.jpg"
     },
     "ungnadia-speciosa": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/ungnadia-speciosa/inat-621874173.jpg"
     },
     "sideroxylon-lanuginosum": {
@@ -438,15 +438,15 @@
       "first_src": "media/halesia-diptera/inat-622213057.jpg"
     },
     "styrax-platanifolius": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/styrax-platanifolius/inat-16235640.jpg"
     },
     "symplocos-tinctoria": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/symplocos-tinctoria/inat-628034120.jpg"
     },
     "tamarix-aphylla": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/tamarix-aphylla/inat-284295297.jpg"
     },
     "tamarix-ramosissima": {
@@ -478,7 +478,7 @@
       "first_src": "media/ulmus-rubra/inat-131173740.jpeg"
     },
     "boehmeria-cylindrica": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/boehmeria-cylindrica/inat-478476124.jpg"
     },
     "parietaria-pensylvanica": {
@@ -494,15 +494,15 @@
       "first_src": "media/sambucus-canadensis/01-flower-close-up.jpg"
     },
     "sambucus-nigra": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sambucus-nigra/archived-3da09533d0860305.jpg"
     },
     "viburnum-rufidulum": {
       "count": 5,
       "first_src": "media/viburnum-rufidulum/inat-621457362.jpg"
     },
     "ampelopsis-cordata": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/ampelopsis-cordata/ampelopsis-cordata-leaves-fruit-commons.jpg"
     },
     "cissus-trifoliata": {
@@ -510,11 +510,11 @@
       "first_src": "media/cissus-trifoliata/cissus-trifoliata-provisional-face.jpg"
     },
     "nekemias-arborea": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/nekemias-arborea/inat-photo-716973706.jpg"
     },
     "parthenocissus-heptaphylla": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/parthenocissus-heptaphylla/inat-photo-156748081.jpeg"
     },
     "parthenocissus-quinquefolia": {

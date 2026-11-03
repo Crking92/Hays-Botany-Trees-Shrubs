@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/pistacia-chinensis/archived-dbf1ef474e697085.jpg",
+      "creator": "Suzette Rogers",
+      "source_page": "https://www.inaturalist.org/photos/37240265",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "9177c994da51d5782417ae03dc2bc1612440e6ff",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 24080241 photo 37240265 individual CC code cc-by-nc; photographer (c) Suzette Rogers, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 9177c994da51d5782417ae03dc2bc1612440e6ff; exact image source https://www.inaturalist.org/photos/37240265",
+      "taxon_review_evidence": "Original species record Pistacia chinensis linked to an original image and matching current inat photo of source taxon Pistacia chinensis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "dbf1ef474e6970850336a63e99f16dfc6c0041432d668b78a740dab2cdc42ef1"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f56e204ead3a8ea6b14aa376181995a6d4b276f08282392d26a534826e38b0dd",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

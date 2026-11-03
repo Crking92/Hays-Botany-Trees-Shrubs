@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/camphora-officinarum/archived-a47d4dd2c2a5d5d0.jpg",
+      "creator": "Jef Boeke",
+      "source_page": "https://www.inaturalist.org/photos/169711661",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "76360d7f7e71037d1af70d2e7b95b28157c3a00d",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 101606881 photo 169711661 individual CC code cc-by-nc; photographer (c) Jef Boeke, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 76360d7f7e71037d1af70d2e7b95b28157c3a00d; exact image source https://www.inaturalist.org/photos/169711661",
+      "taxon_review_evidence": "Original species record Camphora officinarum linked to an original image and matching current inat photo of source taxon Camphora officinarum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a47d4dd2c2a5d5d0f04d698f788c0c9be247d4e1550d6de170e65e12918546ff"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b58a08d32ff94c26c1e1bab1a3fa6212f5acaca718ec542ba78c50091e76a8fa",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

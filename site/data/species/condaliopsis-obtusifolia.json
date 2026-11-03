@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 360650160, photo 658099946, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8258230b63b5abca1be61a6e23d63e3bbaa10b2bbb2936e6120a3edb5bf4d58e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condaliopsis obtusifolia maps to indexed species condaliopsis-obtusifolia; specialist morphology and BONAP range deferred.",
       "sha256": "8258230b63b5abca1be61a6e23d63e3bbaa10b2bbb2936e6120a3edb5bf4d58e"
+    },
+    {
+      "src": "media/condaliopsis-obtusifolia/archived-050743995511e549.jpg",
+      "creator": "mieras_plants18",
+      "source_page": "https://www.inaturalist.org/photos/681376028",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "0cfb961627203a9e4a32b0249b5c401af651654b",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 370805665 photo 681376028 individual CC code cc-by-nc; photographer (c) mieras_plants18, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 0cfb961627203a9e4a32b0249b5c401af651654b; exact image source https://www.inaturalist.org/photos/681376028",
+      "taxon_review_evidence": "Original species record Condaliopsis obtusifolia linked to an original image and matching current inat photo of source taxon Condaliopsis obtusifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "050743995511e54976b6c21b426a4356891db7087a81403e7171396724454078"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

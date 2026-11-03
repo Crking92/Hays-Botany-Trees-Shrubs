@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 345407391, photo 629475194, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f10adfe4ff7bd22af4294db3effcab81a9775a262487cad32a18abd68509952.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Symplocos tinctoria maps to indexed species symplocos-tinctoria; specialist morphology and BONAP range deferred.",
       "sha256": "5f10adfe4ff7bd22af4294db3effcab81a9775a262487cad32a18abd68509952"
+    },
+    {
+      "src": "media/symplocos-tinctoria/archived-81e9f1682476e170.jpg",
+      "creator": "Amy Hill",
+      "source_page": "https://www.inaturalist.org/photos/63557412",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "25ef7d5e4c92a03c1272a4db4d841269f4aed362",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 40021470 photo 63557412 individual CC code cc-by-nc; photographer (c) Amy Hill, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 25ef7d5e4c92a03c1272a4db4d841269f4aed362; exact image source https://www.inaturalist.org/photos/63557412",
+      "taxon_review_evidence": "Original species record Symplocos tinctoria linked to an original image and matching current inat photo of source taxon Symplocos tinctoria. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "81e9f1682476e1701ed3c50c6eb2708a2002e1075388f7e0747229a17494850d"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

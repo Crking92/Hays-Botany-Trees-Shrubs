@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 345139311, photo 628941382, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: db85eaac7956ea4f63b7de0a85c683f8185e0c2af68ac14f82747bd7f822cf23.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Thamnosma texana maps to indexed species thamnosma-texana; specialist morphology and BONAP range deferred.",
       "sha256": "db85eaac7956ea4f63b7de0a85c683f8185e0c2af68ac14f82747bd7f822cf23"
+    },
+    {
+      "src": "media/thamnosma-texana/archived-cae2144d404042ed.jpg",
+      "creator": "🌱 Aaron Lincoln 🌱",
+      "source_page": "https://www.inaturalist.org/photos/275206480",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "959bf5ca358869fbb7d0627187329f1ce5827998",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 159291316 photo 275206480 individual CC code cc-by-nc; photographer (c) 🌱 Aaron Lincoln 🌱, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 959bf5ca358869fbb7d0627187329f1ce5827998; exact image source https://www.inaturalist.org/photos/275206480",
+      "taxon_review_evidence": "Original species record Thamnosma texana linked to an original image and matching current inat photo of source taxon Thamnosma texana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "cae2144d404042ed756b3b65f1c92262235bd475b6173edc07c55c7b6633ca24"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

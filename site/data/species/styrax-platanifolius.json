@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 5802058, photo 7211609, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2ed0aaede7573dab053c63658f38447eb8e8839c462ce2529ce820262f9968b6.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Styrax platanifolius maps to indexed species styrax-platanifolius; specialist morphology and BONAP range deferred.",
       "sha256": "2ed0aaede7573dab053c63658f38447eb8e8839c462ce2529ce820262f9968b6"
+    },
+    {
+      "src": "media/styrax-platanifolius/archived-48b0eedcf3944b87.jpg",
+      "creator": "Elsa Hernández",
+      "source_page": "https://www.inaturalist.org/photos/191109457",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "39a91588b05aa7e7c0c12c84094a71930610a7b4",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 113111096 photo 191109457 individual CC code cc-by-nc; photographer (c) Elsa Hernández, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 39a91588b05aa7e7c0c12c84094a71930610a7b4; exact image source https://www.inaturalist.org/photos/191109457",
+      "taxon_review_evidence": "Original species record Styrax platanifolius linked to an original image and matching current inat photo of source taxon Styrax platanifolius. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "48b0eedcf3944b8734bdc738ee5784567d24499310c57e3c941bafd44b69dba4"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

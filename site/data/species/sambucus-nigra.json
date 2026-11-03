@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/sambucus-nigra/archived-3da09533d0860305.jpg",
+      "creator": "Rea Orthner",
+      "source_page": "https://www.inaturalist.org/photos/138459240",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "b25eb2fe520145001c9a63627e130ffacf2ce553",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 84253948 photo 138459240 individual CC code cc-by-nc; photographer (c) Rea Orthner, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA b25eb2fe520145001c9a63627e130ffacf2ce553; exact image source https://www.inaturalist.org/photos/138459240",
+      "taxon_review_evidence": "Original species record Sambucus nigra linked to an original image and matching current inat photo of source taxon Sambucus nigra. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "3da09533d0860305d680880cefe4819e2a1c55dc57105b3e363df9e465edff5c"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b51e4755204afe10e7973b905a9ef64dca8048ac5a2585a1ef10178b4ad6628a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
