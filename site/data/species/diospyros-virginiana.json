@@ -35,8 +35,28 @@
     "names": [],
     "differences": "D. texana has smaller thick leaves, pale smooth peeling bark, and black fruit."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/diospyros-virginiana/archived-6ff9eaca876c5dcc.jpg",
+      "creator": "Vince Hale",
+      "source_page": "https://www.inaturalist.org/photos/453142203",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "37c26972172e07d5bcd764b07c295ff1dcea71fe",
+      "role": "Sapling growth form and alternate persimmon leaves; ripe orange fruit needed later.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 253110293 photo 453142203 individual CC code cc0; photographer Vince Hale; image dHash difference 0; archived source SHA 37c26972172e07d5bcd764b07c295ff1dcea71fe; exact image source https://www.inaturalist.org/photos/453142203",
+      "taxon_review_evidence": "Original species record Diospyros virginiana linked to an original image and matching current inat photo of source taxon Diospyros virginiana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "6ff9eaca876c5dccf76952742b35cce5ab7b8bc8d4deffc4512d27ed7964c066"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2549c6cf6589c5b5f2122a28426302d6d50903e21c4273a41efcb4a993226caa",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

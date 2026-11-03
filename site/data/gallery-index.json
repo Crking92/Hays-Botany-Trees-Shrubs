@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 110,
-  "photo_count": 392,
+  "photo_species": 111,
+  "photo_count": 393,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -130,8 +130,8 @@
       "first_src": null
     },
     "diospyros-virginiana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/diospyros-virginiana/archived-6ff9eaca876c5dcc.jpg"
     },
     "elaeagnus-angustifolia": {
       "count": 3,

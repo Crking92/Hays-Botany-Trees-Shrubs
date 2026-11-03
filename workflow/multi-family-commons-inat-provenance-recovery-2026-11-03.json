@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Trees-Shrubs",
   "batch_key": "MULTIFAMILY_COMMONS_INAT_CC0_PROVENANCE_2026-11-03",
-  "checked_at": "2026-11-03T16:43:05.523322+00:00",
+  "checked_at": "2026-11-03T16:46:11.752544+00:00",
   "source_files": 320,
   "historical_cc0_deed_holds": 1,
   "selection_window": 15,
@@ -14,8 +14,8 @@
   "skipped_or_previously_published": {
     "not_a_confirmed_inat_imported_commons_hold": 319
   },
-  "new_installed": 0,
-  "held_checked": 1,
+  "new_installed": 1,
+  "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
@@ -26,8 +26,13 @@
       "archive_path": "migration/private-original-photo-holds/Ebenaceae/Diospyros/diospyros-virginiana/images/diospyros-virginiana-provisional-face.jpg",
       "git_blob_sha": "37c26972172e07d5bcd764b07c295ff1dcea71fe",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Source unavailable: HTTP Error 403: Forbidden"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Vince Hale",
+      "license": "CC0 1.0",
+      "source_page": "https://www.inaturalist.org/photos/453142203",
+      "taxon": "Diospyros virginiana",
+      "src": "media/diospyros-virginiana/archived-6ff9eaca876c5dcc.jpg",
+      "sha256": "6ff9eaca876c5dccf76952742b35cce5ab7b8bc8d4deffc4512d27ed7964c066"
     }
   ],
   "previous_batches": [
@@ -49,13 +54,30 @@
           "reason": "Current photo creator differs from original image CSV: no rights reserved"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-03T16:43:05.523322+00:00",
+      "selected_candidates": 1,
+      "new_installed": 0,
+      "held_checked": 1,
+      "records": [
+        {
+          "species_id": "diospyros-virginiana",
+          "family": "Ebenaceae",
+          "filename": "diospyros-virginiana-provisional-face.jpg",
+          "original_path": "content/taxa/Ebenaceae/Diospyros/diospyros-virginiana/images/diospyros-virginiana-provisional-face.jpg",
+          "archive_path": "migration/private-original-photo-holds/Ebenaceae/Diospyros/diospyros-virginiana/images/diospyros-virginiana-provisional-face.jpg",
+          "git_blob_sha": "37c26972172e07d5bcd764b07c295ff1dcea71fe",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Source unavailable: HTTP Error 403: Forbidden"
+        }
+      ]
     }
   ],
-  "batch_number": 2,
+  "batch_number": 3,
   "verified_but_not_installed": 0,
-  "held_by_reason": {
-    "Source unavailable: HTTP Error 403: Forbidden": 1
-  },
-  "cumulative_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
   "cumulative_held_reviewed": 2
 }
