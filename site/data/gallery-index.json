@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 126,
-  "photo_count": 493,
+  "photo_count": 538,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -146,43 +146,43 @@
       "first_src": "media/vaccinium-arboreum/archived-557e39039c1235aa.jpg"
     },
     "quercus-alba": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/quercus-alba/archived-73ffadc9d9e36dec.jpg"
     },
     "quercus-buckleyi": {
-      "count": 6,
+      "count": 11,
       "first_src": "media/quercus-buckleyi/archived-0442268f466abc5e.jpg"
     },
     "quercus-canbyi": {
-      "count": 2,
+      "count": 4,
       "first_src": "media/quercus-canbyi/archived-1762654c7b4a4bdd.jpg"
     },
     "quercus-fusiformis": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/quercus-fusiformis/archived-34f10bc3e2cf83b6.jpg"
     },
     "quercus-laceyi": {
-      "count": 5,
+      "count": 8,
       "first_src": "media/quercus-laceyi/archived-42e0e86827957505.jpg"
     },
     "quercus-lyrata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/quercus-lyrata/archived-555efe75fb7f47a2.jpg"
     },
     "quercus-macrocarpa": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/quercus-macrocarpa/01-nrcs-reference.jpg"
     },
     "quercus-marilandica": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/quercus-marilandica/01-foliage-reference.jpg"
     },
     "quercus-michauxii": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/quercus-michauxii/archived-7e2061032d988c66.jpg"
     },
     "quercus-muehlenbergii": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/quercus-muehlenbergii/01-leaves-acorns.jpg"
     },
     "quercus-nigra": {
