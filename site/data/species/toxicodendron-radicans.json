@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/toxicodendron-radicans/archived-7a42f644f109b9f2.jpg",
+      "creator": "Vince Hale",
+      "source_page": "https://www.inaturalist.org/photos/605496043",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "bffb899777f018ce74de35248be232ca427b31c2",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 5938281446 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/605496043/original.jpg; image-level license https://creativecommons.org/publicdomain/zero/1.0/; creator Vince Hale; dHash distance 0; archived source SHA bffb899777f018ce74de35248be232ca427b31c2; exact image source https://www.inaturalist.org/photos/605496043",
+      "taxon_review_evidence": "Original species record Toxicodendron radicans linked to an original image and matching current gbif photo of source taxon Toxicodendron radicans. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "7a42f644f109b9f20224ad5f9b0b22d1424b40dc0cf00f64786740624b08f5a4"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ed15a53654e4cf0164fe4ce5e6e8e30e1e4ede2183d44f0faeccd6f6be10f06a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

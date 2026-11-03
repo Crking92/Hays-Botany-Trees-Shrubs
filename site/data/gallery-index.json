@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 96,
-  "photo_count": 330,
+  "photo_species": 104,
+  "photo_count": 358,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -38,8 +38,8 @@
       "first_src": null
     },
     "toxicodendron-radicans": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/toxicodendron-radicans/archived-7a42f644f109b9f2.jpg"
     },
     "toxicodendron-radicans-subsp-rydbergii": {
       "count": 0,
@@ -62,7 +62,7 @@
       "first_src": null
     },
     "hydrocotyle-umbellata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/hydrocotyle-umbellata/archived-19bff58519c694e1.jpg"
     },
     "hydrocotyle-verticillata": {
@@ -134,7 +134,7 @@
       "first_src": null
     },
     "elaeagnus-angustifolia": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/elaeagnus-angustifolia/archived-9bfbeed0b3cdfe6b.jpg"
     },
     "arbutus-xalapensis": {
@@ -146,16 +146,16 @@
       "first_src": null
     },
     "quercus-alba": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/quercus-alba/archived-73ffadc9d9e36dec.jpg"
     },
     "quercus-buckleyi": {
       "count": 0,
       "first_src": null
     },
     "quercus-canbyi": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/quercus-canbyi/archived-1762654c7b4a4bdd.jpg"
     },
     "quercus-fusiformis": {
       "count": 0,
@@ -166,8 +166,8 @@
       "first_src": null
     },
     "quercus-lyrata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/quercus-lyrata/archived-555efe75fb7f47a2.jpg"
     },
     "quercus-macrocarpa": {
       "count": 3,
@@ -178,8 +178,8 @@
       "first_src": "media/quercus-marilandica/01-foliage-reference.jpg"
     },
     "quercus-michauxii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/quercus-michauxii/archived-7e2061032d988c66.jpg"
     },
     "quercus-muehlenbergii": {
       "count": 3,
@@ -194,8 +194,8 @@
       "first_src": null
     },
     "quercus-polymorpha": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/quercus-polymorpha/archived-704efdd42c0541d0.jpg"
     },
     "quercus-shumardii": {
       "count": 3,
@@ -214,12 +214,12 @@
       "first_src": null
     },
     "quercus-virginiana": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/quercus-virginiana/archived-a9d9937f77c0e791.jpg"
     },
     "garrya-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/garrya-lindheimeri/archived-aad74d9601864e56.jpg"
     },
     "ribes-aureum": {
       "count": 0,
@@ -242,7 +242,7 @@
       "first_src": null
     },
     "juglans-major": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/juglans-major/juglans-major-provisional-face.jpg"
     },
     "juglans-microcarpa": {
@@ -318,7 +318,7 @@
       "first_src": "media/crataegus-texana/inat-187782261.jpg"
     },
     "crataegus-viridis": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/crataegus-viridis/inat-480007023.jpeg"
     },
     "geum-canadense": {
@@ -334,19 +334,19 @@
       "first_src": "media/photinia-serratifolia/inat-622561424.jpg"
     },
     "prunus-angustifolia": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/prunus-angustifolia/prunus-angustifolia-provisional-face.jpg"
     },
     "prunus-caroliniana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/prunus-caroliniana/prunus-caroliniana-provisional-face.jpg"
     },
     "prunus-mexicana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/prunus-mexicana/prunus-mexicana-provisional-face.jpg"
     },
     "prunus-rivularis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/prunus-rivularis/prunus-rivularis-provisional-face.jpg"
     },
     "prunus-serotina": {
@@ -354,7 +354,7 @@
       "first_src": "media/prunus-serotina/inat-631453159.jpg"
     },
     "pyrus-calleryana": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/pyrus-calleryana/inat-478138224.jpg"
     },
     "rhaphiolepis-indica": {
@@ -414,7 +414,7 @@
       "first_src": "media/cardiospermum-halicacabum/cardiospermum-halicacabum-habit-fruit-commons.jpg"
     },
     "koelreuteria-paniculata": {
-      "count": 6,
+      "count": 8,
       "first_src": "media/koelreuteria-paniculata/inat-357513921.jpeg"
     },
     "sapindus-drummondii": {
@@ -446,7 +446,7 @@
       "first_src": "media/symplocos-tinctoria/inat-628034120.jpg"
     },
     "tamarix-aphylla": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/tamarix-aphylla/inat-284295297.jpg"
     },
     "tamarix-ramosissima": {
@@ -458,11 +458,11 @@
       "first_src": "media/planera-aquatica/inat-625448827.jpg"
     },
     "ulmus-alata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/ulmus-alata/inat-408285343.jpeg"
     },
     "ulmus-americana": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/ulmus-americana/ulmus-americana-leaves-samaras.png"
     },
     "ulmus-crassifolia": {
@@ -470,7 +470,7 @@
       "first_src": "media/ulmus-crassifolia/ulmus-crassifolia-leaves.jpeg"
     },
     "ulmus-parvifolia": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/ulmus-parvifolia/ulmus-parvifolia-bark.jpg"
     },
     "ulmus-rubra": {

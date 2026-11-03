@@ -81,8 +81,8 @@
       "genus": "Toxicodendron",
       "scientific_name": "Toxicodendron radicans",
       "common_name": "Poison ivy",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "toxicodendron-radicans-subsp-rydbergii",
@@ -135,7 +135,7 @@
       "genus": "Hydrocotyle",
       "scientific_name": "Hydrocotyle umbellata",
       "common_name": "Manyflower marshpennywort",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -297,7 +297,7 @@
       "genus": "Elaeagnus",
       "scientific_name": "Elaeagnus angustifolia",
       "common_name": "Russian olive",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -324,8 +324,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus alba",
       "common_name": "White oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-buckleyi",
@@ -342,8 +342,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus canbyi",
       "common_name": "Canby oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-fusiformis",
@@ -369,8 +369,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus lyrata",
       "common_name": "Overcup oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-macrocarpa",
@@ -396,8 +396,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus michauxii",
       "common_name": "Swamp chestnut oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-muehlenbergii",
@@ -432,8 +432,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus polymorpha",
       "common_name": "Mexican white oak / Monterrey oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-shumardii",
@@ -477,8 +477,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus virginiana",
       "common_name": "Southern live oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "garrya-lindheimeri",
@@ -486,8 +486,8 @@
       "genus": "Garrya",
       "scientific_name": "Garrya lindheimeri",
       "common_name": "Lindheimer's silktassel",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ribes-aureum",
@@ -540,7 +540,7 @@
       "genus": "Juglans",
       "scientific_name": "Juglans major",
       "common_name": "Arizona Walnut / Arizona Black Walnut",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -711,7 +711,7 @@
       "genus": "Crataegus",
       "scientific_name": "Crataegus viridis",
       "common_name": "Green hawthorn",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -747,7 +747,7 @@
       "genus": "Prunus",
       "scientific_name": "Prunus angustifolia",
       "common_name": "Chickasaw plum",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -756,7 +756,7 @@
       "genus": "Prunus",
       "scientific_name": "Prunus caroliniana",
       "common_name": "Carolina laurelcherry",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -765,7 +765,7 @@
       "genus": "Prunus",
       "scientific_name": "Prunus mexicana",
       "common_name": "Mexican plum",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -774,7 +774,7 @@
       "genus": "Prunus",
       "scientific_name": "Prunus rivularis",
       "common_name": "Creek plum",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -792,7 +792,7 @@
       "genus": "Pyrus",
       "scientific_name": "Pyrus calleryana",
       "common_name": "Callery pear",
-      "photo_count": 6,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -927,7 +927,7 @@
       "genus": "Koelreuteria",
       "scientific_name": "Koelreuteria paniculata",
       "common_name": "Goldenrain tree",
-      "photo_count": 6,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -999,7 +999,7 @@
       "genus": "Tamarix",
       "scientific_name": "Tamarix aphylla",
       "common_name": "Athel tamarisk",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1026,7 +1026,7 @@
       "genus": "Ulmus",
       "scientific_name": "Ulmus alata",
       "common_name": "Winged elm",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1035,7 +1035,7 @@
       "genus": "Ulmus",
       "scientific_name": "Ulmus americana",
       "common_name": "American elm",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1053,7 +1053,7 @@
       "genus": "Ulmus",
       "scientific_name": "Ulmus parvifolia",
       "common_name": "Chinese elm",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
