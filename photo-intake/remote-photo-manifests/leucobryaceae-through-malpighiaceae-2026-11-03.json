@@ -1,0 +1,32 @@
+{
+  "batch_id": "leucobryaceae-through-malpighiaceae-2026-11-03",
+  "family_zip": "Leucobryaceae through malpighiaceae.zip",
+  "zip_sha256": "c584cdef251720e71b4f7b8638da760bc95408b5eeeea66f23adc96c55aa0c53",
+  "library_backup": "NONE__OWNER_KEEP_ORIGINAL_IN_LAPTOP_ARCHIVED_FOLDER",
+  "sha256_checked_original_images": 5,
+  "exact_internal_duplicates": 0,
+  "species": [
+    "magnolia-grandiflora"
+  ],
+  "original_images": 5,
+  "photos_for_live_source_recheck": 4,
+  "records_base64": "ACd0lLUVnd2BlD933ijGqyRIEg/DJYmSuIhipGtJDS0y8+vTJluLI5MAABAFmGQJRMDNf7cyVdnHXAryqDUCrL/NLUMw2UwpM9h1m8WTCel/gqQBAAouScgGF2cvmbMG1mDvlvj6asQYuFTEc7ksTHNhIliwhyvHrMI1+0YAACWwJOAUrF5mn+9cw7ff+9GbPy2dMPF71wRaiD6Km5xvLvvYJfo2VmUA",
+  "source_metadata_credits": {
+    "170805704": "marilisaswain",
+    "268802148": "bwnfld",
+    "632300768": "eljefe01",
+    "661951669": "alex"
+  },
+  "offline_held_media": [
+    {
+      "species_id": "magnolia-grandiflora",
+      "sha256": "6900392e08f15b0c95e70035209814e9cc92dd65377139b71ca2b896ff645024",
+      "source": "http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=ce0f077d-22b0-4dd2-8dbb-f741bd4ad38e.JPG",
+      "recorded_license": "CC BY 4.0 (unverified exact specimen rights)",
+      "photographer": "The University of Texas at Austin",
+      "gbif_id": 6161282531,
+      "hold_reason": "Exact institutional specimen-image reuse permission not independently confirmed"
+    }
+  ],
+  "source_rights_holds": 1
+}
