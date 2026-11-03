@@ -1,4 +1,5 @@
 name: Verify all family photos are live and byte-identical on GitHub Pages
+# 2026-11-03: Recheck four Magnolia grandiflora originals from Leucobryaceae–Malpighiaceae batch.
 # 2026-11-03 verify exact live photo bytes and original credits after Marantaceae–Oleaceae source-checked release.
 # 2026-11-03 Oxalidaceae–Plumbaginaceae: audit current release, individual credits and exact live image bytes.
 on:
