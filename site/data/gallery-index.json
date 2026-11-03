@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 118,
-  "photo_count": 434,
+  "photo_species": 120,
+  "photo_count": 442,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -150,8 +150,8 @@
       "first_src": "media/quercus-alba/archived-73ffadc9d9e36dec.jpg"
     },
     "quercus-buckleyi": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/quercus-buckleyi/archived-0442268f466abc5e.jpg"
     },
     "quercus-canbyi": {
       "count": 2,
@@ -162,8 +162,8 @@
       "first_src": null
     },
     "quercus-laceyi": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/quercus-laceyi/archived-42e0e86827957505.jpg"
     },
     "quercus-lyrata": {
       "count": 1,
