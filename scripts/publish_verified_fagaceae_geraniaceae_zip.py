@@ -15,6 +15,8 @@ LICENSES={
 RECORD_SIZE=42
 # Only names already checked as direct synonyms, not broader unidentified look-alikes.
 SYNONYMS={
+ "quercus-sinuata-var-breviloba":{"quercus sinuata breviloba"}, # Direct rank-omitted label for the same Kew-accepted Quercus sinuata var. breviloba taxon: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:216410-2
+
  "philadelphus-texensis":{"philadelphus texensis ernestii"}, # Kew POWO accepted P. texensis var. ernestii (2016): https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77159226-1
 
  "camphora-officinarum":{"cinnamomum camphora"}, # Kew POWO accepted Camphora officinarum, homotypic synonym Cinnamomum camphora: https://powo.science.kew.org/taxon/77328940-1
