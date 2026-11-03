@@ -1,0 +1,43 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_HISTORICAL_REDIRECT_FIX_2026-11-03",
+  "checked_at": "2026-11-03T20:43:26.493826+00:00",
+  "source_files": 320,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 319
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "vitis-berlandieri",
+      "family": "Vitaceae",
+      "filename": "vitis-berlandieri-provisional-face.jpg",
+      "original_path": "content/taxa/Vitaceae/Vitis/vitis-berlandieri/images/vitis-berlandieri-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Vitaceae/Vitis/vitis-berlandieri/images/vitis-berlandieri-provisional-face.jpg",
+      "git_blob_sha": "012a56ea4e6da0735ee10ba783741b31cb35f37a",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Joachim Schmid",
+      "license": "CC BY 3.0 DE",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vitis_Berlandieri.JPG",
+      "taxon": "Vitis berlandieri",
+      "src": "media/vitis-berlandieri/archived-d1250131adb470fc.jpg",
+      "sha256": "d1250131adb470fccd1fd513dedab5ff699df0c12b0919e46146ddfcc8ada06e"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
