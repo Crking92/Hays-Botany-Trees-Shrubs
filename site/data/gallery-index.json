@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 85,
-  "photo_count": 280,
+  "photo_count": 285,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -290,7 +290,7 @@
       "first_src": null
     },
     "platanus-occidentalis": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/platanus-occidentalis/01-leaves.jpg"
     },
     "ceanothus-herbaceus": {
