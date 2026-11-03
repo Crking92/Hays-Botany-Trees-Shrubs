@@ -270,7 +270,7 @@
       "genus": "Cornus",
       "scientific_name": "Cornus drummondii",
       "common_name": "Roughleaf dogwood",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -324,7 +324,7 @@
       "genus": "Quercus",
       "scientific_name": "Quercus alba",
       "common_name": "White oak",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -396,7 +396,7 @@
       "genus": "Quercus",
       "scientific_name": "Quercus michauxii",
       "common_name": "Swamp chestnut oak",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -414,8 +414,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus nigra",
       "common_name": "Water oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-phellos",
@@ -423,8 +423,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus phellos",
       "common_name": "Willow oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-polymorpha",
@@ -882,7 +882,7 @@
       "genus": "Acer",
       "scientific_name": "Acer palmatum",
       "common_name": "Japanese maple",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1035,7 +1035,7 @@
       "genus": "Ulmus",
       "scientific_name": "Ulmus americana",
       "common_name": "American elm",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1053,7 +1053,7 @@
       "genus": "Ulmus",
       "scientific_name": "Ulmus parvifolia",
       "common_name": "Chinese elm",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

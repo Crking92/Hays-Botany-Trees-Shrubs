@@ -1,0 +1,116 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "phase": "Pl@ntNet exact image-source CC BY-SA 2.0 FR recheck",
+  "source_evidence": "https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf",
+  "checked_at": "2026-11-03T16:17:09.184795+00:00",
+  "candidate_pool": 9,
+  "selected": 9,
+  "published": 9,
+  "already_published": 0,
+  "held": 0,
+  "remaining_candidates": 0,
+  "previous_batches": [],
+  "records": [
+    {
+      "species_id": "acer-palmatum",
+      "original_path": "content/taxa/Sapindaceae/Acer/acer-palmatum/images/library-review015-d027d154b1b17e3.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Yushin Hozumi / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109964378",
+      "src": "media/acer-palmatum/plantnet-archive-0049660489fa1df4.jpg",
+      "sha256": "0049660489fa1df4e8afaf1641aea83e155f52335442b7ec3128249153f82e6c",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/7c792e9d1c10ed97936f743ae170e33ec25981b0 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Yushin Hozumi and media license field Yushin Hozumi (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob f4810dbc5f7dbf031c9147065f194eacfe09f081; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "cornus-drummondii",
+      "original_path": "content/taxa/Cornaceae/Cornus/cornus-drummondii/images/library-review011-67e3d4b6d7debc2.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Mark Watson / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110543645",
+      "src": "media/cornus-drummondii/plantnet-archive-89b4a164a4b3c5dc.jpg",
+      "sha256": "89b4a164a4b3c5dc7fb703a8adb4eeb10cac10c09ecee25de6f1ad591c80f42f",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/581766717aec3dedc08461c239affd494f509587 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Mark Watson and media license field Mark Watson (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob a0f62f0f251b24a69ca71ad60d0486ab6bf92bd4; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "quercus-alba",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-alba/images/library-review038-aacee43620d154e.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Raymond Cantwell / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110451822",
+      "src": "media/quercus-alba/plantnet-archive-ddabc3e2b021a602.jpg",
+      "sha256": "ddabc3e2b021a6023147b1b7c3c15c6021be3c04d26d281ccfa714dfc8da270b",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/50204ef73cfcfff47d753438eca78120129a513a of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Raymond Cantwell and media license field Raymond Cantwell (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 0bc69b561b1170931d0b48818d103dd2b145a128; same-image fingerprint distance 1"
+    },
+    {
+      "species_id": "quercus-michauxii",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-michauxii/images/library-review038-5398f15742253e5.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "martinesimmons / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110385959",
+      "src": "media/quercus-michauxii/plantnet-archive-3f2b2945a33074b1.jpg",
+      "sha256": "3f2b2945a33074b1b61c3b32f106e1f952995e157d976c35e4ea989babc953c2",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/4346e8ca87bcfad704e898729bed8b1b7d4223a8 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author martinesimmons and media license field martinesimmons (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob e12be7bcf937afc7dc098bde137b748303120b41; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "quercus-nigra",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-nigra/images/library-review038-80a89a37772df32.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "doyleistre / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110362722",
+      "src": "media/quercus-nigra/plantnet-archive-2b0d9ee6193380b9.jpg",
+      "sha256": "2b0d9ee6193380b92d441ed4f2947b5b6b3421c1a2150c1d44b3f488841113b6",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/f3bf7ad4494d8fe37c4e1db2c95dc724dcb4f0f5 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author doyleistre and media license field doyleistre (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob f22b9895180f9c4b0ea0e040e9fb1a9f479934c3; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "quercus-nigra",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-nigra/images/library-review038-ef438ccc9e062d2.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "doyleistre / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110296440",
+      "src": "media/quercus-nigra/plantnet-archive-6763a39bb2a340e6.jpg",
+      "sha256": "6763a39bb2a340e62be09e00d4408f2c06552c38b1a6dfb74e7f027edfa4797d",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/4440048af7d8e86132a34881c0198ea9a315d256 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author doyleistre and media license field doyleistre (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 772dd3b108978bbde2a61f4edfbf155c35481343; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "quercus-phellos",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-phellos/images/library-review038-f8f2f1366c75dd9.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Geotourist Freiburg / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110367299",
+      "src": "media/quercus-phellos/plantnet-archive-0e48dcb10b4a86ff.jpg",
+      "sha256": "0e48dcb10b4a86ff6b514b059b36d1ada9a22525579f39af18cae6d68fa694d6",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/750bbdb4a8dacdad6863a811baae766d0f2dd306 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Geotourist Freiburg and media license field Geotourist Freiburg (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob cf71e768e6b1a37ac6a223f578e853747d5d6079; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "ulmus-americana",
+      "original_path": "content/taxa/Ulmaceae/Ulmus/ulmus-americana/images/library-review012-d647b67a87e65fa.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Alex setetny / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110520574",
+      "src": "media/ulmus-americana/plantnet-archive-fbcfa3b166c1f6b7.jpg",
+      "sha256": "fbcfa3b166c1f6b74327e301f25ed20c60b10241a9503bd098ef86bbaee06cbe",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/ef8300dded9b520b4d4ab80a0f16ffc684ccf214 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Alex setetny and media license field Alex setetny (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob ccca586099cc2fdd17aaea09ba548fca9a2d7ae1; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "ulmus-parvifolia",
+      "original_path": "content/taxa/Ulmaceae/Ulmus/ulmus-parvifolia/images/library-review015-aadf77baa3fc215.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "takalani.nelu / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110470380",
+      "src": "media/ulmus-parvifolia/plantnet-archive-80aabcd9f53ced46.jpg",
+      "sha256": "80aabcd9f53ced465c81175d493b63013a9873be41db190ab4e3b4940a88a185",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/a637cbcf1ab2b589d612268e5354b0acd6cf035d of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author takalani.nelu and media license field takalani.nelu (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 41d134f4cb513d583a67fdbcee23e1a2a88699fb; same-image fingerprint distance 0"
+    }
+  ],
+  "cumulative_published": 9,
+  "held_by_reason": {}
+}

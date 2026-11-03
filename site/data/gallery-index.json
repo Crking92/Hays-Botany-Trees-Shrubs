@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 104,
-  "photo_count": 358,
+  "photo_species": 106,
+  "photo_count": 367,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 0,
@@ -122,7 +122,7 @@
       "first_src": "media/schaefferia-cuneifolia/archived-8a73e43b29f54722.jpg"
     },
     "cornus-drummondii": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/cornus-drummondii/cornus-drummondii-white-fruit-commons.jpg"
     },
     "diospyros-texana": {
@@ -146,7 +146,7 @@
       "first_src": null
     },
     "quercus-alba": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/quercus-alba/archived-73ffadc9d9e36dec.jpg"
     },
     "quercus-buckleyi": {
@@ -178,7 +178,7 @@
       "first_src": "media/quercus-marilandica/01-foliage-reference.jpg"
     },
     "quercus-michauxii": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/quercus-michauxii/archived-7e2061032d988c66.jpg"
     },
     "quercus-muehlenbergii": {
@@ -186,12 +186,12 @@
       "first_src": "media/quercus-muehlenbergii/01-leaves-acorns.jpg"
     },
     "quercus-nigra": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/quercus-nigra/plantnet-archive-2b0d9ee6193380b9.jpg"
     },
     "quercus-phellos": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/quercus-phellos/plantnet-archive-0e48dcb10b4a86ff.jpg"
     },
     "quercus-polymorpha": {
       "count": 2,
@@ -394,7 +394,7 @@
       "first_src": "media/acer-negundo/inat-620589428.jpg"
     },
     "acer-palmatum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/acer-palmatum/acer-palmatum-leaves-samaras-commons.jpg"
     },
     "acer-saccharinum": {
@@ -462,7 +462,7 @@
       "first_src": "media/ulmus-alata/inat-408285343.jpeg"
     },
     "ulmus-americana": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/ulmus-americana/ulmus-americana-leaves-samaras.png"
     },
     "ulmus-crassifolia": {
@@ -470,7 +470,7 @@
       "first_src": "media/ulmus-crassifolia/ulmus-crassifolia-leaves.jpeg"
     },
     "ulmus-parvifolia": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/ulmus-parvifolia/ulmus-parvifolia-bark.jpg"
     },
     "ulmus-rubra": {
