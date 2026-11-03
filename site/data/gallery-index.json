@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 115,
-  "photo_count": 402,
+  "photo_species": 116,
+  "photo_count": 412,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -258,12 +258,12 @@
       "first_src": "media/koeberlinia-spinosa/archived-d2130651ac33a348.jpg"
     },
     "camphora-officinarum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/camphora-officinarum/archived-a47d4dd2c2a5d5d0.jpg"
     },
     "lindera-benzoin": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/lindera-benzoin/inat-198643142.jpg"
     },
     "magnolia-grandiflora": {
       "count": 4,
