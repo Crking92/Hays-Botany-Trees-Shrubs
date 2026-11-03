@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 126,
-  "photo_count": 576,
+  "photo_count": 581,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -202,7 +202,7 @@
       "first_src": "media/quercus-shumardii/01-reference.jpg"
     },
     "quercus-sinuata-var-breviloba": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/quercus-sinuata-var-breviloba/archived-abf42d6dce910cd6.jpg"
     },
     "quercus-stellata": {
