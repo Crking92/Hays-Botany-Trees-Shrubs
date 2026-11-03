@@ -315,8 +315,8 @@
       "genus": "Vaccinium",
       "scientific_name": "Vaccinium arboreum",
       "common_name": "Sparkleberry / farkleberry",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-alba",
@@ -567,8 +567,8 @@
       "genus": "Koeberlinia",
       "scientific_name": "Koeberlinia spinosa",
       "common_name": "Crucifixion thorn",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "camphora-officinarum",

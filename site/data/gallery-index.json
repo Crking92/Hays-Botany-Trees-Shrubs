@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 112,
-  "photo_count": 396,
+  "photo_species": 114,
+  "photo_count": 398,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -142,8 +142,8 @@
       "first_src": null
     },
     "vaccinium-arboreum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/vaccinium-arboreum/archived-557e39039c1235aa.jpg"
     },
     "quercus-alba": {
       "count": 2,
@@ -254,8 +254,8 @@
       "first_src": "media/juglans-nigra/01-tree-habit.jpg"
     },
     "koeberlinia-spinosa": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/koeberlinia-spinosa/archived-d2130651ac33a348.jpg"
     },
     "camphora-officinarum": {
       "count": 1,
