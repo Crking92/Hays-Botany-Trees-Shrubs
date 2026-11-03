@@ -1,4 +1,5 @@
 name: Publish source-verified Fagaceae–Geraniaceae ZIP general photos
+# Retry only newly cleared Q. sinuata var. breviloba records; already published wave A and B images are deduplicated by source SHA.
 on:
   push:
     branches: [main]
