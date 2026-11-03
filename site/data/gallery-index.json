@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 120,
-  "photo_count": 446,
+  "photo_species": 122,
+  "photo_count": 477,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -222,39 +222,39 @@
       "first_src": "media/garrya-lindheimeri/archived-aad74d9601864e56.jpg"
     },
     "ribes-aureum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/ribes-aureum/inat-622630982.jpg"
     },
     "philadelphus-lewisii": {
       "count": 1,
       "first_src": "media/philadelphus-lewisii/archived-247986b2552b6b8e.jpg"
     },
     "philadelphus-texensis": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/philadelphus-texensis/archived-e6885a8c24eee9ed.jpg"
     },
     "carya-aquatica": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/carya-aquatica/archived-4247bfe447363693.jpg"
     },
     "carya-illinoinensis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/carya-illinoinensis/inat-624813257.jpg"
     },
     "juglans-major": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/juglans-major/juglans-major-provisional-face.jpg"
     },
     "juglans-microcarpa": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/juglans-microcarpa/archived-524f896fc45b85c6.jpg"
     },
     "juglans-nigra": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/juglans-nigra/01-tree-habit.jpg"
     },
     "koeberlinia-spinosa": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/koeberlinia-spinosa/archived-d2130651ac33a348.jpg"
     },
     "camphora-officinarum": {

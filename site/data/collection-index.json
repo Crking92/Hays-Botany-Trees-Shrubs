@@ -495,8 +495,8 @@
       "genus": "Ribes",
       "scientific_name": "Ribes aureum",
       "common_name": "Golden currant",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "philadelphus-lewisii",
@@ -513,7 +513,7 @@
       "genus": "Philadelphus",
       "scientific_name": "Philadelphus texensis",
       "common_name": "Texas mock orange",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -522,7 +522,7 @@
       "genus": "Carya",
       "scientific_name": "Carya aquatica",
       "common_name": "Water hickory",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -531,8 +531,8 @@
       "genus": "Carya",
       "scientific_name": "Carya illinoinensis",
       "common_name": "Pecan",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "juglans-major",
@@ -540,7 +540,7 @@
       "genus": "Juglans",
       "scientific_name": "Juglans major",
       "common_name": "Arizona Walnut / Arizona Black Walnut",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -549,7 +549,7 @@
       "genus": "Juglans",
       "scientific_name": "Juglans microcarpa",
       "common_name": "Little Walnut / Texas Walnut",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -558,7 +558,7 @@
       "genus": "Juglans",
       "scientific_name": "Juglans nigra",
       "common_name": "Black Walnut",
-      "photo_count": 3,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -567,7 +567,7 @@
       "genus": "Koeberlinia",
       "scientific_name": "Koeberlinia spinosa",
       "common_name": "Crucifixion thorn",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
