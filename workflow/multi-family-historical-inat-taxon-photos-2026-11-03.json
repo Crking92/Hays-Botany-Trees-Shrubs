@@ -1,0 +1,91 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_HISTORICAL_INAT_TAXON_PHOTOS_2026-11-03",
+  "checked_at": "2026-11-03T20:59:01.838001+00:00",
+  "source_files": 320,
+  "selection_window": 60,
+  "candidate_pool_with_usable_source_identifiers": 4,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 4,
+  "selected_by_lane": {
+    "taxon": 4
+  },
+  "skipped_or_previously_published": {
+    "already_in_original_source_review": 122,
+    "already_public_identical_bytes": 116,
+    "not_a_photo_specific_inat_taxon_reference": 72,
+    "no_matching_per_image_csv_row": 6
+  },
+  "new_installed": 3,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "quercus-buckleyi",
+      "family": "Fagaceae",
+      "filename": "01-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-buckleyi/images/01-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-buckleyi/images/01-curated-reference.jpg",
+      "git_blob_sha": "96dd5c39c6dfa50f8f04e9b508ab9fc154455f1f",
+      "lane": "taxon",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Linda Jo Conn",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/2530816",
+      "taxon": "Quercus buckleyi",
+      "src": "media/quercus-buckleyi/archived-b0372c6e92811706.jpg",
+      "sha256": "b0372c6e92811706ec42846aa598431ad72342774f0a54de94baf820a71c28c9"
+    },
+    {
+      "species_id": "quercus-buckleyi",
+      "family": "Fagaceae",
+      "filename": "02-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-buckleyi/images/02-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-buckleyi/images/02-curated-reference.jpg",
+      "git_blob_sha": "6d9a694dd9e000a4da11e55ae24f5558472207b7",
+      "lane": "taxon",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Eric Keith",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/11100866",
+      "taxon": "Quercus buckleyi",
+      "src": "media/quercus-buckleyi/archived-ee49ddae6c487419.jpg",
+      "sha256": "ee49ddae6c48741941b9623734c6da5948886136e9947ddd32827e1a6701ef54"
+    },
+    {
+      "species_id": "quercus-laceyi",
+      "family": "Fagaceae",
+      "filename": "01-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-laceyi/images/01-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-laceyi/images/01-curated-reference.jpg",
+      "git_blob_sha": "74c18f313abb5f2f122edab137870907630172a4",
+      "lane": "taxon",
+      "status": "HELD",
+      "reason": "Current taxon photo individual rights unsupported: None"
+    },
+    {
+      "species_id": "quercus-laceyi",
+      "family": "Fagaceae",
+      "filename": "02-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-laceyi/images/02-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-laceyi/images/02-curated-reference.jpg",
+      "git_blob_sha": "b179ce444433874206408cea7988c4d7a491ad97",
+      "lane": "taxon",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "eliotmiller",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/212927051",
+      "taxon": "Quercus laceyi",
+      "src": "media/quercus-laceyi/archived-8d042d3eca990dc9.jpg",
+      "sha256": "8d042d3eca990dc9efb8334752352f273e76ea416fd6fc88d5a75a68e8290218"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Current taxon photo individual rights unsupported: None": 1
+  },
+  "cumulative_installed": 3,
+  "cumulative_held_reviewed": 1
+}
