@@ -351,8 +351,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus fusiformis",
       "common_name": "Escarpment Live Oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-laceyi",
@@ -450,8 +450,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus sinuata var. breviloba",
       "common_name": "White Shin Oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-stellata",
@@ -459,8 +459,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus stellata",
       "common_name": "Post Oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-vaseyana",
@@ -468,8 +468,8 @@
       "genus": "Quercus",
       "scientific_name": "Quercus vaseyana",
       "common_name": "Vasey Oak",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "quercus-virginiana",
