@@ -46,8 +46,8 @@ jobs:
             git diff --cached --check
             git commit -m "Publish Campanulaceae-Cleomaceae source-cleared originals ($wave)"
             # Transfer large image objects only once before retries against changing main.
-            local temp_branch="photo-first-camp-${GITHUB_RUN_ID}-$wave"
-            git push origin "HEAD:refs/heads/$temp_branch"
+            # Replay approved source originals against latest main if another gallery job commits first.
+            # No transfer-branch push: GitHub App permissions prohibit creating branch history containing unrelated workflow changes.
             local success=0
             for attempt in $(seq 1 20); do
               if git push origin HEAD:main; then
@@ -69,7 +69,7 @@ jobs:
               git diff --cached --check
               git commit -m "Safely reapply source-cleared Campanulaceae-Cleomaceae photos ($wave)"
             done
-            git push origin --delete "$temp_branch" || true
+            # No temporary branch was created.
             if test "$success" -ne 1; then
               echo "Safe photo publication did not complete; original manifest retained for retry" >&2
               exit 1
