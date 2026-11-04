@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Trees-Shrubs",
   "batch_key": "MULTIFAMILY_OWNER_DISPLAY_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T02:04:57.624842+00:00",
+  "checked_at": "2026-11-04T02:10:56.439789+00:00",
   "source_files": 320,
   "selection_window": 15,
   "candidate_pool_with_usable_source_identifiers": 3,
@@ -13,8 +13,8 @@
   "skipped_or_previously_published": {
     "outside_exact_owner_permission_list": 317
   },
-  "new_installed": 0,
-  "held_checked": 3,
+  "new_installed": 3,
+  "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
@@ -25,8 +25,13 @@
       "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-michauxii/images/glass-root-596153691-first-photo.jpg",
       "git_blob_sha": "60ee76149dedf65a30baf320f68a4f99ade1acfd",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/596153691",
+      "taxon": "Quercus michauxii",
+      "src": "media/quercus-michauxii/archived-db19e458553a4c21.jpg",
+      "sha256": "db19e458553a4c2123e587d7cfffbee7e709b773ca0c9da6b728ed94f0001b73"
     },
     {
       "species_id": "quercus-nigra",
@@ -36,8 +41,13 @@
       "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-nigra/images/glass-root-596145502-first-photo.jpg",
       "git_blob_sha": "80ffde56f0e3b1c729ba5808910ecacc48c74a42",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/596145502",
+      "taxon": "Quercus nigra",
+      "src": "media/quercus-nigra/archived-2b54494895c1a335.jpg",
+      "sha256": "2b54494895c1a3354361294d36a16c7605a37f38cc5f770a8c43c3c16e0dbc1d"
     },
     {
       "species_id": "quercus-phellos",
@@ -47,16 +57,61 @@
       "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-phellos/images/glass-root-596153734-first-photo.jpg",
       "git_blob_sha": "60af75b13458b90febb53658e94bef2838f61052",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/596153734",
+      "taxon": "Quercus phellos",
+      "src": "media/quercus-phellos/archived-604f879e34eff5f6.jpg",
+      "sha256": "604f879e34eff5f6b092e9842991c6abb8e12c94f8faa623c89c3c524e134764"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-04T02:04:57.624842+00:00",
+      "selected_candidates": 3,
+      "new_installed": 0,
+      "held_checked": 3,
+      "records": [
+        {
+          "species_id": "quercus-michauxii",
+          "family": "Fagaceae",
+          "filename": "glass-root-596153691-first-photo.jpg",
+          "original_path": "content/taxa/Fagaceae/Quercus/quercus-michauxii/images/glass-root-596153691-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-michauxii/images/glass-root-596153691-first-photo.jpg",
+          "git_blob_sha": "60ee76149dedf65a30baf320f68a4f99ade1acfd",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        },
+        {
+          "species_id": "quercus-nigra",
+          "family": "Fagaceae",
+          "filename": "glass-root-596145502-first-photo.jpg",
+          "original_path": "content/taxa/Fagaceae/Quercus/quercus-nigra/images/glass-root-596145502-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-nigra/images/glass-root-596145502-first-photo.jpg",
+          "git_blob_sha": "80ffde56f0e3b1c729ba5808910ecacc48c74a42",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        },
+        {
+          "species_id": "quercus-phellos",
+          "family": "Fagaceae",
+          "filename": "glass-root-596153734-first-photo.jpg",
+          "original_path": "content/taxa/Fagaceae/Quercus/quercus-phellos/images/glass-root-596153734-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-phellos/images/glass-root-596153734-first-photo.jpg",
+          "git_blob_sha": "60af75b13458b90febb53658e94bef2838f61052",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
-  "held_by_reason": {
-    "Owner permission attribution not confirmed by exact photo": 3
-  },
-  "cumulative_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 3,
   "cumulative_held_reviewed": 3
 }

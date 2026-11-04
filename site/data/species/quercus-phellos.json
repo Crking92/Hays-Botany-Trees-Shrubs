@@ -141,6 +141,27 @@
       "source_review_evidence": "Live iNaturalist observation 344983279, photo 628635967, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f5c1814a1cffcec4e4bbb0863f10818bfc90c8d64e6ab24fe07aa6b13b6d64e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus phellos maps to indexed species quercus-phellos; specialist morphology and BONAP range deferred.",
       "sha256": "5f5c1814a1cffcec4e4bbb0863f10818bfc90c8d64e6ab24fe07aa6b13b6d64e"
+    },
+    {
+      "src": "media/quercus-phellos/archived-604f879e34eff5f6.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/596153734",
+      "source_page_is_exact": true,
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "license_url": "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md",
+      "source_blob_sha": "60af75b13458b90febb53658e94bef2838f61052",
+      "role": "Young narrow-leaved oak shoot; mature acorn and twig verification remain useful",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 328933138 photo 596153734 individual source license None; applicable owner site-display permission https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md; photographer (c) Calvin King, all rights reserved; image dHash difference 0; archived source SHA 60af75b13458b90febb53658e94bef2838f61052; exact image source https://www.inaturalist.org/photos/596153734",
+      "taxon_review_evidence": "Original species record Quercus phellos linked to an original image and matching current inat photo of source taxon Quercus phellos. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "604f879e34eff5f6b092e9842991c6abb8e12c94f8faa623c89c3c524e134764",
+      "site_display_only": true,
+      "public_reuse": false
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

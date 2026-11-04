@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 131,
-  "photo_count": 680,
+  "photo_count": 683,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -178,7 +178,7 @@
       "first_src": "media/quercus-marilandica/01-foliage-reference.jpg"
     },
     "quercus-michauxii": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/quercus-michauxii/archived-7e2061032d988c66.jpg"
     },
     "quercus-muehlenbergii": {
@@ -186,11 +186,11 @@
       "first_src": "media/quercus-muehlenbergii/01-leaves-acorns.jpg"
     },
     "quercus-nigra": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/quercus-nigra/plantnet-archive-2b0d9ee6193380b9.jpg"
     },
     "quercus-phellos": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/quercus-phellos/plantnet-archive-0e48dcb10b4a86ff.jpg"
     },
     "quercus-polymorpha": {
