@@ -1,0 +1,45 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_HISTORICAL_SOURCE_CARD_CC_2026-11-03",
+  "checked_at": "2026-11-04T03:07:52.542677+00:00",
+  "source_files": 320,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "original_historical_review_preserved": 122,
+    "already_public_identical_bytes": 176,
+    "no_specific_named_cc_license_and_author": 21
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "arbutus-xalapensis",
+      "family": "Ericaceae",
+      "filename": "public-inat-texas-madrone-751142077.jpg",
+      "original_path": "content/taxa/Ericaceae/Arbutus/arbutus-xalapensis/images/public-inat-texas-madrone-751142077.jpg",
+      "archive_path": "migration/private-original-photo-holds/Ericaceae/Arbutus/arbutus-xalapensis/images/public-inat-texas-madrone-751142077.jpg",
+      "git_blob_sha": "2cff652287eec18bc3744f9ed7de5a96e9d20023",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Eric Knight",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/751142077",
+      "taxon": "Arbutus xalapensis",
+      "src": "media/arbutus-xalapensis/archived-1f42c5f8b735995f.jpg",
+      "sha256": "1f42c5f8b735995fc76ce6a349a79b73c3e77541fdce2bb40922899c31ee47ef"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
