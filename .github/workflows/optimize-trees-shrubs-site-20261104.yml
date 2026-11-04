@@ -83,3 +83,5 @@ jobs:
 # Support documented regional Creative Commons licenses with exact CC license URL matches.
 
 # Correct exact country-ported CC license regex and rerun original-safe photo optimization.
+
+# Cover exact-source Spanish CC BY-SA 2.1 ES and other ported 2.1 versions.
