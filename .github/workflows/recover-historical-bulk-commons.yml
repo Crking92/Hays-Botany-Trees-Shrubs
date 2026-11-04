@@ -1,4 +1,5 @@
 name: Bulk recovery of archived historical Commons photos
+# Batch attempt 2026-11-04: test Commons-specific historical rights path
 on:
   push:
     branches: [main]
