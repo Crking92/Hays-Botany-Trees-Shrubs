@@ -98,7 +98,7 @@ def local_audit():
             )
             # Legacy Creative Commons ported licenses (e.g. CC BY-SA 3.0 RS)
             # must match their exact regional Creative Commons URL.
-            regional_match=re.fullmatch(r"CC (BY(?:-NC)?(?:-SA)?) (2\\.0|2\\.5|3\\.0) ([A-Z]{2})",label)
+            regional_match=re.fullmatch(r"CC (BY(?:-NC)?(?:-SA)?) (2\.0|2\.5|3\.0) ([A-Z]{2})",label)
             regional_cc=bool(regional_match) and (
                 photo.get("license_url")==
                 "https://creativecommons.org/licenses/"+

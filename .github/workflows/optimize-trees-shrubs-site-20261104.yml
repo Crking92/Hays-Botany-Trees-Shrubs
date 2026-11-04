@@ -81,3 +81,5 @@ jobs:
 # Keep owner-specific site display permission separate from Creative Commons NC flags.
 
 # Support documented regional Creative Commons licenses with exact CC license URL matches.
+
+# Correct exact country-ported CC license regex and rerun original-safe photo optimization.
