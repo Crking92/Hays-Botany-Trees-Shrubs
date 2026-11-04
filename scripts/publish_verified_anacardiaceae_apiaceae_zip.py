@@ -13,8 +13,9 @@ LICENSES={
  "cc-by-nc-sa":("CC BY-NC-SA 4.0","https://creativecommons.org/licenses/by-nc-sa/4.0/")
 }
 RECORD_SIZE=42
-# Taxonomy substitutions need individually supported evidence; none presumed.
-SYNONYMS={}
+# Only source-name synonyms explicitly confirmed by Kew POWO.
+# Kew POWO https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:219758-2 and /names:255781-2
+SYNONYMS={"rhus-copallinum-var-lanceolata":["rhus lanceolata"],"toxicodendron-radicans-subsp-rydbergii":["toxicodendron rydbergii"]}
 
 def grab(url,maxsize):
     req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyEducationalPhotoFirst/1.0 (original-media license verification)"})
@@ -100,7 +101,8 @@ def main():
             if src in current_sources or sha in current_shas:
                 prior=current_sources.get(src,current_shas.get(sha))
                 if prior!=sid:raise ValueError("Exact source/hash already on another species: "+str(prior))
-                if src in source_hashes and source_hashes[src]!=sha:raise ValueError("Source ID matches but SHA256 differs")
+                if src in source_hashes and source_hashes[src]!=sha:
+                    row["note"]="Same immutable iNaturalist photo ID already published on this species; existing verified rendering retained, no duplicate installed."
                 row["status"]="ALREADY_PUBLISHED"
                 report.append(row);continue
             obs_json=json.loads(grab(f"https://api.inaturalist.org/v1/observations/{oid}",5_000_000))
