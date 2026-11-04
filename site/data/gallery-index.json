@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 131,
-  "photo_count": 678,
+  "photo_count": 680,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -126,7 +126,7 @@
       "first_src": "media/cornus-drummondii/cornus-drummondii-white-fruit-commons.jpg"
     },
     "diospyros-texana": {
-      "count": 5,
+      "count": 7,
       "first_src": "media/diospyros-texana/inat-621275062.jpg"
     },
     "diospyros-virginiana": {
