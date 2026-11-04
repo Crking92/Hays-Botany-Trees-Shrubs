@@ -110,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "422f01f756afbd2c4378bfc79d94d0fde36379b2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +118,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342601041, photo 623928242, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d31cce1494dc0f9a1b7ac6568828b6bc0a4f6cdebf1c32d080c7b7f61c5a490a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus aromatica maps to indexed species rhus-aromatica (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d31cce1494dc0f9a1b7ac6568828b6bc0a4f6cdebf1c32d080c7b7f61c5a490a"
+      "sha256": "d31cce1494dc0f9a1b7ac6568828b6bc0a4f6cdebf1c32d080c7b7f61c5a490a",
+      "display_sha256": "9751df87c192197ffe452a3b622de82c583939759110991fad8a98d5ba67999c",
+      "display_blob_sha": "fe124a422ec9e3dc1ee63d8f1d0ceece66de9047",
+      "display_original_site_sha256": "d31cce1494dc0f9a1b7ac6568828b6bc0a4f6cdebf1c32d080c7b7f61c5a490a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-aromatica/inat-624747056.jpg",
@@ -129,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "35f4ea8551f190214a7dcc4784bcb809d1009977",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +142,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343016928, photo 624747056, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec84d16b56839744c73472c462dc0539dd6473f4734736b28eb79089c2a49e3a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus aromatica maps to indexed species rhus-aromatica (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ec84d16b56839744c73472c462dc0539dd6473f4734736b28eb79089c2a49e3a"
+      "sha256": "ec84d16b56839744c73472c462dc0539dd6473f4734736b28eb79089c2a49e3a",
+      "display_sha256": "d8dec1770b57c636ca54643596ab2c6d2d780a4e88ed3ab1135ab996abb69418",
+      "display_blob_sha": "f9b5b28464795d249380eefed1ef1970a061a7fd",
+      "display_original_site_sha256": "ec84d16b56839744c73472c462dc0539dd6473f4734736b28eb79089c2a49e3a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-aromatica/inat-647537660.jpg",
@@ -148,7 +158,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "14480a002b47a6c2c56741d69cfed8dd62723e8d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +166,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354992416, photo 647537660, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98169822df3710df5de52647df567aded1027ce841c64d944ad4635bcacecbb6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus aromatica maps to indexed species rhus-aromatica (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "98169822df3710df5de52647df567aded1027ce841c64d944ad4635bcacecbb6"
+      "sha256": "98169822df3710df5de52647df567aded1027ce841c64d944ad4635bcacecbb6",
+      "display_sha256": "a56d806f539f9fd49a5a4ab191948a67de258e4a3b74d2b3b3009f87c61052a7",
+      "display_blob_sha": "908d34d0ac019a5b5a60cb0ee148d46a4b884da9",
+      "display_original_site_sha256": "98169822df3710df5de52647df567aded1027ce841c64d944ad4635bcacecbb6",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-aromatica/inat-653963816.jpg",
@@ -167,7 +182,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "80b9e16a01c86d4043979681004f24746e5889f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -175,7 +190,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 358481281, photo 653963816, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 12e533383325c41cb7b676b00927f56a0f3029f05855a082b006c44ecaff07d8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus aromatica maps to indexed species rhus-aromatica (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "12e533383325c41cb7b676b00927f56a0f3029f05855a082b006c44ecaff07d8"
+      "sha256": "12e533383325c41cb7b676b00927f56a0f3029f05855a082b006c44ecaff07d8",
+      "display_sha256": "e1691a2f39f5c567f7b6bfb107c910d92fbbded3836a4f8da69e91304b9c1faa",
+      "display_blob_sha": "373dc29d8fba31e9228f4719beec95a901d5a8a0",
+      "display_original_site_sha256": "12e533383325c41cb7b676b00927f56a0f3029f05855a082b006c44ecaff07d8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

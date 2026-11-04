@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "415a6445f51277268b2616dc15c23f0cf4fee1b9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343665272, photo 626099693, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 115bb5392e7442f64ec3bb5d06baeac3df387a39f2acf24d2cd8b2b3f573d35e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ailanthus altissima maps to indexed species ailanthus-altissima; specialist morphology and BONAP range deferred.",
-      "sha256": "115bb5392e7442f64ec3bb5d06baeac3df387a39f2acf24d2cd8b2b3f573d35e"
+      "sha256": "115bb5392e7442f64ec3bb5d06baeac3df387a39f2acf24d2cd8b2b3f573d35e",
+      "display_sha256": "5250a905459c15a515caa5be6715e7fae98592ba4929f909b7865ad797f08877",
+      "display_blob_sha": "8a49e7a9fe64b86d200b4c5b3754fdf580a1038e",
+      "display_original_site_sha256": "115bb5392e7442f64ec3bb5d06baeac3df387a39f2acf24d2cd8b2b3f573d35e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ailanthus-altissima/inat-629683931.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c08286452f812173ed768e8118d08ec18d83c023",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345515215, photo 629683931, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cfc06f0159d3d9981ecd3951914bd35def5a8b6f43e48af4ed2d59793dc5a302.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ailanthus altissima maps to indexed species ailanthus-altissima; specialist morphology and BONAP range deferred.",
-      "sha256": "cfc06f0159d3d9981ecd3951914bd35def5a8b6f43e48af4ed2d59793dc5a302"
+      "sha256": "cfc06f0159d3d9981ecd3951914bd35def5a8b6f43e48af4ed2d59793dc5a302",
+      "display_sha256": "7bbe0a71fa1289d6fe6d16d11cb6caad180231decf3c661a83681ec3dcf00730",
+      "display_blob_sha": "6f9e869c6175f61f3fce3feb5ffbacd534c042e3",
+      "display_original_site_sha256": "cfc06f0159d3d9981ecd3951914bd35def5a8b6f43e48af4ed2d59793dc5a302",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ailanthus-altissima/inat-637844301.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "efc1d7b58a985939d0b8d4a1970f4d4f95793747",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349641271, photo 637844301, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 90841e4aee455796c720cd9c1a36f1177007d344dc169add265cdf4bc95cdb7e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ailanthus altissima maps to indexed species ailanthus-altissima; specialist morphology and BONAP range deferred.",
-      "sha256": "90841e4aee455796c720cd9c1a36f1177007d344dc169add265cdf4bc95cdb7e"
+      "sha256": "90841e4aee455796c720cd9c1a36f1177007d344dc169add265cdf4bc95cdb7e",
+      "display_sha256": "0564bf1aa03c7f28f5108a0b72de1efebe39b9f8556d04e4420df86e39743ee4",
+      "display_blob_sha": "9a7b9eadbd16262bc08e8e80fb6608206d56ab80",
+      "display_original_site_sha256": "90841e4aee455796c720cd9c1a36f1177007d344dc169add265cdf4bc95cdb7e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ailanthus-altissima/inat-643825021.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1118881dd38b53dc9eb4ec511413eae953237772",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 352803322, photo 643825021, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7eff568f83ae09b0fa95528b5e4b6e8cab65cb2cc998ffe844e177162f0880d8.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ailanthus altissima maps to indexed species ailanthus-altissima; specialist morphology and BONAP range deferred.",
-      "sha256": "7eff568f83ae09b0fa95528b5e4b6e8cab65cb2cc998ffe844e177162f0880d8"
+      "sha256": "7eff568f83ae09b0fa95528b5e4b6e8cab65cb2cc998ffe844e177162f0880d8",
+      "display_sha256": "3ca916665a44b8b8a515a1700b31ffc8cc42f43cbea62ce7b5faebd07caa65d8",
+      "display_blob_sha": "714c2296f4110992202f7607f592e009d28b96b5",
+      "display_original_site_sha256": "7eff568f83ae09b0fa95528b5e4b6e8cab65cb2cc998ffe844e177162f0880d8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ailanthus-altissima/inat-653218705.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "68298c2d36d39b5a9b587ba005703ab836abfea2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 358102953, photo 653218705, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f593a2e706ef2454aa3605ea9ea20a9a7744c93d23f225a5258ecc2b850fd3c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ailanthus altissima maps to indexed species ailanthus-altissima; specialist morphology and BONAP range deferred.",
-      "sha256": "0f593a2e706ef2454aa3605ea9ea20a9a7744c93d23f225a5258ecc2b850fd3c"
+      "sha256": "0f593a2e706ef2454aa3605ea9ea20a9a7744c93d23f225a5258ecc2b850fd3c",
+      "display_sha256": "481927432bf86fd4fcded463fafcc765d0e25d7142029d0c6e808cc69fd7f6d2",
+      "display_blob_sha": "580e60f1c8d93683c9db03f893145d7d7df9b22e",
+      "display_original_site_sha256": "0f593a2e706ef2454aa3605ea9ea20a9a7744c93d23f225a5258ecc2b850fd3c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ailanthus-altissima/archived-a7da8a991dbf62ac.jpg",

@@ -76,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3bd4486edbfa2bf2f058cf076901821f77462a70",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -84,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 13726318, photo 20225561, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: d96763aef25085c7788f1d2a46d375070b52200a19b2a43e8ac6411eeb121336. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera albiflora maps to indexed species lonicera-albiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "d96763aef25085c7788f1d2a46d375070b52200a19b2a43e8ac6411eeb121336"
+      "sha256": "d96763aef25085c7788f1d2a46d375070b52200a19b2a43e8ac6411eeb121336",
+      "display_sha256": "4e3377314c0ce3e59656b84d5c85d76cad3f0f17422c32f964b3ef6a04b80524",
+      "display_blob_sha": "7db589912a65bfec66114a889d53b5e9d31ab0fe",
+      "display_original_site_sha256": "d96763aef25085c7788f1d2a46d375070b52200a19b2a43e8ac6411eeb121336",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-albiflora/inat-207426341.jpg",
@@ -95,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "452d12dfdda302f65c4388672bbd9537dad149b9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 122510447, photo 207426341, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d00ef3657a07ff01bbdeb5c141559e20ca9f4ba6564ffe09abb6572010269ba0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera albiflora maps to indexed species lonicera-albiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "d00ef3657a07ff01bbdeb5c141559e20ca9f4ba6564ffe09abb6572010269ba0"
+      "sha256": "d00ef3657a07ff01bbdeb5c141559e20ca9f4ba6564ffe09abb6572010269ba0",
+      "display_sha256": "20ff09da62fdd52b3fb15e119e1fde68d48363d441920a3f3be65bd927292893",
+      "display_blob_sha": "caee8d554d368fa8c0c4c0a25fc58d53835a3f8d",
+      "display_original_site_sha256": "d00ef3657a07ff01bbdeb5c141559e20ca9f4ba6564ffe09abb6572010269ba0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-albiflora/inat-218202264.jpg",
@@ -114,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1f272c7ff0bf039295b8f8f1e7d284cf51c23983",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 128459621, photo 218202264, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d0eaf69a4840dfbdbd5fc0456801ac54daa2762e1248e4169b9c46df3f6e9eac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera albiflora maps to indexed species lonicera-albiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "d0eaf69a4840dfbdbd5fc0456801ac54daa2762e1248e4169b9c46df3f6e9eac"
+      "sha256": "d0eaf69a4840dfbdbd5fc0456801ac54daa2762e1248e4169b9c46df3f6e9eac",
+      "display_sha256": "4a458e7b13e8faf9e39f5566d5cadd095240d44b369d5c9fdacc97f82cc24e82",
+      "display_blob_sha": "cf3e5bdbb532f659e0243868dec1c7ccb325334f",
+      "display_original_site_sha256": "d0eaf69a4840dfbdbd5fc0456801ac54daa2762e1248e4169b9c46df3f6e9eac",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-albiflora/inat-583246956.jpg",
@@ -133,7 +148,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "707aace7073a201f1038fbd98b57338aa86d6c25",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +156,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 322410888, photo 583246956, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eedd534f061b62f8378e6fb587ae9cae94e4592966c80f0650092e23ed7294da. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera albiflora maps to indexed species lonicera-albiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "eedd534f061b62f8378e6fb587ae9cae94e4592966c80f0650092e23ed7294da"
+      "sha256": "eedd534f061b62f8378e6fb587ae9cae94e4592966c80f0650092e23ed7294da",
+      "display_sha256": "56917512fd092a4f7148c3526250743f8b83e1ac8e169bfc560aded2fc464fd0",
+      "display_blob_sha": "5b491605a5d290862383a56394d73c2b61f95b3f",
+      "display_original_site_sha256": "eedd534f061b62f8378e6fb587ae9cae94e4592966c80f0650092e23ed7294da",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-albiflora/inat-683494018.jpg",
@@ -152,7 +172,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a4857f43ae03ff08659e4ca2637066f094b1fb96",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +180,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 373981973, photo 683494018, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: c38d816576f7337d09360631aebb27cf332bce25b9d2256d926e8e1ff2b74359. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera albiflora maps to indexed species lonicera-albiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "c38d816576f7337d09360631aebb27cf332bce25b9d2256d926e8e1ff2b74359"
+      "sha256": "c38d816576f7337d09360631aebb27cf332bce25b9d2256d926e8e1ff2b74359",
+      "display_sha256": "3e7d1bb20de7a2b119d0ec3c7936ea98f0dbdb66778549e79155dc4661b9db67",
+      "display_blob_sha": "2a49f65fb6111ca3938b3b47fcfa3707f50c038f",
+      "display_original_site_sha256": "c38d816576f7337d09360631aebb27cf332bce25b9d2256d926e8e1ff2b74359",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

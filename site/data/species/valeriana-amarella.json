@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "34db073ca6f623d7ac4a31068899c4bc910b2975",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347158144, photo 632939252, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9b59537d7f0a69c54bd3b6b265944af3063ee1f82c4a2aa094566591e0624014. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Valerianella amarella maps to indexed species valeriana-amarella; specialist morphology and BONAP range deferred.",
-      "sha256": "9b59537d7f0a69c54bd3b6b265944af3063ee1f82c4a2aa094566591e0624014"
+      "sha256": "9b59537d7f0a69c54bd3b6b265944af3063ee1f82c4a2aa094566591e0624014",
+      "display_sha256": "7828b396fb79814db40f92adba9c4464a8246f6908cc1c4242aa4bf8f6f91167",
+      "display_blob_sha": "5b9889f4a5cbefcbd2e65c189f70b982c94aaee9",
+      "display_original_site_sha256": "9b59537d7f0a69c54bd3b6b265944af3063ee1f82c4a2aa094566591e0624014",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/valeriana-amarella/inat-634296408.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7bc7026f2609c5cc71720cdcb77df5937362c30b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347844221, photo 634296408, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 55cd794da60245e7d92c96a7f0d99e3b98369ba313a8a47e350d659a50cdaa0e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Valerianella amarella maps to indexed species valeriana-amarella; specialist morphology and BONAP range deferred.",
-      "sha256": "55cd794da60245e7d92c96a7f0d99e3b98369ba313a8a47e350d659a50cdaa0e"
+      "sha256": "55cd794da60245e7d92c96a7f0d99e3b98369ba313a8a47e350d659a50cdaa0e",
+      "display_sha256": "260584166c2caf80c6bea8f5141e915fcb1c291f878f856e3899fac11f059207",
+      "display_blob_sha": "4387018c504906fcc0a5a9aa0dfb1e29a5c029d2",
+      "display_original_site_sha256": "55cd794da60245e7d92c96a7f0d99e3b98369ba313a8a47e350d659a50cdaa0e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/valeriana-amarella/inat-645625613.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "111d73a63a30f40799415311a268bf1f9679a579",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353879462, photo 645625613, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e4043b3f60b3d33907d88b0cc60a84d544baee71c665fc789dfb28c868e13462. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Valerianella amarella maps to indexed species valeriana-amarella; specialist morphology and BONAP range deferred.",
-      "sha256": "e4043b3f60b3d33907d88b0cc60a84d544baee71c665fc789dfb28c868e13462"
+      "sha256": "e4043b3f60b3d33907d88b0cc60a84d544baee71c665fc789dfb28c868e13462",
+      "display_sha256": "4feb0bb1ddb66f1208aa534e694e4082970f757e2ed69beaa389f9fb1a7bd658",
+      "display_blob_sha": "3b725cd12e102d68ea0d3b86a756a6e7aff40b1a",
+      "display_original_site_sha256": "e4043b3f60b3d33907d88b0cc60a84d544baee71c665fc789dfb28c868e13462",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/valeriana-amarella/inat-646569293.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "21fdffb045adb2c2821797f6ec81f3a140d353d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354431245, photo 646569293, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 764c456646791aa5c4c1b8904d37cf2a52902eed1d0158d228f94c98b2b9506b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Valerianella amarella maps to indexed species valeriana-amarella; specialist morphology and BONAP range deferred.",
-      "sha256": "764c456646791aa5c4c1b8904d37cf2a52902eed1d0158d228f94c98b2b9506b"
+      "sha256": "764c456646791aa5c4c1b8904d37cf2a52902eed1d0158d228f94c98b2b9506b",
+      "display_sha256": "0c4cae326d7d80ab21d79d90c8c284d53eea073d3758fce8f9aee63338d50992",
+      "display_blob_sha": "5368a07b4cdae66a487570299df9e67be5726093",
+      "display_original_site_sha256": "764c456646791aa5c4c1b8904d37cf2a52902eed1d0158d228f94c98b2b9506b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/valeriana-amarella/inat-653219194.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "85d3c3dcb98dd065b441cc17841c88f6a95c734b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 358100969, photo 653219194, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 64e976f802fddcc0265d956d1323236d7d5fa23c80b5543fdd2b3d0f52460004. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Valerianella amarella maps to indexed species valeriana-amarella; specialist morphology and BONAP range deferred.",
-      "sha256": "64e976f802fddcc0265d956d1323236d7d5fa23c80b5543fdd2b3d0f52460004"
+      "sha256": "64e976f802fddcc0265d956d1323236d7d5fa23c80b5543fdd2b3d0f52460004",
+      "display_sha256": "a061838b94901db36331de1a51f3f95a316100cd6b2fbdc10900688c2299e8fa",
+      "display_blob_sha": "050f8051c59316f3db4e62111b63981469270fe2",
+      "display_original_site_sha256": "64e976f802fddcc0265d956d1323236d7d5fa23c80b5543fdd2b3d0f52460004",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

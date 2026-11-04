@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6452318095ab1c378d1788bde8ebad310d579d5e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342504394, photo 623734072, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f342959e0ac6f49d7c04e174263cdff7eebccfcbeedb028299df1a72b1464dd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis laevigata maps to indexed species celtis-laevigata; specialist morphology and BONAP range deferred.",
-      "sha256": "9f342959e0ac6f49d7c04e174263cdff7eebccfcbeedb028299df1a72b1464dd"
+      "sha256": "9f342959e0ac6f49d7c04e174263cdff7eebccfcbeedb028299df1a72b1464dd",
+      "display_sha256": "5649755d5390c4dc73ed183867c8c806047fbafe28315986be91bc68a6c655b9",
+      "display_blob_sha": "9759b7f6253bbcc7fa95276cfc49cdf6898e3947",
+      "display_original_site_sha256": "9f342959e0ac6f49d7c04e174263cdff7eebccfcbeedb028299df1a72b1464dd",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-laevigata/inat-624023991.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b804f9d41a3aaf7722625e6e74b04c2c3de6223d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342648916, photo 624023991, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aa8ae4f556f5358e41d098f6e386673b86ab3d64583a9d5a808165dd58580136. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis laevigata maps to indexed species celtis-laevigata; specialist morphology and BONAP range deferred.",
-      "sha256": "aa8ae4f556f5358e41d098f6e386673b86ab3d64583a9d5a808165dd58580136"
+      "sha256": "aa8ae4f556f5358e41d098f6e386673b86ab3d64583a9d5a808165dd58580136",
+      "display_sha256": "d68bd0949d6e12f357112e4e2dcf18ddb8ee62abaed1b0d4939b39dd3225e840",
+      "display_blob_sha": "ffb31cc2c26925dbeb792c2ab12ea17b6d3a11a9",
+      "display_original_site_sha256": "aa8ae4f556f5358e41d098f6e386673b86ab3d64583a9d5a808165dd58580136",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-laevigata/inat-630118187.jpg",
@@ -126,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fa210a43af84e55e26608f6c4f8b00cf8bf4ff7a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345735599, photo 630118187, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 870b4f48b8ef4198e48b2463ec36564621912913b4167e5514dd93e543ed38b0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis laevigata maps to indexed species celtis-laevigata; specialist morphology and BONAP range deferred.",
-      "sha256": "870b4f48b8ef4198e48b2463ec36564621912913b4167e5514dd93e543ed38b0"
+      "sha256": "870b4f48b8ef4198e48b2463ec36564621912913b4167e5514dd93e543ed38b0",
+      "display_sha256": "1778e00da8b84b534c90200f2e0f71ef6bafefa9ee87f8f1d7ea1f4ec8321939",
+      "display_blob_sha": "1972eeb1b06af9b16edf577463e6d4134878c755",
+      "display_original_site_sha256": "870b4f48b8ef4198e48b2463ec36564621912913b4167e5514dd93e543ed38b0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-laevigata/inat-631958153.jpg",
@@ -145,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "70389d9058a28eef0697e5cbaabee27ef7eb4614",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346665189, photo 631958153, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5d195d71cd9ee04c433234bc98695a5507237ffbbfc36a9cbf93a113d0ab2c8e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis laevigata maps to indexed species celtis-laevigata; specialist morphology and BONAP range deferred.",
-      "sha256": "5d195d71cd9ee04c433234bc98695a5507237ffbbfc36a9cbf93a113d0ab2c8e"
+      "sha256": "5d195d71cd9ee04c433234bc98695a5507237ffbbfc36a9cbf93a113d0ab2c8e",
+      "display_sha256": "81a820d0ab9646ed5075eb70e764f9c6280fbdfcef157b29a70fa9c818a51250",
+      "display_blob_sha": "e67d18916e85d9648e5b0d3c47b677191fda433c",
+      "display_original_site_sha256": "5d195d71cd9ee04c433234bc98695a5507237ffbbfc36a9cbf93a113d0ab2c8e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-laevigata/inat-655215714.jpg",
@@ -164,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "68756bbe55b91400d7541a113ff6becfa140387a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -172,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 359129896, photo 655215714, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 30ddfcd6c2332d4a42199d133d525e5ae51006072a8395b17d6ec94322d5fb8f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis laevigata maps to indexed species celtis-laevigata; specialist morphology and BONAP range deferred.",
-      "sha256": "30ddfcd6c2332d4a42199d133d525e5ae51006072a8395b17d6ec94322d5fb8f"
+      "sha256": "30ddfcd6c2332d4a42199d133d525e5ae51006072a8395b17d6ec94322d5fb8f",
+      "display_sha256": "0d9457b4c72d0ff6793064e5a7b06121d0fdcb9eb37f194f458a8f6e4e2e2a89",
+      "display_blob_sha": "d4ad573d6169e27c4ea0dc3c9977bdf4b4b86d38",
+      "display_original_site_sha256": "30ddfcd6c2332d4a42199d133d525e5ae51006072a8395b17d6ec94322d5fb8f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

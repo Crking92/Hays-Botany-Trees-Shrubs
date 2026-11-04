@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "111a0a674e257619edf86c22301b69d1eb6e97e0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 152367040, photo 263022164, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b282434c83b00e6824fdf8e0f06231425ab502fb2234fb1dd92fa0638951bd79.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ceanothus herbaceus maps to indexed species ceanothus-herbaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "b282434c83b00e6824fdf8e0f06231425ab502fb2234fb1dd92fa0638951bd79"
+      "sha256": "b282434c83b00e6824fdf8e0f06231425ab502fb2234fb1dd92fa0638951bd79",
+      "display_sha256": "53537a87b3ffe35e1099bb27df70b25a8d12ca83cfca8ce6c0ca15141ec34e3a",
+      "display_blob_sha": "cbfb36e6ef9ddaf6b57440b97381fab2d454986f",
+      "display_original_site_sha256": "b282434c83b00e6824fdf8e0f06231425ab502fb2234fb1dd92fa0638951bd79",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ceanothus-herbaceus/inat-358957207.jpeg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "0737b52c506f7ad3fcd2a8ad6806e313f4239d8f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 203187858, photo 358957207, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4c833cee94a0cab2d1176f959652363e4a481867718640f5bffd8b79c30c77c0.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ceanothus herbaceus maps to indexed species ceanothus-herbaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "4c833cee94a0cab2d1176f959652363e4a481867718640f5bffd8b79c30c77c0"
+      "sha256": "4c833cee94a0cab2d1176f959652363e4a481867718640f5bffd8b79c30c77c0",
+      "display_sha256": "38c896dfae9abb5e2ce6df950630b6a3d1deae212f35c210dd8e8efc7c7b9642",
+      "display_blob_sha": "1751a07f46b877cac2530f312f861400b6d11a59",
+      "display_original_site_sha256": "4c833cee94a0cab2d1176f959652363e4a481867718640f5bffd8b79c30c77c0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ceanothus-herbaceus/inat-621004278.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b23b217276c9e84fa3411ac91d826ecc71c1adcd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341163929, photo 621004278, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 37a292ac371de85dd26a2f3947e6db77b7452b68d3d816e9dca1cea5f7283742.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ceanothus herbaceus maps to indexed species ceanothus-herbaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "37a292ac371de85dd26a2f3947e6db77b7452b68d3d816e9dca1cea5f7283742"
+      "sha256": "37a292ac371de85dd26a2f3947e6db77b7452b68d3d816e9dca1cea5f7283742",
+      "display_sha256": "c38f05d28fb44710701a395e582fd42506c0651b3b02dd1d617214960f59c08a",
+      "display_blob_sha": "d006d8328b365012face4ed550d68c773f126bd0",
+      "display_original_site_sha256": "37a292ac371de85dd26a2f3947e6db77b7452b68d3d816e9dca1cea5f7283742",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ceanothus-herbaceus/inat-633384164.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8e4c6557fc0d6ff4dd6ecc496c5e53f80ae24397",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347386244, photo 633384164, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3b1d5e9e67343977e9f41750492b3697669d85917575ce59d3688a816c351b0b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ceanothus herbaceus maps to indexed species ceanothus-herbaceus; specialist morphology and BONAP range deferred.",
-      "sha256": "3b1d5e9e67343977e9f41750492b3697669d85917575ce59d3688a816c351b0b"
+      "sha256": "3b1d5e9e67343977e9f41750492b3697669d85917575ce59d3688a816c351b0b",
+      "display_sha256": "8a364b2694cbd1a3c65bb39251578df256f11a6bc3dafae6e464676029be81e8",
+      "display_blob_sha": "1635cf73e939d19cc79ef935a3c801c9c79c4712",
+      "display_original_site_sha256": "3b1d5e9e67343977e9f41750492b3697669d85917575ce59d3688a816c351b0b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

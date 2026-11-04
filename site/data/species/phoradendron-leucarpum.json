@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "593a004418a8777487997601d5619dab8d614a32",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342819346, photo 624350643, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 11eeac1cc562be56cc0c76993208adde873bb90176a66f8740a924ae8752f76d.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phoradendron leucarpum maps to indexed species phoradendron-leucarpum; specialist morphology and BONAP range deferred.",
-      "sha256": "11eeac1cc562be56cc0c76993208adde873bb90176a66f8740a924ae8752f76d"
+      "sha256": "11eeac1cc562be56cc0c76993208adde873bb90176a66f8740a924ae8752f76d",
+      "display_sha256": "64a614398cb821d203f148d95288297ebe956ba94ae2d7780f0d68622e119583",
+      "display_blob_sha": "f6943dee761d9c85a0c4247dc06099ed6372ede6",
+      "display_original_site_sha256": "11eeac1cc562be56cc0c76993208adde873bb90176a66f8740a924ae8752f76d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phoradendron-leucarpum/inat-629257938.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a8226fc0d3183a8a57a09eb44a574617174dca4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345297612, photo 629257938, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8c374e4113d71124828d77010f944786cec212265d21e525525bf4a8353b1684.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phoradendron leucarpum maps to indexed species phoradendron-leucarpum; specialist morphology and BONAP range deferred.",
-      "sha256": "8c374e4113d71124828d77010f944786cec212265d21e525525bf4a8353b1684"
+      "sha256": "8c374e4113d71124828d77010f944786cec212265d21e525525bf4a8353b1684",
+      "display_sha256": "08b9fd3cce6db73a2ba80669a757397d74ca248c1c1cd01cc00366b1ae9e7453",
+      "display_blob_sha": "5b16ea869aee6c961f9f225908ab25ce348ab526",
+      "display_original_site_sha256": "8c374e4113d71124828d77010f944786cec212265d21e525525bf4a8353b1684",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phoradendron-leucarpum/inat-630111461.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0031038d45f8e1c1a3e3237be3f42dab09b6ca93",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346884151, photo 632385154, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf6d44bb0ab3f14c6af505b9eeee154e61b1150d4d5ea91afbc18d26c4f8f0bf.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phoradendron leucarpum maps to indexed species phoradendron-leucarpum; specialist morphology and BONAP range deferred.",
-      "sha256": "cf6d44bb0ab3f14c6af505b9eeee154e61b1150d4d5ea91afbc18d26c4f8f0bf"
+      "sha256": "cf6d44bb0ab3f14c6af505b9eeee154e61b1150d4d5ea91afbc18d26c4f8f0bf",
+      "display_sha256": "340fc3b192c4df1605d215b8c31654c35794a99573767687b0bc8b7cbb662db1",
+      "display_blob_sha": "1cf9708644dd7bc2f5589330f8b0f99c11a1d7e3",
+      "display_original_site_sha256": "cf6d44bb0ab3f14c6af505b9eeee154e61b1150d4d5ea91afbc18d26c4f8f0bf",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phoradendron-leucarpum/inat-635818206.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "47587cb9311e00b752e17fe7e2ea606ff35b1a66",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348613395, photo 635818206, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 657fb0f9745ffea61a95891c8a149b74fe5097362c70097b65188a630918f312.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Phoradendron leucarpum maps to indexed species phoradendron-leucarpum; specialist morphology and BONAP range deferred.",
-      "sha256": "657fb0f9745ffea61a95891c8a149b74fe5097362c70097b65188a630918f312"
+      "sha256": "657fb0f9745ffea61a95891c8a149b74fe5097362c70097b65188a630918f312",
+      "display_sha256": "683b8d46a835c44966db65e088b100af0b9223b1ca6c9f5230b6ce9e257aa07c",
+      "display_blob_sha": "2532d9816ca31182a25c9435a020b2ebd3da2c08",
+      "display_original_site_sha256": "657fb0f9745ffea61a95891c8a149b74fe5097362c70097b65188a630918f312",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phoradendron-leucarpum/archived-2212712eadafe95d.jpg",

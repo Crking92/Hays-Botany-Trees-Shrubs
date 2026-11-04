@@ -84,7 +84,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "6f0376405ff502cfa0398701fbdb3bc3482d6569",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +92,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341771613, photo 622247056, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: 755bc4a1ca9f0306b446bfe277a566dab1aabc015859022afe0b1a3008912a20.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ungnadia speciosa maps to indexed species ungnadia-speciosa; specialist morphology and BONAP range deferred.",
-      "sha256": "755bc4a1ca9f0306b446bfe277a566dab1aabc015859022afe0b1a3008912a20"
+      "sha256": "755bc4a1ca9f0306b446bfe277a566dab1aabc015859022afe0b1a3008912a20",
+      "display_sha256": "e85e4e4ac51fdd13daab16f9f4cc97853601c6c2097ae8cda79d8a070eaaa5ec",
+      "display_blob_sha": "6b1ef6bee0797d6b9edca541be9b03eab56fe078",
+      "display_original_site_sha256": "755bc4a1ca9f0306b446bfe277a566dab1aabc015859022afe0b1a3008912a20",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ungnadia-speciosa/inat-623613700.jpg",
@@ -103,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7ac6151452eaa293a5a3c46e45cc79177e03d553",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +116,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342445902, photo 623613700, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1d87523a3081356155e435224461a2bcccad1345f6f20c24de7e3599c46f3e9b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ungnadia speciosa maps to indexed species ungnadia-speciosa; specialist morphology and BONAP range deferred.",
-      "sha256": "1d87523a3081356155e435224461a2bcccad1345f6f20c24de7e3599c46f3e9b"
+      "sha256": "1d87523a3081356155e435224461a2bcccad1345f6f20c24de7e3599c46f3e9b",
+      "display_sha256": "8adcedbfd54d1c52810a5fe48a1bb9643022836f0a847b4d9d04c6c03f6f0342",
+      "display_blob_sha": "723d81dfb84a7d574aebd551281fef6397415b32",
+      "display_original_site_sha256": "1d87523a3081356155e435224461a2bcccad1345f6f20c24de7e3599c46f3e9b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ungnadia-speciosa/inat-624102499.jpg",
@@ -122,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "83b9cde82b2f41e417cab20d9b044e0931cc5a05",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +140,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342687740, photo 624102499, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b866ae9aae1bc8b7344c9cb5d91077cc61ee8289650831fc24d55ba0994df6e2.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ungnadia speciosa maps to indexed species ungnadia-speciosa; specialist morphology and BONAP range deferred.",
-      "sha256": "b866ae9aae1bc8b7344c9cb5d91077cc61ee8289650831fc24d55ba0994df6e2"
+      "sha256": "b866ae9aae1bc8b7344c9cb5d91077cc61ee8289650831fc24d55ba0994df6e2",
+      "display_sha256": "0ea09c1901c50d785fd4aa2d510a67bdbb22b572cfc36949a20df7dbcfd682ce",
+      "display_blob_sha": "78311f352e8924c53c71718e0a8d0cfee4f527ce",
+      "display_original_site_sha256": "b866ae9aae1bc8b7344c9cb5d91077cc61ee8289650831fc24d55ba0994df6e2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ungnadia-speciosa/inat-624326893.jpg",
@@ -141,7 +156,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d18398b3b2ff602f1ca9cdf416882fca7cf19d9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -149,7 +164,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342807267, photo 624326893, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e3240ddffb15814cbda0c99ddd4a9affa068cd54df74c83ff1fcc097e521c54c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ungnadia speciosa maps to indexed species ungnadia-speciosa; specialist morphology and BONAP range deferred.",
-      "sha256": "e3240ddffb15814cbda0c99ddd4a9affa068cd54df74c83ff1fcc097e521c54c"
+      "sha256": "e3240ddffb15814cbda0c99ddd4a9affa068cd54df74c83ff1fcc097e521c54c",
+      "display_sha256": "0bf9847a26b592686cda7d60d1cb7bb3b38111950d0cebaef14ef049e31c598a",
+      "display_blob_sha": "fb4961c0500f032a90827fca04b2f84640da8f1d",
+      "display_original_site_sha256": "e3240ddffb15814cbda0c99ddd4a9affa068cd54df74c83ff1fcc097e521c54c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ungnadia-speciosa/archived-724e732922873d45.jpg",

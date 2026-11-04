@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5a8c177088cd423d1a81a1545126af63a9161262",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Lauraceae–Lentibulariaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275224250, photo 494606918, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8c40370b146e17feafb00c7d2a7ebc75a9939979af0a942ca4eb86bab95f1558. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three species contact sheets inspected for obvious off-target organisms. Live source name Camphora officinarum maps to indexed species camphora-officinarum; specialist morphology and BONAP range deferred.",
-      "sha256": "8c40370b146e17feafb00c7d2a7ebc75a9939979af0a942ca4eb86bab95f1558"
+      "sha256": "8c40370b146e17feafb00c7d2a7ebc75a9939979af0a942ca4eb86bab95f1558",
+      "display_sha256": "daec0924f5e59075cc53b1290ba8486b0d5bffc7b6765c8a8854fb361c6864c7",
+      "display_blob_sha": "d21f0408285af0e0715b41db21a9c2de4435bbfe",
+      "display_original_site_sha256": "8c40370b146e17feafb00c7d2a7ebc75a9939979af0a942ca4eb86bab95f1558",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/camphora-officinarum/inat-497818934.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "676547dabcc78dbcb7e8d49b23b14dcbb74312ec",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Lauraceae–Lentibulariaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349299186, photo 637169799, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ddc9ca49ddc5499188e75a6e622d50f43ef53e4238129ef8dfc213dd9ac0458. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three species contact sheets inspected for obvious off-target organisms. Live source name Camphora officinarum maps to indexed species camphora-officinarum; specialist morphology and BONAP range deferred.",
-      "sha256": "6ddc9ca49ddc5499188e75a6e622d50f43ef53e4238129ef8dfc213dd9ac0458"
+      "sha256": "6ddc9ca49ddc5499188e75a6e622d50f43ef53e4238129ef8dfc213dd9ac0458",
+      "display_sha256": "6f4c52800b97465ea8223f983d6f5182a163f92878fdd9c7f5b8d593a13b4774",
+      "display_blob_sha": "cb1d5482c781dd55120532caef678ef884820051",
+      "display_original_site_sha256": "6ddc9ca49ddc5499188e75a6e622d50f43ef53e4238129ef8dfc213dd9ac0458",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/camphora-officinarum/inat-647080954.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2a218e2994f7c18b8bb8f7e343984bcacac701f9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Lauraceae–Lentibulariaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354734744, photo 647080954, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2a45854c9463465bccfa050c4ee26b54d66d2733ac546f6eb5a3ac9f0ae7e227. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three species contact sheets inspected for obvious off-target organisms. Live source name Camphora officinarum maps to indexed species camphora-officinarum; specialist morphology and BONAP range deferred.",
-      "sha256": "2a45854c9463465bccfa050c4ee26b54d66d2733ac546f6eb5a3ac9f0ae7e227"
+      "sha256": "2a45854c9463465bccfa050c4ee26b54d66d2733ac546f6eb5a3ac9f0ae7e227",
+      "display_sha256": "c0fa82da8c84d194dcdbf0fdb8de9edc93455e65a8d19a7147f3fca8e82cb911",
+      "display_blob_sha": "e35874bbc2989b503ac339cbec79f3bf2a4b6b8b",
+      "display_original_site_sha256": "2a45854c9463465bccfa050c4ee26b54d66d2733ac546f6eb5a3ac9f0ae7e227",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/camphora-officinarum/inat-677106106.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bb36931e8a8ed072c9e7b5a10baa75162420dd82",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Lauraceae–Lentibulariaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 370632805, photo 677106106, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7021ad150417939b210b99632a251300088e95078dade262bce6873429b88074. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three species contact sheets inspected for obvious off-target organisms. Live source name Camphora officinarum maps to indexed species camphora-officinarum; specialist morphology and BONAP range deferred.",
-      "sha256": "7021ad150417939b210b99632a251300088e95078dade262bce6873429b88074"
+      "sha256": "7021ad150417939b210b99632a251300088e95078dade262bce6873429b88074",
+      "display_sha256": "c2a9aae38ccba1b81b8cba73606cc24dacee053dc22946584ac687282e0b9e6e",
+      "display_blob_sha": "e428b9d556c327d06a366318dc3a9ac76f538f6a",
+      "display_original_site_sha256": "7021ad150417939b210b99632a251300088e95078dade262bce6873429b88074",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

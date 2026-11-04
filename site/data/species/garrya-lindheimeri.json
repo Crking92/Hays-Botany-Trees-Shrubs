@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "89e4f1c074e0566cc49ecf9e0451c98e721f5d57",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341414662, photo 621523477, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 340739470b0a2d863b64f8e06446c52dd641ba9ddae7c9a38cc9b21fea5767db. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Garrya lindheimeri maps to indexed species garrya-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "340739470b0a2d863b64f8e06446c52dd641ba9ddae7c9a38cc9b21fea5767db"
+      "sha256": "340739470b0a2d863b64f8e06446c52dd641ba9ddae7c9a38cc9b21fea5767db",
+      "display_sha256": "cabc857c644e2c2ee9d5eef9cd9cefe26bd7bc0d825985ca4dc90bcdf2e8b1cc",
+      "display_blob_sha": "2328710ae8378f92a7e6f79f9ee811e8067e2b70",
+      "display_original_site_sha256": "340739470b0a2d863b64f8e06446c52dd641ba9ddae7c9a38cc9b21fea5767db",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/garrya-lindheimeri/inat-622283509.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a4cb1b3d8cb0d9a93e57a2cbb410958537140982",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341788594, photo 622283509, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6a9627fe398bf3be7d1b3842246b4f3ab3fa6b194472792202adb8b25c454e53. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Garrya lindheimeri maps to indexed species garrya-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "6a9627fe398bf3be7d1b3842246b4f3ab3fa6b194472792202adb8b25c454e53"
+      "sha256": "6a9627fe398bf3be7d1b3842246b4f3ab3fa6b194472792202adb8b25c454e53",
+      "display_sha256": "6b2f2b0f187dbcf2522850529daaaa4562b9ed3092e3b2b61d442e78da13794b",
+      "display_blob_sha": "120955aaf8839904153502b269dfbc74789103ca",
+      "display_original_site_sha256": "6a9627fe398bf3be7d1b3842246b4f3ab3fa6b194472792202adb8b25c454e53",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/garrya-lindheimeri/inat-623383220.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69d3f9d1d6363e43451389d48c272809467c9b59",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342333851, photo 623383220, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 772bf21ac0643b128751c4778cf62b61ba47b4531acd65fec8a6a94081c89286. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Garrya lindheimeri maps to indexed species garrya-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "772bf21ac0643b128751c4778cf62b61ba47b4531acd65fec8a6a94081c89286"
+      "sha256": "772bf21ac0643b128751c4778cf62b61ba47b4531acd65fec8a6a94081c89286",
+      "display_sha256": "465beb30d268e78b5004ab2448c8fcb4586a9fb8f200a9d370e266de72e22414",
+      "display_blob_sha": "967a7d15c53021f59e32a24f219ef1d6fef5a1ea",
+      "display_original_site_sha256": "772bf21ac0643b128751c4778cf62b61ba47b4531acd65fec8a6a94081c89286",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/garrya-lindheimeri/inat-624746841.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "60e55b06ee58c01efb8be44ce7abbfa6c9b20599",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343016678, photo 624746841, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 346d368b3101dadb966d6d35d591cc3c457986832f120962e1ef2ba7764775ad. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Garrya lindheimeri maps to indexed species garrya-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "346d368b3101dadb966d6d35d591cc3c457986832f120962e1ef2ba7764775ad"
+      "sha256": "346d368b3101dadb966d6d35d591cc3c457986832f120962e1ef2ba7764775ad",
+      "display_sha256": "d28315ed15ff10274df63230c59a8eb0eb5eefcce3d13e52baef35e4beac571b",
+      "display_blob_sha": "1b26e86e72e2e7aa0e6c37d67df722f3f0064931",
+      "display_original_site_sha256": "346d368b3101dadb966d6d35d591cc3c457986832f120962e1ef2ba7764775ad",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/garrya-lindheimeri/inat-630251443.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "2bdb6e88d50ad497ec0a587a67789ca9b55f3cdf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345803959, photo 630251443, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 99a8836aca9cabc3bd9f0ebfdee9e5bea7055ee87253543ad4961c67af0ecd65. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Garrya lindheimeri maps to indexed species garrya-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "99a8836aca9cabc3bd9f0ebfdee9e5bea7055ee87253543ad4961c67af0ecd65"
+      "sha256": "99a8836aca9cabc3bd9f0ebfdee9e5bea7055ee87253543ad4961c67af0ecd65",
+      "display_sha256": "e5e418b7715cb215a478a9a3b4c21c8922724899dedf5750c1ce490c4d8daa83",
+      "display_blob_sha": "3d4d9100f545afb60a29f9e6d173377915a6b308",
+      "display_original_site_sha256": "99a8836aca9cabc3bd9f0ebfdee9e5bea7055ee87253543ad4961c67af0ecd65",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

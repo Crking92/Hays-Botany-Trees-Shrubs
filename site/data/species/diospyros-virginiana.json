@@ -64,7 +64,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da6cb10c0713f6855f066e5bb725fb1eebaed520",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -72,7 +72,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 359573862, photo 656059524, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1a6fe3ca48d9cc11332ea5128cbc4fefe0f305b9fc0ee47b891aa85450ce0db1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Diospyros virginiana maps to indexed species diospyros-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "1a6fe3ca48d9cc11332ea5128cbc4fefe0f305b9fc0ee47b891aa85450ce0db1"
+      "sha256": "1a6fe3ca48d9cc11332ea5128cbc4fefe0f305b9fc0ee47b891aa85450ce0db1",
+      "display_sha256": "76842efa3964a3d89bab525302a5c800db37e09a7323d210dd44fbef1b766bd8",
+      "display_blob_sha": "338379e4b8a81d90e94a4265f950dac66d02fd5e",
+      "display_original_site_sha256": "1a6fe3ca48d9cc11332ea5128cbc4fefe0f305b9fc0ee47b891aa85450ce0db1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diospyros-virginiana/inat-662288114.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "03d1561909ec6e6bdb24ffcb3eb0c1509f9ae82f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 363088541, photo 662751643, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5724a404224bc424578e935f7536c8e916026d3dcb71dc7891c8fad2b7e94e70. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Diospyros virginiana maps to indexed species diospyros-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "5724a404224bc424578e935f7536c8e916026d3dcb71dc7891c8fad2b7e94e70"
+      "sha256": "5724a404224bc424578e935f7536c8e916026d3dcb71dc7891c8fad2b7e94e70",
+      "display_sha256": "86bfdbf6abd23e1807d21d4168b1410139c43cdaacfbd6465c8f28f0170548bf",
+      "display_blob_sha": "4eb9f27532aa297b23250a0b6b3019f5b250ac55",
+      "display_original_site_sha256": "5724a404224bc424578e935f7536c8e916026d3dcb71dc7891c8fad2b7e94e70",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diospyros-virginiana/inat-67669228.jpeg",
@@ -140,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f93ca2a93c6918214ab40307f2349f28bafa41cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 373694587, photo 682960257, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c0fd216d2919bcec203a18012ba571860dc4477f43fcb535f8162634294e2ebd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Diospyros virginiana maps to indexed species diospyros-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "c0fd216d2919bcec203a18012ba571860dc4477f43fcb535f8162634294e2ebd"
+      "sha256": "c0fd216d2919bcec203a18012ba571860dc4477f43fcb535f8162634294e2ebd",
+      "display_sha256": "eb22f7c9955348fb90228fab647cebf39253cf3885826dabe82a49dd843474be",
+      "display_blob_sha": "1c7b4819b57c1b7d69e5f6bc69ba23085e3506a2",
+      "display_original_site_sha256": "c0fd216d2919bcec203a18012ba571860dc4477f43fcb535f8162634294e2ebd",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

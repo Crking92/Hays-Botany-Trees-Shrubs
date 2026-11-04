@@ -65,7 +65,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "68ba55128ab5ce74250edfa804bb82eb6f3d3141",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -73,7 +73,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341965237, photo 622639442, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1d7ddc9afbf53ed653df8745345f9be4a3a31d0987f3ea45f039a14242bde5a3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Arbutus xalapensis maps to indexed species arbutus-xalapensis; specialist morphology and BONAP range deferred.",
-      "sha256": "1d7ddc9afbf53ed653df8745345f9be4a3a31d0987f3ea45f039a14242bde5a3"
+      "sha256": "1d7ddc9afbf53ed653df8745345f9be4a3a31d0987f3ea45f039a14242bde5a3",
+      "display_sha256": "15161ce9306efef6cd015130ae2ae61a714615ab4cc37db93dcc27ebb6223ccb",
+      "display_blob_sha": "d2d37c70840025041ed14b18fa2733233db5d6f6",
+      "display_original_site_sha256": "1d7ddc9afbf53ed653df8745345f9be4a3a31d0987f3ea45f039a14242bde5a3",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/arbutus-xalapensis/inat-622777988.jpg",
@@ -84,7 +89,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "938024f2da9c1a370dfb1ce65f2859d7c2053999",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +97,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341977783, photo 622777988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1c8036d45fcd9d58b5bbe3e7f38135d81aa0a04c3b1da93818f865e26f51f77e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Arbutus xalapensis maps to indexed species arbutus-xalapensis; specialist morphology and BONAP range deferred.",
-      "sha256": "1c8036d45fcd9d58b5bbe3e7f38135d81aa0a04c3b1da93818f865e26f51f77e"
+      "sha256": "1c8036d45fcd9d58b5bbe3e7f38135d81aa0a04c3b1da93818f865e26f51f77e",
+      "display_sha256": "708c2aad1e7758d2c2c78205af02249bf5973262ef5b406bbbfc44cbcef434c2",
+      "display_blob_sha": "81b7feff81c554f1a4dd272a283f34972ec2f867",
+      "display_original_site_sha256": "1c8036d45fcd9d58b5bbe3e7f38135d81aa0a04c3b1da93818f865e26f51f77e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/arbutus-xalapensis/inat-627262939.jpg",
@@ -122,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2c88665b15bbd11624df4d84500e19ab264f6b98",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +140,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344908644, photo 628524989, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e0076278b3913aa1faeb3a291cbc4cb79922da4a0290ae02688d34c146d4cf4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Arbutus xalapensis maps to indexed species arbutus-xalapensis; specialist morphology and BONAP range deferred.",
-      "sha256": "5e0076278b3913aa1faeb3a291cbc4cb79922da4a0290ae02688d34c146d4cf4"
+      "sha256": "5e0076278b3913aa1faeb3a291cbc4cb79922da4a0290ae02688d34c146d4cf4",
+      "display_sha256": "9667a235202d605dfa8c7227bcf87ea47bd4e33be42f30c7a57da2bed55e0407",
+      "display_blob_sha": "a038836172498002e5ff02591ea2405d474aeb5b",
+      "display_original_site_sha256": "5e0076278b3913aa1faeb3a291cbc4cb79922da4a0290ae02688d34c146d4cf4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/arbutus-xalapensis/inat-629595752.jpg",
@@ -141,7 +156,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63904979a75f9c9449708b9d31d80879101c782d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -149,7 +164,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345467931, photo 629595752, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 40882dbf244cdbcb364efd794972e219b825083984392091416ec0b231b6b2ed. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Arbutus xalapensis maps to indexed species arbutus-xalapensis; specialist morphology and BONAP range deferred.",
-      "sha256": "40882dbf244cdbcb364efd794972e219b825083984392091416ec0b231b6b2ed"
+      "sha256": "40882dbf244cdbcb364efd794972e219b825083984392091416ec0b231b6b2ed",
+      "display_sha256": "293629d27b2bdc42a9a81ae9a6b8c28ed207b71446ad4f63f6d42b7b60a108bf",
+      "display_blob_sha": "dc90fe863dfa48f33fb37e684065785a4bc81667",
+      "display_original_site_sha256": "40882dbf244cdbcb364efd794972e219b825083984392091416ec0b231b6b2ed",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/arbutus-xalapensis/archived-1f42c5f8b735995f.jpg",

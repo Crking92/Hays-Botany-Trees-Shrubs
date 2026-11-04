@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7ca0f97952f912160dfed093ad30eedbc60284d1",
       "role": "General small pellitory plant, foliage and branching; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 342365635 lists exact photo 623451558 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 e56383b3ea639f1724204d04d709ef86f4ec2d97cd94dd80053700dac356f602.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 342365635 taxon parietaria pensylvanica agrees; specialist anatomy ID postponed.",
-      "sha256": "e56383b3ea639f1724204d04d709ef86f4ec2d97cd94dd80053700dac356f602"
+      "sha256": "e56383b3ea639f1724204d04d709ef86f4ec2d97cd94dd80053700dac356f602",
+      "display_sha256": "eed55fe857925ee98e0e8eef50099ac69d9d0e3a3aae16ca087bd23337350533",
+      "display_blob_sha": "489d29b93d3e58ee857e462946c0ce33b0d1c114",
+      "display_original_site_sha256": "e56383b3ea639f1724204d04d709ef86f4ec2d97cd94dd80053700dac356f602",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parietaria-pensylvanica/inat-623458148.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c071a18a9ec4be4bd0340fdbc3d22f95f2c377b9",
       "role": "General small pellitory plant, foliage and branching; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 342368442 lists exact photo 623458148 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 6451c7874ec66acf978163c7039fbe6404683bd082c87523fe4325a8a84a692d.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 342368442 taxon parietaria pensylvanica agrees; specialist anatomy ID postponed.",
-      "sha256": "6451c7874ec66acf978163c7039fbe6404683bd082c87523fe4325a8a84a692d"
+      "sha256": "6451c7874ec66acf978163c7039fbe6404683bd082c87523fe4325a8a84a692d",
+      "display_sha256": "71c95898e4a57949ae302bc5d4ace306ad45cd5e6bfc75b91172f07e08607179",
+      "display_blob_sha": "5231e57b5f2e0fb83695506faa8a6b321607d963",
+      "display_original_site_sha256": "6451c7874ec66acf978163c7039fbe6404683bd082c87523fe4325a8a84a692d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parietaria-pensylvanica/inat-625180122.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d18e4346b2e35a83f53273fc47071c4bb5a6ddba",
       "role": "General small pellitory plant, foliage and branching; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 343229797 lists exact photo 625180122 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 bf18152367e38eb29d0eaf75f39755d11d35e94f03ee11b186d6a64c3a5bc96b.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 343229797 taxon parietaria pensylvanica agrees; specialist anatomy ID postponed.",
-      "sha256": "bf18152367e38eb29d0eaf75f39755d11d35e94f03ee11b186d6a64c3a5bc96b"
+      "sha256": "bf18152367e38eb29d0eaf75f39755d11d35e94f03ee11b186d6a64c3a5bc96b",
+      "display_sha256": "03ef6747f608fdef8d7630f440c90b2d03f72be3df9987a942184f118f9b0ead",
+      "display_blob_sha": "4fce8ead7883f4e111143c73a68329d858f284da",
+      "display_original_site_sha256": "bf18152367e38eb29d0eaf75f39755d11d35e94f03ee11b186d6a64c3a5bc96b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parietaria-pensylvanica/inat-630014001.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "12328e0186d98c73e3716daa178902496be415c5",
       "role": "General small pellitory plant, foliage and branching; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 345681321 lists exact photo 630014001 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 6ea2f23abe3fc480d92ecf3524847f44e186f01d653e951018c68b7235ec7da4.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 345681321 taxon parietaria pensylvanica agrees; specialist anatomy ID postponed.",
-      "sha256": "6ea2f23abe3fc480d92ecf3524847f44e186f01d653e951018c68b7235ec7da4"
+      "sha256": "6ea2f23abe3fc480d92ecf3524847f44e186f01d653e951018c68b7235ec7da4",
+      "display_sha256": "7caa92c7a468f1822a14a7c60aba038d42bc67ef84dd14c732cb9271bed55f13",
+      "display_blob_sha": "059a71b8e8ee4dcbaad209d84bcf87d96e8b572a",
+      "display_original_site_sha256": "6ea2f23abe3fc480d92ecf3524847f44e186f01d653e951018c68b7235ec7da4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parietaria-pensylvanica/archived-5ddb8f1b0fc6ea40.jpg",

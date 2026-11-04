@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9be96752fefe65b249f2897e0412483c248dca7c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 263725149, photo 473826216, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3ab2fe48c4a53ecc14a7f88985d80f8c021241e27453b42fc4c8d4c92afc3fb0.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rhaphiolepis indica maps to indexed species rhaphiolepis-indica; specialist morphology and BONAP range deferred.",
-      "sha256": "3ab2fe48c4a53ecc14a7f88985d80f8c021241e27453b42fc4c8d4c92afc3fb0"
+      "sha256": "3ab2fe48c4a53ecc14a7f88985d80f8c021241e27453b42fc4c8d4c92afc3fb0",
+      "display_sha256": "8b05cb8426d321f66b53451f81b48510f335846c4b654859e78f634fc66bf56b",
+      "display_blob_sha": "cb4d9d67764a533f6926822cc99a5dd64a2f3b49",
+      "display_original_site_sha256": "3ab2fe48c4a53ecc14a7f88985d80f8c021241e27453b42fc4c8d4c92afc3fb0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhaphiolepis-indica/inat-491167240.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8d151154f346875b0e8301604fbeafdfdb418c84",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 273036573, photo 491167240, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f1f8289bf4d8329a12c7c66f104a625619b7ce551abbd575b4c0dd7cc50cd9ed.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Rhaphiolepis indica maps to indexed species rhaphiolepis-indica; specialist morphology and BONAP range deferred.",
-      "sha256": "f1f8289bf4d8329a12c7c66f104a625619b7ce551abbd575b4c0dd7cc50cd9ed"
+      "sha256": "f1f8289bf4d8329a12c7c66f104a625619b7ce551abbd575b4c0dd7cc50cd9ed",
+      "display_sha256": "126b832b57604d9d524602d3c0f71824612aa7e00f9b1da498aecbbfd5c18490",
+      "display_blob_sha": "6dd55ee70b3331c5b34a39ebe19ac5df49226072",
+      "display_original_site_sha256": "f1f8289bf4d8329a12c7c66f104a625619b7ce551abbd575b4c0dd7cc50cd9ed",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhaphiolepis-indica/inat-629227702.jpg",

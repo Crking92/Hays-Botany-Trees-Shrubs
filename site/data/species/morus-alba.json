@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6e3c18ea572917ccd11a6ec9c54c776c28ad5b00",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350152695, photo 638839964, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d84caf93c61127a87368db1116a5cc309b8b7b848ec4cb32fcf331ae54cb21fd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus alba maps to indexed species morus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "d84caf93c61127a87368db1116a5cc309b8b7b848ec4cb32fcf331ae54cb21fd"
+      "sha256": "d84caf93c61127a87368db1116a5cc309b8b7b848ec4cb32fcf331ae54cb21fd",
+      "display_sha256": "964464bac41f0b28929118c0987ac08791a348f4be0def35e3501c8160fdb6e6",
+      "display_blob_sha": "d5ecafe5533949f5b40a80151f742009ebb41b76",
+      "display_original_site_sha256": "d84caf93c61127a87368db1116a5cc309b8b7b848ec4cb32fcf331ae54cb21fd",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-alba/inat-644383319.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "56d84b41f6726ab2cb568f6ffe952fb19ab17429",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353133820, photo 644383319, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f67a311dc98dcf46c6a673995bbd2fba595ec5580f2b6834687378809b71465. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus alba maps to indexed species morus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "3f67a311dc98dcf46c6a673995bbd2fba595ec5580f2b6834687378809b71465"
+      "sha256": "3f67a311dc98dcf46c6a673995bbd2fba595ec5580f2b6834687378809b71465",
+      "display_sha256": "6472c5588a8fa098a719f07af6cacd823e0cac34ec31ecd067a6f6c331053aa7",
+      "display_blob_sha": "00a2ae3d1a7062837a70efc31f291cd871a6061f",
+      "display_original_site_sha256": "3f67a311dc98dcf46c6a673995bbd2fba595ec5580f2b6834687378809b71465",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-alba/inat-645676018.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9652caf5bc8222c604be93edcf498418b0ed2517",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353928566, photo 645676018, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 73ab48e96dcb374e9d3a545ca34a9e20276311c0444ed6782b9ef258a3f3e419. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus alba maps to indexed species morus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "73ab48e96dcb374e9d3a545ca34a9e20276311c0444ed6782b9ef258a3f3e419"
+      "sha256": "73ab48e96dcb374e9d3a545ca34a9e20276311c0444ed6782b9ef258a3f3e419",
+      "display_sha256": "21cf1f6538192cfd71ed5ed7c8ed880dad8bb507271c9f8bdce5724d0a3b3881",
+      "display_blob_sha": "13837542c8e88b41e422d6197c0bbddf11b1585d",
+      "display_original_site_sha256": "73ab48e96dcb374e9d3a545ca34a9e20276311c0444ed6782b9ef258a3f3e419",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-alba/inat-645780676.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c3c4fa1f22363e59c554a3c227bdec812471b298",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353964354, photo 645780676, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c41c02c939b56a231d5cef5a4b164d9fb8940a58fde48145dcaba24182d14369. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus alba maps to indexed species morus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "c41c02c939b56a231d5cef5a4b164d9fb8940a58fde48145dcaba24182d14369"
+      "sha256": "c41c02c939b56a231d5cef5a4b164d9fb8940a58fde48145dcaba24182d14369",
+      "display_sha256": "b8773ca5a7750e5f371024f830f5ecfd869f6ddec96847973313029dc4fc3452",
+      "display_blob_sha": "8cde78ade994350aa65245fedfaa694af04179aa",
+      "display_original_site_sha256": "c41c02c939b56a231d5cef5a4b164d9fb8940a58fde48145dcaba24182d14369",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-alba/inat-646060393.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c652d9b29eb17656d02e2bc108a8d607c0e18914",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354118021, photo 646060393, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c16b44661694c37546ed6c0209653a6f24f26ce84b49b2ca6f91f81c4ea62e62. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus alba maps to indexed species morus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "c16b44661694c37546ed6c0209653a6f24f26ce84b49b2ca6f91f81c4ea62e62"
+      "sha256": "c16b44661694c37546ed6c0209653a6f24f26ce84b49b2ca6f91f81c4ea62e62",
+      "display_sha256": "dc4ee61ad033709c42e1e35c1b89159ceb358c6bd7ddc225dd92bff85e11dabb",
+      "display_blob_sha": "03c5226b92210a2ca879d5d03e34bc6cb6e9492d",
+      "display_original_site_sha256": "c16b44661694c37546ed6c0209653a6f24f26ce84b49b2ca6f91f81c4ea62e62",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-alba/archived-115f0963ade3c81a.jpg",

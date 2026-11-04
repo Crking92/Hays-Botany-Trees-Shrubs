@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4fe6d9b208094e4f935b857102985f95c536fcaa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352050620, photo 642524545, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 747e74065bfa8cfa68d0d4fc71c3d58e97c22f48c0cd6332323554ae9c4dddbd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans microcarpa maps to indexed species juglans-microcarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "747e74065bfa8cfa68d0d4fc71c3d58e97c22f48c0cd6332323554ae9c4dddbd"
+      "sha256": "747e74065bfa8cfa68d0d4fc71c3d58e97c22f48c0cd6332323554ae9c4dddbd",
+      "display_sha256": "5e8eba3aacb6699e90008d1a26dda9f032ed7074a36223b2f5ee87be137ba5da",
+      "display_blob_sha": "d068ae24b49a3baf1bddd98acff0371e0865604a",
+      "display_original_site_sha256": "747e74065bfa8cfa68d0d4fc71c3d58e97c22f48c0cd6332323554ae9c4dddbd",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juglans-microcarpa/inat-645344945.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b9cdb00f0aef720b97660d080f380226b4803858",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353614408, photo 645344945, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 86157bef898f5d2398e0f6eebda56d55deddec8afe87e4eab17463764225e4fb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans microcarpa maps to indexed species juglans-microcarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "86157bef898f5d2398e0f6eebda56d55deddec8afe87e4eab17463764225e4fb"
+      "sha256": "86157bef898f5d2398e0f6eebda56d55deddec8afe87e4eab17463764225e4fb",
+      "display_sha256": "d958146bf18e4f19f2f022940505970c396bb7304d035c4b3142fa4078072667",
+      "display_blob_sha": "4a8c7d9f796ec85342df5f05bf6cbf1c14d5431d",
+      "display_original_site_sha256": "86157bef898f5d2398e0f6eebda56d55deddec8afe87e4eab17463764225e4fb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juglans-microcarpa/inat-646889607.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb8c4cad58d3bee6ef1d86c937a2f41962e3ab35",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354624904, photo 646889607, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a7059ac6cde9d7115cc90159fa457676f84408fbc16cfd5617cedfd9dbeb17e9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans microcarpa maps to indexed species juglans-microcarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "a7059ac6cde9d7115cc90159fa457676f84408fbc16cfd5617cedfd9dbeb17e9"
+      "sha256": "a7059ac6cde9d7115cc90159fa457676f84408fbc16cfd5617cedfd9dbeb17e9",
+      "display_sha256": "68767a75f8f7562e86cc82607d3113a503a905d7c54184a7c236ae78ca93539b",
+      "display_blob_sha": "4f203f942996f8bf161cea31bb290ba3768871b5",
+      "display_original_site_sha256": "a7059ac6cde9d7115cc90159fa457676f84408fbc16cfd5617cedfd9dbeb17e9",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juglans-microcarpa/inat-650974770.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "173c40ffc3a50fa5d90101428aa80aef1e585c16",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 356946207, photo 650974770, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a9fd7ce1d0c17cf0668983ea81a58a6f80a78e511f16d3d3c7e35b1e0de3e25a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans microcarpa maps to indexed species juglans-microcarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "a9fd7ce1d0c17cf0668983ea81a58a6f80a78e511f16d3d3c7e35b1e0de3e25a"
+      "sha256": "a9fd7ce1d0c17cf0668983ea81a58a6f80a78e511f16d3d3c7e35b1e0de3e25a",
+      "display_sha256": "50485df4164eea716429faddd22b59f77968207483065718483916bb6e11242c",
+      "display_blob_sha": "cb9f0f7425d1fe225f3774be9f4323bc82cc1c89",
+      "display_original_site_sha256": "a9fd7ce1d0c17cf0668983ea81a58a6f80a78e511f16d3d3c7e35b1e0de3e25a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juglans-microcarpa/inat-654458357.jpg",
@@ -159,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "15bb7cfcdf7d425e7b8871d1fca08b8100121a7b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -167,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 358752045, photo 654458357, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf54eb4caf3f4539ef6924fa57246d467fd72bd733f6556a367c698d7c930763. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans microcarpa maps to indexed species juglans-microcarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "bf54eb4caf3f4539ef6924fa57246d467fd72bd733f6556a367c698d7c930763"
+      "sha256": "bf54eb4caf3f4539ef6924fa57246d467fd72bd733f6556a367c698d7c930763",
+      "display_sha256": "87d0e176dd600ac9da190c150ffa9878951ffe800a7f4374ce3ad5ae2515b911",
+      "display_blob_sha": "4158cc1d70c8b7ecc5de68e9c75ba5d962f82ad5",
+      "display_original_site_sha256": "bf54eb4caf3f4539ef6924fa57246d467fd72bd733f6556a367c698d7c930763",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juglans-microcarpa/archived-30207c4441edd74d.jpg",

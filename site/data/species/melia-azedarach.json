@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7fe1799c3d531ed4ebc2db707e09f91850d6cfd5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340846326, photo 620350409, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cef86159d39c899a39f4c4e37d2eb349dc7bb46a8cdc8263051382853c7c05af. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Melia azedarach maps to indexed species melia-azedarach; specialist morphology and BONAP range deferred.",
-      "sha256": "cef86159d39c899a39f4c4e37d2eb349dc7bb46a8cdc8263051382853c7c05af"
+      "sha256": "cef86159d39c899a39f4c4e37d2eb349dc7bb46a8cdc8263051382853c7c05af",
+      "display_sha256": "4b5f10cb259eaf987724c3803ef22fd59751f547cbe0795a0cb81d752755dc34",
+      "display_blob_sha": "9ba550c6f5f23078ed05a9312f0e627a0c401789",
+      "display_original_site_sha256": "cef86159d39c899a39f4c4e37d2eb349dc7bb46a8cdc8263051382853c7c05af",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melia-azedarach/inat-620419792.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e795b17f2dbb09082d90a103f5d939f788522c40",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340880123, photo 620419792, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8f8b5a5cff785dde327b37185c23402b1e1d5ded51c9c694f951acee2e35c38a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Melia azedarach maps to indexed species melia-azedarach; specialist morphology and BONAP range deferred.",
-      "sha256": "8f8b5a5cff785dde327b37185c23402b1e1d5ded51c9c694f951acee2e35c38a"
+      "sha256": "8f8b5a5cff785dde327b37185c23402b1e1d5ded51c9c694f951acee2e35c38a",
+      "display_sha256": "b297eba2ee680e1a55dfdd54bbc87bb6bb03d9a48196309b44c9dc43551416fa",
+      "display_blob_sha": "0069ba0baae91de042701cdc7ff5a68c2525a2f0",
+      "display_original_site_sha256": "8f8b5a5cff785dde327b37185c23402b1e1d5ded51c9c694f951acee2e35c38a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melia-azedarach/inat-620704279.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "def1996f9a6210a6d64527cc7d86bc8cef47cbd1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341019453, photo 620704279, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 292483372f64a20ec36ce99717da0a3191224e8eb9e2014ed4115ba283880b47. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Melia azedarach maps to indexed species melia-azedarach; specialist morphology and BONAP range deferred.",
-      "sha256": "292483372f64a20ec36ce99717da0a3191224e8eb9e2014ed4115ba283880b47"
+      "sha256": "292483372f64a20ec36ce99717da0a3191224e8eb9e2014ed4115ba283880b47",
+      "display_sha256": "4772cd5b7b213fd40e38009ca55098ad6ea41aca2ffe4bc57f2eca32ae7b56dc",
+      "display_blob_sha": "02734873e5f5cd48658b048ca335ab0f2f7b5875",
+      "display_original_site_sha256": "292483372f64a20ec36ce99717da0a3191224e8eb9e2014ed4115ba283880b47",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melia-azedarach/inat-621731737.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "32a68f95ead95470f6107fecdc397bf1359bcc62",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341515728, photo 621731737, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 610149428e2508464283bf6f30d99bb8055ab1aa39d21ed4ab068f2cd62b92a4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Melia azedarach maps to indexed species melia-azedarach; specialist morphology and BONAP range deferred.",
-      "sha256": "610149428e2508464283bf6f30d99bb8055ab1aa39d21ed4ab068f2cd62b92a4"
+      "sha256": "610149428e2508464283bf6f30d99bb8055ab1aa39d21ed4ab068f2cd62b92a4",
+      "display_sha256": "6c4c0bfaa1a7fb44174d6e69ac3e9c8a7fbc1b51813f7eced5ea579d51491f21",
+      "display_blob_sha": "bc09d292b0ebe8455caa20523c525ad8bbc84a9b",
+      "display_original_site_sha256": "610149428e2508464283bf6f30d99bb8055ab1aa39d21ed4ab068f2cd62b92a4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melia-azedarach/inat-624201984.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4d15947bac0e52e60ba62af630a77f6029072636",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342745198, photo 624201984, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 178ab559d68b13f7277cb9bcebf7ed9a1ed1ba2ec06a0037217945714896f196. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Melia azedarach maps to indexed species melia-azedarach; specialist morphology and BONAP range deferred.",
-      "sha256": "178ab559d68b13f7277cb9bcebf7ed9a1ed1ba2ec06a0037217945714896f196"
+      "sha256": "178ab559d68b13f7277cb9bcebf7ed9a1ed1ba2ec06a0037217945714896f196",
+      "display_sha256": "851be5156dbcaea49f0c37308f76ef95ea112c7183e78c1a34012c7dca783560",
+      "display_blob_sha": "92192407855259e437cd86aa46fb7be24925aa15",
+      "display_original_site_sha256": "178ab559d68b13f7277cb9bcebf7ed9a1ed1ba2ec06a0037217945714896f196",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/melia-azedarach/archived-23a58a37dcedb455.jpg",

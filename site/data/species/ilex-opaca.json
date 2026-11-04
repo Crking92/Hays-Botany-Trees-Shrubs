@@ -101,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f97cfe45b31443a00e15d088c922668ce9e51d8e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 168576454, photo 292169459, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 45789d14887220ad176fef992d3f4a98b532c8a9877dab5fedc3d65a2f448038. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex opaca maps to indexed species ilex-opaca; specialist morphology and BONAP range deferred.",
-      "sha256": "45789d14887220ad176fef992d3f4a98b532c8a9877dab5fedc3d65a2f448038"
+      "sha256": "45789d14887220ad176fef992d3f4a98b532c8a9877dab5fedc3d65a2f448038",
+      "display_sha256": "2736e237fbdc55aea924704b68a99037780719d81636d596dcca7835875d210f",
+      "display_blob_sha": "4aac4ffe853c30788a7299049cbce39805e7cd84",
+      "display_original_site_sha256": "45789d14887220ad176fef992d3f4a98b532c8a9877dab5fedc3d65a2f448038",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-opaca/inat-448891897.jpeg",
@@ -139,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "74fbc7b910a3dc4bef9e94352988e2036b1c8f4e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 328889426, photo 596067029, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94b662aaf256518cd4fcb451a0a273d5d019b612481974bd6a55ff082dec4755. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex opaca maps to indexed species ilex-opaca; specialist morphology and BONAP range deferred.",
-      "sha256": "94b662aaf256518cd4fcb451a0a273d5d019b612481974bd6a55ff082dec4755"
+      "sha256": "94b662aaf256518cd4fcb451a0a273d5d019b612481974bd6a55ff082dec4755",
+      "display_sha256": "6c4ef2c50610feaeaf72dcbb83013a4af44afbd7ca51af60281aa604dd51f788",
+      "display_blob_sha": "bbc8275cba740dcd7ad5309171f502ca503f43a7",
+      "display_original_site_sha256": "94b662aaf256518cd4fcb451a0a273d5d019b612481974bd6a55ff082dec4755",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-opaca/inat-69610857.jpeg",
@@ -158,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9d908ceb71c6f1c99978fbf5d8ba84e55c1843e9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -166,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 43894611, photo 69610857, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ebcd438367a31dd3efb1736832f11b6d6ae349ba1c6d02002c6c7269f23564ab. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex opaca maps to indexed species ilex-opaca; specialist morphology and BONAP range deferred.",
-      "sha256": "ebcd438367a31dd3efb1736832f11b6d6ae349ba1c6d02002c6c7269f23564ab"
+      "sha256": "ebcd438367a31dd3efb1736832f11b6d6ae349ba1c6d02002c6c7269f23564ab",
+      "display_sha256": "8de341a0f516e8a961cfdbd9316eb17dacdafda70a5112c3078d585fad7bf0f5",
+      "display_blob_sha": "dbcdb5568512cbf6044a81d8e183ecf030fbb304",
+      "display_original_site_sha256": "ebcd438367a31dd3efb1736832f11b6d6ae349ba1c6d02002c6c7269f23564ab",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-opaca/inat-91424324.jpg",
@@ -177,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd4cea14c95396747fbf5d4c75f53fad4501a18c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -185,7 +200,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 57323033, photo 91424324, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 776845428f8c097dfd28b95f1330eb2cbc06fb1eaece3932105a98a9bb99e535. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex opaca maps to indexed species ilex-opaca; specialist morphology and BONAP range deferred.",
-      "sha256": "776845428f8c097dfd28b95f1330eb2cbc06fb1eaece3932105a98a9bb99e535"
+      "sha256": "776845428f8c097dfd28b95f1330eb2cbc06fb1eaece3932105a98a9bb99e535",
+      "display_sha256": "0b8aa55988bd1c3f208ff649a3c54048b81b0a7a1be6392ff4aea32288da2313",
+      "display_blob_sha": "488b8fb510312e29d169c529b25e7093407a9b68",
+      "display_original_site_sha256": "776845428f8c097dfd28b95f1330eb2cbc06fb1eaece3932105a98a9bb99e535",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -52,7 +52,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2b04f07922aee0a1c5924e349d56f9cfc55312df",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -60,7 +60,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 206364533, photo 364991927, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea7d948d348f4459100c5ed1de13bae56b0757104c7f93b91910d09e407102c4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus lyrata maps to indexed species quercus-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "ea7d948d348f4459100c5ed1de13bae56b0757104c7f93b91910d09e407102c4"
+      "sha256": "ea7d948d348f4459100c5ed1de13bae56b0757104c7f93b91910d09e407102c4",
+      "display_sha256": "17837ce20ed6d4bc844214111c6a654d5317b2191451e5ee2508c982b1c9845d",
+      "display_blob_sha": "5fb1cf8b02e85b617b9b394acea8eeb886bf339d",
+      "display_original_site_sha256": "ea7d948d348f4459100c5ed1de13bae56b0757104c7f93b91910d09e407102c4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-lyrata/inat-373039625.jpg",
@@ -71,7 +76,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "00b4e68c2d3f58d60cccfb1c6046f80409b41dd3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -79,7 +84,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 210955549, photo 373039625, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4c1ee7ba95e9675619adb6fc7db5fb608d4034b39f9967b1206346da6459d18f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus lyrata maps to indexed species quercus-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "4c1ee7ba95e9675619adb6fc7db5fb608d4034b39f9967b1206346da6459d18f"
+      "sha256": "4c1ee7ba95e9675619adb6fc7db5fb608d4034b39f9967b1206346da6459d18f",
+      "display_sha256": "ef6d2638107affffecfeb08de3672b98bf92b68832c61d8914354562d63bdd12",
+      "display_blob_sha": "df1239aec56e708c5c5752d710d36fb2b5aab487",
+      "display_original_site_sha256": "4c1ee7ba95e9675619adb6fc7db5fb608d4034b39f9967b1206346da6459d18f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-lyrata/inat-479881119.jpg",
@@ -90,7 +100,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a4fbd41553f329a1ce397c661240338c4fa52129",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +108,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 267058109, photo 479881119, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e536066af4a784681a196147f90434d7988e5e3627964bea85e8bd9ae3ea9263. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus lyrata maps to indexed species quercus-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "e536066af4a784681a196147f90434d7988e5e3627964bea85e8bd9ae3ea9263"
+      "sha256": "e536066af4a784681a196147f90434d7988e5e3627964bea85e8bd9ae3ea9263",
+      "display_sha256": "573f9cab5b7a89dd0a6c57a9f960d3690ef9d32eea4f6bba45f3f69770b197c2",
+      "display_blob_sha": "56d91e52b9223b9f6befd2426ee9d1eab66bf398",
+      "display_original_site_sha256": "e536066af4a784681a196147f90434d7988e5e3627964bea85e8bd9ae3ea9263",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-lyrata/inat-507482473.jpg",
@@ -109,7 +124,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6f3498dac611cbb32856c5f375f1fca1d32af793",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +132,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 282466008, photo 507482473, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a740ecbd543557c8b640f6281b4c7f05d73c05c40cb8dff4024b0367d9e67804. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus lyrata maps to indexed species quercus-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "a740ecbd543557c8b640f6281b4c7f05d73c05c40cb8dff4024b0367d9e67804"
+      "sha256": "a740ecbd543557c8b640f6281b4c7f05d73c05c40cb8dff4024b0367d9e67804",
+      "display_sha256": "f1ac29319dd8befa7d19c43de5b6702e039af27678af01164ca6770b9462c728",
+      "display_blob_sha": "35715fca4b3b38e178a5b544db0105b6d9f688a7",
+      "display_original_site_sha256": "a740ecbd543557c8b640f6281b4c7f05d73c05c40cb8dff4024b0367d9e67804",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-lyrata/inat-621902848.jpg",
@@ -128,7 +148,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "edd87fa3f0dd2fdd7fa3230aa8dc0db71439f132",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +156,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341601163, photo 621902848, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7276ce0f7f8fe454eb4936a4ad41cb88c6fb6ddce8d65aadf0733e9b31c30404. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus lyrata maps to indexed species quercus-lyrata; specialist morphology and BONAP range deferred.",
-      "sha256": "7276ce0f7f8fe454eb4936a4ad41cb88c6fb6ddce8d65aadf0733e9b31c30404"
+      "sha256": "7276ce0f7f8fe454eb4936a4ad41cb88c6fb6ddce8d65aadf0733e9b31c30404",
+      "display_sha256": "563223d24e6776b668fb6b2e0cdf0f3914a522663c590fe4e23dae356ff0efb0",
+      "display_blob_sha": "768968abad1429b7441e44713b2ec29d5ca1b117",
+      "display_original_site_sha256": "7276ce0f7f8fe454eb4936a4ad41cb88c6fb6ddce8d65aadf0733e9b31c30404",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

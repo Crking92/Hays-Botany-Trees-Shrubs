@@ -187,7 +187,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7d3f029725bbd2483024be7341ef3d76d1132a24",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -195,7 +195,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 268762073, photo 483138663, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e4695287f70c765d7c9404a67b7b7f43da45bb2de6d2f9bed9890be6cf78b59c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle umbellata maps to indexed species hydrocotyle-umbellata; specialist morphology and BONAP range deferred.",
-      "sha256": "e4695287f70c765d7c9404a67b7b7f43da45bb2de6d2f9bed9890be6cf78b59c"
+      "sha256": "e4695287f70c765d7c9404a67b7b7f43da45bb2de6d2f9bed9890be6cf78b59c",
+      "display_sha256": "91128656d6f8bd801d28b44fa5f602bd84eca590389775176624b7139a15859d",
+      "display_blob_sha": "45f00c719971f6707fdf2c07ed573181f8e0d283",
+      "display_original_site_sha256": "e4695287f70c765d7c9404a67b7b7f43da45bb2de6d2f9bed9890be6cf78b59c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-umbellata/inat-493760383.jpg",
@@ -206,7 +211,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5d487a3255f9807a6ed5c1db9ed92c89e92078b5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -214,7 +219,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 274686580, photo 493760383, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f41e6eea49d7a8853a1939c90e10c5c7a7f284faf779c05ffec69460fb7b012c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle umbellata maps to indexed species hydrocotyle-umbellata; specialist morphology and BONAP range deferred.",
-      "sha256": "f41e6eea49d7a8853a1939c90e10c5c7a7f284faf779c05ffec69460fb7b012c"
+      "sha256": "f41e6eea49d7a8853a1939c90e10c5c7a7f284faf779c05ffec69460fb7b012c",
+      "display_sha256": "4fe3d4b0a68c2f2a1ceadc5c0f25fdcdf3c05860e22f8ac2291d8d4d028d18ac",
+      "display_blob_sha": "3745dd44504bb3caa5361588853d50ee6e27d2e3",
+      "display_original_site_sha256": "f41e6eea49d7a8853a1939c90e10c5c7a7f284faf779c05ffec69460fb7b012c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-umbellata/inat-624779655.jpg",
@@ -225,7 +235,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "762bbf223d8f82c334aa6d5361d1d5685adb75bb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -233,7 +243,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343032636, photo 624779655, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 658716fafa4ea3e5927bccfff32642f66733bbd6a498882077f691f77ca3b2c8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle umbellata maps to indexed species hydrocotyle-umbellata; specialist morphology and BONAP range deferred.",
-      "sha256": "658716fafa4ea3e5927bccfff32642f66733bbd6a498882077f691f77ca3b2c8"
+      "sha256": "658716fafa4ea3e5927bccfff32642f66733bbd6a498882077f691f77ca3b2c8",
+      "display_sha256": "06427aa3dc1aa31d7b01b734aa354ea520ac4ffacad868a6a09db0185bcdd6a4",
+      "display_blob_sha": "22136288d391ce81ae9ef299942dbaa05fa061a4",
+      "display_original_site_sha256": "658716fafa4ea3e5927bccfff32642f66733bbd6a498882077f691f77ca3b2c8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-umbellata/inat-644402337.jpg",
@@ -244,7 +259,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3c8cc960645427e1bb1afa0674964f5b4aa170d0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -252,7 +267,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353144821, photo 644402337, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b5761446622032b6269ab9375791e72bdd92bae33706e357625b0d77639a70ad. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle umbellata maps to indexed species hydrocotyle-umbellata; specialist morphology and BONAP range deferred.",
-      "sha256": "b5761446622032b6269ab9375791e72bdd92bae33706e357625b0d77639a70ad"
+      "sha256": "b5761446622032b6269ab9375791e72bdd92bae33706e357625b0d77639a70ad",
+      "display_sha256": "1111ce4ff47054d1337d2c7812914bf13691e1f65390f5e5afb9339a9bef3c5b",
+      "display_blob_sha": "dc8bdc9ea22be12f22115c276e77d2edf7c9629b",
+      "display_original_site_sha256": "b5761446622032b6269ab9375791e72bdd92bae33706e357625b0d77639a70ad",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-umbellata/inat-651061816.jpg",
@@ -263,7 +283,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0a62df8550d124dc8fc61e74e2f6cdc6683d3a0b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -271,7 +291,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 356991275, photo 651061816, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f297ced0b75d1b06a7ee4bbd501c82a87299730a4700b0505d605a46749a54ae. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle umbellata maps to indexed species hydrocotyle-umbellata; specialist morphology and BONAP range deferred.",
-      "sha256": "f297ced0b75d1b06a7ee4bbd501c82a87299730a4700b0505d605a46749a54ae"
+      "sha256": "f297ced0b75d1b06a7ee4bbd501c82a87299730a4700b0505d605a46749a54ae",
+      "display_sha256": "f07eb5ef7be81dbe423f32545daf7f383fd3fa2798931d8b69278728ca2dcff2",
+      "display_blob_sha": "a510de6eb76a0e8ec048f51112b90b9cf12d17be",
+      "display_original_site_sha256": "f297ced0b75d1b06a7ee4bbd501c82a87299730a4700b0505d605a46749a54ae",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

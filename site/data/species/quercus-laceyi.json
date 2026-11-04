@@ -168,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "707acd7c737c7109f42f728b562b880adcc8c8d7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 121960164, photo 206435546, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4203a571f991f5c6d7f5b84998eca47136729f64f2462bedfb57450a15ec98fb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus laceyi maps to indexed species quercus-laceyi; specialist morphology and BONAP range deferred.",
-      "sha256": "4203a571f991f5c6d7f5b84998eca47136729f64f2462bedfb57450a15ec98fb"
+      "sha256": "4203a571f991f5c6d7f5b84998eca47136729f64f2462bedfb57450a15ec98fb",
+      "display_sha256": "fa5528f572aa7db815a7fb3d208f3f9ad8355c5d81d67222d2be6f6fb5c9e80f",
+      "display_blob_sha": "f0522c07b5605ce7b96296098e50d58a293c8513",
+      "display_original_site_sha256": "4203a571f991f5c6d7f5b84998eca47136729f64f2462bedfb57450a15ec98fb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-laceyi/inat-265057814.jpg",
@@ -187,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a3fc8b4b849647b9db05b26dcee118f1a925f4bf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -195,7 +200,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 153463319, photo 265057814, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e027ef8c854ff005798ee22cbc2a40197940ce8433a784901768f9d86beb7286. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus laceyi maps to indexed species quercus-laceyi; specialist morphology and BONAP range deferred.",
-      "sha256": "e027ef8c854ff005798ee22cbc2a40197940ce8433a784901768f9d86beb7286"
+      "sha256": "e027ef8c854ff005798ee22cbc2a40197940ce8433a784901768f9d86beb7286",
+      "display_sha256": "6d82e080759e08a835b9877bcb1c536ef50947082a9397f4c14920c6b896eae5",
+      "display_blob_sha": "e8f8de990d615fec167f183c5e51bdfd0c3127b2",
+      "display_original_site_sha256": "e027ef8c854ff005798ee22cbc2a40197940ce8433a784901768f9d86beb7286",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-laceyi/inat-648169714.jpg",
@@ -206,7 +216,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "829b6af917bdfc30f6272ba3cd370e68fda49c1a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -214,7 +224,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 355398559, photo 648169714, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7687f52f49dbb48e02172d00ca61d7f3305ebfab7a7ce441930fc47b032fef2a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus laceyi maps to indexed species quercus-laceyi; specialist morphology and BONAP range deferred.",
-      "sha256": "7687f52f49dbb48e02172d00ca61d7f3305ebfab7a7ce441930fc47b032fef2a"
+      "sha256": "7687f52f49dbb48e02172d00ca61d7f3305ebfab7a7ce441930fc47b032fef2a",
+      "display_sha256": "4beb2510390044384168ffbace24f28a974fcb2920759bba0fde33eb8d583bc2",
+      "display_blob_sha": "2e445b1ebfd4cc5a68a9e70f1856940e66d9340f",
+      "display_original_site_sha256": "7687f52f49dbb48e02172d00ca61d7f3305ebfab7a7ce441930fc47b032fef2a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

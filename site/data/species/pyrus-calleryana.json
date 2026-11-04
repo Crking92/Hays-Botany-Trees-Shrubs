@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "580e6b179852c231713bf30e2413ece24617f47f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 266133745, photo 478138224, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a180b6e34060a51e33fa91648c9b181352ecbc72342f0fdb019c816ce5d251cc.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pyrus calleryana maps to indexed species pyrus-calleryana; specialist morphology and BONAP range deferred.",
-      "sha256": "a180b6e34060a51e33fa91648c9b181352ecbc72342f0fdb019c816ce5d251cc"
+      "sha256": "a180b6e34060a51e33fa91648c9b181352ecbc72342f0fdb019c816ce5d251cc",
+      "display_sha256": "043a56cb0af943e4b302d931c15d6f343254d69fc04db41596bb43b896ef4985",
+      "display_blob_sha": "2815503488b91253fdde2f554268e24c334944de",
+      "display_original_site_sha256": "a180b6e34060a51e33fa91648c9b181352ecbc72342f0fdb019c816ce5d251cc",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pyrus-calleryana/inat-484324502.jpeg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "eca5bd6d4df8f716b4e0e8ecb0c6a40ce18536df",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 269371759, photo 484324502, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 13c108c0507611da7c243e05ea4c98de793d310478173ea1eb5a009be2391cc7.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pyrus calleryana maps to indexed species pyrus-calleryana; specialist morphology and BONAP range deferred.",
-      "sha256": "13c108c0507611da7c243e05ea4c98de793d310478173ea1eb5a009be2391cc7"
+      "sha256": "13c108c0507611da7c243e05ea4c98de793d310478173ea1eb5a009be2391cc7",
+      "display_sha256": "48834946c52a85219c9892ce3da8723b6335a394581da123667a8e59277451ca",
+      "display_blob_sha": "9543868d6dd27045a4a8081ccc60c0461b794442",
+      "display_original_site_sha256": "13c108c0507611da7c243e05ea4c98de793d310478173ea1eb5a009be2391cc7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pyrus-calleryana/inat-624813416.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "af6275d10ae28bb9c6b06194c63ed3bad7a5a403",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343055469, photo 624813416, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f438a923bebdd1b5fe753943ab70d9828ca3e477a3218b91c8b99c91572f04f7.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pyrus calleryana maps to indexed species pyrus-calleryana; specialist morphology and BONAP range deferred.",
-      "sha256": "f438a923bebdd1b5fe753943ab70d9828ca3e477a3218b91c8b99c91572f04f7"
+      "sha256": "f438a923bebdd1b5fe753943ab70d9828ca3e477a3218b91c8b99c91572f04f7",
+      "display_sha256": "51574f6d241f8a1afd3017b75b71d80b18e3f45a8819a72a45472e82b4b28242",
+      "display_blob_sha": "31adcab4aaed11ed035cc7db5df3bf7e23a1d7aa",
+      "display_original_site_sha256": "f438a923bebdd1b5fe753943ab70d9828ca3e477a3218b91c8b99c91572f04f7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pyrus-calleryana/inat-626212849.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e05e5f7dc5ee45d02c90b2b1fa2d5d6058a18623",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347317740, photo 633249515, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a74943f462df8d5e0ac0a887fa70d931eeb7c025ae575bc374aa35a0a2667ea6.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Pyrus calleryana maps to indexed species pyrus-calleryana; specialist morphology and BONAP range deferred.",
-      "sha256": "a74943f462df8d5e0ac0a887fa70d931eeb7c025ae575bc374aa35a0a2667ea6"
+      "sha256": "a74943f462df8d5e0ac0a887fa70d931eeb7c025ae575bc374aa35a0a2667ea6",
+      "display_sha256": "37944845d499243eb0cb021d9c7229ea09e723e513bea8b132553b7f8a2f714e",
+      "display_blob_sha": "2aa592b2f359373e3634230b31ab5e77e7d0d2d6",
+      "display_original_site_sha256": "a74943f462df8d5e0ac0a887fa70d931eeb7c025ae575bc374aa35a0a2667ea6",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pyrus-calleryana/archived-d1e701142cf862f1.jpg",

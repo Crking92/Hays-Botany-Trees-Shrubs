@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9828497e0d8d5bf5df05188af3abea9465f98be3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344772246, photo 628226516, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c2f03d59f22c0a52fc1a4121a49f3f42ee9f0c905e48d3d9a8892adcf4fac02c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis reticulata maps to indexed species celtis-reticulata; specialist morphology and BONAP range deferred.",
-      "sha256": "c2f03d59f22c0a52fc1a4121a49f3f42ee9f0c905e48d3d9a8892adcf4fac02c"
+      "sha256": "c2f03d59f22c0a52fc1a4121a49f3f42ee9f0c905e48d3d9a8892adcf4fac02c",
+      "display_sha256": "cadf26bf788f7bfe70b266ead6605757ee02d15fa170c491a3d978d871d31ee7",
+      "display_blob_sha": "a4c12d1b00afe83d3570f6b59f2572f72ad93c33",
+      "display_original_site_sha256": "c2f03d59f22c0a52fc1a4121a49f3f42ee9f0c905e48d3d9a8892adcf4fac02c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-reticulata/inat-629808256.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2597c24f42385309aa89b40f875eed8d77dbf9b8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345193580, photo 629808256, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b6c0f47b0b845aefd65982216555d09f19195819a18d30f1af5c53bb8adde053. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis reticulata maps to indexed species celtis-reticulata; specialist morphology and BONAP range deferred.",
-      "sha256": "b6c0f47b0b845aefd65982216555d09f19195819a18d30f1af5c53bb8adde053"
+      "sha256": "b6c0f47b0b845aefd65982216555d09f19195819a18d30f1af5c53bb8adde053",
+      "display_sha256": "b2149ab53fb7fac4e48341679d046028f611ecceda31f7972588db92d0d93fe3",
+      "display_blob_sha": "f70d656de4d41744041206ab793b6d3bfb9b93b2",
+      "display_original_site_sha256": "b6c0f47b0b845aefd65982216555d09f19195819a18d30f1af5c53bb8adde053",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-reticulata/inat-630147432.jpg",
@@ -126,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "befd898e9c8ed9ee3f10a51990eff913fbca2a1b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345750923, photo 630147432, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 81ec4dcbad5376ee8c3ef292f6ea69a3fd1e5624b0ca05e34186003defbdd5a1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis reticulata maps to indexed species celtis-reticulata; specialist morphology and BONAP range deferred.",
-      "sha256": "81ec4dcbad5376ee8c3ef292f6ea69a3fd1e5624b0ca05e34186003defbdd5a1"
+      "sha256": "81ec4dcbad5376ee8c3ef292f6ea69a3fd1e5624b0ca05e34186003defbdd5a1",
+      "display_sha256": "6e16abf5f3bbc90bb6b1a6fc0429d6350030f0d41d9ef12344203a2e10e8186f",
+      "display_blob_sha": "2d616c3b51dcc2272b606e90decde8be6fe18c80",
+      "display_original_site_sha256": "81ec4dcbad5376ee8c3ef292f6ea69a3fd1e5624b0ca05e34186003defbdd5a1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-reticulata/inat-634955164.jpg",
@@ -145,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "50522a0bfde667f7107e588dd6d660824d5b6b38",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 348177539, photo 634955164, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d4ba3d35dd36cbbd452456b419ba51759791c021acf10ff8366abe71ddf45da3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis reticulata maps to indexed species celtis-reticulata; specialist morphology and BONAP range deferred.",
-      "sha256": "d4ba3d35dd36cbbd452456b419ba51759791c021acf10ff8366abe71ddf45da3"
+      "sha256": "d4ba3d35dd36cbbd452456b419ba51759791c021acf10ff8366abe71ddf45da3",
+      "display_sha256": "64e3af369ceafc44d03ff1d9f11eaf90de76671733c933e94fbdd06ab2f65ccd",
+      "display_blob_sha": "f8f3bfc8859230d17272bf98658b30d8395ed7f9",
+      "display_original_site_sha256": "d4ba3d35dd36cbbd452456b419ba51759791c021acf10ff8366abe71ddf45da3",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-reticulata/inat-640462782.jpg",
@@ -164,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "384ea4c0ed1a0facfa97a4c62cb1013c6ced73de",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -172,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 350992634, photo 640462782, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b38c5191e027f3125a641daaef081b0d07614a99f2e9f79c82333863f3eecfe2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis reticulata maps to indexed species celtis-reticulata; specialist morphology and BONAP range deferred.",
-      "sha256": "b38c5191e027f3125a641daaef081b0d07614a99f2e9f79c82333863f3eecfe2"
+      "sha256": "b38c5191e027f3125a641daaef081b0d07614a99f2e9f79c82333863f3eecfe2",
+      "display_sha256": "bfef32d64ad19a208b36774e845be5c74bf63dc6e4d83c06004058eb7550bdf1",
+      "display_blob_sha": "2e26433a54e0768a95ca490c276e7dba1e802795",
+      "display_original_site_sha256": "b38c5191e027f3125a641daaef081b0d07614a99f2e9f79c82333863f3eecfe2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

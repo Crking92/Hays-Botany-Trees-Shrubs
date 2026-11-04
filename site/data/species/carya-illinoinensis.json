@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "877348f782c0659d6f69b2e97aac3f758184639d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343055459, photo 624813257, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bc08ed631792afe2d67e3c686fd33062c2b4a5a866975c08f80e3b3731f8553a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Carya illinoinensis maps to indexed species carya-illinoinensis; specialist morphology and BONAP range deferred.",
-      "sha256": "bc08ed631792afe2d67e3c686fd33062c2b4a5a866975c08f80e3b3731f8553a"
+      "sha256": "bc08ed631792afe2d67e3c686fd33062c2b4a5a866975c08f80e3b3731f8553a",
+      "display_sha256": "bb44d10d7924e31a66355cbba2407f431d1a77830ead97fab0f1b9d6ec9f440e",
+      "display_blob_sha": "cc4405678a61d02a98e99aa0410be2ad397b3d11",
+      "display_original_site_sha256": "bc08ed631792afe2d67e3c686fd33062c2b4a5a866975c08f80e3b3731f8553a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carya-illinoinensis/inat-635789391.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ab49e463b8e7a8a8b593ca4cb6a607ac2743e685",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 348600069, photo 635789391, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8096ad18b8468d8e8c05a9fca59a4a92eae00af87aff6716a7b287a8e7ffbe37. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Carya illinoinensis maps to indexed species carya-illinoinensis; specialist morphology and BONAP range deferred.",
-      "sha256": "8096ad18b8468d8e8c05a9fca59a4a92eae00af87aff6716a7b287a8e7ffbe37"
+      "sha256": "8096ad18b8468d8e8c05a9fca59a4a92eae00af87aff6716a7b287a8e7ffbe37",
+      "display_sha256": "8e8049d015b98a0a0713afd1e9e19ff59edf5ae027eb76b5dd9eb73fe34c48b8",
+      "display_blob_sha": "e85940febb2f44b86520dae07f4c46034812e020",
+      "display_original_site_sha256": "8096ad18b8468d8e8c05a9fca59a4a92eae00af87aff6716a7b287a8e7ffbe37",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carya-illinoinensis/inat-635792741.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1b041f02b69728d4abd6872af36f7c7cde9b4cbe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 348601810, photo 635792741, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 44b7bd0fafdea7b5aeba7fac2f747d96d57717a1aaac0bc9afe105a7a1c33bbf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Carya illinoinensis maps to indexed species carya-illinoinensis; specialist morphology and BONAP range deferred.",
-      "sha256": "44b7bd0fafdea7b5aeba7fac2f747d96d57717a1aaac0bc9afe105a7a1c33bbf"
+      "sha256": "44b7bd0fafdea7b5aeba7fac2f747d96d57717a1aaac0bc9afe105a7a1c33bbf",
+      "display_sha256": "2713b04eebe8869ae40d8eb9f62aac2361397923fb7fe00d97e8c2fb4d10bef7",
+      "display_blob_sha": "f36d954f9fadc7e2fd4d198d8d1ebaa5d3fd1413",
+      "display_original_site_sha256": "44b7bd0fafdea7b5aeba7fac2f747d96d57717a1aaac0bc9afe105a7a1c33bbf",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carya-illinoinensis/inat-636815237.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79adad89ef6530e3df1594fed9a369242baa60fc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349119967, photo 636815237, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 43eec80ae5ca1e2f630e24264a185b8bec481a5a397ccb3827f6f21689809fd0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Carya illinoinensis maps to indexed species carya-illinoinensis; specialist morphology and BONAP range deferred.",
-      "sha256": "43eec80ae5ca1e2f630e24264a185b8bec481a5a397ccb3827f6f21689809fd0"
+      "sha256": "43eec80ae5ca1e2f630e24264a185b8bec481a5a397ccb3827f6f21689809fd0",
+      "display_sha256": "694a21f394bb100846617979bd80bd61a00376272f43523fe362ed036cb5a790",
+      "display_blob_sha": "d2b58fbd6256bb64e8f05e863ac3932075af85f0",
+      "display_original_site_sha256": "43eec80ae5ca1e2f630e24264a185b8bec481a5a397ccb3827f6f21689809fd0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carya-illinoinensis/inat-644306853.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0c38f5b0650524965b3581b197241f2718ffc501",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353090956, photo 644306853, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ec85b68a230a843e938c3a24095492848dd874221fb63ae59063ea9e7b04b269. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Carya illinoinensis maps to indexed species carya-illinoinensis; specialist morphology and BONAP range deferred.",
-      "sha256": "ec85b68a230a843e938c3a24095492848dd874221fb63ae59063ea9e7b04b269"
+      "sha256": "ec85b68a230a843e938c3a24095492848dd874221fb63ae59063ea9e7b04b269",
+      "display_sha256": "c10f712e1e6f2505d5119ac46cbd1a551fe4ad42db32d9774386d4f39a3d6147",
+      "display_blob_sha": "812f8e17c04ba7911649726ca9ad56f8af09e9ab",
+      "display_original_site_sha256": "ec85b68a230a843e938c3a24095492848dd874221fb63ae59063ea9e7b04b269",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/carya-illinoinensis/archived-6a8d48676d1a482d.jpg",

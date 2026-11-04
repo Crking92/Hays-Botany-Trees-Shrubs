@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "6081e27dbd1e75fda989603cdb17ca0eb97e58a1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 75161030, photo 122928967, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6d45cde9099cd98677faeb32c7f042ca167a55216db39b4d473a8be7f2453ffd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Philadelphus texensis ernestii maps to indexed species philadelphus-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "6d45cde9099cd98677faeb32c7f042ca167a55216db39b4d473a8be7f2453ffd"
+      "sha256": "6d45cde9099cd98677faeb32c7f042ca167a55216db39b4d473a8be7f2453ffd",
+      "display_sha256": "866d7f03a44f0c1f6d48aa0b53b489bc81ec6fbcfc847daa54ca2d734fcd5cb9",
+      "display_blob_sha": "9c47247c70579b80a673652c3c7afa49c80de4ad",
+      "display_original_site_sha256": "6d45cde9099cd98677faeb32c7f042ca167a55216db39b4d473a8be7f2453ffd",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/philadelphus-texensis/inat-16507125.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e53fde1c250854ae4df420188429b786f6e49c7a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 11559385, photo 16507125, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75787e744f8c23286b0d0399c4a6c3fcee265f4f6e53f02ed591b9600f8b3c17. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Philadelphus texensis ernestii maps to indexed species philadelphus-texensis; specialist morphology and BONAP range deferred.",
-      "sha256": "75787e744f8c23286b0d0399c4a6c3fcee265f4f6e53f02ed591b9600f8b3c17"
+      "sha256": "75787e744f8c23286b0d0399c4a6c3fcee265f4f6e53f02ed591b9600f8b3c17",
+      "display_sha256": "cd37a3a80a4ad305f6da1e2bb9eabca7efdf6618de997ea61b6826058af7549f",
+      "display_blob_sha": "db10bd220ec5aca74d505a5b1285485bd5d6e78d",
+      "display_original_site_sha256": "75787e744f8c23286b0d0399c4a6c3fcee265f4f6e53f02ed591b9600f8b3c17",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

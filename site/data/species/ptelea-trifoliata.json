@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a0983b447fcac83fde7ee10ac442944bd1caae59",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341616712, photo 621937776, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ac54be8447091bc6a794cd4c70e2035206e928b56161cf7805c81af3acb2e1db.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ptelea trifoliata maps to indexed species ptelea-trifoliata; specialist morphology and BONAP range deferred.",
-      "sha256": "ac54be8447091bc6a794cd4c70e2035206e928b56161cf7805c81af3acb2e1db"
+      "sha256": "ac54be8447091bc6a794cd4c70e2035206e928b56161cf7805c81af3acb2e1db",
+      "display_sha256": "9a4434dc9705e93a594cfe20747083f1093395e011477bfe64d55c93f9f25e25",
+      "display_blob_sha": "9ae7c9721bd15cf9a284654327fd1e9f1bcdb530",
+      "display_original_site_sha256": "ac54be8447091bc6a794cd4c70e2035206e928b56161cf7805c81af3acb2e1db",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ptelea-trifoliata/inat-624318016.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c4a18524ce88fcd1e299389f01b8825b217b626a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342802976, photo 624318016, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e954622effa568c17846c133f9ba61b9eafe7824753bd787eeeb86a29ab8670.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ptelea trifoliata maps to indexed species ptelea-trifoliata; specialist morphology and BONAP range deferred.",
-      "sha256": "9e954622effa568c17846c133f9ba61b9eafe7824753bd787eeeb86a29ab8670"
+      "sha256": "9e954622effa568c17846c133f9ba61b9eafe7824753bd787eeeb86a29ab8670",
+      "display_sha256": "fb23b8df1904f773aaa44f6d5edaa68c733d9c938ef30c45011ba22e3f7951c6",
+      "display_blob_sha": "710c8a67399d328d94b202af47a6b3ece6240c83",
+      "display_original_site_sha256": "9e954622effa568c17846c133f9ba61b9eafe7824753bd787eeeb86a29ab8670",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ptelea-trifoliata/inat-624746781.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0cc1385a2a1cece51ce505f8e28605849813eef6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343016633, photo 624746781, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 422f7d5a63ac270907a1f854e97d74483bc36d3959b1977ab15d7537bbccf211.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ptelea trifoliata maps to indexed species ptelea-trifoliata; specialist morphology and BONAP range deferred.",
-      "sha256": "422f7d5a63ac270907a1f854e97d74483bc36d3959b1977ab15d7537bbccf211"
+      "sha256": "422f7d5a63ac270907a1f854e97d74483bc36d3959b1977ab15d7537bbccf211",
+      "display_sha256": "8092ac09a18f57c4a713b1e569d18d2378dabbe95cf5d3ee71f5f92251cadc44",
+      "display_blob_sha": "db47b3825268b95d81b3801dbf6a601993e24944",
+      "display_original_site_sha256": "422f7d5a63ac270907a1f854e97d74483bc36d3959b1977ab15d7537bbccf211",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ptelea-trifoliata/inat-628686664.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2f2ecd50b0b5298cffe2e61eca8f2ee0763000cd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345658848, photo 629972352, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0b1266b7c5742bc409d978bb6a78b4c6c4894dc5d93ac6ec2fade4e5cd713af4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Ptelea trifoliata maps to indexed species ptelea-trifoliata; specialist morphology and BONAP range deferred.",
-      "sha256": "0b1266b7c5742bc409d978bb6a78b4c6c4894dc5d93ac6ec2fade4e5cd713af4"
+      "sha256": "0b1266b7c5742bc409d978bb6a78b4c6c4894dc5d93ac6ec2fade4e5cd713af4",
+      "display_sha256": "ff3c86d7b7d85c0f61233fcef976a3b9ba3494679bdd90aa2e85f102beeda180",
+      "display_blob_sha": "524aab4d47fe79797ca402a0491509cb41c28c3e",
+      "display_original_site_sha256": "0b1266b7c5742bc409d978bb6a78b4c6c4894dc5d93ac6ec2fade4e5cd713af4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ptelea-trifoliata/archived-c2587c5623958ace.jpg",

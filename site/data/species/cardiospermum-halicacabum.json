@@ -40,10 +40,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source_blob_sha": "2c53466da0260a6edc755330edcac6819357ac6c",
       "role": "Climbing vine with inflated immature capsules",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "db6277a1135a3558e52a57d0252dbc121f4b2a30ba6caea82e21ee8c504f40d9",
+      "display_blob_sha": "1b5aedf094a70157871a63cff31b4e63504d2518",
+      "display_original_site_sha256": "5bcb3a26bcc11a004463b499395738fe7f850ce6415263808da59380baf04d21",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cardiospermum-halicacabum/cardiospermum-halicacabum-open-fruit-commons.jpg",

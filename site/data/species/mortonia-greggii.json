@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "77aaa7300ef701181de172f4fcd089298c6055b0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 219815660, photo 389111453, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a2d9cbcce121674ced40cb8cd2d503cd91e499b58b3bee38e40fdc51c5c4c791. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Mortonia greggii maps to indexed species mortonia-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "a2d9cbcce121674ced40cb8cd2d503cd91e499b58b3bee38e40fdc51c5c4c791"
+      "sha256": "a2d9cbcce121674ced40cb8cd2d503cd91e499b58b3bee38e40fdc51c5c4c791",
+      "display_sha256": "cb636214a1208f40a68c25f8c36442517573ef9869224f865daf84faa21ef2f4",
+      "display_blob_sha": "da30de8b4d17a9f7378e27c0e7c81eb056ad988d",
+      "display_original_site_sha256": "a2d9cbcce121674ced40cb8cd2d503cd91e499b58b3bee38e40fdc51c5c4c791",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mortonia-greggii/inat-412446773.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3a75a9a433a27271ad87a5f6e5911ce500dc82ee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 232173860, photo 412446773, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63cbc9298275d2ca82b4eda1c96c4638f7eef3fe66388008a3f5ed30d13b4c24. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Mortonia greggii maps to indexed species mortonia-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "63cbc9298275d2ca82b4eda1c96c4638f7eef3fe66388008a3f5ed30d13b4c24"
+      "sha256": "63cbc9298275d2ca82b4eda1c96c4638f7eef3fe66388008a3f5ed30d13b4c24",
+      "display_sha256": "122e78ff3c2ec3a1667c3ea4c929470bb9ee3b045e7c8c2b7bf90f8395c93c6b",
+      "display_blob_sha": "65394ca9cb4a05a43bd0e6911cac7ff56cac856e",
+      "display_original_site_sha256": "63cbc9298275d2ca82b4eda1c96c4638f7eef3fe66388008a3f5ed30d13b4c24",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mortonia-greggii/inat-414602934.jpeg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d46503a5c1c7afaaf0834d1efc91cc0b84157626",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 233301749, photo 414602934, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 145331e37cf0d7cf1e94171f82b49bed1911418438798a0f1aeebfc95a3b05be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Mortonia greggii maps to indexed species mortonia-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "145331e37cf0d7cf1e94171f82b49bed1911418438798a0f1aeebfc95a3b05be"
+      "sha256": "145331e37cf0d7cf1e94171f82b49bed1911418438798a0f1aeebfc95a3b05be",
+      "display_sha256": "0f192471e8fe236047229b5888c50dc1f19645ce247cbe74eea2e334c274d5fa",
+      "display_blob_sha": "37f013936fc2d94de3c703856b6ec8933fb23c9c",
+      "display_original_site_sha256": "145331e37cf0d7cf1e94171f82b49bed1911418438798a0f1aeebfc95a3b05be",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mortonia-greggii/inat-706663707.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb642a057d46aa58602441746feec37942302e11",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 385975634, photo 706663707, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77e5594dea9247bfad4abcc3fda549888a73bbc5ab7242198c8fc7fbd36d00e1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Mortonia greggii maps to indexed species mortonia-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "77e5594dea9247bfad4abcc3fda549888a73bbc5ab7242198c8fc7fbd36d00e1"
+      "sha256": "77e5594dea9247bfad4abcc3fda549888a73bbc5ab7242198c8fc7fbd36d00e1",
+      "display_sha256": "914c905100c616f8a32d9d167d85d661d6054a2da7e5e15cd2758eb8a61e7cf2",
+      "display_blob_sha": "51decf3521ef1a5a2e6a67e9574cf12016bf1583",
+      "display_original_site_sha256": "77e5594dea9247bfad4abcc3fda549888a73bbc5ab7242198c8fc7fbd36d00e1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/mortonia-greggii/inat-706664756.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a77b339c84be31ff20fda8377131f530b8a7324",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 385976096, photo 706664756, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 618b383035b89e414903b302f755cd8d4208d66d6526cde951a61a9e56801f86. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Mortonia greggii maps to indexed species mortonia-greggii; specialist morphology and BONAP range deferred.",
-      "sha256": "618b383035b89e414903b302f755cd8d4208d66d6526cde951a61a9e56801f86"
+      "sha256": "618b383035b89e414903b302f755cd8d4208d66d6526cde951a61a9e56801f86",
+      "display_sha256": "a728ee65f73386b0bc53d7dd9ca16ef9862257fc0cae4c90c3b230550bd9282a",
+      "display_blob_sha": "f111851d5083e57ee4fc046ed566d367ade74746",
+      "display_original_site_sha256": "618b383035b89e414903b302f755cd8d4208d66d6526cde951a61a9e56801f86",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

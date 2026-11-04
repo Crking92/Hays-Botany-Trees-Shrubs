@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "00f1a7a6bbd78817a3439223716c4fba59008292",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341745576, photo 622197273, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a4132810c1939af71df915accd1d860db8d89785b9bbaf70d68514f4d8603aa0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera japonica maps to indexed species lonicera-japonica; specialist morphology and BONAP range deferred.",
-      "sha256": "a4132810c1939af71df915accd1d860db8d89785b9bbaf70d68514f4d8603aa0"
+      "sha256": "a4132810c1939af71df915accd1d860db8d89785b9bbaf70d68514f4d8603aa0",
+      "display_sha256": "23d4c996771239922062dbc43172424f9c5890fcb26a93009004b98d67f754fa",
+      "display_blob_sha": "d854563dd3ceaa479c786ab4178c5c84ea457f0f",
+      "display_original_site_sha256": "a4132810c1939af71df915accd1d860db8d89785b9bbaf70d68514f4d8603aa0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-japonica/inat-633237089.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e8ee7d8be2ee31f328a4fc8bd78366a6a2ecdd6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347312137, photo 633237089, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e0791a027934b99181fca3d78d9a35e4efb53ff6a8686cf226eec0aa3e93f529. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera japonica maps to indexed species lonicera-japonica; specialist morphology and BONAP range deferred.",
-      "sha256": "e0791a027934b99181fca3d78d9a35e4efb53ff6a8686cf226eec0aa3e93f529"
+      "sha256": "e0791a027934b99181fca3d78d9a35e4efb53ff6a8686cf226eec0aa3e93f529",
+      "display_sha256": "19e1f21a4546b1ff16b809166910a1b03093060b53669f4da0fb3b51e556dd37",
+      "display_blob_sha": "fb595f712d118bc074df828bac359b0ee94cc9fd",
+      "display_original_site_sha256": "e0791a027934b99181fca3d78d9a35e4efb53ff6a8686cf226eec0aa3e93f529",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-japonica/inat-633474381.jpg",
@@ -126,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d70a48364730f3bbe813338aa68118d6572eefe2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347430398, photo 633474381, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 58798ea37b18626512c7c4ebf2d3eedaf7ccc51846e2356d41916743f966f142. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera japonica maps to indexed species lonicera-japonica; specialist morphology and BONAP range deferred.",
-      "sha256": "58798ea37b18626512c7c4ebf2d3eedaf7ccc51846e2356d41916743f966f142"
+      "sha256": "58798ea37b18626512c7c4ebf2d3eedaf7ccc51846e2356d41916743f966f142",
+      "display_sha256": "3e9d0c80865e9e71843acabc9bde7145a686a3c3f465a052858f5200cdbae856",
+      "display_blob_sha": "601d53f8ade394eba593776ccf12c3acbe6aabdb",
+      "display_original_site_sha256": "58798ea37b18626512c7c4ebf2d3eedaf7ccc51846e2356d41916743f966f142",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-japonica/inat-633963829.jpg",
@@ -164,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d89ea1081df116993675e8746a0378c3b8024e6c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -172,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 348724754, photo 636044228, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 58d3bcd8396189d125513780e85b7688174d905d38aaffb15415a9560fc835a1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera japonica maps to indexed species lonicera-japonica; specialist morphology and BONAP range deferred.",
-      "sha256": "58d3bcd8396189d125513780e85b7688174d905d38aaffb15415a9560fc835a1"
+      "sha256": "58d3bcd8396189d125513780e85b7688174d905d38aaffb15415a9560fc835a1",
+      "display_sha256": "f3806f0816c50ec3859d49cbc12c8032ee324cead5a3d705eee50e88a6e9ce84",
+      "display_blob_sha": "543e1e8865bd024edc037e1ba0c87e78623d0d20",
+      "display_original_site_sha256": "58d3bcd8396189d125513780e85b7688174d905d38aaffb15415a9560fc835a1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

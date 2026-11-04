@@ -149,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1712de60fc7c1fd11a061286305e104c057e4aba",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 348962806, photo 636513467, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4c8c67ca9fc1bc63a5dc1ad8aa3448a2951d1e12cab99595226f400efcd3a023. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus stellata maps to indexed species quercus-stellata; specialist morphology and BONAP range deferred.",
-      "sha256": "4c8c67ca9fc1bc63a5dc1ad8aa3448a2951d1e12cab99595226f400efcd3a023"
+      "sha256": "4c8c67ca9fc1bc63a5dc1ad8aa3448a2951d1e12cab99595226f400efcd3a023",
+      "display_sha256": "9b16741e904f6591224d13bf2509bad891e0a80d58b55283696d8f8a82d27c17",
+      "display_blob_sha": "059fb3a0c161b7ce72492074fe1e34d5c1d4388b",
+      "display_original_site_sha256": "4c8c67ca9fc1bc63a5dc1ad8aa3448a2951d1e12cab99595226f400efcd3a023",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-stellata/inat-637027614.jpg",
@@ -168,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e4578dadbe9329908f8abe270869795441592f4d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349226312, photo 637027614, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18ec9a6ae1fa6ff264ef6dcc2a5783b4393103027940f7f8751206f53f9d436c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus stellata maps to indexed species quercus-stellata; specialist morphology and BONAP range deferred.",
-      "sha256": "18ec9a6ae1fa6ff264ef6dcc2a5783b4393103027940f7f8751206f53f9d436c"
+      "sha256": "18ec9a6ae1fa6ff264ef6dcc2a5783b4393103027940f7f8751206f53f9d436c",
+      "display_sha256": "2943520cd48b4f1ffa5808829e765c88550a9fa4990f5e2624db1d816f1f099d",
+      "display_blob_sha": "0b4abd55297d5f2b57791f3d1749c40d87345248",
+      "display_original_site_sha256": "18ec9a6ae1fa6ff264ef6dcc2a5783b4393103027940f7f8751206f53f9d436c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-stellata/inat-638840977.jpg",
@@ -206,7 +216,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "59f869ab0aad94851270679e38ef0d023ba1da35",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -214,7 +224,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352888867, photo 643961652, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ba048f6d1066f1fa127f52b759a00666fef5cb5d90bfd0ef2dc48a0eb0294b2c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus stellata maps to indexed species quercus-stellata; specialist morphology and BONAP range deferred.",
-      "sha256": "ba048f6d1066f1fa127f52b759a00666fef5cb5d90bfd0ef2dc48a0eb0294b2c"
+      "sha256": "ba048f6d1066f1fa127f52b759a00666fef5cb5d90bfd0ef2dc48a0eb0294b2c",
+      "display_sha256": "93df443767b9350bd4549eddf1be1c10eb2678c33f486228d763f7e756589abb",
+      "display_blob_sha": "3685c44a83b928b8d1ea48e63780f4ca8d452a15",
+      "display_original_site_sha256": "ba048f6d1066f1fa127f52b759a00666fef5cb5d90bfd0ef2dc48a0eb0294b2c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-stellata/inat-646978263.jpg",
@@ -225,7 +240,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1577ecf7e251fd0d3d861d9b8432c8186b405c5f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -233,7 +248,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354677166, photo 646978263, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 617a3f44e3153623efe2af2f3e2ae3b1211815c15ed5b64412672cae5191a910. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus stellata maps to indexed species quercus-stellata; specialist morphology and BONAP range deferred.",
-      "sha256": "617a3f44e3153623efe2af2f3e2ae3b1211815c15ed5b64412672cae5191a910"
+      "sha256": "617a3f44e3153623efe2af2f3e2ae3b1211815c15ed5b64412672cae5191a910",
+      "display_sha256": "8257485cd36ae634bb4f82cd5407f5ef0169dd8409a6eabec46349fef84ee9d2",
+      "display_blob_sha": "4c44da2efdfd138e470c442f891aade4a5602609",
+      "display_original_site_sha256": "617a3f44e3153623efe2af2f3e2ae3b1211815c15ed5b64412672cae5191a910",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-stellata/archived-ae9841728dc74f29.jpg",

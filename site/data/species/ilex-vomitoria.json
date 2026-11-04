@@ -140,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d123809ecfc95ff48e03b0b672ade16f5f1ca235",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 340846261, photo 620350250, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1dca5610805d8570f0dc1f743d187fd3ff92c9596c6a523b955836855a01acca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex vomitoria maps to indexed species ilex-vomitoria; specialist morphology and BONAP range deferred.",
-      "sha256": "1dca5610805d8570f0dc1f743d187fd3ff92c9596c6a523b955836855a01acca"
+      "sha256": "1dca5610805d8570f0dc1f743d187fd3ff92c9596c6a523b955836855a01acca",
+      "display_sha256": "52e825814e749550f62111e90d92b7251ab4981471553fcd5ade78d2617a4f84",
+      "display_blob_sha": "ee441a22b1eae91b25984893fa5e64a8332d9b7e",
+      "display_original_site_sha256": "1dca5610805d8570f0dc1f743d187fd3ff92c9596c6a523b955836855a01acca",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-vomitoria/inat-623315602.jpg",
@@ -159,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "644c1ab8f214dfda117f5294fc1f177e4204edf4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -167,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342296284, photo 623315602, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c5d967a6602a04e9b604119224230b1b9349df663110aa293c5f99899f10c171. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex vomitoria maps to indexed species ilex-vomitoria; specialist morphology and BONAP range deferred.",
-      "sha256": "c5d967a6602a04e9b604119224230b1b9349df663110aa293c5f99899f10c171"
+      "sha256": "c5d967a6602a04e9b604119224230b1b9349df663110aa293c5f99899f10c171",
+      "display_sha256": "8b4f5b55131ab9d0050d875aa3cc830b462d6031ab37aa8d3ac2a1aa1d1a1bb6",
+      "display_blob_sha": "3b2397ff6ece60996ea34835aeb6fd73f1529808",
+      "display_original_site_sha256": "c5d967a6602a04e9b604119224230b1b9349df663110aa293c5f99899f10c171",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-vomitoria/inat-624756067.jpg",
@@ -178,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0e5c8f90f6c89a603cd70c29cb17516232bd0244",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -186,7 +196,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343021601, photo 624756067, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 337c9514d7d252298d319c36f0945c75951e2ec77a966f85d3157bfacbfa8be2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex vomitoria maps to indexed species ilex-vomitoria; specialist morphology and BONAP range deferred.",
-      "sha256": "337c9514d7d252298d319c36f0945c75951e2ec77a966f85d3157bfacbfa8be2"
+      "sha256": "337c9514d7d252298d319c36f0945c75951e2ec77a966f85d3157bfacbfa8be2",
+      "display_sha256": "8f8c45be3a79d7464d760391535b2dae87cf7175777e1f42089b66fc20ca89ed",
+      "display_blob_sha": "7e42b56e0eca19abbaa76cb434356d15c059b8e1",
+      "display_original_site_sha256": "337c9514d7d252298d319c36f0945c75951e2ec77a966f85d3157bfacbfa8be2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-vomitoria/inat-624756208.jpg",
@@ -197,7 +212,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8ad133779d70dd364fd27b7d78bbe7cc23688cb8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -205,7 +220,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343021658, photo 624756208, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 469efaf0569814abf5000194c00664abb1058d0e184132c5dd7f4c3ad1c41392. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex vomitoria maps to indexed species ilex-vomitoria; specialist morphology and BONAP range deferred.",
-      "sha256": "469efaf0569814abf5000194c00664abb1058d0e184132c5dd7f4c3ad1c41392"
+      "sha256": "469efaf0569814abf5000194c00664abb1058d0e184132c5dd7f4c3ad1c41392",
+      "display_sha256": "32f16920b3820c9daea0c4b68e9b06b4f972b3129d8db08bc072007da2cf6544",
+      "display_blob_sha": "1115dbf1cfe2a49b4647f9ebe7253feb72dc8b2b",
+      "display_original_site_sha256": "469efaf0569814abf5000194c00664abb1058d0e184132c5dd7f4c3ad1c41392",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-vomitoria/inat-625066515.jpg",
@@ -216,7 +236,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05fc82707823f52585c69a2705ce199845a64f8d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -224,7 +244,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343175143, photo 625066515, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f5ec97ba2fe1b653b47120360cf61b8c029c9161fc6474b3679f1459584d19c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex vomitoria maps to indexed species ilex-vomitoria; specialist morphology and BONAP range deferred.",
-      "sha256": "f5ec97ba2fe1b653b47120360cf61b8c029c9161fc6474b3679f1459584d19c0"
+      "sha256": "f5ec97ba2fe1b653b47120360cf61b8c029c9161fc6474b3679f1459584d19c0",
+      "display_sha256": "8e8e34984ff9f596568d7ded36f4f29f45615d74263ec7432be7f2f48df0b844",
+      "display_blob_sha": "d59aae41d19d7d5e1ddb8f8dd2624c6465df8423",
+      "display_original_site_sha256": "f5ec97ba2fe1b653b47120360cf61b8c029c9161fc6474b3679f1459584d19c0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

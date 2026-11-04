@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "6232e763943e5cbcbe1c12e4e8feab174d089093",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 107937148, photo 181632616, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: dba1110cc2acfa956673772e83ee14f15be7fce5db3020a457705ade693584a3.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condaliopsis obtusifolia maps to indexed species condaliopsis-obtusifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "dba1110cc2acfa956673772e83ee14f15be7fce5db3020a457705ade693584a3"
+      "sha256": "dba1110cc2acfa956673772e83ee14f15be7fce5db3020a457705ade693584a3",
+      "display_sha256": "3a49e9130af447112738c7cf2492ccdce01876471858b6fa972e49cb01a418ce",
+      "display_blob_sha": "a29500c79b9055be951619d8078738e3e285443a",
+      "display_original_site_sha256": "dba1110cc2acfa956673772e83ee14f15be7fce5db3020a457705ade693584a3",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condaliopsis-obtusifolia/inat-382743259.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "abb0179a0a15f5925fd8fc5098f74166cacc5435",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 264126998, photo 474594617, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad1f5a6ec00796ecca23a9711fa2c614278b3ebe061ce77e9e7fdb0c341c5bba.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condaliopsis obtusifolia maps to indexed species condaliopsis-obtusifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "ad1f5a6ec00796ecca23a9711fa2c614278b3ebe061ce77e9e7fdb0c341c5bba"
+      "sha256": "ad1f5a6ec00796ecca23a9711fa2c614278b3ebe061ce77e9e7fdb0c341c5bba",
+      "display_sha256": "a843d242c64a5b4803b18d2f4f4b348829ffd3867310aa330f223da00e6df1a6",
+      "display_blob_sha": "308fc770ce8bd1953171b8e7496aedfb0ad12a2b",
+      "display_original_site_sha256": "ad1f5a6ec00796ecca23a9711fa2c614278b3ebe061ce77e9e7fdb0c341c5bba",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condaliopsis-obtusifolia/inat-480579510.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3da01b3baca33ba638a36ba55c2baf9d7093e775",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 267422695, photo 480579510, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f4034a762facf51e748b57ba3773f8d47083578e1cc51eb87e464141880b8e0a.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condaliopsis obtusifolia maps to indexed species condaliopsis-obtusifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "f4034a762facf51e748b57ba3773f8d47083578e1cc51eb87e464141880b8e0a"
+      "sha256": "f4034a762facf51e748b57ba3773f8d47083578e1cc51eb87e464141880b8e0a",
+      "display_sha256": "d23724a93efff9b1e678c8e3ceb4805efeb67d7a8f689be08702d1cd07277285",
+      "display_blob_sha": "a664ab763c5ebbd3735d383c990d12fa3b2e8512",
+      "display_original_site_sha256": "f4034a762facf51e748b57ba3773f8d47083578e1cc51eb87e464141880b8e0a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condaliopsis-obtusifolia/inat-658099946.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6a13271c2fc24120c187308533ccac13cc3e5ef1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 360650160, photo 658099946, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8258230b63b5abca1be61a6e23d63e3bbaa10b2bbb2936e6120a3edb5bf4d58e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condaliopsis obtusifolia maps to indexed species condaliopsis-obtusifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "8258230b63b5abca1be61a6e23d63e3bbaa10b2bbb2936e6120a3edb5bf4d58e"
+      "sha256": "8258230b63b5abca1be61a6e23d63e3bbaa10b2bbb2936e6120a3edb5bf4d58e",
+      "display_sha256": "9be5212a0eb33dd6bb759d3610198fb5d2d9fdd9175bd1814d34e4ec20c12306",
+      "display_blob_sha": "a0b1e83159597203393365542b324f360c2b7883",
+      "display_original_site_sha256": "8258230b63b5abca1be61a6e23d63e3bbaa10b2bbb2936e6120a3edb5bf4d58e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condaliopsis-obtusifolia/archived-050743995511e549.jpg",

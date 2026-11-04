@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "16f7d728c3aa05f9ec5290a1494575ef87fedbe8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 340991699, photo 620648845, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1fbe6db449f0f87043147727981aceeb06b6ceb0c36b48b8ac8fcffa141237d1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cornus drummondii maps to indexed species cornus-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "1fbe6db449f0f87043147727981aceeb06b6ceb0c36b48b8ac8fcffa141237d1"
+      "sha256": "1fbe6db449f0f87043147727981aceeb06b6ceb0c36b48b8ac8fcffa141237d1",
+      "display_sha256": "750002305adb3c1a9b90296147210dd60a33a495a7d58e20d1d46d541804d4a3",
+      "display_blob_sha": "e3ed5b5095cd54bcfe21bc554dbda2d5c73922ad",
+      "display_original_site_sha256": "1fbe6db449f0f87043147727981aceeb06b6ceb0c36b48b8ac8fcffa141237d1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cornus-drummondii/inat-621546960.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "06b0b6734cfa9ef2d9419a8b3e44c47eb09b443f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341426219, photo 621546960, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8edbc50da8b856e6a1b87855d4988956200cd6f31adf511fba2a458e4f9488d8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cornus drummondii maps to indexed species cornus-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "8edbc50da8b856e6a1b87855d4988956200cd6f31adf511fba2a458e4f9488d8"
+      "sha256": "8edbc50da8b856e6a1b87855d4988956200cd6f31adf511fba2a458e4f9488d8",
+      "display_sha256": "ded2d7c089fbd3f70efe7de10adb5bfc75558ac1e443195a63d023034a2bdce4",
+      "display_blob_sha": "c1f8b79ebef8ed69e7f3a3bb987d96fa33030953",
+      "display_original_site_sha256": "8edbc50da8b856e6a1b87855d4988956200cd6f31adf511fba2a458e4f9488d8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cornus-drummondii/inat-622196932.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "99b5a2382221bf1bea71ac26c820ca197ebe5979",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341745371, photo 622196932, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b00a5f9c16c00c7c0392860fdb5573a7f0d33aed881741c663731005e9bd8961. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cornus drummondii maps to indexed species cornus-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "b00a5f9c16c00c7c0392860fdb5573a7f0d33aed881741c663731005e9bd8961"
+      "sha256": "b00a5f9c16c00c7c0392860fdb5573a7f0d33aed881741c663731005e9bd8961",
+      "display_sha256": "b59b2fa9864612c2c8de8c21c748a06ddc82c1007ae99739dfbca0c765aca7f0",
+      "display_blob_sha": "62466e3964e21328f9e6db7d89a7dc7bb8bf15ca",
+      "display_original_site_sha256": "b00a5f9c16c00c7c0392860fdb5573a7f0d33aed881741c663731005e9bd8961",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cornus-drummondii/inat-624174171.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "95f17e8dc08fe697150aa846ed789f1d3e7ef920",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342730859, photo 624174171, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e9011cb86a11c43af806c1fa109562b490f170e98b3ce94fcc59b83f378e067f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cornus drummondii maps to indexed species cornus-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "e9011cb86a11c43af806c1fa109562b490f170e98b3ce94fcc59b83f378e067f"
+      "sha256": "e9011cb86a11c43af806c1fa109562b490f170e98b3ce94fcc59b83f378e067f",
+      "display_sha256": "9a81b2121e32cd085ffbe12eb91282258ae2bd3c4107a49c035b54cc3ba6dfc0",
+      "display_blob_sha": "f9d3262b65166223231f6564ce715c9feb421f83",
+      "display_original_site_sha256": "e9011cb86a11c43af806c1fa109562b490f170e98b3ce94fcc59b83f378e067f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cornus-drummondii/inat-628612492.jpg",
@@ -149,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f57c108f822c9a94e9d8cc136294d1066eac7a31",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Cornaceae–Cucurbitaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344972055, photo 628612492, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f1cef76ef4f7871c2534b8449a44fe00b3270a86382d574cceed18df9defd13f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 species contact sheets inspected for obvious off-target organisms. Live source name Cornus drummondii maps to indexed species cornus-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "f1cef76ef4f7871c2534b8449a44fe00b3270a86382d574cceed18df9defd13f"
+      "sha256": "f1cef76ef4f7871c2534b8449a44fe00b3270a86382d574cceed18df9defd13f",
+      "display_sha256": "8e762e0555240a2c45b6fd4587e0e0956b256b6dc28cfcf9214f3a090735bf1c",
+      "display_blob_sha": "3e93d6aea56a7dac7b5f74cabaa7dd68a9cbc6c3",
+      "display_original_site_sha256": "f1cef76ef4f7871c2534b8449a44fe00b3270a86382d574cceed18df9defd13f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

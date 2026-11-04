@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "3ca48bea0ebd3a4661020045b0851c990c42a94d",
       "role": "Bluish ripe berries and reddish stalks",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 156748081 inside observation 94489991; exact photo license cc-by and creator Jo Roberts match the source ZIP; SHA-256 64d7b9e2196829f6b807cd39a7ff2be23cd4caec3869f4c1498e20cffaa961e4 verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus heptaphylla confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "64d7b9e2196829f6b807cd39a7ff2be23cd4caec3869f4c1498e20cffaa961e4"
+      "sha256": "64d7b9e2196829f6b807cd39a7ff2be23cd4caec3869f4c1498e20cffaa961e4",
+      "display_sha256": "302ed9b009c175bcc223c997a31a6c04ee300631f36b19f335cadc98cf3e168b",
+      "display_blob_sha": "1f7e17240850d0f77687b7e61732f153060c98fc",
+      "display_original_site_sha256": "64d7b9e2196829f6b807cd39a7ff2be23cd4caec3869f4c1498e20cffaa961e4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-heptaphylla/inat-photo-656078246.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "2b1ac4e8b32f5f49ea583455bd004df98ab00729",
       "role": "Developing fruit and foliage",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 656078246 inside observation 359591735; exact photo license cc-by and creator Jo Roberts match the source ZIP; SHA-256 d0944c05adbc8723afbe6080bf65903ca937d968a68e6ba57a8b90d0f5baf014 verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus heptaphylla confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "d0944c05adbc8723afbe6080bf65903ca937d968a68e6ba57a8b90d0f5baf014"
+      "sha256": "d0944c05adbc8723afbe6080bf65903ca937d968a68e6ba57a8b90d0f5baf014",
+      "display_sha256": "ddf40a798103028eded7118af41e56a42766ec1191dc9994f24a68aa23e13e91",
+      "display_blob_sha": "fb458661a13d1e945c1831c9fe326cd63a69c834",
+      "display_original_site_sha256": "d0944c05adbc8723afbe6080bf65903ca937d968a68e6ba57a8b90d0f5baf014",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-heptaphylla/inat-photo-722465127.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "830c4a138a8761764b9d07187d45c2170beb6d42",
       "role": "Palmately compound foliage and woody vine, not flowers",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 722465127 inside observation 394110382; exact photo license cc-by and creator Michelle W. （鍾偉瑋） match the source ZIP; SHA-256 9a3ab28f8a1e635d27c13d2be6853eceefec5fccd1a365f921ea88d25e866449 verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus heptaphylla confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "9a3ab28f8a1e635d27c13d2be6853eceefec5fccd1a365f921ea88d25e866449"
+      "sha256": "9a3ab28f8a1e635d27c13d2be6853eceefec5fccd1a365f921ea88d25e866449",
+      "display_sha256": "5724a0aaf81beed743d4e7f854fb8878e24d2fe8a8a6c5151cc56cfb706cbc06",
+      "display_blob_sha": "80422e827880341709df1ef7a7b45fef61f95297",
+      "display_original_site_sha256": "9a3ab28f8a1e635d27c13d2be6853eceefec5fccd1a365f921ea88d25e866449",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-heptaphylla/inat-photo-756421698.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b4cc158ffbe6278298e8b8cf4cd1c2fc1c3114d5",
       "role": "Leaflet arrangement and emerging foliage, not flowers",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 756421698 inside observation 411205559; exact photo license cc-by and creator Chris Hughes match the source ZIP; SHA-256 a8a307bf2de67f5abbc72a9b0994a6295bd854d4a860a9965145a4a4f1622936 verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus heptaphylla confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "a8a307bf2de67f5abbc72a9b0994a6295bd854d4a860a9965145a4a4f1622936"
+      "sha256": "a8a307bf2de67f5abbc72a9b0994a6295bd854d4a860a9965145a4a4f1622936",
+      "display_sha256": "6d3e242ca1406b364829c5534e471fa06db931ed8669982e18d0d9896dc215c0",
+      "display_blob_sha": "9595777bdd38dd5bddd9a8bf3c4e27f4d343bfca",
+      "display_original_site_sha256": "a8a307bf2de67f5abbc72a9b0994a6295bd854d4a860a9965145a4a4f1622936",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-heptaphylla/inat-photo-627601615.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "47652c8ed335c164d7398e9060245ffca81595e5",
       "role": "Live palmate foliage and branches in a natural setting",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 627601615 inside observation 344446117; exact photo license cc-by-nc and creator maureensweet match the source ZIP; SHA-256 126771319b7274bb3fa274f3529599241a4b3edca1ba5327f83f7d54c0143e9f verified against original archived bytes at 2026-11-02T21:04:43.126291+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check Nov 2 2026; plausible foliage habit and seasonal structure, not expert voucher determination. Observation-level taxon Parthenocissus heptaphylla confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "126771319b7274bb3fa274f3529599241a4b3edca1ba5327f83f7d54c0143e9f"
+      "sha256": "126771319b7274bb3fa274f3529599241a4b3edca1ba5327f83f7d54c0143e9f",
+      "display_sha256": "247d0327b91b03d099b819984ebe5a75a158929e871210299f0c4c3109db26c0",
+      "display_blob_sha": "d5e88ff75d04382cdb129080f8eb60ecc1c91c40",
+      "display_original_site_sha256": "126771319b7274bb3fa274f3529599241a4b3edca1ba5327f83f7d54c0143e9f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-heptaphylla/archived-8058b1088b43e1f2.jpg",

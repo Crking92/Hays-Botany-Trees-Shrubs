@@ -69,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6d5ec296af0fab74aadf2e600f33d4cac2dc96c5",
       "role": "same-observation oak field view 2",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -77,7 +77,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 404035822 photo 741913901 individual CC code cc-by-nc; photographer (c) Harrison, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 6d5ec296af0fab74aadf2e600f33d4cac2dc96c5; exact image source https://www.inaturalist.org/photos/741913901",
       "taxon_review_evidence": "Original species record Quercus buckleyi linked to an original image and matching current inat photo of source taxon Quercus buckleyi. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "0442268f466abc5e47865a5cbe8ca080a69fbc0827680faee66eab2861761506"
+      "sha256": "0442268f466abc5e47865a5cbe8ca080a69fbc0827680faee66eab2861761506",
+      "display_sha256": "b8fa4ea3d87abda840494bb68cb61821f1b7844171f9d776ff5bae6f2c539e4c",
+      "display_blob_sha": "7440d1fb5399b2899f36f7d3cc6961e52345db6d",
+      "display_original_site_sha256": "0442268f466abc5e47865a5cbe8ca080a69fbc0827680faee66eab2861761506",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-buckleyi/archived-b396cb554b4ce3b5.jpg",
@@ -88,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5c484d2be44b8cb42c9ec294f8efde1723898687",
       "role": "same-observation oak field view 1",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -96,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 404035822 photo 741913900 individual CC code cc-by-nc; photographer (c) Harrison, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 5c484d2be44b8cb42c9ec294f8efde1723898687; exact image source https://www.inaturalist.org/photos/741913900",
       "taxon_review_evidence": "Original species record Quercus buckleyi linked to an original image and matching current inat photo of source taxon Quercus buckleyi. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "b396cb554b4ce3b554dda64a2422db865c57e77f27287512f626d4999f70302d"
+      "sha256": "b396cb554b4ce3b554dda64a2422db865c57e77f27287512f626d4999f70302d",
+      "display_sha256": "4e6f67631bc15f988420e2301df6e68892053975c7d812132a6e0e1d9a94677c",
+      "display_blob_sha": "9a57af67d66af25d7f46f64a8f999e5d170a2d9b",
+      "display_original_site_sha256": "b396cb554b4ce3b554dda64a2422db865c57e77f27287512f626d4999f70302d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-buckleyi/archived-b49434ef86b5109c.jpg",
@@ -107,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "17d58d937aee9a9b0b01225dd3d90721f9f2f403",
       "role": "same-observation oak field view 3",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -115,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 404035822 photo 741913940 individual CC code cc-by-nc; photographer (c) Harrison, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 17d58d937aee9a9b0b01225dd3d90721f9f2f403; exact image source https://www.inaturalist.org/photos/741913940",
       "taxon_review_evidence": "Original species record Quercus buckleyi linked to an original image and matching current inat photo of source taxon Quercus buckleyi. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "b49434ef86b5109c01c4ff4a812b93773255dcf6e047b965cdeb76bc198e45c4"
+      "sha256": "b49434ef86b5109c01c4ff4a812b93773255dcf6e047b965cdeb76bc198e45c4",
+      "display_sha256": "8a3f6bfe6ce1c785e0e2fd05f12cec21285192d408f8f4308b760364b63f2a1e",
+      "display_blob_sha": "f9e1fb6c665937431daf1ca0d4e166baf9a8e4d7",
+      "display_original_site_sha256": "b49434ef86b5109c01c4ff4a812b93773255dcf6e047b965cdeb76bc198e45c4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-buckleyi/archived-d1e0065dc39fc60e.jpg",
@@ -126,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "17f45dae3871a265d85ca644c47d1ffd6a81e8c8",
       "role": "same-observation oak field view 4",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -134,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 404035822 photo 741913909 individual CC code cc-by-nc; photographer (c) Harrison, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 17f45dae3871a265d85ca644c47d1ffd6a81e8c8; exact image source https://www.inaturalist.org/photos/741913909",
       "taxon_review_evidence": "Original species record Quercus buckleyi linked to an original image and matching current inat photo of source taxon Quercus buckleyi. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "d1e0065dc39fc60e8f8d5c2462bbae8730f0ad3d6050dc9ed524f3f82c8a6bd1"
+      "sha256": "d1e0065dc39fc60e8f8d5c2462bbae8730f0ad3d6050dc9ed524f3f82c8a6bd1",
+      "display_sha256": "a3067432c34774fc3a1d94a7b26b26c6faf4ff172631dce1e0a0dda3677e8e18",
+      "display_blob_sha": "526acc4922aff98118a58ad27cdf86af4215bca7",
+      "display_original_site_sha256": "d1e0065dc39fc60e8f8d5c2462bbae8730f0ad3d6050dc9ed524f3f82c8a6bd1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-buckleyi/archived-b0372c6e92811706.jpg",
@@ -183,7 +203,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "881be7a539d17eb2cb9ccb3e747761cf1549659c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -191,7 +211,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343017050, photo 624747230, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ab2fdafa7b6fa0424a8bcf3e9c3f43094789a6ebfaab33d54a06def26d19c79d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus buckleyi maps to indexed species quercus-buckleyi; specialist morphology and BONAP range deferred.",
-      "sha256": "ab2fdafa7b6fa0424a8bcf3e9c3f43094789a6ebfaab33d54a06def26d19c79d"
+      "sha256": "ab2fdafa7b6fa0424a8bcf3e9c3f43094789a6ebfaab33d54a06def26d19c79d",
+      "display_sha256": "1c00236b50202933c8cfd3c73629970ee644dead6042cbedd178f0926dabc564",
+      "display_blob_sha": "d07c03383193b2e287ac451fd89f7bc7a47c3e70",
+      "display_original_site_sha256": "ab2fdafa7b6fa0424a8bcf3e9c3f43094789a6ebfaab33d54a06def26d19c79d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-buckleyi/inat-625885911.jpg",
@@ -202,7 +227,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae1d99caa8a6ebe5c240ec9c219344e74c7db0c1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -210,7 +235,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343574875, photo 625885911, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f675bf4b929ccf24008cfc051556afd076fee7f9593bb690736e870ce5ca67d1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus buckleyi maps to indexed species quercus-buckleyi; specialist morphology and BONAP range deferred.",
-      "sha256": "f675bf4b929ccf24008cfc051556afd076fee7f9593bb690736e870ce5ca67d1"
+      "sha256": "f675bf4b929ccf24008cfc051556afd076fee7f9593bb690736e870ce5ca67d1",
+      "display_sha256": "d0c972239909a8612dc1a25e047872940ab513ea9a88b84cb8ec6f8705b07eb0",
+      "display_blob_sha": "9535993b83a0f16a920c3bfe8f52b8df338dfca3",
+      "display_original_site_sha256": "f675bf4b929ccf24008cfc051556afd076fee7f9593bb690736e870ce5ca67d1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-buckleyi/inat-634473276.jpg",
@@ -221,7 +251,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "033bcbe56537e92da4381b0ea10a9fc32ed81b9f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -229,7 +259,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347934995, photo 634473276, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b6bf0cb2090b729b17c63bd683f255b97535d4f713424f32b99de4546c049680. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus buckleyi maps to indexed species quercus-buckleyi; specialist morphology and BONAP range deferred.",
-      "sha256": "b6bf0cb2090b729b17c63bd683f255b97535d4f713424f32b99de4546c049680"
+      "sha256": "b6bf0cb2090b729b17c63bd683f255b97535d4f713424f32b99de4546c049680",
+      "display_sha256": "8696762daa6ea13fbcd2a20a751edaa8e31f8ad47b3d893e4c6881099fe2870c",
+      "display_blob_sha": "8fb59102d49d72c7722e72b15af51ec4f00a1660",
+      "display_original_site_sha256": "b6bf0cb2090b729b17c63bd683f255b97535d4f713424f32b99de4546c049680",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-buckleyi/inat-636699028.jpg",
@@ -240,7 +275,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "528fed9942c47082658e2c7116c06555521827b8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -248,7 +283,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349061128, photo 636699028, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9537e7f5386feb5faf863e7b7a36fdda8891a1b11301d081ab031949b7c88171. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus buckleyi maps to indexed species quercus-buckleyi; specialist morphology and BONAP range deferred.",
-      "sha256": "9537e7f5386feb5faf863e7b7a36fdda8891a1b11301d081ab031949b7c88171"
+      "sha256": "9537e7f5386feb5faf863e7b7a36fdda8891a1b11301d081ab031949b7c88171",
+      "display_sha256": "bf191f6efccbf98c4dde6ad8599880f3dc274012344d3d85291bfd84f61a902c",
+      "display_blob_sha": "d7da9a699a7467a4f2a90fc1682304ac6efcc845",
+      "display_original_site_sha256": "9537e7f5386feb5faf863e7b7a36fdda8891a1b11301d081ab031949b7c88171",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-buckleyi/inat-642173631.jpg",
@@ -259,7 +299,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "64418588ee8c33712cd201dfbab8f5640f171725",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -267,7 +307,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 351868828, photo 642173631, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 141c92304cf1466e85093865e6fed6ca4f8d45a530b8064558a91bde45fdc814. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus buckleyi maps to indexed species quercus-buckleyi; specialist morphology and BONAP range deferred.",
-      "sha256": "141c92304cf1466e85093865e6fed6ca4f8d45a530b8064558a91bde45fdc814"
+      "sha256": "141c92304cf1466e85093865e6fed6ca4f8d45a530b8064558a91bde45fdc814",
+      "display_sha256": "57b603467b84458eea30e02a35326081f21ace68f1802103a9ae23ba7694255b",
+      "display_blob_sha": "efb02b2fbd7e210adc2cb5c589b42a7263b223ec",
+      "display_original_site_sha256": "141c92304cf1466e85093865e6fed6ca4f8d45a530b8064558a91bde45fdc814",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

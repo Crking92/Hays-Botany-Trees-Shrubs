@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "43bd2cacf13a91ac4fc985d38d8fcb0483fa035b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 156231250, photo 270130404, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 376c7716d5ec64d2764a00302afec35a82cbe72e8c8ea84c72e3175076bf382c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Tamarix ramosissima maps to indexed species tamarix-ramosissima; specialist morphology and BONAP range deferred.",
-      "sha256": "376c7716d5ec64d2764a00302afec35a82cbe72e8c8ea84c72e3175076bf382c"
+      "sha256": "376c7716d5ec64d2764a00302afec35a82cbe72e8c8ea84c72e3175076bf382c",
+      "display_sha256": "6292f51609f967db655a0c5aab4408fec7ff8dc2a9e9ad04e176b810a2a5071f",
+      "display_blob_sha": "12cc695502cf74e92485b4f9b32fe6e7a646eef2",
+      "display_original_site_sha256": "376c7716d5ec64d2764a00302afec35a82cbe72e8c8ea84c72e3175076bf382c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tamarix-ramosissima/inat-641375929.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0053ae7dcac80f0d73c55b52befe2587845cc928",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 351458644, photo 641375929, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: db79f7d5379c4db267bee222f30fa47ca96b3450df4eaff60ed6db6092b956e0.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Tamarix ramosissima maps to indexed species tamarix-ramosissima; specialist morphology and BONAP range deferred.",
-      "sha256": "db79f7d5379c4db267bee222f30fa47ca96b3450df4eaff60ed6db6092b956e0"
+      "sha256": "db79f7d5379c4db267bee222f30fa47ca96b3450df4eaff60ed6db6092b956e0",
+      "display_sha256": "fc39b3ec9ff26d1d4b3bf6d98d8d65e3f172211120f377e203e5488cbe852a08",
+      "display_blob_sha": "9370a427c4729299edfa168523dc710bcb2fb7cc",
+      "display_original_site_sha256": "db79f7d5379c4db267bee222f30fa47ca96b3450df4eaff60ed6db6092b956e0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tamarix-ramosissima/inat-656796539.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bc82cac8199a13ffbf7b1be442f45654df2e578d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 359960358, photo 656796539, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1a8d62368f45b2de6a503eb45f54b4116eea811b870636e9bbbebc347a88af09.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Tamarix ramosissima maps to indexed species tamarix-ramosissima; specialist morphology and BONAP range deferred.",
-      "sha256": "1a8d62368f45b2de6a503eb45f54b4116eea811b870636e9bbbebc347a88af09"
+      "sha256": "1a8d62368f45b2de6a503eb45f54b4116eea811b870636e9bbbebc347a88af09",
+      "display_sha256": "20f853ac67170a747659f045f21894d6acd06ae0dbe55b20009fbd8b3e4eb09a",
+      "display_blob_sha": "e0be2369af7e27139abb913e31c3723be6ce368d",
+      "display_original_site_sha256": "1a8d62368f45b2de6a503eb45f54b4116eea811b870636e9bbbebc347a88af09",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tamarix-ramosissima/inat-656796912.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a1ab64af42284b92af70a61487b0845f04ace39",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 359960537, photo 656796912, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2fa803cda9525b46ddd361adc2273512ec52bc0a725b8d2a261e4299313e66cd.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Tamarix ramosissima maps to indexed species tamarix-ramosissima; specialist morphology and BONAP range deferred.",
-      "sha256": "2fa803cda9525b46ddd361adc2273512ec52bc0a725b8d2a261e4299313e66cd"
+      "sha256": "2fa803cda9525b46ddd361adc2273512ec52bc0a725b8d2a261e4299313e66cd",
+      "display_sha256": "13a1115c75b8171c37238791e8bb6ab4e8c41ca6784369d9325b77eea9715c36",
+      "display_blob_sha": "d30c6015a417848e77c92d397c05d25cb3d9891a",
+      "display_original_site_sha256": "2fa803cda9525b46ddd361adc2273512ec52bc0a725b8d2a261e4299313e66cd",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tamarix-ramosissima/archived-1ceeb98889cbc265.jpg",

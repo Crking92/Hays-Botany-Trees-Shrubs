@@ -191,7 +191,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2f63fb7896071caac0013853b4635e6f9286f832",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -199,7 +199,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 40796003, photo 64671616, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9282edd8db042fb4ee81ceb73c11dd3139c4d328da3186465427d6e6d3b683eb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle bonariensis maps to indexed species hydrocotyle-bonariensis; specialist morphology and BONAP range deferred.",
-      "sha256": "9282edd8db042fb4ee81ceb73c11dd3139c4d328da3186465427d6e6d3b683eb"
+      "sha256": "9282edd8db042fb4ee81ceb73c11dd3139c4d328da3186465427d6e6d3b683eb",
+      "display_sha256": "5ac608e09a736b4b31791c51229bb9d95efe2816ca671fb4a61fa156d1732312",
+      "display_blob_sha": "9ad04f01b461132854a4422d5dd357a63043a6ab",
+      "display_original_site_sha256": "9282edd8db042fb4ee81ceb73c11dd3139c4d328da3186465427d6e6d3b683eb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-bonariensis/inat-66092904.jpeg",
@@ -210,7 +215,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1bbc8996be425a01a434427fd41e6a9631527b97",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -218,7 +223,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 41661421, photo 66092904, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98179e991112579849925a3cfb69a6c8d57fa02b6183c2300ac3e9d42bf54c8e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle bonariensis maps to indexed species hydrocotyle-bonariensis; specialist morphology and BONAP range deferred.",
-      "sha256": "98179e991112579849925a3cfb69a6c8d57fa02b6183c2300ac3e9d42bf54c8e"
+      "sha256": "98179e991112579849925a3cfb69a6c8d57fa02b6183c2300ac3e9d42bf54c8e",
+      "display_sha256": "0ec366236c12f0baaa2516a4a4b6dded80d06380934b9f683e1097b6a77540fa",
+      "display_blob_sha": "b76ea779e70fea4d43dc91e38e5588afdfb45f28",
+      "display_original_site_sha256": "98179e991112579849925a3cfb69a6c8d57fa02b6183c2300ac3e9d42bf54c8e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-bonariensis/inat-67331875.jpg",
@@ -229,7 +239,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c275d6dce032af0fa7b3db1f37a54b3bb1130aa7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -237,7 +247,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 42406923, photo 67331875, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf1cbdf16e832fafae70cc2d2453ac6474cf8f61429d618e9eb22347af97a337. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle bonariensis maps to indexed species hydrocotyle-bonariensis; specialist morphology and BONAP range deferred.",
-      "sha256": "cf1cbdf16e832fafae70cc2d2453ac6474cf8f61429d618e9eb22347af97a337"
+      "sha256": "cf1cbdf16e832fafae70cc2d2453ac6474cf8f61429d618e9eb22347af97a337",
+      "display_sha256": "ef7a7c295228433e02d97ac9e5708bd6baf6828c51b6157cffbe9a7c691348b3",
+      "display_blob_sha": "28f0cfe33251ff57ad8b6dc5f6163f9831192afd",
+      "display_original_site_sha256": "cf1cbdf16e832fafae70cc2d2453ac6474cf8f61429d618e9eb22347af97a337",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-bonariensis/inat-7057221.jpeg",
@@ -248,7 +263,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "fe0d46ae4ad17b0f15b7d056e14be176b49f22b5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -256,7 +271,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 5697378, photo 7057221, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e4b9963efa403e49f60dac785581a8a9b02143b7382ddc72cd86bf5781433cc2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle bonariensis maps to indexed species hydrocotyle-bonariensis; specialist morphology and BONAP range deferred.",
-      "sha256": "e4b9963efa403e49f60dac785581a8a9b02143b7382ddc72cd86bf5781433cc2"
+      "sha256": "e4b9963efa403e49f60dac785581a8a9b02143b7382ddc72cd86bf5781433cc2",
+      "display_sha256": "c6ff824a0487f13e47270e44441c08fbd521c22b94e9eb9b8b7d10110c3ab547",
+      "display_blob_sha": "ec28f3f55677ce1e6b3f6e608499369b12c0fa43",
+      "display_original_site_sha256": "e4b9963efa403e49f60dac785581a8a9b02143b7382ddc72cd86bf5781433cc2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-bonariensis/inat-7079241.jpeg",

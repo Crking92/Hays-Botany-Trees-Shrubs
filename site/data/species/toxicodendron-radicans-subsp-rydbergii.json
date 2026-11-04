@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "078982cf42be897d89ddfaa8ccd3f325c9ed1ba8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342655056, photo 624035263, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6985ee3ae3770adb62a2fba13338a2c3829534eb3cba220960d524707dc60fc5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron rydbergii maps to indexed species toxicodendron-radicans-subsp-rydbergii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "6985ee3ae3770adb62a2fba13338a2c3829534eb3cba220960d524707dc60fc5"
+      "sha256": "6985ee3ae3770adb62a2fba13338a2c3829534eb3cba220960d524707dc60fc5",
+      "display_sha256": "bc86ba906c0acbe857c598a51b7c418bad0119754f512729ac3d0cc7e3417cc7",
+      "display_blob_sha": "ae6e2b95f1071ef3efe383725f7a7419d200bc4c",
+      "display_original_site_sha256": "6985ee3ae3770adb62a2fba13338a2c3829534eb3cba220960d524707dc60fc5",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/toxicodendron-radicans-subsp-rydbergii/inat-624292849.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c54fd7ac9c3527ce30cd94947619a0adfce4f940",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342790894, photo 624292849, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: babac82d117aaee4a2e98dd7d93dd16718d79d3c204cf4a7f16c7361974d1543. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron rydbergii maps to indexed species toxicodendron-radicans-subsp-rydbergii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "babac82d117aaee4a2e98dd7d93dd16718d79d3c204cf4a7f16c7361974d1543"
+      "sha256": "babac82d117aaee4a2e98dd7d93dd16718d79d3c204cf4a7f16c7361974d1543",
+      "display_sha256": "0dabbabd1cd7b4a98c4b901e6ac5cc40e20780c524ba92364ac4423f8f22cf10",
+      "display_blob_sha": "ca5b1be78e47cf913a24df5981bd1f15c14406f7",
+      "display_original_site_sha256": "babac82d117aaee4a2e98dd7d93dd16718d79d3c204cf4a7f16c7361974d1543",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/toxicodendron-radicans-subsp-rydbergii/inat-629422313.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9e9e624e4bd1dcf62c31106b20a5f873abc51bce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345384221, photo 629422313, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7bf95d289b31268e4a39ef90cc22276977ec61f80965b443bfb42fcfdd35a3b8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron rydbergii maps to indexed species toxicodendron-radicans-subsp-rydbergii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "7bf95d289b31268e4a39ef90cc22276977ec61f80965b443bfb42fcfdd35a3b8"
+      "sha256": "7bf95d289b31268e4a39ef90cc22276977ec61f80965b443bfb42fcfdd35a3b8",
+      "display_sha256": "99c23740ed30a204c93e6a6f7312feec01c15cb6ba445a87a6db3cada8c29e96",
+      "display_blob_sha": "704b756ae43c337e366f9da9f0811d4f3e572abb",
+      "display_original_site_sha256": "7bf95d289b31268e4a39ef90cc22276977ec61f80965b443bfb42fcfdd35a3b8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/toxicodendron-radicans-subsp-rydbergii/inat-639906315.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "39285da9278a665143a31fea4cf8564de95f6e61",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350695469, photo 639906315, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f97c27852cfcd4db93e32b49c3fcf8b4accd4aecb5e0ad972358699871c78ff. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron rydbergii maps to indexed species toxicodendron-radicans-subsp-rydbergii (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "0f97c27852cfcd4db93e32b49c3fcf8b4accd4aecb5e0ad972358699871c78ff"
+      "sha256": "0f97c27852cfcd4db93e32b49c3fcf8b4accd4aecb5e0ad972358699871c78ff",
+      "display_sha256": "d053204cb5970d6b9b67ff0a0ed71608defbcdaf0e914496ee946f4e9355b07d",
+      "display_blob_sha": "e4355b14455f06d6cecbabeb0c05a8fd5068c8d5",
+      "display_original_site_sha256": "0f97c27852cfcd4db93e32b49c3fcf8b4accd4aecb5e0ad972358699871c78ff",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/toxicodendron-radicans-subsp-rydbergii/inat-645910835.jpg",

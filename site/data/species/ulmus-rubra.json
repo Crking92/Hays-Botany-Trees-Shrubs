@@ -53,7 +53,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ca227276b9f3cf6e870dfd44a6c5b19c7747b994",
       "role": "Slippery elm foliage (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -61,7 +61,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 80055002 explicitly lists exact photo 131173740; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 937bd7f96b1ce4f11d828bbf7d5de41ddad196378104397acf3319e5301de11b.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus rubra; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "937bd7f96b1ce4f11d828bbf7d5de41ddad196378104397acf3319e5301de11b"
+      "sha256": "937bd7f96b1ce4f11d828bbf7d5de41ddad196378104397acf3319e5301de11b",
+      "display_sha256": "98f23677dd2c63ea05544def63e97e99767971552e6f422173d37c68bf18840a",
+      "display_blob_sha": "8e8275c4fd608948f644ce8b7c308321c8393407",
+      "display_original_site_sha256": "937bd7f96b1ce4f11d828bbf7d5de41ddad196378104397acf3319e5301de11b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-rubra/inat-193021415.jpg",
@@ -72,7 +77,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "fe766fd43c36b632237ad3858cbeee63d260292c",
       "role": "Slippery elm foliage and growth (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks. Original ZIP metadata explicitly credits lanechaffin; the provider API's 'no rights reserved' text is a rights label, not a photographer's name.",
@@ -80,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 114297126 explicitly lists exact photo 193021415; individual photo license cc0 and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 8cd1eaea30ec4395a4d5e8293af441ae87525523a4dbb52bb89a0674ef320681.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus rubra; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "8cd1eaea30ec4395a4d5e8293af441ae87525523a4dbb52bb89a0674ef320681"
+      "sha256": "8cd1eaea30ec4395a4d5e8293af441ae87525523a4dbb52bb89a0674ef320681",
+      "display_sha256": "e530a0a4b7d0fd8eb68d32066ef8f9d60d028b24f8995c43e951942d25cdf2c7",
+      "display_blob_sha": "7837ea2c5efe7c08ea64fca18dc095681ad1af54",
+      "display_original_site_sha256": "8cd1eaea30ec4395a4d5e8293af441ae87525523a4dbb52bb89a0674ef320681",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-rubra/inat-212370773.jpg",
@@ -91,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "4e9844cb5599e78a9be8df4943293aff13efe278",
       "role": "Slippery elm leaves (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -99,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 125239656 explicitly lists exact photo 212370773; individual photo license cc-by and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 6060b60247ff5fc21f732021ffb744a312e1023a450cad10aef7f2acb9cd8b15.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus rubra; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "6060b60247ff5fc21f732021ffb744a312e1023a450cad10aef7f2acb9cd8b15"
+      "sha256": "6060b60247ff5fc21f732021ffb744a312e1023a450cad10aef7f2acb9cd8b15",
+      "display_sha256": "618b65e0ae1de8d833f936eda4d126d5932e12934fead960136b26648f0c7b3b",
+      "display_blob_sha": "f8bb41dd5250f34a57837a21cc249b0558ffc550",
+      "display_original_site_sha256": "6060b60247ff5fc21f732021ffb744a312e1023a450cad10aef7f2acb9cd8b15",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-rubra/inat-68593734.jpeg",
@@ -110,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "40d0378540d0924c095f904f3f561f7bb3219c47",
       "role": "Slippery elm leaves and branches (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -118,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 43216874 explicitly lists exact photo 68593734; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 93d3c7a5bef844fd12a385a3c064af0ebf26a3638a8ad2b724811d68cab264a0.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus rubra; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "93d3c7a5bef844fd12a385a3c064af0ebf26a3638a8ad2b724811d68cab264a0"
+      "sha256": "93d3c7a5bef844fd12a385a3c064af0ebf26a3638a8ad2b724811d68cab264a0",
+      "display_sha256": "bac26489c9aec3f5e36abb19ece810fb4b6ec83f355f209364af77ddacb95ec4",
+      "display_blob_sha": "396cdd6fcfbd8426cbb217b70c04bdbca1a9238f",
+      "display_original_site_sha256": "93d3c7a5bef844fd12a385a3c064af0ebf26a3638a8ad2b724811d68cab264a0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-rubra/inat-69871706.jpg",
@@ -129,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "60cb71012953854d52b0ab65ee8ada464106bdf9",
       "role": "Slippery elm growing habit and foliage (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -137,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 44066525 explicitly lists exact photo 69871706; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 63c97ba20ec5c706c99fc3e7a8c4890e277c0e8e92cf77a30332d023a6d7ac0f.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus rubra; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "63c97ba20ec5c706c99fc3e7a8c4890e277c0e8e92cf77a30332d023a6d7ac0f"
+      "sha256": "63c97ba20ec5c706c99fc3e7a8c4890e277c0e8e92cf77a30332d023a6d7ac0f",
+      "display_sha256": "a28f330f6e782b2614d0a42031692eceeb3f0bf07ded7e8d7e4e5f58547fa3cb",
+      "display_blob_sha": "ce722673f409513b059befe3770c7887f9bf9237",
+      "display_original_site_sha256": "63c97ba20ec5c706c99fc3e7a8c4890e277c0e8e92cf77a30332d023a6d7ac0f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-rubra/archived-55107451bd5ba8a1.jpg",

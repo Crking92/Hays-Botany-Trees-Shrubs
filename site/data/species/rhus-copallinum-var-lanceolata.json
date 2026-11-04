@@ -78,7 +78,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1d4aa828bfe59e13efcddc89a2354568cfb1f919",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -86,7 +86,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 350281644, photo 639094399, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a397885c2444dfd5c1cd07bee16499b036554dc2d9b0e01503c98f509466b259. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus lanceolata maps to indexed species rhus-copallinum-var-lanceolata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "a397885c2444dfd5c1cd07bee16499b036554dc2d9b0e01503c98f509466b259"
+      "sha256": "a397885c2444dfd5c1cd07bee16499b036554dc2d9b0e01503c98f509466b259",
+      "display_sha256": "8cd973afdcf00f41dca68937e44c54b43920f92ded967d922226b1f8f49a1c75",
+      "display_blob_sha": "f996f45e14e10d5068e35644ba4e3931e8bfc18d",
+      "display_original_site_sha256": "a397885c2444dfd5c1cd07bee16499b036554dc2d9b0e01503c98f509466b259",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-copallinum-var-lanceolata/inat-642173750.jpg",
@@ -97,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d0fd4c0a98b05585ab2d5651556804dd59a68060",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -105,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 351868891, photo 642173750, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 215f185c76ef7d4c89874d1e9dce8789513b14a334e2085437b3f73d0ecab908. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus lanceolata maps to indexed species rhus-copallinum-var-lanceolata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "215f185c76ef7d4c89874d1e9dce8789513b14a334e2085437b3f73d0ecab908"
+      "sha256": "215f185c76ef7d4c89874d1e9dce8789513b14a334e2085437b3f73d0ecab908",
+      "display_sha256": "25294998d9b0c8f117c133f6e185c5ba0f0a307de6ae0eead94a2b85fb137430",
+      "display_blob_sha": "96e668060b671e4eeb17eb27b8f88beee29a4b02",
+      "display_original_site_sha256": "215f185c76ef7d4c89874d1e9dce8789513b14a334e2085437b3f73d0ecab908",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-copallinum-var-lanceolata/inat-644101477.jpg",
@@ -116,7 +126,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c02a19426443763a79837c8fa6ba508ae39f6009",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -124,7 +134,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 352972185, photo 644101477, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cf9cba1b7f4f545652930f85a50a6e852976e586153d88b5c4fc09914064a157. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus lanceolata maps to indexed species rhus-copallinum-var-lanceolata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "cf9cba1b7f4f545652930f85a50a6e852976e586153d88b5c4fc09914064a157"
+      "sha256": "cf9cba1b7f4f545652930f85a50a6e852976e586153d88b5c4fc09914064a157",
+      "display_sha256": "36d6ae3bc43abf43937d9bae5ca084b99ccc28f14708af5b612bf37e6c57a164",
+      "display_blob_sha": "3e73f42d394737e398c0398e53d023c7244e54b8",
+      "display_original_site_sha256": "cf9cba1b7f4f545652930f85a50a6e852976e586153d88b5c4fc09914064a157",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-copallinum-var-lanceolata/inat-646425482.jpg",
@@ -135,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d94ee3f9eb473c7fbe2810202646c92b03c079ac",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -143,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354342136, photo 646425482, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 95f6d770f72cf4fbce088392fafe4f33b21cd3b7c2e592cfcb43af62fe1799be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus lanceolata maps to indexed species rhus-copallinum-var-lanceolata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "95f6d770f72cf4fbce088392fafe4f33b21cd3b7c2e592cfcb43af62fe1799be"
+      "sha256": "95f6d770f72cf4fbce088392fafe4f33b21cd3b7c2e592cfcb43af62fe1799be",
+      "display_sha256": "22a63aeb2248a0dcf2fd8babd90dac0f01c4799e7be9b015b402cd648f6cc7b7",
+      "display_blob_sha": "cb6fabd4d47ce1106ff0b4c42739959ca442f188",
+      "display_original_site_sha256": "95f6d770f72cf4fbce088392fafe4f33b21cd3b7c2e592cfcb43af62fe1799be",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-copallinum-var-lanceolata/inat-647254761.jpg",
@@ -154,7 +174,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bd1bc4ea2c6809dabf44b66d35036f30463cc648",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -162,7 +182,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354834275, photo 647254761, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b2a3295e14835c9eecbe6387590a0c354ecb766f90a65695e0b192dbdcad181f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus lanceolata maps to indexed species rhus-copallinum-var-lanceolata (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "b2a3295e14835c9eecbe6387590a0c354ecb766f90a65695e0b192dbdcad181f"
+      "sha256": "b2a3295e14835c9eecbe6387590a0c354ecb766f90a65695e0b192dbdcad181f",
+      "display_sha256": "9fdae9786cddf82d91dd7e7e3922e4f091d18323581f103395a78fc9dec362ab",
+      "display_blob_sha": "ae5fe3b282cc351bf6a8ff455b2fb58c0f5b7892",
+      "display_original_site_sha256": "b2a3295e14835c9eecbe6387590a0c354ecb766f90a65695e0b192dbdcad181f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -101,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5fed4c6969e96893a93970f8659824d69fb76779",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347353025, photo 633319075, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a5f9d2e4a90ae256ef74762d74d159ef234a2cd1d1db2c32a2fc227734b98a0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Maclura pomifera maps to indexed species maclura-pomifera; specialist morphology and BONAP range deferred.",
-      "sha256": "5a5f9d2e4a90ae256ef74762d74d159ef234a2cd1d1db2c32a2fc227734b98a0"
+      "sha256": "5a5f9d2e4a90ae256ef74762d74d159ef234a2cd1d1db2c32a2fc227734b98a0",
+      "display_sha256": "d8e4b6bbd09a2dfa76d355cafb7d3108437f1862d0f66615b01d8f8893abebe8",
+      "display_blob_sha": "7693d49abd03fe42fc9002fd3e231fc0a18e8f92",
+      "display_original_site_sha256": "5a5f9d2e4a90ae256ef74762d74d159ef234a2cd1d1db2c32a2fc227734b98a0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maclura-pomifera/inat-642530787.jpg",
@@ -120,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ce3b33f26162d5e17798612aeab13bf121c30384",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352053901, photo 642530787, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8279a3fd57b213216ac65ae824a2008ba736f6f09c58241ccdaf54d4f0013852. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Maclura pomifera maps to indexed species maclura-pomifera; specialist morphology and BONAP range deferred.",
-      "sha256": "8279a3fd57b213216ac65ae824a2008ba736f6f09c58241ccdaf54d4f0013852"
+      "sha256": "8279a3fd57b213216ac65ae824a2008ba736f6f09c58241ccdaf54d4f0013852",
+      "display_sha256": "053fccb3384b91f46dae3094af91e8977335c138e02f59fcaf1b141a5c4c0e55",
+      "display_blob_sha": "a63abfa4a66a1ad1a9cb4f54e4052d28db596061",
+      "display_original_site_sha256": "8279a3fd57b213216ac65ae824a2008ba736f6f09c58241ccdaf54d4f0013852",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maclura-pomifera/inat-645127586.jpg",
@@ -139,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cdf64ae484cf99f2e34c828d3b44a2e6af1f6753",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353587951, photo 645127586, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: da8642be1ddec7d3321c7090ebaa1b28acf443619b5046756a25e17c77ad3b59. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Maclura pomifera maps to indexed species maclura-pomifera; specialist morphology and BONAP range deferred.",
-      "sha256": "da8642be1ddec7d3321c7090ebaa1b28acf443619b5046756a25e17c77ad3b59"
+      "sha256": "da8642be1ddec7d3321c7090ebaa1b28acf443619b5046756a25e17c77ad3b59",
+      "display_sha256": "bb4923d65ab79cf1b941f258a6008210c282bde49e678f74117cbd7d3ac7f659",
+      "display_blob_sha": "b24a120a2588a08f13a96fce58d89418f063569f",
+      "display_original_site_sha256": "da8642be1ddec7d3321c7090ebaa1b28acf443619b5046756a25e17c77ad3b59",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maclura-pomifera/inat-646484809.jpg",
@@ -158,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7dffd56aa09ca74426b3625712d5ab25e866fb2f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -166,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354378482, photo 646484809, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 80bdf744c396587c22b9fe8f55a97aeedb2876e87cd9df5b63d999834d297232. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Maclura pomifera maps to indexed species maclura-pomifera; specialist morphology and BONAP range deferred.",
-      "sha256": "80bdf744c396587c22b9fe8f55a97aeedb2876e87cd9df5b63d999834d297232"
+      "sha256": "80bdf744c396587c22b9fe8f55a97aeedb2876e87cd9df5b63d999834d297232",
+      "display_sha256": "f38b471f05f8294233fbf78f7c74e70cae51ed7a3b47f168ab3e1cff7e71c705",
+      "display_blob_sha": "e7e9108fb89c580e0ecb3cfc4775c7695d88adc8",
+      "display_original_site_sha256": "80bdf744c396587c22b9fe8f55a97aeedb2876e87cd9df5b63d999834d297232",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maclura-pomifera/inat-657296646.jpg",
@@ -177,7 +197,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f5423ddb421178ac40c0b99c9e488444d4ccd7fa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -185,7 +205,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353533495, photo 657296646, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 668300e55d353d8cb5e21cd983ee417d5d90b8a686d310df6bc97ed347f9eca2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Maclura pomifera maps to indexed species maclura-pomifera; specialist morphology and BONAP range deferred.",
-      "sha256": "668300e55d353d8cb5e21cd983ee417d5d90b8a686d310df6bc97ed347f9eca2"
+      "sha256": "668300e55d353d8cb5e21cd983ee417d5d90b8a686d310df6bc97ed347f9eca2",
+      "display_sha256": "59c73da4ab1cd1ddfebe4327c1e30d63315f2b553532cc0f6c1f8873ced866c2",
+      "display_blob_sha": "4dbc39dcb2719b2dcc72e941dc00c30ac12ea6d3",
+      "display_original_site_sha256": "668300e55d353d8cb5e21cd983ee417d5d90b8a686d310df6bc97ed347f9eca2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/maclura-pomifera/archived-9b5b9c8f74a479fd.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2220bf81081c61d32deb5364a27514cca9823758",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343021305, photo 624755480, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eab5c221aff42355edde0abbecc02e3a0c32c33e331460e475f055f16bd07c73. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Symphoricarpos orbiculatus maps to indexed species symphoricarpos-orbiculatus; specialist morphology and BONAP range deferred.",
-      "sha256": "eab5c221aff42355edde0abbecc02e3a0c32c33e331460e475f055f16bd07c73"
+      "sha256": "eab5c221aff42355edde0abbecc02e3a0c32c33e331460e475f055f16bd07c73",
+      "display_sha256": "43925d5cc05b75cea82d26b00c1b7137aa1d5e88025f9ad35d59484c75692a37",
+      "display_blob_sha": "2ab4b33cb76ff2c92a224e5c0676017eddf94cdb",
+      "display_original_site_sha256": "eab5c221aff42355edde0abbecc02e3a0c32c33e331460e475f055f16bd07c73",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/symphoricarpos-orbiculatus/inat-628686750.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1a47a0c45df6c22ebafdb36fb4875551e240d905",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349337763, photo 637243763, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a6f6e9d9926836aed22354194ddd78bff9f048dcbaf81ac25f99248932a978e2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Symphoricarpos orbiculatus maps to indexed species symphoricarpos-orbiculatus; specialist morphology and BONAP range deferred.",
-      "sha256": "a6f6e9d9926836aed22354194ddd78bff9f048dcbaf81ac25f99248932a978e2"
+      "sha256": "a6f6e9d9926836aed22354194ddd78bff9f048dcbaf81ac25f99248932a978e2",
+      "display_sha256": "27d6937fd3889b16a9c75b59ea147fdcf0a57855d3087b701790f11589679135",
+      "display_blob_sha": "7121a8a447b9ff11915d77256d5790dfa338f187",
+      "display_original_site_sha256": "a6f6e9d9926836aed22354194ddd78bff9f048dcbaf81ac25f99248932a978e2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/symphoricarpos-orbiculatus/inat-646535207.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "754b56c178900ccaa7769fd9abd4b069d161c49d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354409797, photo 646535207, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a3d349883834bc4b044cccea2f3735efd62924d9feef1333ee28e5e944c6bc57. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Symphoricarpos orbiculatus maps to indexed species symphoricarpos-orbiculatus; specialist morphology and BONAP range deferred.",
-      "sha256": "a3d349883834bc4b044cccea2f3735efd62924d9feef1333ee28e5e944c6bc57"
+      "sha256": "a3d349883834bc4b044cccea2f3735efd62924d9feef1333ee28e5e944c6bc57",
+      "display_sha256": "e2c72fd975febbd55d799b1885973e0da7cd09c2223f34d5681283b7d0f6dc5a",
+      "display_blob_sha": "af39f04d07b728da269e44cad13023c7aad60335",
+      "display_original_site_sha256": "a3d349883834bc4b044cccea2f3735efd62924d9feef1333ee28e5e944c6bc57",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/symphoricarpos-orbiculatus/inat-647393420.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b6bebbc907a38876ee2be6e5be974ffc4d070978",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354911636, photo 647393420, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2ef35ed1686d3604fca3d951034c95d478761ab429920b173dcb3bfa5be2bb4a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Symphoricarpos orbiculatus maps to indexed species symphoricarpos-orbiculatus; specialist morphology and BONAP range deferred.",
-      "sha256": "2ef35ed1686d3604fca3d951034c95d478761ab429920b173dcb3bfa5be2bb4a"
+      "sha256": "2ef35ed1686d3604fca3d951034c95d478761ab429920b173dcb3bfa5be2bb4a",
+      "display_sha256": "2bb4e4a5925726803422cc14b07cd2b652f13d709f9b0dfd25576e838d1a8be7",
+      "display_blob_sha": "5422fc6a3f59fdb6a11511fbc8cc90947c9a3e85",
+      "display_original_site_sha256": "2ef35ed1686d3604fca3d951034c95d478761ab429920b173dcb3bfa5be2bb4a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

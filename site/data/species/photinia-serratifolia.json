@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "332c0bbffac085c3ade5dc607238d5b4cb74b81d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341925941, photo 622561424, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6eb668bc73c0bdd31c327ac4c034e6e4438c4f28157f729afa257d93ebff2282.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Photinia serratifolia maps to indexed species photinia-serratifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "6eb668bc73c0bdd31c327ac4c034e6e4438c4f28157f729afa257d93ebff2282"
+      "sha256": "6eb668bc73c0bdd31c327ac4c034e6e4438c4f28157f729afa257d93ebff2282",
+      "display_sha256": "897df9b9545f09c0319614bbf16a1551548c496f45c4e379f4b1c11a154eb980",
+      "display_blob_sha": "916b99522f3ffebc53ba0687c6bac9089b7a273a",
+      "display_original_site_sha256": "6eb668bc73c0bdd31c327ac4c034e6e4438c4f28157f729afa257d93ebff2282",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/photinia-serratifolia/inat-624331570.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c79c250ef0deeab8f0b036870d8c9ecdab9d62d3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342809778, photo 624331570, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 141b531527c6dc2fee65c5a770aecd4e565c5435dee2b0c67be9e8bbed0ad1c4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Photinia serratifolia maps to indexed species photinia-serratifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "141b531527c6dc2fee65c5a770aecd4e565c5435dee2b0c67be9e8bbed0ad1c4"
+      "sha256": "141b531527c6dc2fee65c5a770aecd4e565c5435dee2b0c67be9e8bbed0ad1c4",
+      "display_sha256": "88e8e364a6a4a6a7d1cf3ad0d96bd8ac6d69d3de1928d69a78d6280438fadea8",
+      "display_blob_sha": "290fe45a246a5c6f289d691fae95af09e3090b05",
+      "display_original_site_sha256": "141b531527c6dc2fee65c5a770aecd4e565c5435dee2b0c67be9e8bbed0ad1c4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/photinia-serratifolia/inat-628267969.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a9f63ad8538ab5d1714000f166766fbebacf206",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344792957, photo 628267969, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 905581004f94bc787833957952b16d88701db141f340a832ae63f594487f6f2d.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Photinia serratifolia maps to indexed species photinia-serratifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "905581004f94bc787833957952b16d88701db141f340a832ae63f594487f6f2d"
+      "sha256": "905581004f94bc787833957952b16d88701db141f340a832ae63f594487f6f2d",
+      "display_sha256": "69ca485233bd759b4244183cd0830a558cb4f95a63d597ea2e45ba46e1b11d54",
+      "display_blob_sha": "f5a8af162797c04144bf1997440d2a37ca465c7f",
+      "display_original_site_sha256": "905581004f94bc787833957952b16d88701db141f340a832ae63f594487f6f2d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/photinia-serratifolia/inat-629357167.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9407c93cb603e0221127a44ba19576f8ad6c299d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345349251, photo 629357167, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e0f6bf247347a0b8a89126a31eafb99d4bf86568afea397a93f671673734bbb5.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Photinia serratifolia maps to indexed species photinia-serratifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "e0f6bf247347a0b8a89126a31eafb99d4bf86568afea397a93f671673734bbb5"
+      "sha256": "e0f6bf247347a0b8a89126a31eafb99d4bf86568afea397a93f671673734bbb5",
+      "display_sha256": "1eb976a46bda68241a96abeb2105d914d14e5e4157232373f581bed1722aff69",
+      "display_blob_sha": "e8b66ceb2030ae32d98ff5c5d2ee085ed8115cd0",
+      "display_original_site_sha256": "e0f6bf247347a0b8a89126a31eafb99d4bf86568afea397a93f671673734bbb5",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/photinia-serratifolia/inat-631869476.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bed3f829034169296434a04a9050f52fbe42d4d1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346623208, photo 631869476, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7061841891c6eb8f0ab50f8bb9b392ae19cd0aab31bdd91fbd30a7202bec5d4b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Photinia serratifolia maps to indexed species photinia-serratifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "7061841891c6eb8f0ab50f8bb9b392ae19cd0aab31bdd91fbd30a7202bec5d4b"
+      "sha256": "7061841891c6eb8f0ab50f8bb9b392ae19cd0aab31bdd91fbd30a7202bec5d4b",
+      "display_sha256": "733643e69da59d981be50a4a678714a2299c9a5a8782ad09257bbbe8bb92d742",
+      "display_blob_sha": "4abaadea996a6a9b2449bb9b497b2cb17f9eff12",
+      "display_original_site_sha256": "7061841891c6eb8f0ab50f8bb9b392ae19cd0aab31bdd91fbd30a7202bec5d4b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/photinia-serratifolia/archived-2cb45945df07604a.jpg",

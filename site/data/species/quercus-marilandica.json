@@ -131,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c55059697b01a066434a64dbfdcfb23cda86c8d0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -139,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 272103527, photo 489517269, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1e7c7e59c72e2ebd0870dd81f61202874cbd69ab347444051fcd328fb46231ef. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus marilandica maps to indexed species quercus-marilandica; specialist morphology and BONAP range deferred.",
-      "sha256": "1e7c7e59c72e2ebd0870dd81f61202874cbd69ab347444051fcd328fb46231ef"
+      "sha256": "1e7c7e59c72e2ebd0870dd81f61202874cbd69ab347444051fcd328fb46231ef",
+      "display_sha256": "ac29406c3e9b69ae7a2e3a28c22f11e692df2edc3d3834197bf5c3f3d98dab5d",
+      "display_blob_sha": "31cf8c81d2c4ddb77c805d0fcae423fadc8f6b65",
+      "display_original_site_sha256": "1e7c7e59c72e2ebd0870dd81f61202874cbd69ab347444051fcd328fb46231ef",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-marilandica/inat-495378968.jpeg",
@@ -150,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0acca3d70e36a35435f0da6c52a2b2a1a007386b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -158,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 275739682, photo 495378968, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77c25f49206f216bcb63629aa8c51ffcb7501457eb198a44e03128d941371c9d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus marilandica maps to indexed species quercus-marilandica; specialist morphology and BONAP range deferred.",
-      "sha256": "77c25f49206f216bcb63629aa8c51ffcb7501457eb198a44e03128d941371c9d"
+      "sha256": "77c25f49206f216bcb63629aa8c51ffcb7501457eb198a44e03128d941371c9d",
+      "display_sha256": "9502404f6a21c3d71611492fa990e3ec3669596e901e99668435a2ba772072ec",
+      "display_blob_sha": "4135a1fe76ff9e47673ed13e79d6ce8d8168c93f",
+      "display_original_site_sha256": "77c25f49206f216bcb63629aa8c51ffcb7501457eb198a44e03128d941371c9d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-marilandica/inat-502475314.jpeg",
@@ -169,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7d21d1e0b5c90a23ecebb7274235b544347023a3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -177,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 279800761, photo 502475314, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e838206b95883b7ada146010007d05d26339a93a406f54d05116e9634162fc7d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus marilandica maps to indexed species quercus-marilandica; specialist morphology and BONAP range deferred.",
-      "sha256": "e838206b95883b7ada146010007d05d26339a93a406f54d05116e9634162fc7d"
+      "sha256": "e838206b95883b7ada146010007d05d26339a93a406f54d05116e9634162fc7d",
+      "display_sha256": "7f8d015776a9efb2c46242266b9a03b6f8638a24d85db89675fd9f7b1f721e41",
+      "display_blob_sha": "e964fb487c6119872c34215dff80a236ed3e9b5d",
+      "display_original_site_sha256": "e838206b95883b7ada146010007d05d26339a93a406f54d05116e9634162fc7d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-marilandica/inat-646843712.jpg",
@@ -188,7 +203,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "23a6bc022e05c4adfe74def7f972080a45f7a241",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -196,7 +211,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354597319, photo 646843712, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8ceb907c885262481897a4cd265a387751ef20507861cb8772391cd131179bd6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus marilandica maps to indexed species quercus-marilandica; specialist morphology and BONAP range deferred.",
-      "sha256": "8ceb907c885262481897a4cd265a387751ef20507861cb8772391cd131179bd6"
+      "sha256": "8ceb907c885262481897a4cd265a387751ef20507861cb8772391cd131179bd6",
+      "display_sha256": "05a1aa7eecd96ecf72190fefe533a5bf181022f37894f7a57a35a14263e2a4b8",
+      "display_blob_sha": "f8e2ccf14cc964702924c70f99943928b78e41fe",
+      "display_original_site_sha256": "8ceb907c885262481897a4cd265a387751ef20507861cb8772391cd131179bd6",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

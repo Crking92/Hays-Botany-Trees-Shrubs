@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6118721f2df7df5de227ddfd1363be188dcf8b45",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341527057, photo 621755404, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 10fb00ff8ee52cded449715e6be2125972f087ea9bf093a1f8c258dd25938b04.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Thamnosma texana maps to indexed species thamnosma-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "10fb00ff8ee52cded449715e6be2125972f087ea9bf093a1f8c258dd25938b04"
+      "sha256": "10fb00ff8ee52cded449715e6be2125972f087ea9bf093a1f8c258dd25938b04",
+      "display_sha256": "1508ebb0dde7fd36213716df85ec0c07b909f0bb53cb536f9ce9b0b16b460f8b",
+      "display_blob_sha": "6145f1afb486da419d42fe5b0511dbb8596499f3",
+      "display_original_site_sha256": "10fb00ff8ee52cded449715e6be2125972f087ea9bf093a1f8c258dd25938b04",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thamnosma-texana/inat-622645068.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b413c1d69a87171efa530c22ba69b1d2c7a392d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341968189, photo 622645068, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d5c21eff82ed0d5a396660be41e4906a12c1ebc220b9d45793212ace461b63be.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Thamnosma texana maps to indexed species thamnosma-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "d5c21eff82ed0d5a396660be41e4906a12c1ebc220b9d45793212ace461b63be"
+      "sha256": "d5c21eff82ed0d5a396660be41e4906a12c1ebc220b9d45793212ace461b63be",
+      "display_sha256": "9fe9f2f783e9244df762d803c30a0f18d0c1d946e20e88e1f46aebebf1cbfa4f",
+      "display_blob_sha": "e4322d5dfa24ca6b90da6e29ac5fcba6f9118b47",
+      "display_original_site_sha256": "d5c21eff82ed0d5a396660be41e4906a12c1ebc220b9d45793212ace461b63be",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thamnosma-texana/inat-622950478.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d47b507599cd0c8186e7f1267da5e374deb31cc9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342118502, photo 622950478, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 33c93420bcfe159e2d7a6bc8cb9f09abf0327b0b5ec18f5741c38892d51b6c55.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Thamnosma texana maps to indexed species thamnosma-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "33c93420bcfe159e2d7a6bc8cb9f09abf0327b0b5ec18f5741c38892d51b6c55"
+      "sha256": "33c93420bcfe159e2d7a6bc8cb9f09abf0327b0b5ec18f5741c38892d51b6c55",
+      "display_sha256": "fb22f44e0248d23a4e10f3838d71c25339fcf4927769fabcf2e531bcadbda7b3",
+      "display_blob_sha": "d2ba78a75d5f04ee0ade5c20c1f5f24d0fdfa35a",
+      "display_original_site_sha256": "33c93420bcfe159e2d7a6bc8cb9f09abf0327b0b5ec18f5741c38892d51b6c55",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thamnosma-texana/inat-623082458.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c80135a1561f30cd08b4108dbf398d08a0f0c6ee",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341980314, photo 623082458, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a01f0b5b118e2d9c9a7a3b07a87ab9f2b9c339b26b2e15015214ca6f41686147.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Thamnosma texana maps to indexed species thamnosma-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "a01f0b5b118e2d9c9a7a3b07a87ab9f2b9c339b26b2e15015214ca6f41686147"
+      "sha256": "a01f0b5b118e2d9c9a7a3b07a87ab9f2b9c339b26b2e15015214ca6f41686147",
+      "display_sha256": "afd9f2ef95019df164609ab4ddfdc651c14e970a954833307bc90951302b4d25",
+      "display_blob_sha": "0b43b06af67dbe7cd36a68504f6cb178e60321ab",
+      "display_original_site_sha256": "a01f0b5b118e2d9c9a7a3b07a87ab9f2b9c339b26b2e15015214ca6f41686147",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thamnosma-texana/inat-628941382.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "99a39e8901bf119376c9189cf71686a7a7281b0a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345139311, photo 628941382, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: db85eaac7956ea4f63b7de0a85c683f8185e0c2af68ac14f82747bd7f822cf23.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Thamnosma texana maps to indexed species thamnosma-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "db85eaac7956ea4f63b7de0a85c683f8185e0c2af68ac14f82747bd7f822cf23"
+      "sha256": "db85eaac7956ea4f63b7de0a85c683f8185e0c2af68ac14f82747bd7f822cf23",
+      "display_sha256": "28851d794f61729c9055045315275eceabfb14b347bb1e9ac53f7352af373851",
+      "display_blob_sha": "3c5fb056ead932564e5255f505f089a786a66b29",
+      "display_original_site_sha256": "db85eaac7956ea4f63b7de0a85c683f8185e0c2af68ac14f82747bd7f822cf23",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/thamnosma-texana/archived-cae2144d404042ed.jpg",

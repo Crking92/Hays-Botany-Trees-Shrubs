@@ -75,7 +75,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4a21468f91091e085823b62650d2fab05e2d0e1d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -83,7 +83,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344063164, photo 626852606, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 946d888d13df9223f9ed5a20135954eaf4923a675b6f78660e835c94ea105f82. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus michauxii maps to indexed species quercus-michauxii; specialist morphology and BONAP range deferred.",
-      "sha256": "946d888d13df9223f9ed5a20135954eaf4923a675b6f78660e835c94ea105f82"
+      "sha256": "946d888d13df9223f9ed5a20135954eaf4923a675b6f78660e835c94ea105f82",
+      "display_sha256": "100e9d2dc3d5140f087b0b1f74c5d8000a95e5983d0cccf223c01c85a789dda8",
+      "display_blob_sha": "8aa3a5996cabd5ea07b925bc02b08f8eeee1b23d",
+      "display_original_site_sha256": "946d888d13df9223f9ed5a20135954eaf4923a675b6f78660e835c94ea105f82",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-michauxii/inat-628279997.jpg",
@@ -94,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ae02e1e674f13b43773fe0618da5e9519560f94",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -102,7 +107,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344799243, photo 628279997, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a25daa9d23f84e57e7b1bc444ef54fb8dbb0e5f4e711b13c63bd36006eea92e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus michauxii maps to indexed species quercus-michauxii; specialist morphology and BONAP range deferred.",
-      "sha256": "3a25daa9d23f84e57e7b1bc444ef54fb8dbb0e5f4e711b13c63bd36006eea92e"
+      "sha256": "3a25daa9d23f84e57e7b1bc444ef54fb8dbb0e5f4e711b13c63bd36006eea92e",
+      "display_sha256": "d8e2fe5bb1de933a0f3abd913febc74621141dffb79f925a465be517153d8c7e",
+      "display_blob_sha": "294da627c3f10e5dc00c738d0b1afd0f89ba58a6",
+      "display_original_site_sha256": "3a25daa9d23f84e57e7b1bc444ef54fb8dbb0e5f4e711b13c63bd36006eea92e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-michauxii/inat-629477412.jpg",
@@ -113,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f3d2915d77c90339fd98fc0a23a24dd16c7a0bc9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -121,7 +131,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345408820, photo 629477412, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bab9a71ee832fbcbd70b595447b16e97c899d046b426ea99914688a51a58fa98. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus michauxii maps to indexed species quercus-michauxii; specialist morphology and BONAP range deferred.",
-      "sha256": "bab9a71ee832fbcbd70b595447b16e97c899d046b426ea99914688a51a58fa98"
+      "sha256": "bab9a71ee832fbcbd70b595447b16e97c899d046b426ea99914688a51a58fa98",
+      "display_sha256": "e03cd03a19628a58e0edcec69aee39cbbdb3af68ef742d906cbd977294ef6380",
+      "display_blob_sha": "769033a2ed88e2a14cb8b105bb0e05ae94edce7f",
+      "display_original_site_sha256": "bab9a71ee832fbcbd70b595447b16e97c899d046b426ea99914688a51a58fa98",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-michauxii/inat-632213261.jpg",
@@ -132,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "603e8515e4f2e115ad6c9ab97d5f89239886ec38",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -140,7 +155,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346795972, photo 632213261, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 857c554aef941af6223510e5165bed22b5c183547a75d3c84b99b1ad41d864d0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus michauxii maps to indexed species quercus-michauxii; specialist morphology and BONAP range deferred.",
-      "sha256": "857c554aef941af6223510e5165bed22b5c183547a75d3c84b99b1ad41d864d0"
+      "sha256": "857c554aef941af6223510e5165bed22b5c183547a75d3c84b99b1ad41d864d0",
+      "display_sha256": "63617a5fbbf00ccebbf8d3ba21d1d6f51de9bf8fb36959e1606b94b0e217562b",
+      "display_blob_sha": "d65ac4ff82a8207e9e348d37b3a868a60c7f34f2",
+      "display_original_site_sha256": "857c554aef941af6223510e5165bed22b5c183547a75d3c84b99b1ad41d864d0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-michauxii/inat-633356543.jpg",
@@ -151,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e9c83eb41266c799c4ec956c1788224529f5a519",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -159,7 +179,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 347372455, photo 633356543, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a2308d808f001d3762efe9c8f622c96e1131ed4e2051db9bb2b1866ff23bc7f0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus michauxii maps to indexed species quercus-michauxii; specialist morphology and BONAP range deferred.",
-      "sha256": "a2308d808f001d3762efe9c8f622c96e1131ed4e2051db9bb2b1866ff23bc7f0"
+      "sha256": "a2308d808f001d3762efe9c8f622c96e1131ed4e2051db9bb2b1866ff23bc7f0",
+      "display_sha256": "798cca645b2a4df1483c660296a5e31f9a6d7c9dd031c74388f27cb25e263f9c",
+      "display_blob_sha": "195b2512ba52dae7772ce52e546dd3186bcaeb97",
+      "display_original_site_sha256": "a2308d808f001d3762efe9c8f622c96e1131ed4e2051db9bb2b1866ff23bc7f0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-michauxii/archived-db19e458553a4c21.jpg",

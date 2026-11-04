@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd403df3aff185cc471876a73b06b8020a56d3c8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346072665, photo 630669152, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6082a49ecc07f6725ff761694f88088c873cfc40c5911670d0b6bda28b5321fc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Vaccinium arboreum maps to indexed species vaccinium-arboreum; specialist morphology and BONAP range deferred.",
-      "sha256": "6082a49ecc07f6725ff761694f88088c873cfc40c5911670d0b6bda28b5321fc"
+      "sha256": "6082a49ecc07f6725ff761694f88088c873cfc40c5911670d0b6bda28b5321fc",
+      "display_sha256": "8ccda5560b9c266b18108ece772ae9bb7f19484abe7e762484b3640ef3717228",
+      "display_blob_sha": "9401e8fb156811d808f7d91334988d2acc1a2a5e",
+      "display_original_site_sha256": "6082a49ecc07f6725ff761694f88088c873cfc40c5911670d0b6bda28b5321fc",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vaccinium-arboreum/inat-630669817.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "db5c3c5f92eded982106678c1f15f9b2fd2c69c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346072686, photo 630669817, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2343526dca7c6e1ba5c29742d36dc6b6de6368e494e129015fd763d2e5b3806a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Vaccinium arboreum maps to indexed species vaccinium-arboreum; specialist morphology and BONAP range deferred.",
-      "sha256": "2343526dca7c6e1ba5c29742d36dc6b6de6368e494e129015fd763d2e5b3806a"
+      "sha256": "2343526dca7c6e1ba5c29742d36dc6b6de6368e494e129015fd763d2e5b3806a",
+      "display_sha256": "336c5424bf6e3dca78e77566f881c320b1c790334ed78331021e945520006665",
+      "display_blob_sha": "ed068afaa360c27e25a746228d7ecd690f4b2906",
+      "display_original_site_sha256": "2343526dca7c6e1ba5c29742d36dc6b6de6368e494e129015fd763d2e5b3806a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vaccinium-arboreum/inat-639263078.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bea3b62f95cbb274f7370e45e9821e9fadc163e8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 350421654, photo 639263078, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d7b4733d730f0df194ec667de0fd330c22c0b3283cdc665b15f13216d1a9a65c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Vaccinium arboreum maps to indexed species vaccinium-arboreum; specialist morphology and BONAP range deferred.",
-      "sha256": "d7b4733d730f0df194ec667de0fd330c22c0b3283cdc665b15f13216d1a9a65c"
+      "sha256": "d7b4733d730f0df194ec667de0fd330c22c0b3283cdc665b15f13216d1a9a65c",
+      "display_sha256": "83af69fb85e9ec8f79ecd561e8cafcf80046ee3893c886d6c7394ed4bdce7c38",
+      "display_blob_sha": "d8dcd4e4dcef99d5f14af586663e429507d22d02",
+      "display_original_site_sha256": "d7b4733d730f0df194ec667de0fd330c22c0b3283cdc665b15f13216d1a9a65c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vaccinium-arboreum/inat-649839753.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "20402f719891b21c0c62367aa78a14e2ba331684",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 356348090, photo 649839753, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 41ade700fcc9daf32130ca28e70f1271db5b7b943e2f27f9fb6d05fc8ab7eb8c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Vaccinium arboreum maps to indexed species vaccinium-arboreum; specialist morphology and BONAP range deferred.",
-      "sha256": "41ade700fcc9daf32130ca28e70f1271db5b7b943e2f27f9fb6d05fc8ab7eb8c"
+      "sha256": "41ade700fcc9daf32130ca28e70f1271db5b7b943e2f27f9fb6d05fc8ab7eb8c",
+      "display_sha256": "543e78e8d45eb990fc212af6cdd7f5bcdeac4d183173cdc7e204a7b9e6cbec25",
+      "display_blob_sha": "33f00e7db73fd81ed0c53d059a084914528f9472",
+      "display_original_site_sha256": "41ade700fcc9daf32130ca28e70f1271db5b7b943e2f27f9fb6d05fc8ab7eb8c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/vaccinium-arboreum/inat-653353677.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5279bd17def72f81eb183695817f034e8cca03f4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 358168792, photo 653353677, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 47af9ac8006881446ac5d06787b1f5a9759495104bb298ccf4d2f9e0cd4937f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Vaccinium arboreum maps to indexed species vaccinium-arboreum; specialist morphology and BONAP range deferred.",
-      "sha256": "47af9ac8006881446ac5d06787b1f5a9759495104bb298ccf4d2f9e0cd4937f4"
+      "sha256": "47af9ac8006881446ac5d06787b1f5a9759495104bb298ccf4d2f9e0cd4937f4",
+      "display_sha256": "482ce41d93c0bc743068e31f46636cb1025abc9578f665aa49133cb5d3cfd321",
+      "display_blob_sha": "3e9cfa6a1b23d94e1bb3bbea01f67cef8dc80b60",
+      "display_original_site_sha256": "47af9ac8006881446ac5d06787b1f5a9759495104bb298ccf4d2f9e0cd4937f4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

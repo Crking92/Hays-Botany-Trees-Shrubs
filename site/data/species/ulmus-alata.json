@@ -49,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a50001576a05995bff42edd3afafe7e3ea316bdd",
       "role": "Winged elm foliage (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -57,7 +57,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 229975621 explicitly lists exact photo 408285343; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 4b61103068eac704161fa8510e3e790ce55439b153f1601692bb03020e074057.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus alata; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "4b61103068eac704161fa8510e3e790ce55439b153f1601692bb03020e074057"
+      "sha256": "4b61103068eac704161fa8510e3e790ce55439b153f1601692bb03020e074057",
+      "display_sha256": "0cc8d667bad42d547f4357059f81f9506ef98e4712bb5be47ab80feeeba0ea50",
+      "display_blob_sha": "2e911b4385eeb1cf1c2527f9c15b7f4b50c53a6c",
+      "display_original_site_sha256": "4b61103068eac704161fa8510e3e790ce55439b153f1601692bb03020e074057",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-alata/inat-410170967.jpeg",
@@ -68,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0473316710b77b7850318c4b094e371eb76ac7a5",
       "role": "Winged elm leaves and twigs (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -76,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 230972106 explicitly lists exact photo 410170967; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 5570e9d19452a811eb2f0625845d621edb8e07a939d2f2fc06c48600302630f4.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus alata; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "5570e9d19452a811eb2f0625845d621edb8e07a939d2f2fc06c48600302630f4"
+      "sha256": "5570e9d19452a811eb2f0625845d621edb8e07a939d2f2fc06c48600302630f4",
+      "display_sha256": "9c6d106fd99105785ebfb319b17b5927f3102b9f9d1aca775d160c3d9db4229a",
+      "display_blob_sha": "503f67988e8a1a8544ab8761925024335c4f1a37",
+      "display_original_site_sha256": "5570e9d19452a811eb2f0625845d621edb8e07a939d2f2fc06c48600302630f4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-alata/inat-650800826.jpg",
@@ -87,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8da2908238e11a10f3a854591f6f1102f97870cc",
       "role": "Winged elm woody habit and bark (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -95,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 356840287 explicitly lists exact photo 650800826; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value b2c63bd1d4f5240ef79843e799eac892e763aaea0f098c2c0142036d8fd3fa82.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus alata; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "b2c63bd1d4f5240ef79843e799eac892e763aaea0f098c2c0142036d8fd3fa82"
+      "sha256": "b2c63bd1d4f5240ef79843e799eac892e763aaea0f098c2c0142036d8fd3fa82",
+      "display_sha256": "b998d181a166a5d24cdcc98b4a81934c8b98c59da2dee8ec3433c16541156792",
+      "display_blob_sha": "f610ba856dca69b91343274913f13e1cc964b7fc",
+      "display_original_site_sha256": "b2c63bd1d4f5240ef79843e799eac892e763aaea0f098c2c0142036d8fd3fa82",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-alata/inat-658596862.jpg",
@@ -106,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "81427f9179f442e51671647582076382b0bbfd29",
       "role": "Winged elm foliage and twigs (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -114,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 360902763 explicitly lists exact photo 658596862; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 4c93113a9c0e6baee7d1243677d01b11c3b24f7869f38f3cf13163d49bc1d811.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus alata; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "4c93113a9c0e6baee7d1243677d01b11c3b24f7869f38f3cf13163d49bc1d811"
+      "sha256": "4c93113a9c0e6baee7d1243677d01b11c3b24f7869f38f3cf13163d49bc1d811",
+      "display_sha256": "1b56d2e55ab9f7ae8002cde03cc726567d34c27e2e19acf801c50dce37dd23b2",
+      "display_blob_sha": "5bb459428703ff515455fedc9e212ab3d7d7e172",
+      "display_original_site_sha256": "4c93113a9c0e6baee7d1243677d01b11c3b24f7869f38f3cf13163d49bc1d811",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-alata/archival-gbif-2807453492.jpg",
@@ -125,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ec128f6fc61c69e85e5964222b6fc868222a4947",
       "role": "Pressed winged elm branch with leaves and winged corky twigs",
-      "modified": "Unmodified original byte-for-byte match to preserved ZIP.",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original byte-for-byte match to preserved ZIP.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first license/credit/source checks completed for exact archived original; detailed taxonomy deferred.",
@@ -133,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Original ZIP visual inspection and automated live GBIF media-license/sha256 verification",
       "source_review_evidence": "Exact GBIF media identifier http://was.tacc.utexas.edu/fileget?coll=TEX-LL&type=O&filename=sp6177931056037152912.att.jpg with image-level license https://creativecommons.org/licenses/by/4.0/ and creator  The University of Texas at Austin ; downloaded source SHA256 3e372ae7d969477409b78c071a5d0ae014c24cf0604255dd20958531183813cf matches archived ZIP record on 2026-11-02T20:59:39.933206+00:00",
       "taxon_review_evidence": "Source specimen accepted as Ulmus alata in GBIF occurrence 2807453492; original archive contact sheet visually checked for plausible corresponding collected material. Specialist plant determination not claimed.",
-      "sha256": "3e372ae7d969477409b78c071a5d0ae014c24cf0604255dd20958531183813cf"
+      "sha256": "3e372ae7d969477409b78c071a5d0ae014c24cf0604255dd20958531183813cf",
+      "display_sha256": "83b31bf5a2a0a00a886158cc3b40792b0ba348093bb1329b5e993d6edfd81be1",
+      "display_blob_sha": "1c4f9c10140f45a030fc04913b6f59178ec1bee3",
+      "display_original_site_sha256": "3e372ae7d969477409b78c071a5d0ae014c24cf0604255dd20958531183813cf",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ulmus-alata/archived-d0c799ee383eeb95.jpg",

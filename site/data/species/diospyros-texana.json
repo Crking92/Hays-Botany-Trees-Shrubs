@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2784c27a5bc5c7467fcec970cb1c3643cbbb9238",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341295665, photo 621275062, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 38efb0f103482e0497189a7c98797a3766a12f0b70d574e3d75bacb6d5d48a15. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Diospyros texana maps to indexed species diospyros-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "38efb0f103482e0497189a7c98797a3766a12f0b70d574e3d75bacb6d5d48a15"
+      "sha256": "38efb0f103482e0497189a7c98797a3766a12f0b70d574e3d75bacb6d5d48a15",
+      "display_sha256": "bc8c1f018bd37496fe646d03eac042bbcccf9918b86dd44cb938058116bbb40e",
+      "display_blob_sha": "813463dad9fbfd0d4396c166633cfb44dffbec81",
+      "display_original_site_sha256": "38efb0f103482e0497189a7c98797a3766a12f0b70d574e3d75bacb6d5d48a15",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diospyros-texana/inat-623451276.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "abe10ae82e64d8a5a8443efbdf0f21de393ebcd5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342365490, photo 623451276, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 395443d647f300dbbc81d256e91f02b81ecea88cd6eb1b44262bfd4b29edc1e7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Diospyros texana maps to indexed species diospyros-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "395443d647f300dbbc81d256e91f02b81ecea88cd6eb1b44262bfd4b29edc1e7"
+      "sha256": "395443d647f300dbbc81d256e91f02b81ecea88cd6eb1b44262bfd4b29edc1e7",
+      "display_sha256": "769733bf81f59d3c7f881f07785053e91471d2a3be804631db6e9fd1899e9167",
+      "display_blob_sha": "61bd6f79b453469196203fceff3cc93e49da4e76",
+      "display_original_site_sha256": "395443d647f300dbbc81d256e91f02b81ecea88cd6eb1b44262bfd4b29edc1e7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diospyros-texana/inat-623628388.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "79a357c4c8d8ccd4a34fb42fa69aeba92192aeed",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342453678, photo 623628388, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 91f5f4b4699400a9f3ce657a06299d9313fedc50fa00e20a9937376f7ab24b9a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Diospyros texana maps to indexed species diospyros-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "91f5f4b4699400a9f3ce657a06299d9313fedc50fa00e20a9937376f7ab24b9a"
+      "sha256": "91f5f4b4699400a9f3ce657a06299d9313fedc50fa00e20a9937376f7ab24b9a",
+      "display_sha256": "5345d2d5ecb51f9d464f4503bc8f9ca90618d6b631ebd305ed6390efe926765a",
+      "display_blob_sha": "e61943dec74db541c9e176e17bf098e04e6f7824",
+      "display_original_site_sha256": "91f5f4b4699400a9f3ce657a06299d9313fedc50fa00e20a9937376f7ab24b9a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diospyros-texana/inat-624006099.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8f000a68e7cb50d35030e65c2266f2beec7322c3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342640151, photo 624006099, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4ca5da4a3f552f5791ad1ed2f28097e73c5427e9b6c73a6dc3b44e12d329b80e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Diospyros texana maps to indexed species diospyros-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "4ca5da4a3f552f5791ad1ed2f28097e73c5427e9b6c73a6dc3b44e12d329b80e"
+      "sha256": "4ca5da4a3f552f5791ad1ed2f28097e73c5427e9b6c73a6dc3b44e12d329b80e",
+      "display_sha256": "32dc70ff3ff7ba602235506b7773e9dcf9667b94c382aaa780cec444445cdb90",
+      "display_blob_sha": "0d34873bcf0c89440a95707012dc7ec87b9d670f",
+      "display_original_site_sha256": "4ca5da4a3f552f5791ad1ed2f28097e73c5427e9b6c73a6dc3b44e12d329b80e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diospyros-texana/inat-624746608.jpg",
@@ -149,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "094c055d04db7b61b624451eb9ea5eceee51af3c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ebenaceae–Ericaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343016545, photo 624746608, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4d43771efa31a8fd04478be45ca32ac70c6184425d8601ab1096597a86ace346. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 species contact sheets inspected for obvious off-target organisms. Live source name Diospyros texana maps to indexed species diospyros-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "4d43771efa31a8fd04478be45ca32ac70c6184425d8601ab1096597a86ace346"
+      "sha256": "4d43771efa31a8fd04478be45ca32ac70c6184425d8601ab1096597a86ace346",
+      "display_sha256": "820d6aa133b7e8ceb1c0e2c26a8df595ca2d92d41f8dbfa8b7c455574ee667e2",
+      "display_blob_sha": "968fb1d2530f5d086a2a431d951efaa605cb0d2b",
+      "display_original_site_sha256": "4d43771efa31a8fd04478be45ca32ac70c6184425d8601ab1096597a86ace346",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/diospyros-texana/feis-ron-stephens-fruit-foliage.jpeg",

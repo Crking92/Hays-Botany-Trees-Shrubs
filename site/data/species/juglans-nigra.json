@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7fc16de98e3d293df391f655b8fd228fc11f453",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 116722564, photo 197054025, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e4118412437809d37ea9e3aef3255395af271f06b54ad4421367725af2019f2d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans nigra maps to indexed species juglans-nigra; specialist morphology and BONAP range deferred.",
-      "sha256": "e4118412437809d37ea9e3aef3255395af271f06b54ad4421367725af2019f2d"
+      "sha256": "e4118412437809d37ea9e3aef3255395af271f06b54ad4421367725af2019f2d",
+      "display_sha256": "5d221e3e2f0ca8c52399bc631dbad20b8131aa25d0230917e7997deff3c70fed",
+      "display_blob_sha": "b0497aab3c15c06a1a58a351d52e127efd5ba59b",
+      "display_original_site_sha256": "e4118412437809d37ea9e3aef3255395af271f06b54ad4421367725af2019f2d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juglans-nigra/inat-279120808.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e2097f2e07276048d6e09886440836038a17f145",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 161482367, photo 279120808, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6c69948c50d764c18b668c31684888f12ae9a7b76376498392fcd6990e6695c3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans nigra maps to indexed species juglans-nigra; specialist morphology and BONAP range deferred.",
-      "sha256": "6c69948c50d764c18b668c31684888f12ae9a7b76376498392fcd6990e6695c3"
+      "sha256": "6c69948c50d764c18b668c31684888f12ae9a7b76376498392fcd6990e6695c3",
+      "display_sha256": "dedf8f43f5beb1cd3d8458160ca00b85bdd237c99c9734b0bbd49fb9273e9f8f",
+      "display_blob_sha": "04be9d902ea6ff83af1c471f2a7517a3c2ab0f16",
+      "display_original_site_sha256": "6c69948c50d764c18b668c31684888f12ae9a7b76376498392fcd6990e6695c3",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/juglans-nigra/inat-293879669.jpg",
@@ -145,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "85748f995c71fa3ffcb336a4c17ac569b7d70991",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 24798007, photo 38351837, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b69d3a2b537dcedc31b36104849eed68a42a0afbcdd1fdb6741a1e5e19cb00b7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans nigra maps to indexed species juglans-nigra; specialist morphology and BONAP range deferred.",
-      "sha256": "b69d3a2b537dcedc31b36104849eed68a42a0afbcdd1fdb6741a1e5e19cb00b7"
+      "sha256": "b69d3a2b537dcedc31b36104849eed68a42a0afbcdd1fdb6741a1e5e19cb00b7",
+      "display_sha256": "a663d2ef11014222d974e4949c76e2f9a9d54823f0e43e570ba37d1f6be9c9a7",
+      "display_blob_sha": "47b45f5c3fa677eba61773519a995703e90de6f8",
+      "display_original_site_sha256": "b69d3a2b537dcedc31b36104849eed68a42a0afbcdd1fdb6741a1e5e19cb00b7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

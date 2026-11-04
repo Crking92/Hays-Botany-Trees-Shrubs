@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0ed697c23ff2fb35e09e3ca3bdb7d8daf8b96bbc",
       "role": "General false-nettle habit and foliage; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 266285273 lists exact photo 478476124 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 f963f98cf7c8ccb64925726a7d1dfeeb682a4b162032dc531bcd9ce090f37331.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 266285273 taxon boehmeria cylindrica agrees; specialist anatomy ID postponed.",
-      "sha256": "f963f98cf7c8ccb64925726a7d1dfeeb682a4b162032dc531bcd9ce090f37331"
+      "sha256": "f963f98cf7c8ccb64925726a7d1dfeeb682a4b162032dc531bcd9ce090f37331",
+      "display_sha256": "a67249219a4e557132f2562e36bdcb4491ba652a52c1db805f9696e2952ba6d7",
+      "display_blob_sha": "5e3091f5c05caf4bdfb38815fed713ade9fd2644",
+      "display_original_site_sha256": "f963f98cf7c8ccb64925726a7d1dfeeb682a4b162032dc531bcd9ce090f37331",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boehmeria-cylindrica/inat-485571344.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bc7bc12df89f1660fe2211113336b8b0a1039d88",
       "role": "General false-nettle habit and foliage; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 270027680 lists exact photo 485571344 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 8e99199c5ba269c7e6862cc13d5f9044977b5a2ae3b6e042f9d55223bd0e37f7.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 270027680 taxon boehmeria cylindrica agrees; specialist anatomy ID postponed.",
-      "sha256": "8e99199c5ba269c7e6862cc13d5f9044977b5a2ae3b6e042f9d55223bd0e37f7"
+      "sha256": "8e99199c5ba269c7e6862cc13d5f9044977b5a2ae3b6e042f9d55223bd0e37f7",
+      "display_sha256": "d151d1af70c1ba40b65c458a21517a3a1bafd3bef1ed5b66fa1b21fcec2d9e18",
+      "display_blob_sha": "f3cad4aa1016c5184541c8c89fb72e5d3ab267f6",
+      "display_original_site_sha256": "8e99199c5ba269c7e6862cc13d5f9044977b5a2ae3b6e042f9d55223bd0e37f7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boehmeria-cylindrica/inat-630640133.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "727769468d0e23162d29d8abbcbcca0bb19f237a",
       "role": "General false-nettle habit and foliage; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 346002288 lists exact photo 630640133 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 34a58dd71a1d03a132c4d05442b153677600bc48679381fdc2ae28ead3e151d2.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 346002288 taxon boehmeria cylindrica agrees; specialist anatomy ID postponed.",
-      "sha256": "34a58dd71a1d03a132c4d05442b153677600bc48679381fdc2ae28ead3e151d2"
+      "sha256": "34a58dd71a1d03a132c4d05442b153677600bc48679381fdc2ae28ead3e151d2",
+      "display_sha256": "ca6830bd9573366713951762351071a8edd937e40d23b6e32b3a746eb9f13b78",
+      "display_blob_sha": "b4bf1a0b5307b6decd21fa9f51a247c7a84a9118",
+      "display_original_site_sha256": "34a58dd71a1d03a132c4d05442b153677600bc48679381fdc2ae28ead3e151d2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boehmeria-cylindrica/inat-644269777.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3f65016535f85f79cf4052d37f6e53d99be2ee85",
       "role": "General false-nettle habit and foliage; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 353070712 lists exact photo 644269777 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 16d6fbd9a74047ef7cbb669d4ad2f68825bfb1a51949e4894043cb9002ca3344.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 353070712 taxon boehmeria cylindrica agrees; specialist anatomy ID postponed.",
-      "sha256": "16d6fbd9a74047ef7cbb669d4ad2f68825bfb1a51949e4894043cb9002ca3344"
+      "sha256": "16d6fbd9a74047ef7cbb669d4ad2f68825bfb1a51949e4894043cb9002ca3344",
+      "display_sha256": "2c7554e5a7e4120e5ea799929e4a8b9e8b96dfe067fb0e6106d139a7d284cf8e",
+      "display_blob_sha": "c28242d7d6d8558299d6a9f0467975502d9759df",
+      "display_original_site_sha256": "16d6fbd9a74047ef7cbb669d4ad2f68825bfb1a51949e4894043cb9002ca3344",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boehmeria-cylindrica/inat-645126585.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c5c8a6c5d1f4267c33199ffc9f25679aef7e57df",
       "role": "General false-nettle habit and foliage; anatomy labeling deferred",
-      "modified": "Unmodified original source JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original source JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner-authorized, noncommercial educational general photo; individual source license/creator verified and original image SHA256 matched.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany photo-first source verification and contact-sheet visual review",
       "source_review_evidence": "Live iNaturalist observation 353587092 lists exact photo 645126585 and individual CC BY-NC license. Original photo bytes match original uploaded ZIP SHA256 f6697f2d02ce1212136248af69de496db22424d47f98e7dd770c205f5a821092.",
       "taxon_review_evidence": "Basic species assignment: original uploaded photo contact sheet checked for obvious organism mismatch; live observation 353587092 taxon boehmeria cylindrica agrees; specialist anatomy ID postponed.",
-      "sha256": "f6697f2d02ce1212136248af69de496db22424d47f98e7dd770c205f5a821092"
+      "sha256": "f6697f2d02ce1212136248af69de496db22424d47f98e7dd770c205f5a821092",
+      "display_sha256": "4b8a1352ecd6c27d1f9e377df9bad95279f5b7b8235f245233bb081877799f10",
+      "display_blob_sha": "d16b232bd3fcf52d04174d7ad9350926380825f2",
+      "display_original_site_sha256": "f6697f2d02ce1212136248af69de496db22424d47f98e7dd770c205f5a821092",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/boehmeria-cylindrica/archived-650578a2c8820946.jpg",

@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "504149969b630e453d289ff3446ecf2652e1c05e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 207417827, photo 366884310, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e86a630396026acf31c0bfcc8c89847dc74426073e93c540cd0676a234471bdb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis lindheimeri maps to indexed species celtis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "e86a630396026acf31c0bfcc8c89847dc74426073e93c540cd0676a234471bdb"
+      "sha256": "e86a630396026acf31c0bfcc8c89847dc74426073e93c540cd0676a234471bdb",
+      "display_sha256": "e212a8d7c01c28c4f0da6a85ffb8eaadcee644d7abee8ee4cbc5f1d1f8af867c",
+      "display_blob_sha": "4121e50f078ab3bfb4679e52b6fcd1a8425b51f1",
+      "display_original_site_sha256": "e86a630396026acf31c0bfcc8c89847dc74426073e93c540cd0676a234471bdb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-lindheimeri/inat-368684930.jpeg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "67d810f89950008ff1fe8b96209c701197cbff85",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 208384545, photo 368684930, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b7f900bdb311b9ab96b50a86f36677caaf97e22d2fa870da59d10b17a3217baa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis lindheimeri maps to indexed species celtis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "b7f900bdb311b9ab96b50a86f36677caaf97e22d2fa870da59d10b17a3217baa"
+      "sha256": "b7f900bdb311b9ab96b50a86f36677caaf97e22d2fa870da59d10b17a3217baa",
+      "display_sha256": "03a4d6c4a81de551c363988820749277f759b5486f6861dc0680df3a86a12080",
+      "display_blob_sha": "16c547c7d82ad73df74c48337f4d91790ab6779f",
+      "display_original_site_sha256": "b7f900bdb311b9ab96b50a86f36677caaf97e22d2fa870da59d10b17a3217baa",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-lindheimeri/inat-372192783.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1031b9a7a3c8fb3d96bdba78e2ce5fab59a91c41",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 210428544, photo 372192783, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a26a4c769d6efececd57d79471ac78a74ea22b35ff8c7842dd814c393e2dfec0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis lindheimeri maps to indexed species celtis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "a26a4c769d6efececd57d79471ac78a74ea22b35ff8c7842dd814c393e2dfec0"
+      "sha256": "a26a4c769d6efececd57d79471ac78a74ea22b35ff8c7842dd814c393e2dfec0",
+      "display_sha256": "b410765a8aee5070698867dd1992b88d2299bd435c6964b1f3f62cae84f28a11",
+      "display_blob_sha": "b73b29567ebcb8582d04f84fc573e886f9a01488",
+      "display_original_site_sha256": "a26a4c769d6efececd57d79471ac78a74ea22b35ff8c7842dd814c393e2dfec0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-lindheimeri/inat-491929791.jpeg",
@@ -134,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27e4824659810885a3f8a18dcc3cf0e48bf4dfdf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 273522141, photo 491929791, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 13c36c958bd4208e9ed88c26a867cfaa9ec7675888c5476fd070444be2d35cf7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis lindheimeri maps to indexed species celtis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "13c36c958bd4208e9ed88c26a867cfaa9ec7675888c5476fd070444be2d35cf7"
+      "sha256": "13c36c958bd4208e9ed88c26a867cfaa9ec7675888c5476fd070444be2d35cf7",
+      "display_sha256": "9414a41647c215d2f5e7058e50b0e1b4010195d447db4ce565f19f93d8de65b7",
+      "display_blob_sha": "270b9f6d8cc233319872c4f502965b1624332bcc",
+      "display_original_site_sha256": "13c36c958bd4208e9ed88c26a867cfaa9ec7675888c5476fd070444be2d35cf7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-lindheimeri/inat-491947664.jpeg",
@@ -153,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eb6bb0825e4c33e4d073839847a87f2bc3c2987d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 273533146, photo 491947664, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7cfd4c82099619fbb1b6dd9b872219e8fbef759577d9f6e60598c82f2809222d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis lindheimeri maps to indexed species celtis-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "7cfd4c82099619fbb1b6dd9b872219e8fbef759577d9f6e60598c82f2809222d"
+      "sha256": "7cfd4c82099619fbb1b6dd9b872219e8fbef759577d9f6e60598c82f2809222d",
+      "display_sha256": "bf266238aeabb66629ca8e41041c72801465df6b7d5b4f597aeed09f601e9b96",
+      "display_blob_sha": "78ec8325664ca87d6f6fe3ecc4b82ba29a7d19bc",
+      "display_original_site_sha256": "7cfd4c82099619fbb1b6dd9b872219e8fbef759577d9f6e60598c82f2809222d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

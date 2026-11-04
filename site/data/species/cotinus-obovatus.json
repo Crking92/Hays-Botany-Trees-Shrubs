@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0d9b18e0c16db83938e61f241308269479a955b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 206291099, photo 364849498, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 134de121cf24766bb0efcccba6f28a69c3cb9a1c052fa550e287886977e16561. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cotinus obovatus maps to indexed species cotinus-obovatus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "134de121cf24766bb0efcccba6f28a69c3cb9a1c052fa550e287886977e16561"
+      "sha256": "134de121cf24766bb0efcccba6f28a69c3cb9a1c052fa550e287886977e16561",
+      "display_sha256": "32c52973402eb9960111943738a2636e1c91f30028365b17df00cbd2f3add0c4",
+      "display_blob_sha": "33eafb0555c1f71bd4aee96b05dcb0c947eabbb4",
+      "display_original_site_sha256": "134de121cf24766bb0efcccba6f28a69c3cb9a1c052fa550e287886977e16561",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cotinus-obovatus/inat-486946235.jpeg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b522d2a0c38507a87b478b73382ced7c703cb35a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 270746310, photo 486946235, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7f417a766da85204d0eda51aca1549b30e42dd001f6934e9935382eb238524c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cotinus obovatus maps to indexed species cotinus-obovatus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "7f417a766da85204d0eda51aca1549b30e42dd001f6934e9935382eb238524c0"
+      "sha256": "7f417a766da85204d0eda51aca1549b30e42dd001f6934e9935382eb238524c0",
+      "display_sha256": "fd586ddc60de11735bd6525b2e58514f6f27bf645ce50d6940439c59519ac225",
+      "display_blob_sha": "501227f73a060a31a5bd294a952c6982f7594978",
+      "display_original_site_sha256": "7f417a766da85204d0eda51aca1549b30e42dd001f6934e9935382eb238524c0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cotinus-obovatus/inat-636864483.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b48245bb2d8601ef202d3466faa7843df0562961",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 349143791, photo 636864483, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5b9e2f5840cafabec85008cad4f4142e02388597118a40ecd86a28cee2085b19. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cotinus obovatus maps to indexed species cotinus-obovatus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "5b9e2f5840cafabec85008cad4f4142e02388597118a40ecd86a28cee2085b19"
+      "sha256": "5b9e2f5840cafabec85008cad4f4142e02388597118a40ecd86a28cee2085b19",
+      "display_sha256": "f0b05fbbb334b35640a4673b73405ba03ffb06f5de199e1ec71b2d80c0754ffb",
+      "display_blob_sha": "3c9098d292ff6c156375bee22144bea91e3cfd20",
+      "display_original_site_sha256": "5b9e2f5840cafabec85008cad4f4142e02388597118a40ecd86a28cee2085b19",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/cotinus-obovatus/inat-657348628.jpg",
@@ -130,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "97d82a3aa835c537a991d285213327da6d0687ef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 360252978, photo 657348628, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: cbbc27d7c6bef18d88e3dfb94982275f1ed46a1c67bf8314e8b3e7f7c43af481. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Cotinus obovatus maps to indexed species cotinus-obovatus (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "cbbc27d7c6bef18d88e3dfb94982275f1ed46a1c67bf8314e8b3e7f7c43af481"
+      "sha256": "cbbc27d7c6bef18d88e3dfb94982275f1ed46a1c67bf8314e8b3e7f7c43af481",
+      "display_sha256": "550c5d7c8447c9f9d8e95ccb28b6f63b1c003729bd20c760b112833ef2792d5e",
+      "display_blob_sha": "d62f3c76bfa14be36eaf3fda218b769f99401dab",
+      "display_original_site_sha256": "cbbc27d7c6bef18d88e3dfb94982275f1ed46a1c67bf8314e8b3e7f7c43af481",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

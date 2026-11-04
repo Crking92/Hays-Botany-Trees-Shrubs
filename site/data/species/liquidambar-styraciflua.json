@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "28a598a7a39a020b078d46ca997d59a45fcf66af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 78001815, photo 127602182, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b3513e91c6e43e3f66c12869e89818b71504305bbeb1db17449e89c3bae3405a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Liquidambar styraciflua maps to indexed species liquidambar-styraciflua (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "b3513e91c6e43e3f66c12869e89818b71504305bbeb1db17449e89c3bae3405a"
+      "sha256": "b3513e91c6e43e3f66c12869e89818b71504305bbeb1db17449e89c3bae3405a",
+      "display_sha256": "41de5e8b3e9478e970d135ec6e69ac0a09165f38c7445df11fb95d231b5d4a10",
+      "display_blob_sha": "782b840cc61a2613ffa840b34944dec2a4e5a214",
+      "display_original_site_sha256": "b3513e91c6e43e3f66c12869e89818b71504305bbeb1db17449e89c3bae3405a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/liquidambar-styraciflua/inat-261656759.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8c69d8ca42e59cfdedab62a1d909ac6a2b5dbeb5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 151632259, photo 261656759, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a95be8c02547099c0ab7f6024c364c8ffe7eb3e171b0940f13376ab052ab181. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Liquidambar styraciflua maps to indexed species liquidambar-styraciflua (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8a95be8c02547099c0ab7f6024c364c8ffe7eb3e171b0940f13376ab052ab181"
+      "sha256": "8a95be8c02547099c0ab7f6024c364c8ffe7eb3e171b0940f13376ab052ab181",
+      "display_sha256": "00818b9d35088ac843a94a17e7a019d11c96b3559b620e52f2e9bda8e0c2d20e",
+      "display_blob_sha": "195383de0a4f5e80ebcaf55e759425efee1735a1",
+      "display_original_site_sha256": "8a95be8c02547099c0ab7f6024c364c8ffe7eb3e171b0940f13376ab052ab181",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/liquidambar-styraciflua/inat-503091310.jpeg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2b915dcbb72da615d6cbb198ad84fdd7aa641b3d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 280130475, photo 503091310, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c13c03b3d5fc7d95abb492a3dc8d0e673d4c035306aedc932f0e4210de208710. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Liquidambar styraciflua maps to indexed species liquidambar-styraciflua (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "c13c03b3d5fc7d95abb492a3dc8d0e673d4c035306aedc932f0e4210de208710"
+      "sha256": "c13c03b3d5fc7d95abb492a3dc8d0e673d4c035306aedc932f0e4210de208710",
+      "display_sha256": "e839de88c7bea54d6311093030bb3b49e06de3d85a48ea8cb8cac1b7e190158b",
+      "display_blob_sha": "96674e01274eef48142d81575972e6ec7c1de737",
+      "display_original_site_sha256": "c13c03b3d5fc7d95abb492a3dc8d0e673d4c035306aedc932f0e4210de208710",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/liquidambar-styraciflua/inat-67584765.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5b1914f21a9bafcae8126742fe4b38ab36762394",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 42496076, photo 67584765, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ea3cb8660d4261b1f79e84a11e23702c6d420a3194313f5b1d5e7c60269d7e0c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Liquidambar styraciflua maps to indexed species liquidambar-styraciflua (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ea3cb8660d4261b1f79e84a11e23702c6d420a3194313f5b1d5e7c60269d7e0c"
+      "sha256": "ea3cb8660d4261b1f79e84a11e23702c6d420a3194313f5b1d5e7c60269d7e0c",
+      "display_sha256": "d40a5204b020f109f64e9da541c314f30bb5c0f74cb9613bca2d30d8b5a1017b",
+      "display_blob_sha": "fcaf724372c1afb72f340e1263f6fa29cfc34c0d",
+      "display_original_site_sha256": "ea3cb8660d4261b1f79e84a11e23702c6d420a3194313f5b1d5e7c60269d7e0c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/liquidambar-styraciflua/inat-70699385.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da7f3a29873c6ff8c266bf053e7f29239cd5aa9a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Acanthaceae–Altingiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 44592830, photo 70699385, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d60cfac524009cd3256fabd03e18d0a4e2443237ccdd82517113192d920f3de9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Four original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Liquidambar styraciflua maps to indexed species liquidambar-styraciflua (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d60cfac524009cd3256fabd03e18d0a4e2443237ccdd82517113192d920f3de9"
+      "sha256": "d60cfac524009cd3256fabd03e18d0a4e2443237ccdd82517113192d920f3de9",
+      "display_sha256": "13d9c418f5c28e216bf7361498c5dccd6f0909f985b7ca03e54e7120cfca1521",
+      "display_blob_sha": "43034cfb8b56b746634b91b2b968d5a5c26567db",
+      "display_original_site_sha256": "d60cfac524009cd3256fabd03e18d0a4e2443237ccdd82517113192d920f3de9",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

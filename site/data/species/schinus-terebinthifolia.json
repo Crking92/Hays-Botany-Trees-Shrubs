@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "90b1e291ab8e6f852f60e5854a6b85a3a6083d87",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341777245, photo 622259970, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 315b023307ce50d55fa583821e0a1b437409dca38ba5c4c7e2acf30ee118a851. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Schinus terebinthifolia maps to indexed species schinus-terebinthifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "315b023307ce50d55fa583821e0a1b437409dca38ba5c4c7e2acf30ee118a851"
+      "sha256": "315b023307ce50d55fa583821e0a1b437409dca38ba5c4c7e2acf30ee118a851",
+      "display_sha256": "691882b20230d9b5cdd395a7ff2bac748769f5dcda2d55afb7d8bb393e24af0c",
+      "display_blob_sha": "90eacc1dc812d9fc5db1b56c34b1cd16eff6c475",
+      "display_original_site_sha256": "315b023307ce50d55fa583821e0a1b437409dca38ba5c4c7e2acf30ee118a851",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/schinus-terebinthifolia/inat-625419047.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f66202f7eb9679a4f2763b5c5f7ce9e8905a509d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343347121, photo 625419047, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f665d7e500a89d4b46fdfd960257ad788e5c1d96d9a008cbec49d1b50df2d068. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Schinus terebinthifolia maps to indexed species schinus-terebinthifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "f665d7e500a89d4b46fdfd960257ad788e5c1d96d9a008cbec49d1b50df2d068"
+      "sha256": "f665d7e500a89d4b46fdfd960257ad788e5c1d96d9a008cbec49d1b50df2d068",
+      "display_sha256": "894da848548b95fa752da75b7e41c698916890493a332567199b9f61a3d12731",
+      "display_blob_sha": "b730abec1d002f8e633e3801be1d4ca8bee8d8d6",
+      "display_original_site_sha256": "f665d7e500a89d4b46fdfd960257ad788e5c1d96d9a008cbec49d1b50df2d068",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/schinus-terebinthifolia/inat-625711363.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "57725fcc73c15f96ac0e5ffd100b5eb69cef83a7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343490954, photo 625711363, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ded7cb0c05fd6bbff172e3bf59ed36e69f054d5fc0d33cef9db437a394b69a5e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Schinus terebinthifolia maps to indexed species schinus-terebinthifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "ded7cb0c05fd6bbff172e3bf59ed36e69f054d5fc0d33cef9db437a394b69a5e"
+      "sha256": "ded7cb0c05fd6bbff172e3bf59ed36e69f054d5fc0d33cef9db437a394b69a5e",
+      "display_sha256": "3ef30c1d21cb6703ea957257a3f2fe8d270d506ecf64237b3f5aa9d4bd8e4083",
+      "display_blob_sha": "10be007f8bccf0c5d38271b0998339f57eb0f045",
+      "display_original_site_sha256": "ded7cb0c05fd6bbff172e3bf59ed36e69f054d5fc0d33cef9db437a394b69a5e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/schinus-terebinthifolia/inat-629663484.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "003621d01fb326ae31f79d1d3ef76c988c46f6d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345504889, photo 629663484, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75e36dc53e6d65aee92466e82a0430eae12d0d3571a2e4b53447f36db8c8883e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Schinus terebinthifolia maps to indexed species schinus-terebinthifolia (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "75e36dc53e6d65aee92466e82a0430eae12d0d3571a2e4b53447f36db8c8883e"
+      "sha256": "75e36dc53e6d65aee92466e82a0430eae12d0d3571a2e4b53447f36db8c8883e",
+      "display_sha256": "0466879c39436ec841fa358cfb1f24b08a5595a9c723af4051f31190742e39a2",
+      "display_blob_sha": "961b2e6b897ecce8f6183ee932834f2b6eaade6e",
+      "display_original_site_sha256": "75e36dc53e6d65aee92466e82a0430eae12d0d3571a2e4b53447f36db8c8883e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

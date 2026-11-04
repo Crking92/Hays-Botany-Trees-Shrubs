@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ece9d9f9abf8ab20cb6a627db7f8cfe3c92fd4e5",
       "role": "Water elm in wetland habitat (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 343362617 explicitly lists exact photo 625448827; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value c04af07f0b111cb7bf4d52b517635c64fde26d2b07a772e3c03d28ed346696f8.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon planera aquatica; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "c04af07f0b111cb7bf4d52b517635c64fde26d2b07a772e3c03d28ed346696f8"
+      "sha256": "c04af07f0b111cb7bf4d52b517635c64fde26d2b07a772e3c03d28ed346696f8",
+      "display_sha256": "6b2e3f32ca57fab8dd5608639c56e8c23ec3832300bec2b0ed65f79a43e00c9d",
+      "display_blob_sha": "737ff3081657bc41d2e763b792c910d051db0569",
+      "display_original_site_sha256": "c04af07f0b111cb7bf4d52b517635c64fde26d2b07a772e3c03d28ed346696f8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/planera-aquatica/inat-625897216.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8c08d9cfd1ece9a2315666f0c16ec7210c9e0984",
       "role": "Water elm trunk and bark (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 343580364 explicitly lists exact photo 625897216; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 54be3257fa4e2044d2912eb31e38ec87e689f155ea5272bf49636321ced28691.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon planera aquatica; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "54be3257fa4e2044d2912eb31e38ec87e689f155ea5272bf49636321ced28691"
+      "sha256": "54be3257fa4e2044d2912eb31e38ec87e689f155ea5272bf49636321ced28691",
+      "display_sha256": "ae7ce8abdf4ee540d63cc98faeb113991e65df5850e333a17c623890e22e4eb9",
+      "display_blob_sha": "675df06f0705bd69baeb2359f13bc7ee19f0023c",
+      "display_original_site_sha256": "54be3257fa4e2044d2912eb31e38ec87e689f155ea5272bf49636321ced28691",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/planera-aquatica/inat-628165178.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63fff7ea4c26522471e471be0a1baa8c5accf7ea",
       "role": "Water elm wetland habit (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 344736526 explicitly lists exact photo 628165178; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 91c28f94bb518b54fd66fd9041dfd4e8e02e2e57f495d19a85f251837f61a17a.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon planera aquatica; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "91c28f94bb518b54fd66fd9041dfd4e8e02e2e57f495d19a85f251837f61a17a"
+      "sha256": "91c28f94bb518b54fd66fd9041dfd4e8e02e2e57f495d19a85f251837f61a17a",
+      "display_sha256": "92d1a2bc5c6c70e606cdadba714454aff0db84ba54490c79086adf9770022497",
+      "display_blob_sha": "78a30ce0a0816b09f0be53c301d50d3559489397",
+      "display_original_site_sha256": "91c28f94bb518b54fd66fd9041dfd4e8e02e2e57f495d19a85f251837f61a17a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/planera-aquatica/inat-630298084.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a59dc0ee1c4cfba9400d29618168deef222425f8",
       "role": "Water elm foliage and developing fruits (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 345825973 explicitly lists exact photo 630298084; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 4c1e793debaf737647bc7facd008944e695f30bfd70ba19fde8ff8a97a0003be.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon planera aquatica; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "4c1e793debaf737647bc7facd008944e695f30bfd70ba19fde8ff8a97a0003be"
+      "sha256": "4c1e793debaf737647bc7facd008944e695f30bfd70ba19fde8ff8a97a0003be",
+      "display_sha256": "e70582de515ba79929a55667b98962b69d16cf323a41cf6e1a916fc7db86ceba",
+      "display_blob_sha": "954b08edc964898a1aa15c98b4b152aaab895285",
+      "display_original_site_sha256": "4c1e793debaf737647bc7facd008944e695f30bfd70ba19fde8ff8a97a0003be",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/planera-aquatica/inat-631856807.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a25ef961145ea99f4af973c476903aec8a1d47a2",
       "role": "Water elm leaves and fruits (general view, no diagnostic claims)",
-      "modified": "Unmodified original iNaturalist JPEG",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original iNaturalist JPEG",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorization for genuinely licensed general identification photos after live source/media/taxon consistency checks.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-photo iNaturalist source and original ZIP visual/hash reviewer",
       "source_review_evidence": "Live observation 346616914 explicitly lists exact photo 631856807; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 0dba0277b0847975f2e49be88138330c1d68e85d98615c70f018aa9bfe5db9ce.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon planera aquatica; specialized anatomy and BONAP county range certification deferred.",
-      "sha256": "0dba0277b0847975f2e49be88138330c1d68e85d98615c70f018aa9bfe5db9ce"
+      "sha256": "0dba0277b0847975f2e49be88138330c1d68e85d98615c70f018aa9bfe5db9ce",
+      "display_sha256": "8e826f91c130bfd74b4e6167a49cbedc68d7d2dc5e2e8e7fcc977ca5ed405da9",
+      "display_blob_sha": "a56eb82f64f0ad3d1ef14892c44d2563b10d6445",
+      "display_original_site_sha256": "0dba0277b0847975f2e49be88138330c1d68e85d98615c70f018aa9bfe5db9ce",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/planera-aquatica/archived-b41b5764bfafa992.jpg",

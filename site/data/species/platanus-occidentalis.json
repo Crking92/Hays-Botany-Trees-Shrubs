@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bcf2f7c6331ea8350c4e61bd506f796ec1223524",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 341745868, photo 622197819, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b66229ecf3647edf13542c5d18044c7ab06ef25e5694b7e05575585640953b85. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Platanus occidentalis maps to indexed species platanus-occidentalis; specialist morphology and BONAP range deferred.",
-      "sha256": "b66229ecf3647edf13542c5d18044c7ab06ef25e5694b7e05575585640953b85"
+      "sha256": "b66229ecf3647edf13542c5d18044c7ab06ef25e5694b7e05575585640953b85",
+      "display_sha256": "ad28ca3eac38afe68282eba8077746de30311d30b2c8a4f37f35ae3c8304b4eb",
+      "display_blob_sha": "d9987f0a7b5ff0c41c5c4925c4aa0b93c3c99a3a",
+      "display_original_site_sha256": "b66229ecf3647edf13542c5d18044c7ab06ef25e5694b7e05575585640953b85",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/platanus-occidentalis/inat-629090454.jpg",
@@ -126,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a32c1e6b472cdb7a2de6ac50fb5fe59016dde54e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346004562, photo 630644366, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 72d80466cba1bfc9c00c2772f1e8d7c5ab54e8ef31a8c6ce276d95115ae40e4d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Platanus occidentalis maps to indexed species platanus-occidentalis; specialist morphology and BONAP range deferred.",
-      "sha256": "72d80466cba1bfc9c00c2772f1e8d7c5ab54e8ef31a8c6ce276d95115ae40e4d"
+      "sha256": "72d80466cba1bfc9c00c2772f1e8d7c5ab54e8ef31a8c6ce276d95115ae40e4d",
+      "display_sha256": "f53f0a058cad20ac2da85584ec27054c671b7a61176f16105a664485095a45f6",
+      "display_blob_sha": "508513e1ac7eacb0349bd57da3636425fe6a9e97",
+      "display_original_site_sha256": "72d80466cba1bfc9c00c2772f1e8d7c5ab54e8ef31a8c6ce276d95115ae40e4d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/platanus-occidentalis/inat-630801494.jpg",
@@ -145,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "53f69417c5c5881e7a38da12eefef83eea32689e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346083516, photo 630801494, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf692b088ca7dcbfb16c0ecfe66f3948e2402c4315decb7d68019a102290f7ec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Platanus occidentalis maps to indexed species platanus-occidentalis; specialist morphology and BONAP range deferred.",
-      "sha256": "bf692b088ca7dcbfb16c0ecfe66f3948e2402c4315decb7d68019a102290f7ec"
+      "sha256": "bf692b088ca7dcbfb16c0ecfe66f3948e2402c4315decb7d68019a102290f7ec",
+      "display_sha256": "119b4e97225da86dac43db58896613628df9debd0e804a00a7dffcef3f8d93d0",
+      "display_blob_sha": "9a9efae5389cd8c93b06cbb08be651e93c1f4594",
+      "display_original_site_sha256": "bf692b088ca7dcbfb16c0ecfe66f3948e2402c4315decb7d68019a102290f7ec",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/platanus-occidentalis/inat-631059385.jpg",
@@ -164,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "612cc25348a9bd2c602bde9fe67ca18d7f4ac3bc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -172,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346216625, photo 631059385, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: de06ea7eb24ab9ff3200589e34678847d272bc9970b8e9ea6a54bfc3bd279d90. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Platanus occidentalis maps to indexed species platanus-occidentalis; specialist morphology and BONAP range deferred.",
-      "sha256": "de06ea7eb24ab9ff3200589e34678847d272bc9970b8e9ea6a54bfc3bd279d90"
+      "sha256": "de06ea7eb24ab9ff3200589e34678847d272bc9970b8e9ea6a54bfc3bd279d90",
+      "display_sha256": "c3df90f10df84d142bda167dd8fc6c742986bcb682c583faaa7ac5069974f2e2",
+      "display_blob_sha": "076ffd3901950f94e2530cf48210d494c8472527",
+      "display_original_site_sha256": "de06ea7eb24ab9ff3200589e34678847d272bc9970b8e9ea6a54bfc3bd279d90",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6d7718e872c53d25778317744797d742f3c239d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341155491, photo 620987484, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 722d28de8d8e8c391d8e8860142368d9c7f8fc00934326b3a768bc1be0185a33. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Koeberlinia spinosa maps to indexed species koeberlinia-spinosa; specialist morphology and BONAP range deferred.",
-      "sha256": "722d28de8d8e8c391d8e8860142368d9c7f8fc00934326b3a768bc1be0185a33"
+      "sha256": "722d28de8d8e8c391d8e8860142368d9c7f8fc00934326b3a768bc1be0185a33",
+      "display_sha256": "7f1a4451be6589482aa226e49790f93bafd84ed13ef8f899699285852b532a38",
+      "display_blob_sha": "7b431785dda5daa5ecac3139fc735f5e8343495b",
+      "display_original_site_sha256": "722d28de8d8e8c391d8e8860142368d9c7f8fc00934326b3a768bc1be0185a33",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/koeberlinia-spinosa/inat-623350268.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "338c274dc3104dd88ad71f883c184b111839ce61",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342317649, photo 623350268, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 928f17cde1f72144ee5b2340d841a51a2f563c6ce19541ba51d9da208fe427a5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Koeberlinia spinosa maps to indexed species koeberlinia-spinosa; specialist morphology and BONAP range deferred.",
-      "sha256": "928f17cde1f72144ee5b2340d841a51a2f563c6ce19541ba51d9da208fe427a5"
+      "sha256": "928f17cde1f72144ee5b2340d841a51a2f563c6ce19541ba51d9da208fe427a5",
+      "display_sha256": "aab86d19c09763d95bd7ad648db6fb661769ac670c70ce5d517dbd2aeb56934b",
+      "display_blob_sha": "1337fbd066628504b117c06d6d396e3a46e171fa",
+      "display_original_site_sha256": "928f17cde1f72144ee5b2340d841a51a2f563c6ce19541ba51d9da208fe427a5",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/koeberlinia-spinosa/inat-624788836.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fe64e8da2b4cbe0d15a551290f44f414e23c194a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343037126, photo 624788836, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b210d1c3bda4a5a9d96df2cfb250131e44e3515b8d3f38cb9bbbc4b97b52c99c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Koeberlinia spinosa maps to indexed species koeberlinia-spinosa; specialist morphology and BONAP range deferred.",
-      "sha256": "b210d1c3bda4a5a9d96df2cfb250131e44e3515b8d3f38cb9bbbc4b97b52c99c"
+      "sha256": "b210d1c3bda4a5a9d96df2cfb250131e44e3515b8d3f38cb9bbbc4b97b52c99c",
+      "display_sha256": "4a3cf8b2325ae55bc17550a7ed14dfe5384a59d5798245b2ca0c75dd04f20851",
+      "display_blob_sha": "479ff58468a4e7b0f8247b7928e04ec1c8f6221e",
+      "display_original_site_sha256": "b210d1c3bda4a5a9d96df2cfb250131e44e3515b8d3f38cb9bbbc4b97b52c99c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/koeberlinia-spinosa/inat-625391510.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "67f21d71951a316f8952b558c29aa9448880d7b2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343333399, photo 625391510, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 61a128de8367659976b828f8b3f5eabd9f3c6e75ee29099a184c5138eb0a3faf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Koeberlinia spinosa maps to indexed species koeberlinia-spinosa; specialist morphology and BONAP range deferred.",
-      "sha256": "61a128de8367659976b828f8b3f5eabd9f3c6e75ee29099a184c5138eb0a3faf"
+      "sha256": "61a128de8367659976b828f8b3f5eabd9f3c6e75ee29099a184c5138eb0a3faf",
+      "display_sha256": "1d9a3ce9fef243b39864f2b0101c19233fa3b4b8ddd00656922d3e042b75a2f6",
+      "display_blob_sha": "be089c85c698a90915d8dc6662de41656c5ea08a",
+      "display_original_site_sha256": "61a128de8367659976b828f8b3f5eabd9f3c6e75ee29099a184c5138eb0a3faf",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

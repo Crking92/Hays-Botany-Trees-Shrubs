@@ -104,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "832e7f6ab01715e9d42664591884e328844a9d7e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341413961, photo 621521764, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d44243abaf7abb0f644131a7d396cae1a0a2116de5daa67c61f9969f2af42332. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus virens maps to indexed species rhus-virens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "d44243abaf7abb0f644131a7d396cae1a0a2116de5daa67c61f9969f2af42332"
+      "sha256": "d44243abaf7abb0f644131a7d396cae1a0a2116de5daa67c61f9969f2af42332",
+      "display_sha256": "bcfa69cc84f136b4bdbfe71b611669d8ee436c18bbb33d24279aa378c923b21e",
+      "display_blob_sha": "2a79596392e25495497d1cc93cc6cc0117941384",
+      "display_original_site_sha256": "d44243abaf7abb0f644131a7d396cae1a0a2116de5daa67c61f9969f2af42332",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-virens/inat-624746583.jpg",
@@ -123,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c5f21e5fcfc7eb8c98b90fa46ea3129b06e50c50",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343016534, photo 624746583, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f3fe7863162faa756c9b09c01d06dd196381665d3b5941c62dc95618f6ed5b4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus virens maps to indexed species rhus-virens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "9f3fe7863162faa756c9b09c01d06dd196381665d3b5941c62dc95618f6ed5b4"
+      "sha256": "9f3fe7863162faa756c9b09c01d06dd196381665d3b5941c62dc95618f6ed5b4",
+      "display_sha256": "175fd57a9e87cfd74cae70fcf967b9b7d1c45f7c808af4a33f18811f304cc6a8",
+      "display_blob_sha": "32a8226263e1d04f7e002c308c27d3e096fd3de1",
+      "display_original_site_sha256": "9f3fe7863162faa756c9b09c01d06dd196381665d3b5941c62dc95618f6ed5b4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-virens/inat-626106758.jpg",
@@ -142,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ac3929dd23bb6d4661cf538eeaa9ebaf8ebe0144",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343684210, photo 626106758, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 689d55db6146be241c704d8c915205af5dd5d17da3ae7bba2248e7c3fccf1056. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus virens maps to indexed species rhus-virens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "689d55db6146be241c704d8c915205af5dd5d17da3ae7bba2248e7c3fccf1056"
+      "sha256": "689d55db6146be241c704d8c915205af5dd5d17da3ae7bba2248e7c3fccf1056",
+      "display_sha256": "ea898d0d7644d5e8972d68d4b8efffce4d4aecf7ac2cbe9070a24fdfc1ca3471",
+      "display_blob_sha": "4fcb98c01e7b1beedcc63ffd27bc30f48f1d8a41",
+      "display_original_site_sha256": "689d55db6146be241c704d8c915205af5dd5d17da3ae7bba2248e7c3fccf1056",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-virens/inat-626502180.jpg",
@@ -161,7 +176,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "82221ebeb5149285476c99e1eab2f5814a032a37",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +184,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343884872, photo 626502180, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 38e71aa855f6118dee38b391863cd2fbd7496fb4edbe96716a57d74f533fb15d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus virens maps to indexed species rhus-virens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "38e71aa855f6118dee38b391863cd2fbd7496fb4edbe96716a57d74f533fb15d"
+      "sha256": "38e71aa855f6118dee38b391863cd2fbd7496fb4edbe96716a57d74f533fb15d",
+      "display_sha256": "e7c0114b13c82ad58b60bf8064ad54ca32647029866a957b1640e503f69d940d",
+      "display_blob_sha": "5f3cbf1fc8a749a6e8124cecb40212dae324de10",
+      "display_original_site_sha256": "38e71aa855f6118dee38b391863cd2fbd7496fb4edbe96716a57d74f533fb15d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-virens/inat-626502426.jpg",
@@ -180,7 +200,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0250041bf8c5b60d1da4697b6e1ada0cbfac9990",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -188,7 +208,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343885004, photo 626502426, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e0c6a2a6cb9c43344224fd0ff4dacec35d4c34d085fbfad406a7e63e98b5f254. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus virens maps to indexed species rhus-virens (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e0c6a2a6cb9c43344224fd0ff4dacec35d4c34d085fbfad406a7e63e98b5f254"
+      "sha256": "e0c6a2a6cb9c43344224fd0ff4dacec35d4c34d085fbfad406a7e63e98b5f254",
+      "display_sha256": "63f361e15dcb05dfa90387cad16722795531fe16348d72c5e0e694f29b8c9136",
+      "display_blob_sha": "eeb9331f12971f1053b939c10badd18f21d05ae8",
+      "display_original_site_sha256": "e0c6a2a6cb9c43344224fd0ff4dacec35d4c34d085fbfad406a7e63e98b5f254",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

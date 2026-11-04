@@ -35,7 +35,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "60a98919885044dbc1ca37f0e792c0f625149912",
       "role": "Flower buds and palmately compound leaves",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -43,7 +43,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 296131856 inside observation 170714850; exact photo license cc-by and creator Steve Young match the source ZIP; SHA-256 e3cfbe6b520202aa75a68f1fd7d1b2b010dff0b7bf4ce10f601172a6c2b62fbe verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus quinquefolia confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "e3cfbe6b520202aa75a68f1fd7d1b2b010dff0b7bf4ce10f601172a6c2b62fbe"
+      "sha256": "e3cfbe6b520202aa75a68f1fd7d1b2b010dff0b7bf4ce10f601172a6c2b62fbe",
+      "display_sha256": "40fe2fef501fc2caff6cad08318ed4e9c495f5b4771721f354bc29cc3a12686b",
+      "display_blob_sha": "af1b3b2c2d1e9b453c8654465c6f9564a6fbe573",
+      "display_original_site_sha256": "e3cfbe6b520202aa75a68f1fd7d1b2b010dff0b7bf4ce10f601172a6c2b62fbe",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-quinquefolia/inat-photo-520982231.jpg",
@@ -54,7 +59,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ae5769578d8ec8bd362fffdb5da2e570f2242e6f",
       "role": "Small flowering clusters among compound foliage",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -62,7 +67,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 520982231 inside observation 289668806; exact photo license cc-by and creator jonsense match the source ZIP; SHA-256 0ac5882ded31d43eb321dc0289ab6aa00475972c7e51135a4732cae71ecaa91b verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus quinquefolia confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "0ac5882ded31d43eb321dc0289ab6aa00475972c7e51135a4732cae71ecaa91b"
+      "sha256": "0ac5882ded31d43eb321dc0289ab6aa00475972c7e51135a4732cae71ecaa91b",
+      "display_sha256": "13fdfc1fd13109051d43186c6c451e60deb0973f7815f3ee5c9333f35aa960db",
+      "display_blob_sha": "144fb216cdad09ad2680e6309aec473e9fd95333",
+      "display_original_site_sha256": "0ac5882ded31d43eb321dc0289ab6aa00475972c7e51135a4732cae71ecaa91b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-quinquefolia/inat-photo-678834341.jpg",
@@ -73,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5a63f098d7ba593ac6b1b1517e34d8ef7635aef8",
       "role": "Dark fruit and branching stems",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -81,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 678834341 inside observation 371535631; exact photo license cc-by and creator Michelle W. （鍾偉瑋） match the source ZIP; SHA-256 ec78a403e1ddcbf6057ec46fc9d967a474ce0e6e2ab6671426294865d39e63d6 verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus quinquefolia confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "ec78a403e1ddcbf6057ec46fc9d967a474ce0e6e2ab6671426294865d39e63d6"
+      "sha256": "ec78a403e1ddcbf6057ec46fc9d967a474ce0e6e2ab6671426294865d39e63d6",
+      "display_sha256": "f000894b5540d20cf629c53c15fb8d42dbdca4c5aa7af4495405d32ad8ee694e",
+      "display_blob_sha": "93b4c7bebe31c7f708f1de187486ed40c6fc4444",
+      "display_original_site_sha256": "ec78a403e1ddcbf6057ec46fc9d967a474ce0e6e2ab6671426294865d39e63d6",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-quinquefolia/inat-photo-743154330.jpg",
@@ -92,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "b5c142558ccd2dab12a1e349fa907551e50a2b8f",
       "role": "Dark blue berries on red stalks",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -100,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 743154330 inside observation 404654527; exact photo license cc-by and creator Cody Stricker match the source ZIP; SHA-256 1b72ed1ec40a464a15f591025fc93a6543ec388ae0ee45eb3ba5fe0c6b06e9ab verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Parthenocissus quinquefolia confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "1b72ed1ec40a464a15f591025fc93a6543ec388ae0ee45eb3ba5fe0c6b06e9ab"
+      "sha256": "1b72ed1ec40a464a15f591025fc93a6543ec388ae0ee45eb3ba5fe0c6b06e9ab",
+      "display_sha256": "c928a7457d8cb6e55b073e709abbc84066321335fac86d24a320e41ce7434cce",
+      "display_blob_sha": "c5d55f4a011f1efb424cf9cfadfe76418c64a346",
+      "display_original_site_sha256": "1b72ed1ec40a464a15f591025fc93a6543ec388ae0ee45eb3ba5fe0c6b06e9ab",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/parthenocissus-quinquefolia/inat-photo-628686673.jpg",
@@ -130,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0b19debd91fbfe2ade2e1166d4d3b892b5668b80",
       "role": "Leaves of climbing Virginia creeper against mature tree bark",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -138,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 629130091 inside observation 345231341; exact photo license cc-by-nc and creator Mike Quinn, San Marcos match the source ZIP; SHA-256 2f26fedc2b43206be52997481845b8d2dd5fcaab925cb1b3d4d7c8f77a8797fd verified against original archived bytes at 2026-11-02T21:04:43.126291+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check Nov 2 2026; plausible foliage habit and seasonal structure, not expert voucher determination. Observation-level taxon Parthenocissus quinquefolia confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "2f26fedc2b43206be52997481845b8d2dd5fcaab925cb1b3d4d7c8f77a8797fd"
+      "sha256": "2f26fedc2b43206be52997481845b8d2dd5fcaab925cb1b3d4d7c8f77a8797fd",
+      "display_sha256": "02cbd7f0bfd4a44421d0749641bcc2b8915694a7116806f5be3b6e31e994795d",
+      "display_blob_sha": "5b56029d053510ccb1c1e6d98e35a6ac51a88ba0",
+      "display_original_site_sha256": "2f26fedc2b43206be52997481845b8d2dd5fcaab925cb1b3d4d7c8f77a8797fd",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

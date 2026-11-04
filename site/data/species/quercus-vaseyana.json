@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ec725bceeee12cbec0883edb2d4fff0c5e4e3b6e",
       "role": "same-observation oak field view 1",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 8813270 photo 11837712 individual CC code cc-by-nc; photographer (c) Benjamin Schwartz, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA ec725bceeee12cbec0883edb2d4fff0c5e4e3b6e; exact image source https://www.inaturalist.org/photos/11837712",
       "taxon_review_evidence": "Original species record Quercus vaseyana linked to an original image and matching current inat photo of source taxon Quercus vaseyana. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "0871f249da5e041b9a9485a99cabee06e83afb28810272ad1a1ba356ddf6a954"
+      "sha256": "0871f249da5e041b9a9485a99cabee06e83afb28810272ad1a1ba356ddf6a954",
+      "display_sha256": "f207ae6684a4848f828a9587c7e647b797f17d588f437b5d7e2a937eec08fc0d",
+      "display_blob_sha": "e2ac7672e1aa4e0ce82f3bdd6e3436aacd64100b",
+      "display_original_site_sha256": "0871f249da5e041b9a9485a99cabee06e83afb28810272ad1a1ba356ddf6a954",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-vaseyana/archived-6c46118dca67e54d.jpg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b4a21220ba3f9ee6c450910f5e2d027ba5268af7",
       "role": "same-observation oak field view 4",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 8813270 photo 11837729 individual CC code cc-by-nc; photographer (c) Benjamin Schwartz, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA b4a21220ba3f9ee6c450910f5e2d027ba5268af7; exact image source https://www.inaturalist.org/photos/11837729",
       "taxon_review_evidence": "Original species record Quercus vaseyana linked to an original image and matching current inat photo of source taxon Quercus vaseyana. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "6c46118dca67e54d9259defaa160781039926c16b5bf29432bdd55a2ba7c747a"
+      "sha256": "6c46118dca67e54d9259defaa160781039926c16b5bf29432bdd55a2ba7c747a",
+      "display_sha256": "6133f938d12378357382e12653bd7b92cf65f09654b5e6b546f90d1e11d91407",
+      "display_blob_sha": "406094f7656ee278af38125839be6e648c93406e",
+      "display_original_site_sha256": "6c46118dca67e54d9259defaa160781039926c16b5bf29432bdd55a2ba7c747a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-vaseyana/archived-e9d30efeac45b771.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fc7520f51d5db22e61dc05997c6baca2cf126b7d",
       "role": "same-observation oak field view 2",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 8813270 photo 11837726 individual CC code cc-by-nc; photographer (c) Benjamin Schwartz, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA fc7520f51d5db22e61dc05997c6baca2cf126b7d; exact image source https://www.inaturalist.org/photos/11837726",
       "taxon_review_evidence": "Original species record Quercus vaseyana linked to an original image and matching current inat photo of source taxon Quercus vaseyana. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "e9d30efeac45b771093e474e84d1135769505f99b82f30e0630cbb5e830e2ed4"
+      "sha256": "e9d30efeac45b771093e474e84d1135769505f99b82f30e0630cbb5e830e2ed4",
+      "display_sha256": "63dfe47adc8c7ede84a6564f1853ef66cc24772e4a8d25e8669f1bab73023910",
+      "display_blob_sha": "2e5022501728194d128a161e43a7c21cd5fdfe18",
+      "display_original_site_sha256": "e9d30efeac45b771093e474e84d1135769505f99b82f30e0630cbb5e830e2ed4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-vaseyana/archived-f93c15c99b2bf0c7.jpg",
@@ -149,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "43d077842fffaa712d30ec24f7a4811d6b53cf76",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 7952606, photo 10505216, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 19c2230217ab1c8047fcf8e0678811ecb3f378bd7e55433cd6a298107f8688ef. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus vaseyana maps to indexed species quercus-vaseyana; specialist morphology and BONAP range deferred.",
-      "sha256": "19c2230217ab1c8047fcf8e0678811ecb3f378bd7e55433cd6a298107f8688ef"
+      "sha256": "19c2230217ab1c8047fcf8e0678811ecb3f378bd7e55433cd6a298107f8688ef",
+      "display_sha256": "0fdee318010fc2d66c3b2bba2c68a35a04f1f9ab0774308bf8d598e9c9de5f52",
+      "display_blob_sha": "29a2720e92b288232eeb1e024501fb1b407d9cfb",
+      "display_original_site_sha256": "19c2230217ab1c8047fcf8e0678811ecb3f378bd7e55433cd6a298107f8688ef",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-vaseyana/inat-124346839.jpg",
@@ -187,7 +207,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1bf5d18b949e5e45c00f3759f49c0168f245bb5b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -195,7 +215,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 12397877, photo 17868834, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cb9acf5d17527469d4d9ca4b874a0ae69c4c7c042cc85f0dbc8c7c2f0f03e990. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus vaseyana maps to indexed species quercus-vaseyana; specialist morphology and BONAP range deferred.",
-      "sha256": "cb9acf5d17527469d4d9ca4b874a0ae69c4c7c042cc85f0dbc8c7c2f0f03e990"
+      "sha256": "cb9acf5d17527469d4d9ca4b874a0ae69c4c7c042cc85f0dbc8c7c2f0f03e990",
+      "display_sha256": "9d6c16adb94891429579b9a2e2cd8e6ececed02adba525eb76b9e415752441b6",
+      "display_blob_sha": "28085acffa1b238f7fa4adea0eab0e788ac5ae9d",
+      "display_original_site_sha256": "cb9acf5d17527469d4d9ca4b874a0ae69c4c7c042cc85f0dbc8c7c2f0f03e990",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-vaseyana/inat-71906126.jpeg",
@@ -225,7 +250,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ecc4566699b34db58e8e8e9ce51a21b74a4ddf94",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -233,7 +258,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 403014856, photo 739906709, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3d22f554218b02c361960ca0595796a8e5d9e2a6cba7616eb976f22566ed4e26. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus vaseyana maps to indexed species quercus-vaseyana; specialist morphology and BONAP range deferred.",
-      "sha256": "3d22f554218b02c361960ca0595796a8e5d9e2a6cba7616eb976f22566ed4e26"
+      "sha256": "3d22f554218b02c361960ca0595796a8e5d9e2a6cba7616eb976f22566ed4e26",
+      "display_sha256": "6b4291d656b6530990f7ede23e36bdbaf57d58c2edbb10978f043f429e4d9fa4",
+      "display_blob_sha": "f32ea8f702d823934a9b68f7a12d4c04ed262098",
+      "display_original_site_sha256": "3d22f554218b02c361960ca0595796a8e5d9e2a6cba7616eb976f22566ed4e26",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-vaseyana/archived-f3a9b8a8e9e14d6d.jpg",

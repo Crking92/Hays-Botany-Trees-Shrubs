@@ -149,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b6e5ba52738f153f9de6f6907a11b96719ccec93",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 154159977, photo 266342809, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d75f3245c5dcff187f0d9950b89cc91c3751c059f9930729ad5f2cf0e5d3c1c1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus sinuata breviloba maps to indexed species quercus-sinuata-var-breviloba; specialist morphology and BONAP range deferred.",
-      "sha256": "d75f3245c5dcff187f0d9950b89cc91c3751c059f9930729ad5f2cf0e5d3c1c1"
+      "sha256": "d75f3245c5dcff187f0d9950b89cc91c3751c059f9930729ad5f2cf0e5d3c1c1",
+      "display_sha256": "d4f4f5928d657bc1c07bed281acb461e7dcc2468ff0903e8b151da37ceaa4193",
+      "display_blob_sha": "a072f43f419528274a60a2f5022daf945b2818a7",
+      "display_original_site_sha256": "d75f3245c5dcff187f0d9950b89cc91c3751c059f9930729ad5f2cf0e5d3c1c1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-sinuata-var-breviloba/inat-299705555.jpg",
@@ -168,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bf3d56c936ddd7aa31d6fa5328ba9a41c6e45229",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 172630106, photo 299705555, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e6577f558ac9f8a687932c3dc2d76ec5a8e8b0d4fd407bf7c7833be4e3a3b1c6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus sinuata breviloba maps to indexed species quercus-sinuata-var-breviloba; specialist morphology and BONAP range deferred.",
-      "sha256": "e6577f558ac9f8a687932c3dc2d76ec5a8e8b0d4fd407bf7c7833be4e3a3b1c6"
+      "sha256": "e6577f558ac9f8a687932c3dc2d76ec5a8e8b0d4fd407bf7c7833be4e3a3b1c6",
+      "display_sha256": "b45cfe950a73a2dbd5b26805f0700c2e305b9a773b1d12684d3a75d48c8bde87",
+      "display_blob_sha": "deb06f6d8e96bcc564bdaf4a4c699037ff3e8afc",
+      "display_original_site_sha256": "e6577f558ac9f8a687932c3dc2d76ec5a8e8b0d4fd407bf7c7833be4e3a3b1c6",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-sinuata-var-breviloba/inat-360965993.jpeg",
@@ -187,7 +197,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f8fca5656916fcaa9fffa79991042ee25bc2ebfb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -195,7 +205,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 204233610, photo 360965993, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 478ea7a665df543ae8c1725c01831f436cb6705384a979c1b958fc48b99f06b2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus sinuata breviloba maps to indexed species quercus-sinuata-var-breviloba; specialist morphology and BONAP range deferred.",
-      "sha256": "478ea7a665df543ae8c1725c01831f436cb6705384a979c1b958fc48b99f06b2"
+      "sha256": "478ea7a665df543ae8c1725c01831f436cb6705384a979c1b958fc48b99f06b2",
+      "display_sha256": "832340c77236698453b7e0378f10b53fd7bbc6fab9e15612f9aac40498758403",
+      "display_blob_sha": "f00d88b45d0f83ecdbeb6bc56e5a5f346322d323",
+      "display_original_site_sha256": "478ea7a665df543ae8c1725c01831f436cb6705384a979c1b958fc48b99f06b2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-sinuata-var-breviloba/inat-368138039.jpeg",
@@ -206,7 +221,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3e6e15a89e2cf16ef834b1cfdbfd28291ecb5717",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -214,7 +229,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 208090186, photo 368138039, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dbb7a1bedbea8f92b5843cea8fe17caade2bee239deb0ba33eb8ad3fd1623d7f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus sinuata breviloba maps to indexed species quercus-sinuata-var-breviloba; specialist morphology and BONAP range deferred.",
-      "sha256": "dbb7a1bedbea8f92b5843cea8fe17caade2bee239deb0ba33eb8ad3fd1623d7f"
+      "sha256": "dbb7a1bedbea8f92b5843cea8fe17caade2bee239deb0ba33eb8ad3fd1623d7f",
+      "display_sha256": "58bf84f587580a35f05a84246e77bbec7e5233bb1ede750b229282157b7e0a41",
+      "display_blob_sha": "4bda7c474b0fbdc9be3a6ab7d2240d1fae082462",
+      "display_original_site_sha256": "dbb7a1bedbea8f92b5843cea8fe17caade2bee239deb0ba33eb8ad3fd1623d7f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-sinuata-var-breviloba/inat-505052374.jpg",
@@ -225,7 +245,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d70684b6645235d1f222d0537405b316b3a49cea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -233,7 +253,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 281165382, photo 505052374, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 10f35d335492d76f703cc0e3884e94a7da3cab5b0cb862ca1546402b63560812. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus sinuata breviloba maps to indexed species quercus-sinuata-var-breviloba; specialist morphology and BONAP range deferred.",
-      "sha256": "10f35d335492d76f703cc0e3884e94a7da3cab5b0cb862ca1546402b63560812"
+      "sha256": "10f35d335492d76f703cc0e3884e94a7da3cab5b0cb862ca1546402b63560812",
+      "display_sha256": "cf910dfa0e7ac00e0a47ff264b0fcaf3d60c3b8beaac17ed688e85ddf2e881c7",
+      "display_blob_sha": "007242fe021d9c3aea41406c300e3262f48e0702",
+      "display_original_site_sha256": "10f35d335492d76f703cc0e3884e94a7da3cab5b0cb862ca1546402b63560812",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-sinuata-var-breviloba/archived-ccd7226174480190.jpg",
@@ -244,7 +269,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "42f499e5c150f526e4c5abf19b92efe531d5b22a",
       "role": "curated taxon reference 2",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -252,7 +277,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "Specific historical source image-sources.csv CC code cc-by-nc and named photographer Chuck Sexton; exact photo 6485289; source image public open-data URL https://inaturalist-open-data.s3.amazonaws.com/photos/6485289/large.jpg; archived vs source pixel dHash distance 0; original species-card name Quercus sinuata; historical CC permission is irrevocable but source license was not freshly revalidated; archived source SHA 42f499e5c150f526e4c5abf19b92efe531d5b22a; exact image source https://www.inaturalist.org/photos/6485289",
       "taxon_review_evidence": "Original species record Quercus sinuata var. breviloba linked to an original image and matching current inat-archived-exact-photo photo of source taxon Quercus sinuata. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "ccd7226174480190d28c15be1261a41a8d324cd65e7c49909044e92149a424eb"
+      "sha256": "ccd7226174480190d28c15be1261a41a8d324cd65e7c49909044e92149a424eb",
+      "display_sha256": "43f9a413fa46131c9c76a7ab75ba77cd4bdb8dd8e4430b5f5fafa6c7917293b4",
+      "display_blob_sha": "d2499a035848eb9a97f202f833a357702e1deb0c",
+      "display_original_site_sha256": "ccd7226174480190d28c15be1261a41a8d324cd65e7c49909044e92149a424eb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-sinuata-var-breviloba/archived-f6a7ac4f7e9338b5.jpg",

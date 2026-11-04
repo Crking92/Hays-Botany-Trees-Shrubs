@@ -114,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e778dd7edf878694750cd43171354fd3da26c9ff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +122,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341286790, photo 621257289, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 978945d8f20e16817f1fceade0c5fbd30d0c94130b883af7c3e6068d126f2783. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera sempervirens maps to indexed species lonicera-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "978945d8f20e16817f1fceade0c5fbd30d0c94130b883af7c3e6068d126f2783"
+      "sha256": "978945d8f20e16817f1fceade0c5fbd30d0c94130b883af7c3e6068d126f2783",
+      "display_sha256": "f2dccc63cc67a27c222e036a50dc160409ae65a9eb2d87581350076e0ac3756f",
+      "display_blob_sha": "150c7687638dd68eb36513633129456405723f1b",
+      "display_original_site_sha256": "978945d8f20e16817f1fceade0c5fbd30d0c94130b883af7c3e6068d126f2783",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-sempervirens/inat-627714601.jpg",
@@ -133,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "896758ce55ee8e65f1532ffa973c786822be8138",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +146,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344505399, photo 627714601, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8173b2a4a079dbe4817db286800a6ec6d28e335df00674da8a42b14fd91b803e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera sempervirens maps to indexed species lonicera-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "8173b2a4a079dbe4817db286800a6ec6d28e335df00674da8a42b14fd91b803e"
+      "sha256": "8173b2a4a079dbe4817db286800a6ec6d28e335df00674da8a42b14fd91b803e",
+      "display_sha256": "0ef5252b2494e7cae4fca471b3b5993ad2fadd9d94d55d685b9652037b1a16a7",
+      "display_blob_sha": "f5cd3dd31fa6bc1403f2f616ce4ecf5683a23231",
+      "display_original_site_sha256": "8173b2a4a079dbe4817db286800a6ec6d28e335df00674da8a42b14fd91b803e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-sempervirens/inat-630702436.jpg",
@@ -152,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2eefb23c6a6a835fd718e68d2c60e769341313c1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +170,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346033769, photo 630702436, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 68ae7ea381f7ce87525765b14bed225cb8e89fde44945eb3ada51c519b89e25d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera sempervirens maps to indexed species lonicera-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "68ae7ea381f7ce87525765b14bed225cb8e89fde44945eb3ada51c519b89e25d"
+      "sha256": "68ae7ea381f7ce87525765b14bed225cb8e89fde44945eb3ada51c519b89e25d",
+      "display_sha256": "829798f34b734c36e6fc84548fc6c95504b5b511a8610c7273eb340be8a98ce7",
+      "display_blob_sha": "649738525cbbc4927278150b206e4aafdaab64c8",
+      "display_original_site_sha256": "68ae7ea381f7ce87525765b14bed225cb8e89fde44945eb3ada51c519b89e25d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lonicera-sempervirens/inat-631501875.jpg",
@@ -171,7 +186,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b1f9272fde270bc5508b08c452b54b2972ae7019",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -179,7 +194,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346470358, photo 631501875, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b911186a26610c636b94d8bc68a2245779a6fb7c1ca2b0656f6716ccb8a84a75. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Lonicera sempervirens maps to indexed species lonicera-sempervirens; specialist morphology and BONAP range deferred.",
-      "sha256": "b911186a26610c636b94d8bc68a2245779a6fb7c1ca2b0656f6716ccb8a84a75"
+      "sha256": "b911186a26610c636b94d8bc68a2245779a6fb7c1ca2b0656f6716ccb8a84a75",
+      "display_sha256": "83bf90c5a6b2038d9622a457e8aef7566975f8f20f1ad721a8f149e5e939600d",
+      "display_blob_sha": "1e645da4eeb7872dbb8db3232756a194f198ddc9",
+      "display_original_site_sha256": "b911186a26610c636b94d8bc68a2245779a6fb7c1ca2b0656f6716ccb8a84a75",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

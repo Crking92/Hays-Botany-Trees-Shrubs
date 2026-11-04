@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7af9b87dfb859c602073dea5f993b187677dabb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 354493584, photo 646672558, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75513dede1cb9d991e0fae14e97ed131fa4cce3f4a4de2d3253f2afdb9ee6183. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Carya aquatica maps to indexed species carya-aquatica; specialist morphology and BONAP range deferred.",
-      "sha256": "75513dede1cb9d991e0fae14e97ed131fa4cce3f4a4de2d3253f2afdb9ee6183"
+      "sha256": "75513dede1cb9d991e0fae14e97ed131fa4cce3f4a4de2d3253f2afdb9ee6183",
+      "display_sha256": "2ebd903a40810fff3191186ce0cfbb9079c81fde8c767e18fc54363957b479b2",
+      "display_blob_sha": "7503988b34ae3caedcc7aa22bbf49660945f8e45",
+      "display_original_site_sha256": "75513dede1cb9d991e0fae14e97ed131fa4cce3f4a4de2d3253f2afdb9ee6183",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

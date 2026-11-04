@@ -104,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1d66da5f9d84b0408950f9d60b0d46fc8728a620",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 192459556, photo 337861506, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8bd3c523c098d39073dc8f8795968831acb31348e009c886657c8c3f9bc05770. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus shumardii maps to indexed species quercus-shumardii; specialist morphology and BONAP range deferred.",
-      "sha256": "8bd3c523c098d39073dc8f8795968831acb31348e009c886657c8c3f9bc05770"
+      "sha256": "8bd3c523c098d39073dc8f8795968831acb31348e009c886657c8c3f9bc05770",
+      "display_sha256": "056f1e0d54e6a4567ed6286927983ef4ac67dc37618da47ae5f3be0abde0c594",
+      "display_blob_sha": "81be9bb15900351765509b1f4df3f165958fc707",
+      "display_original_site_sha256": "8bd3c523c098d39073dc8f8795968831acb31348e009c886657c8c3f9bc05770",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-shumardii/inat-568015835.jpg",
@@ -123,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "16070efe5d10f995d228347595643e31ef867f61",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 314488657, photo 568015835, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5629dd69c767181fe87d8f09077a1588914651c2a76d2f951e8b890e0b3759b3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus shumardii maps to indexed species quercus-shumardii; specialist morphology and BONAP range deferred.",
-      "sha256": "5629dd69c767181fe87d8f09077a1588914651c2a76d2f951e8b890e0b3759b3"
+      "sha256": "5629dd69c767181fe87d8f09077a1588914651c2a76d2f951e8b890e0b3759b3",
+      "display_sha256": "4afcbe38a26d23a90b995a09d9e20bc236e130b36197c999f83f697f3b3cb535",
+      "display_blob_sha": "20d2d15aeb4d0764fba30b240247041ff9ea03a4",
+      "display_original_site_sha256": "5629dd69c767181fe87d8f09077a1588914651c2a76d2f951e8b890e0b3759b3",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-shumardii/inat-582266568.jpg",
@@ -142,7 +152,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "a07b180d476cd5c21bf35223b8271dc8f30c2353",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 321916444, photo 582266568, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: af72debb46355ec6a59888c5143fedf763afe469edf30c703d963904632723c7. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus shumardii maps to indexed species quercus-shumardii; specialist morphology and BONAP range deferred.",
-      "sha256": "af72debb46355ec6a59888c5143fedf763afe469edf30c703d963904632723c7"
+      "sha256": "af72debb46355ec6a59888c5143fedf763afe469edf30c703d963904632723c7",
+      "display_sha256": "351c0e9ef3a3b9a1926e10ea7341feee913e34378fc6a469687a8041640c4e98",
+      "display_blob_sha": "de96043badcbc9ec21fe959c3f7a115779d13e9d",
+      "display_original_site_sha256": "af72debb46355ec6a59888c5143fedf763afe469edf30c703d963904632723c7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

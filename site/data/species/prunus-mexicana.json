@@ -82,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "bbcd592f0e7c05e9ab56810f2a5a888968a824a4",
       "role": "Additional distinct image candidate; target structures not yet visually verified",
-      "modified": "Resized JPEG and EXIF removed",
+      "modified": "Resized and recompressed web display copy; source note: Resized JPEG and EXIF removed",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -90,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "GBIF occurrence 6133236003 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/611976878/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Frankie Simmons; dHash distance 1; archived source SHA bbcd592f0e7c05e9ab56810f2a5a888968a824a4; exact image source https://www.inaturalist.org/photos/611976878",
       "taxon_review_evidence": "Original species record Prunus mexicana linked to an original image and matching current gbif photo of source taxon Prunus mexicana. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "c144b5568d4496e1c2129be45a7bf5fadd8aebd2863fb87e645e646d6d882cea"
+      "sha256": "c144b5568d4496e1c2129be45a7bf5fadd8aebd2863fb87e645e646d6d882cea",
+      "display_sha256": "c92379b7a74e9b192c229bc66e979212647378ecc6cdc9134b593461a7ca0c7a",
+      "display_blob_sha": "d0e30f6e31545cb1dc122ab909d361951caab2ab",
+      "display_original_site_sha256": "c144b5568d4496e1c2129be45a7bf5fadd8aebd2863fb87e645e646d6d882cea",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

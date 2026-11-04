@@ -119,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b181fa04cf65c2a7d18f4794fd7ea773511c9e2f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -127,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341296578, photo 621276625, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e7be0a8692564985ae157551e2b21498ba87ea2389a856b25919466d455c42e8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus microphylla maps to indexed species rhus-microphylla (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e7be0a8692564985ae157551e2b21498ba87ea2389a856b25919466d455c42e8"
+      "sha256": "e7be0a8692564985ae157551e2b21498ba87ea2389a856b25919466d455c42e8",
+      "display_sha256": "119aaa104056f92f2e672b6a6ebc660f463b7184b99ef55ea2e7b5a693cf432c",
+      "display_blob_sha": "3d03c78d55a20ddbe461e587cf8d9a5d5c0fdde8",
+      "display_original_site_sha256": "e7be0a8692564985ae157551e2b21498ba87ea2389a856b25919466d455c42e8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-microphylla/inat-627282687.jpg",
@@ -138,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8ea6855faafd9e3bb53a12af745bd75dbcfe0592",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -146,7 +151,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 344284763, photo 627282687, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2172fd065db6cc813151f1ca3934c44b6b6563dbc5ad8ffa1f8fefbdca11d3c1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus microphylla maps to indexed species rhus-microphylla (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "2172fd065db6cc813151f1ca3934c44b6b6563dbc5ad8ffa1f8fefbdca11d3c1"
+      "sha256": "2172fd065db6cc813151f1ca3934c44b6b6563dbc5ad8ffa1f8fefbdca11d3c1",
+      "display_sha256": "465a0b58f9d4d44427fb867a378ed85363fbf6339932463d77c21d2abe4a2783",
+      "display_blob_sha": "2975d6159eefc17a013dbf346de2c2fba550c1f5",
+      "display_original_site_sha256": "2172fd065db6cc813151f1ca3934c44b6b6563dbc5ad8ffa1f8fefbdca11d3c1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-microphylla/inat-630543981.jpg",
@@ -157,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c34ade5b153cf7f68b318e3437567eae4e44c4cc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -165,7 +175,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 345951833, photo 630543981, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1cafebe033b9568843dcce163c9ad0bcc27067a06920548b4b0568af0ed54990. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Rhus microphylla maps to indexed species rhus-microphylla (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "1cafebe033b9568843dcce163c9ad0bcc27067a06920548b4b0568af0ed54990"
+      "sha256": "1cafebe033b9568843dcce163c9ad0bcc27067a06920548b4b0568af0ed54990",
+      "display_sha256": "022feebfcaedd50a1973cfe1386b4b43cbe9547d4155d2e504c757d61b0b3ba2",
+      "display_blob_sha": "3babb0980415ce6c86466274c439aae330685fbf",
+      "display_original_site_sha256": "1cafebe033b9568843dcce163c9ad0bcc27067a06920548b4b0568af0ed54990",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhus-microphylla/inat-656782461.jpg",

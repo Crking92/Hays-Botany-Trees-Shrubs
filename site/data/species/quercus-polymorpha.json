@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "37a71cc4670eaa41df112cc2aac3e32964dd54bf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 151861997, photo 262091377, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: c4bc3c71ebf1e46967decd2ffaaa54c294ddd9e6ac4fce5ddd8d65474a3d9de4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus polymorpha maps to indexed species quercus-polymorpha; specialist morphology and BONAP range deferred.",
-      "sha256": "c4bc3c71ebf1e46967decd2ffaaa54c294ddd9e6ac4fce5ddd8d65474a3d9de4"
+      "sha256": "c4bc3c71ebf1e46967decd2ffaaa54c294ddd9e6ac4fce5ddd8d65474a3d9de4",
+      "display_sha256": "c6155e2f1acfcf44f1e9484d7154ba44a9e297f4e1be67aaf961b2efbaa42250",
+      "display_blob_sha": "d713c03433023aac7e2e227e0dab4ee0ce9a5b44",
+      "display_original_site_sha256": "c4bc3c71ebf1e46967decd2ffaaa54c294ddd9e6ac4fce5ddd8d65474a3d9de4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-polymorpha/inat-262092082.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a8325625f4bd6c2b63bde09a145961c7029803b6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 151862346, photo 262092082, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 36e8ebfad9ed6516355635c870c724d60752a9a329c12130d84faf0b1d0ff10c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus polymorpha maps to indexed species quercus-polymorpha; specialist morphology and BONAP range deferred.",
-      "sha256": "36e8ebfad9ed6516355635c870c724d60752a9a329c12130d84faf0b1d0ff10c"
+      "sha256": "36e8ebfad9ed6516355635c870c724d60752a9a329c12130d84faf0b1d0ff10c",
+      "display_sha256": "3cca13e278d852a8bc3b86801eedaf0cc20569c98f1fcdceb71358a49be1453f",
+      "display_blob_sha": "debdb0dbb16867a0ef71b887e5bb114e40d79f3d",
+      "display_original_site_sha256": "36e8ebfad9ed6516355635c870c724d60752a9a329c12130d84faf0b1d0ff10c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-polymorpha/inat-262157535.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5eecde2259a767359901bcb51f6b26fe90e36eb8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 151896334, photo 262157535, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e25bcd6a09c52a10966171c3320c1989fea789740b839bdd1fd485263eef3dd9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus polymorpha maps to indexed species quercus-polymorpha; specialist morphology and BONAP range deferred.",
-      "sha256": "e25bcd6a09c52a10966171c3320c1989fea789740b839bdd1fd485263eef3dd9"
+      "sha256": "e25bcd6a09c52a10966171c3320c1989fea789740b839bdd1fd485263eef3dd9",
+      "display_sha256": "07dafe7008502834a2809208074efbd7ba9be2927daaff437c1e85f8f7fd5754",
+      "display_blob_sha": "01ba3b31d982a4272a7c7027830a910331322731",
+      "display_original_site_sha256": "e25bcd6a09c52a10966171c3320c1989fea789740b839bdd1fd485263eef3dd9",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-polymorpha/inat-364538468.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0e0609a150e7894fb58e874b0c83be057151e0a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 206125372, photo 364538468, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 587f0a5f365b142576e96702d9a0173f65fefea6a52afcf5cca694ff250ac086. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus polymorpha maps to indexed species quercus-polymorpha; specialist morphology and BONAP range deferred.",
-      "sha256": "587f0a5f365b142576e96702d9a0173f65fefea6a52afcf5cca694ff250ac086"
+      "sha256": "587f0a5f365b142576e96702d9a0173f65fefea6a52afcf5cca694ff250ac086",
+      "display_sha256": "6d7c0919641b20e0834b86a481a2a878eb753abad08519cfd60ac7557fb76cfb",
+      "display_blob_sha": "c671765cb6b6a5b2c79b50fad70806351a0ccb28",
+      "display_original_site_sha256": "587f0a5f365b142576e96702d9a0173f65fefea6a52afcf5cca694ff250ac086",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-polymorpha/inat-446523424.jpeg",
@@ -159,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "10429c3d03080f3d97ae9058049bb8edec4b570c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -167,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 249753177, photo 446523424, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2bfd5a7ffdd77b6fb8a29834507e202ee02aee3976ac049e3e511090a2d6cea9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus polymorpha maps to indexed species quercus-polymorpha; specialist morphology and BONAP range deferred.",
-      "sha256": "2bfd5a7ffdd77b6fb8a29834507e202ee02aee3976ac049e3e511090a2d6cea9"
+      "sha256": "2bfd5a7ffdd77b6fb8a29834507e202ee02aee3976ac049e3e511090a2d6cea9",
+      "display_sha256": "faceea490e2a3047fb29479396bfb3c4a0140192b949cf091089d19bdd03bf4d",
+      "display_blob_sha": "68557517057ece9e570abc08cbe7f2f71854c2d7",
+      "display_original_site_sha256": "2bfd5a7ffdd77b6fb8a29834507e202ee02aee3976ac049e3e511090a2d6cea9",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

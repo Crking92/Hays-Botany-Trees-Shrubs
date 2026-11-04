@@ -75,7 +75,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9dcece73425897c9534f7b9064af9f47cb17bedc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -83,7 +83,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 11523720, photo 16450874, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: bb0a66ef5e547642019f703b579deda1dae2718cb2d4735d8d6d57520310d56b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus nigra maps to indexed species quercus-nigra; specialist morphology and BONAP range deferred.",
-      "sha256": "bb0a66ef5e547642019f703b579deda1dae2718cb2d4735d8d6d57520310d56b"
+      "sha256": "bb0a66ef5e547642019f703b579deda1dae2718cb2d4735d8d6d57520310d56b",
+      "display_sha256": "0a281c0aaede1277333bd453e0b0283f9a12039e9712be206018758c417dfc30",
+      "display_blob_sha": "d87867378c896e47e121ccc7ab3f72b097c8ec7c",
+      "display_original_site_sha256": "bb0a66ef5e547642019f703b579deda1dae2718cb2d4735d8d6d57520310d56b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-nigra/inat-224412982.jpeg",
@@ -94,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9872c8e4d6331d80f01b7ee9cf5ac4f6ebf6f166",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -102,7 +107,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 131834748, photo 224412982, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0c4082a49f67a905c49c3db8a0869d3902f21ea0ff278a6b7a1054d5badd51a7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus nigra maps to indexed species quercus-nigra; specialist morphology and BONAP range deferred.",
-      "sha256": "0c4082a49f67a905c49c3db8a0869d3902f21ea0ff278a6b7a1054d5badd51a7"
+      "sha256": "0c4082a49f67a905c49c3db8a0869d3902f21ea0ff278a6b7a1054d5badd51a7",
+      "display_sha256": "6dfb1f7960caf0437b4c75aab25231e15594333a287030b559456cd0bf240bb8",
+      "display_blob_sha": "5530be1463cae6eba9e82a44eed082e58dd11737",
+      "display_original_site_sha256": "0c4082a49f67a905c49c3db8a0869d3902f21ea0ff278a6b7a1054d5badd51a7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-nigra/inat-626121982.jpg",
@@ -113,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ec021e6c7ac858c26226439eae1c88a26fd632b6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -121,7 +131,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343692700, photo 626121982, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: af531821bbe0aba0f5d3ff1e6a0850fa7e75304616e53ce7b5add821c66e051e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus nigra maps to indexed species quercus-nigra; specialist morphology and BONAP range deferred.",
-      "sha256": "af531821bbe0aba0f5d3ff1e6a0850fa7e75304616e53ce7b5add821c66e051e"
+      "sha256": "af531821bbe0aba0f5d3ff1e6a0850fa7e75304616e53ce7b5add821c66e051e",
+      "display_sha256": "b5370cd1468d100e79d06f2f556822f9604ae84a5c132cda148a0647bdef6edc",
+      "display_blob_sha": "2fc2afdb9879ccc2473b903de3f45a69848f7cb4",
+      "display_original_site_sha256": "af531821bbe0aba0f5d3ff1e6a0850fa7e75304616e53ce7b5add821c66e051e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-nigra/inat-6988171.jpg",
@@ -132,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7de27f5cb93837cb029528b62d321ece8916f3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -140,7 +155,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 5646380, photo 6988171, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 20668fa3d093c31028a6bf4e241473b0a744fc967234f7f7b45496c067c11384. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus nigra maps to indexed species quercus-nigra; specialist morphology and BONAP range deferred.",
-      "sha256": "20668fa3d093c31028a6bf4e241473b0a744fc967234f7f7b45496c067c11384"
+      "sha256": "20668fa3d093c31028a6bf4e241473b0a744fc967234f7f7b45496c067c11384",
+      "display_sha256": "454cb16c083c703a936743d9b13de20d504328c026aa8e91215930fd4b5de809",
+      "display_blob_sha": "3553967875d68a04ab5bcb81ab0890cea3551245",
+      "display_original_site_sha256": "20668fa3d093c31028a6bf4e241473b0a744fc967234f7f7b45496c067c11384",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-nigra/inat-7146449.jpg",
@@ -151,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "57f22e6acefa74b3e7db1da855d25b25e2f558da",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -159,7 +179,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 5758009, photo 7146449, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 79ebbed41e97d4872880e3ba30754745265ea3c3bfc36a0f54bde487bb4a9da7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus nigra maps to indexed species quercus-nigra; specialist morphology and BONAP range deferred.",
-      "sha256": "79ebbed41e97d4872880e3ba30754745265ea3c3bfc36a0f54bde487bb4a9da7"
+      "sha256": "79ebbed41e97d4872880e3ba30754745265ea3c3bfc36a0f54bde487bb4a9da7",
+      "display_sha256": "c9066434b0c216ba9e81e25b22e076ab51731038132e3b3b02c7d72e90d10da5",
+      "display_blob_sha": "23916176af1866235542fb512696dda65c6ad62a",
+      "display_original_site_sha256": "79ebbed41e97d4872880e3ba30754745265ea3c3bfc36a0f54bde487bb4a9da7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-nigra/archived-2b54494895c1a335.jpg",

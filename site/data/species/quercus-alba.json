@@ -75,7 +75,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "0b44d51181f399ae1f22765bf1cafaa91d429b58",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -83,7 +83,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343744610, photo 626229141, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: a67ad21297205f066013726036b24581d9ade4af91b84ef774283245c5e67b94. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus alba maps to indexed species quercus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "a67ad21297205f066013726036b24581d9ade4af91b84ef774283245c5e67b94"
+      "sha256": "a67ad21297205f066013726036b24581d9ade4af91b84ef774283245c5e67b94",
+      "display_sha256": "32b2762f26e33f5f0f1e378b5fbc9bc15620b6c9f869db892a8d2be493839fcc",
+      "display_blob_sha": "9b7ae0e9f3cf8d5c8b78f3de5764ac8a2b2588ca",
+      "display_original_site_sha256": "a67ad21297205f066013726036b24581d9ade4af91b84ef774283245c5e67b94",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-alba/inat-626674275.jpg",
@@ -94,7 +99,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "00e156f6d09b08cb39902554431f4e2bfad34b17",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -102,7 +107,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343970235, photo 626674275, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8743ce44cc836b7ce1ce7eb00304ae77f95ff3da362dc3314f111a9bbc6895b8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus alba maps to indexed species quercus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "8743ce44cc836b7ce1ce7eb00304ae77f95ff3da362dc3314f111a9bbc6895b8"
+      "sha256": "8743ce44cc836b7ce1ce7eb00304ae77f95ff3da362dc3314f111a9bbc6895b8",
+      "display_sha256": "1382c29b24c3f343b22e2b0f3dce0f45c4a06bc517b470072b51d807baab8cde",
+      "display_blob_sha": "a5b92cd8067cfa7afd03e2967d7577cba3c487f0",
+      "display_original_site_sha256": "8743ce44cc836b7ce1ce7eb00304ae77f95ff3da362dc3314f111a9bbc6895b8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-alba/inat-627746021.jpg",
@@ -113,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "b9f848dcf0cab81b1242e5591077e536c00aebdf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -121,7 +131,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344521635, photo 627746021, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 653299d48c7fdaeb383b3435022f63ad126e49253e5dac56df36ec204cc446a2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus alba maps to indexed species quercus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "653299d48c7fdaeb383b3435022f63ad126e49253e5dac56df36ec204cc446a2"
+      "sha256": "653299d48c7fdaeb383b3435022f63ad126e49253e5dac56df36ec204cc446a2",
+      "display_sha256": "fcc15fcd875db199266d9bd1d709bee757224369a0a41b6848c47cf56a3f73cd",
+      "display_blob_sha": "c83c7bdbf9fb6eea8375fe3ad83601cd7511da8f",
+      "display_original_site_sha256": "653299d48c7fdaeb383b3435022f63ad126e49253e5dac56df36ec204cc446a2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-alba/inat-628268758.jpg",
@@ -132,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6a966ec39ff3d9c393e6fa3f6749b9177edd9b3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -140,7 +155,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344793303, photo 628268758, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5b461d11a4b8503a8daef42c650de06f0f7a07706a485accf40f3e1eca61edd7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus alba maps to indexed species quercus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "5b461d11a4b8503a8daef42c650de06f0f7a07706a485accf40f3e1eca61edd7"
+      "sha256": "5b461d11a4b8503a8daef42c650de06f0f7a07706a485accf40f3e1eca61edd7",
+      "display_sha256": "9f67107e0ce3162eb6ac6b8243d2a8f49e0fa953e82c340b067b8cf25d8bdcb4",
+      "display_blob_sha": "b9ef078d328e5fa6387fc21a9d40517ea9221008",
+      "display_original_site_sha256": "5b461d11a4b8503a8daef42c650de06f0f7a07706a485accf40f3e1eca61edd7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-alba/inat-628515380.jpg",
@@ -151,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "f38e5f6ed3e5e38c6d90506b1c0ff28137ac7347",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -159,7 +179,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344922136, photo 628515380, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: a79b6f172a48c399347b5de5d9f8a6f52d0a6115a2f5796b5acdab87538a3dbd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus alba maps to indexed species quercus-alba; specialist morphology and BONAP range deferred.",
-      "sha256": "a79b6f172a48c399347b5de5d9f8a6f52d0a6115a2f5796b5acdab87538a3dbd"
+      "sha256": "a79b6f172a48c399347b5de5d9f8a6f52d0a6115a2f5796b5acdab87538a3dbd",
+      "display_sha256": "bcdb91ebd9c8e097c1d9e7a65ed3e4aea1baba2e014e7d4b9cb6b36561e71ce8",
+      "display_blob_sha": "fde9ef83b85db9a70e5733becc1a272e0cdc891e",
+      "display_original_site_sha256": "a79b6f172a48c399347b5de5d9f8a6f52d0a6115a2f5796b5acdab87538a3dbd",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

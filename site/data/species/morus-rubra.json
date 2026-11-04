@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dbf066d630d147db27f5a52e9f45f176c4eb5f6a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 151954133, photo 262262956, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6f6222a5d1f8e9d0a94e8cf93a2a04eaab281c6e271543e42d15fc61d015dafa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus rubra maps to indexed species morus-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "6f6222a5d1f8e9d0a94e8cf93a2a04eaab281c6e271543e42d15fc61d015dafa"
+      "sha256": "6f6222a5d1f8e9d0a94e8cf93a2a04eaab281c6e271543e42d15fc61d015dafa",
+      "display_sha256": "4f5bcae49f9a05d9d7202e314357ad7f1b88392581e5b6b4364dc879b144e060",
+      "display_blob_sha": "60955b33fa08709a7942a34add926abbedf525f6",
+      "display_original_site_sha256": "6f6222a5d1f8e9d0a94e8cf93a2a04eaab281c6e271543e42d15fc61d015dafa",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-rubra/inat-488383074.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4e00ce57b0aab5e55a0e511755e7202661217342",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 271506265, photo 488383074, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc9eb676c2d6acebe8e32e7e6ddc3acca0de406a4e1d75b80d871e6728a8eca4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus rubra maps to indexed species morus-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "fc9eb676c2d6acebe8e32e7e6ddc3acca0de406a4e1d75b80d871e6728a8eca4"
+      "sha256": "fc9eb676c2d6acebe8e32e7e6ddc3acca0de406a4e1d75b80d871e6728a8eca4",
+      "display_sha256": "099b110af1ac93e909d898f54fa196da322f2faa025459b5501139b7f503e6d1",
+      "display_blob_sha": "f0c374f508bf84e2b7afc2e02215b65ec2b6b184",
+      "display_original_site_sha256": "fc9eb676c2d6acebe8e32e7e6ddc3acca0de406a4e1d75b80d871e6728a8eca4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-rubra/inat-488777335.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae4792688f98b198ba48a6b6a508915968be14f5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 271713898, photo 488777335, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 02014ef0de0ad128976e08b6fe0ddcc2b341fdba41a4c6e509996ed602f2d226. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus rubra maps to indexed species morus-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "02014ef0de0ad128976e08b6fe0ddcc2b341fdba41a4c6e509996ed602f2d226"
+      "sha256": "02014ef0de0ad128976e08b6fe0ddcc2b341fdba41a4c6e509996ed602f2d226",
+      "display_sha256": "3ea23dfa61bbaeba56b15035fad38cb3912851dd2a11cc7f939037e43d264512",
+      "display_blob_sha": "2b1ef9ad56dd5606825375c5fbc22a6bde01d9ef",
+      "display_original_site_sha256": "02014ef0de0ad128976e08b6fe0ddcc2b341fdba41a4c6e509996ed602f2d226",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-rubra/inat-633516612.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0a37d3e4276a6d6471af3a4451a277f426062c10",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347450619, photo 633516612, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 021fdeed08d878ad70fda98bf772d76f27a83ddcc21431af5820365e59cb7135. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus rubra maps to indexed species morus-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "021fdeed08d878ad70fda98bf772d76f27a83ddcc21431af5820365e59cb7135"
+      "sha256": "021fdeed08d878ad70fda98bf772d76f27a83ddcc21431af5820365e59cb7135",
+      "display_sha256": "d8115f4be5f5c94d06d1eb4e0407e00058dd293144e5545cb1d758270e3a9b96",
+      "display_blob_sha": "5fcf96eced4275c05173911d4e406383a096e763",
+      "display_original_site_sha256": "021fdeed08d878ad70fda98bf772d76f27a83ddcc21431af5820365e59cb7135",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-rubra/inat-641169101.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bee1fe9e4f2510c9d89eb70264e6610713a3c71b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 351355694, photo 641169101, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad4657e3d2f9c1b074a24034d93eaea3932308cc4072ba6a65af5264379eb84d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Morus rubra maps to indexed species morus-rubra; specialist morphology and BONAP range deferred.",
-      "sha256": "ad4657e3d2f9c1b074a24034d93eaea3932308cc4072ba6a65af5264379eb84d"
+      "sha256": "ad4657e3d2f9c1b074a24034d93eaea3932308cc4072ba6a65af5264379eb84d",
+      "display_sha256": "e1504d032d16a2e1fb815f9e8e169a1e3f85ed950599761cd10aaf60f2e91f24",
+      "display_blob_sha": "913292bd33811b79210a7bbffe60cbbaef4828df",
+      "display_original_site_sha256": "ad4657e3d2f9c1b074a24034d93eaea3932308cc4072ba6a65af5264379eb84d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/morus-rubra/archived-e5b4a8b855f65bfe.png",

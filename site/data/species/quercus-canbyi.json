@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0f6c0aa6881378800f57e8af6445e0b946ae4a33",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 28910135, photo 45091751, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e5ce920f545d6512c43699498ac0e5de6d4e592b6bfb79dee3c4b533845da37e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus canbyi maps to indexed species quercus-canbyi; specialist morphology and BONAP range deferred.",
-      "sha256": "e5ce920f545d6512c43699498ac0e5de6d4e592b6bfb79dee3c4b533845da37e"
+      "sha256": "e5ce920f545d6512c43699498ac0e5de6d4e592b6bfb79dee3c4b533845da37e",
+      "display_sha256": "82b572699ce9f39b6492f372f0eefa47706f9b4721b6317049f98d7945dfce27",
+      "display_blob_sha": "3a427126f1f207ad4df290a9f837988808e40cba",
+      "display_original_site_sha256": "e5ce920f545d6512c43699498ac0e5de6d4e592b6bfb79dee3c4b533845da37e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-canbyi/inat-658407864.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "507f2e8eebf5904a20488da7e29c703f5e08d2f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 360802576, photo 658407864, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2f8f411462173a0a0daf6b58ee200e2609189f4f41d9dd89fb6fdc776e97eedb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus canbyi maps to indexed species quercus-canbyi; specialist morphology and BONAP range deferred.",
-      "sha256": "2f8f411462173a0a0daf6b58ee200e2609189f4f41d9dd89fb6fdc776e97eedb"
+      "sha256": "2f8f411462173a0a0daf6b58ee200e2609189f4f41d9dd89fb6fdc776e97eedb",
+      "display_sha256": "dadfbd23423285f727129f04951a8eaa95c610ecea50ab05e217ceb7df8bba7f",
+      "display_blob_sha": "d281d46d3e94790ba7ceadc0812c042375a39f0b",
+      "display_original_site_sha256": "2f8f411462173a0a0daf6b58ee200e2609189f4f41d9dd89fb6fdc776e97eedb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

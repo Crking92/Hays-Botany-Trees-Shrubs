@@ -90,7 +90,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bacd215a04313f312d67b19ec38cd5afc0771f21",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -98,7 +98,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 154633774, photo 267207627, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9f3fb9919bbb7b2221340f3929a8d5564647d30bd7d94e5c604b5b28f1676966. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis pallida maps to indexed species celtis-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "9f3fb9919bbb7b2221340f3929a8d5564647d30bd7d94e5c604b5b28f1676966"
+      "sha256": "9f3fb9919bbb7b2221340f3929a8d5564647d30bd7d94e5c604b5b28f1676966",
+      "display_sha256": "cab4727bb5a44abe68955f35dbd2495079328de775e0d624ce0ccec74b37edf9",
+      "display_blob_sha": "1369d5f26f1ba942e5a3b38e0f7f4f581b5d984a",
+      "display_original_site_sha256": "9f3fb9919bbb7b2221340f3929a8d5564647d30bd7d94e5c604b5b28f1676966",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-pallida/inat-276649919.jpg",
@@ -109,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e8a3c35bb131974ae4712e139efa66ce642192e2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -117,7 +122,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 160105252, photo 276649919, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 823eba5463ff1f32ab84cca1ecf84915abb1280824bb5c5f71186e0a926e475d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis pallida maps to indexed species celtis-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "823eba5463ff1f32ab84cca1ecf84915abb1280824bb5c5f71186e0a926e475d"
+      "sha256": "823eba5463ff1f32ab84cca1ecf84915abb1280824bb5c5f71186e0a926e475d",
+      "display_sha256": "d763e3f4a9ed28faa0bd5173736ca5c9a407f36eb05200a46a6cb4c91dc983bb",
+      "display_blob_sha": "73ab7d86dca57069e3550715786599e0ae5edc3a",
+      "display_original_site_sha256": "823eba5463ff1f32ab84cca1ecf84915abb1280824bb5c5f71186e0a926e475d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-pallida/inat-359662261.jpeg",
@@ -128,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "6d3856f59095cc140c9dd6cef51ae2203b10605c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -136,7 +146,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 203554350, photo 359662261, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 31886ef414b66122b348e201f2ae93c2073094052d65fe4f5e56ba0122063f6a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis pallida maps to indexed species celtis-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "31886ef414b66122b348e201f2ae93c2073094052d65fe4f5e56ba0122063f6a"
+      "sha256": "31886ef414b66122b348e201f2ae93c2073094052d65fe4f5e56ba0122063f6a",
+      "display_sha256": "65024e2a89e96f4c92070dff12ddaf94212a4bac60fbb131204d60a96d7972c6",
+      "display_blob_sha": "e7b69e4aa15652e4ab196f03a66afd46e7cc52c2",
+      "display_original_site_sha256": "31886ef414b66122b348e201f2ae93c2073094052d65fe4f5e56ba0122063f6a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/celtis-pallida/inat-485134686.jpg",
@@ -147,7 +162,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6dc2fb62c7b3236b86249bad24d5bad01d19085a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -155,7 +170,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Campanulaceae–Cleomaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 269794071, photo 485134686, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6a9efee934dd6a7c5dadaa283b5117bcc390ae950ab96f1130c0040c72a203e3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "28 species contact sheets inspected for obvious off-target organisms. Live source name Celtis pallida maps to indexed species celtis-pallida; specialist morphology and BONAP range deferred.",
-      "sha256": "6a9efee934dd6a7c5dadaa283b5117bcc390ae950ab96f1130c0040c72a203e3"
+      "sha256": "6a9efee934dd6a7c5dadaa283b5117bcc390ae950ab96f1130c0040c72a203e3",
+      "display_sha256": "8d704fd9aa7c33c0dc7a0dbd19b1afe971e910ee45355ad532f013eca9d345e6",
+      "display_blob_sha": "ba4e1563510dbeef7d8a425611c2128488107114",
+      "display_original_site_sha256": "6a9efee934dd6a7c5dadaa283b5117bcc390ae950ab96f1130c0040c72a203e3",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

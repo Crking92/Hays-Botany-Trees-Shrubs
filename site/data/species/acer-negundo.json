@@ -69,7 +69,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bd1ccdd8c3c44fa0fb53b6468bc37e9e48af5a64",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -77,7 +77,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 340962558, photo 620589428, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f392a0bbdbc4a9ea2ddc40af29a200f8739af2e2d7035194c02c782f44f503a0.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Acer negundo maps to indexed species acer-negundo; specialist morphology and BONAP range deferred.",
-      "sha256": "f392a0bbdbc4a9ea2ddc40af29a200f8739af2e2d7035194c02c782f44f503a0"
+      "sha256": "f392a0bbdbc4a9ea2ddc40af29a200f8739af2e2d7035194c02c782f44f503a0",
+      "display_sha256": "96c96baf780220c41850f5622452bfa68e4f80602f41f70f1a892000e7215925",
+      "display_blob_sha": "76f0eea8e52e6a0607bd5d62f5452635fc9f3a1c",
+      "display_original_site_sha256": "f392a0bbdbc4a9ea2ddc40af29a200f8739af2e2d7035194c02c782f44f503a0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acer-negundo/inat-621001660.jpg",
@@ -88,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b4dd6a31bf2dc4f5f709975dba8029b4fae9e556",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341162556, photo 621001660, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4f590cb8db8ee873b1a7a0f9e63992677e52a54031e00babdd9d4342cf49945e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Acer negundo maps to indexed species acer-negundo; specialist morphology and BONAP range deferred.",
-      "sha256": "4f590cb8db8ee873b1a7a0f9e63992677e52a54031e00babdd9d4342cf49945e"
+      "sha256": "4f590cb8db8ee873b1a7a0f9e63992677e52a54031e00babdd9d4342cf49945e",
+      "display_sha256": "bd2aa88d03326d0ba5fa8aea358643259f4fe5a8a421dfd2335c7c43d9b387ce",
+      "display_blob_sha": "d264095f3bef5160a6a46290962ebbdc388fde08",
+      "display_original_site_sha256": "4f590cb8db8ee873b1a7a0f9e63992677e52a54031e00babdd9d4342cf49945e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acer-negundo/inat-621554847.jpg",
@@ -107,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "88ca11ec3369d0128434f498daf737dbc041d57e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341429975, photo 621554847, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7587dac92be9571251dad14a56045095c9395dc510505e5ee55e7403f2896d5a.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Acer negundo maps to indexed species acer-negundo; specialist morphology and BONAP range deferred.",
-      "sha256": "7587dac92be9571251dad14a56045095c9395dc510505e5ee55e7403f2896d5a"
+      "sha256": "7587dac92be9571251dad14a56045095c9395dc510505e5ee55e7403f2896d5a",
+      "display_sha256": "76305306e9dba14ab281e1851adb7653747098e08080455a45e09402fc9905ae",
+      "display_blob_sha": "ca1c62c12dc38b026e043b0bd3ed259db2c0af8b",
+      "display_original_site_sha256": "7587dac92be9571251dad14a56045095c9395dc510505e5ee55e7403f2896d5a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acer-negundo/inat-621811988.jpg",
@@ -126,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e3d9e2164cff2408726cd95c33875f98f6720d80",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 341556873, photo 621811988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 064786ccbfebd327c0320143653ab40ab98a788119d42414f1129b1f055b8587.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Acer negundo maps to indexed species acer-negundo; specialist morphology and BONAP range deferred.",
-      "sha256": "064786ccbfebd327c0320143653ab40ab98a788119d42414f1129b1f055b8587"
+      "sha256": "064786ccbfebd327c0320143653ab40ab98a788119d42414f1129b1f055b8587",
+      "display_sha256": "7382d90f9847c367e33c17868a471f94b866dfdb559ad84375335bd7444c5cbf",
+      "display_blob_sha": "c71675a22ec971563600f8925fb80c310f182513",
+      "display_original_site_sha256": "064786ccbfebd327c0320143653ab40ab98a788119d42414f1129b1f055b8587",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acer-negundo/inat-625004192.jpg",
@@ -145,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "53152771c93886eb3f609cff685723a091f48ade",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +173,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343144023, photo 625004192, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f469fa404121606a34db2c3ef6e895eb74cdf4ca275e62a961b3669f862548eb.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Acer negundo maps to indexed species acer-negundo; specialist morphology and BONAP range deferred.",
-      "sha256": "f469fa404121606a34db2c3ef6e895eb74cdf4ca275e62a961b3669f862548eb"
+      "sha256": "f469fa404121606a34db2c3ef6e895eb74cdf4ca275e62a961b3669f862548eb",
+      "display_sha256": "96fc14385fce5371aca0facc32496808b90eb4b9cd6c8ab5282b243e39ba69ce",
+      "display_blob_sha": "620adc87a3ef5c10f4555a24b286801c35ff4657",
+      "display_original_site_sha256": "f469fa404121606a34db2c3ef6e895eb74cdf4ca275e62a961b3669f862548eb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acer-negundo/archived-04780620a214433e.jpg",

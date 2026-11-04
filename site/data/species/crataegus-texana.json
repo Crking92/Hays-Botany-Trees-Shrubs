@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "c0319fb9e017adff2d365ae08d6e9ebb72251ebf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 123391507, photo 209023888, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a10c3ea4abc4386374c2b2381555cd204d2c2aec9c1645ffaa590768944f8795.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Crataegus texana maps to indexed species crataegus-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "a10c3ea4abc4386374c2b2381555cd204d2c2aec9c1645ffaa590768944f8795"
+      "sha256": "a10c3ea4abc4386374c2b2381555cd204d2c2aec9c1645ffaa590768944f8795",
+      "display_sha256": "e62b3e87e4170b52f73f483a9f46776e5c14a4bd51bb1efc4543c606233209c0",
+      "display_blob_sha": "bee1e846ffa9d3c45847c8edac988780bc927f41",
+      "display_original_site_sha256": "a10c3ea4abc4386374c2b2381555cd204d2c2aec9c1645ffaa590768944f8795",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/crataegus-texana/inat-209024346.jpeg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7b7fdfb5471955cb4db3e21e00732596b32ced58",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 123391512, photo 209024346, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: afff14dc8ad4a5a58abdb019340c718a1b2bd96efff069555a06696122e3ea64.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Crataegus texana maps to indexed species crataegus-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "afff14dc8ad4a5a58abdb019340c718a1b2bd96efff069555a06696122e3ea64"
+      "sha256": "afff14dc8ad4a5a58abdb019340c718a1b2bd96efff069555a06696122e3ea64",
+      "display_sha256": "0e6af940f54d1fbfc4977f423c513837ff216770682989e36992edc732c96f1e",
+      "display_blob_sha": "53b85f514c1c6db1e19eadb9fbb2315d4f75c735",
+      "display_original_site_sha256": "afff14dc8ad4a5a58abdb019340c718a1b2bd96efff069555a06696122e3ea64",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/crataegus-texana/inat-479962204.jpeg",

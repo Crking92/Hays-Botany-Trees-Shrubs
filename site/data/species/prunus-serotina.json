@@ -53,7 +53,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f0b5c6cf74f160b55ff4b1482796e45598971750",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +61,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346412664, photo 631453159, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d30592c2f51c61f7aeb77a364e1cd8c9e0f8a87bf99ad3581ae95d9470a55404.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Prunus serotina maps to indexed species prunus-serotina; specialist morphology and BONAP range deferred.",
-      "sha256": "d30592c2f51c61f7aeb77a364e1cd8c9e0f8a87bf99ad3581ae95d9470a55404"
+      "sha256": "d30592c2f51c61f7aeb77a364e1cd8c9e0f8a87bf99ad3581ae95d9470a55404",
+      "display_sha256": "6c89c0e5d9e0ab7e109c391b87fda117c30f35ea0ba920b706c095aeb2eda490",
+      "display_blob_sha": "b2ce13a4e5104f50f470432a7fc2b4acb1dda2e6",
+      "display_original_site_sha256": "d30592c2f51c61f7aeb77a364e1cd8c9e0f8a87bf99ad3581ae95d9470a55404",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/prunus-serotina/inat-634526056.jpg",
@@ -72,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9aa8f2609fd931ce0ea0fc845bde7c3d95f77567",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347960914, photo 634526056, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0ca7dd9b03577a2db09da1a1f9affa4fb11eaf02932ea4ad26e3df8af1266d6a.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Prunus serotina maps to indexed species prunus-serotina; specialist morphology and BONAP range deferred.",
-      "sha256": "0ca7dd9b03577a2db09da1a1f9affa4fb11eaf02932ea4ad26e3df8af1266d6a"
+      "sha256": "0ca7dd9b03577a2db09da1a1f9affa4fb11eaf02932ea4ad26e3df8af1266d6a",
+      "display_sha256": "10019c1e0a4912d085ed477154c74f3c5768b1833f1b7a50d1cdbcecad16558a",
+      "display_blob_sha": "c50423f1ec2a59c2564bdf44b6ab1382947dd811",
+      "display_original_site_sha256": "0ca7dd9b03577a2db09da1a1f9affa4fb11eaf02932ea4ad26e3df8af1266d6a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/prunus-serotina/inat-641714034.jpg",
@@ -91,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "764f2239867128c8ea34eca57fdbdb87478ec6ab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 351633469, photo 641714034, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e98e9c37f261127dfea69ab9c69d9caf70365b69921b4caf4e7a6e19cde2497e.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Prunus serotina maps to indexed species prunus-serotina; specialist morphology and BONAP range deferred.",
-      "sha256": "e98e9c37f261127dfea69ab9c69d9caf70365b69921b4caf4e7a6e19cde2497e"
+      "sha256": "e98e9c37f261127dfea69ab9c69d9caf70365b69921b4caf4e7a6e19cde2497e",
+      "display_sha256": "2803447de15735ccca12797dfa999ae401b03eb732342262516b79502e6e816a",
+      "display_blob_sha": "601b78356712bcb1d29a5faecbbeecc60dec681d",
+      "display_original_site_sha256": "e98e9c37f261127dfea69ab9c69d9caf70365b69921b4caf4e7a6e19cde2497e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/prunus-serotina/inat-647871739.jpg",
@@ -110,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4ac88b51690a7ff953c77dac8f8d3bddd90b9c9f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 355202764, photo 647871739, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a8082975d0c0a7283ce2d9033da49cf73834e25e8d57ceb7cf5522a33da578f7.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Prunus serotina maps to indexed species prunus-serotina; specialist morphology and BONAP range deferred.",
-      "sha256": "a8082975d0c0a7283ce2d9033da49cf73834e25e8d57ceb7cf5522a33da578f7"
+      "sha256": "a8082975d0c0a7283ce2d9033da49cf73834e25e8d57ceb7cf5522a33da578f7",
+      "display_sha256": "76df203935afb0419088d117ff78f862f8111a89d66bbba11d7f9c5d8707238a",
+      "display_blob_sha": "ef34011713281806ccb11299814c4e2b8033fb1e",
+      "display_original_site_sha256": "a8082975d0c0a7283ce2d9033da49cf73834e25e8d57ceb7cf5522a33da578f7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/prunus-serotina/inat-637724302.jpg",
@@ -129,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "7ce431ba5235e47f6e6776b57ddb85f6aae65e09",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349579566, photo 637724302, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: aaf88cefd9ab99e7a4ace28f07dafa7029beca31d8861560f6489099ab9bcd5c.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Prunus serotina eximia maps to indexed species prunus-serotina; specialist morphology and BONAP range deferred.",
-      "sha256": "aaf88cefd9ab99e7a4ace28f07dafa7029beca31d8861560f6489099ab9bcd5c"
+      "sha256": "aaf88cefd9ab99e7a4ace28f07dafa7029beca31d8861560f6489099ab9bcd5c",
+      "display_sha256": "45e432c4137c8549e78e502111228c6e02786dfca65a247c450b0a2a04fc6955",
+      "display_blob_sha": "29dd5de7790550068bb9986ec29d3ff161ffc13f",
+      "display_original_site_sha256": "aaf88cefd9ab99e7a4ace28f07dafa7029beca31d8861560f6489099ab9bcd5c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

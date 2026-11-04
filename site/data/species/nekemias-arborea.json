@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "4b20c13986faddc324282290be3b2909485404cb",
       "role": "Fruiting vine with reddish berries and foliage",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 720460847 inside observation 393090671; exact photo license cc-by and creator Linda Jo Conn match the source ZIP; SHA-256 cd561d68a6845ff37030171f42d9b7e04f35cc54e8aad24a0f4e758f74ef0543 verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Nekemias arborea confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "cd561d68a6845ff37030171f42d9b7e04f35cc54e8aad24a0f4e758f74ef0543"
+      "sha256": "cd561d68a6845ff37030171f42d9b7e04f35cc54e8aad24a0f4e758f74ef0543",
+      "display_sha256": "ccd6bebbac327367a4988e9e0141ba7fda166d51da3ac4a7f5a6b5fec71ad8a8",
+      "display_blob_sha": "450d9b93c04d9b10b8f788d70a266d1a30167315",
+      "display_original_site_sha256": "cd561d68a6845ff37030171f42d9b7e04f35cc54e8aad24a0f4e758f74ef0543",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nekemias-arborea/inat-photo-724273064.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "132dd4da73123367433eb1a7ffe7e68ca1300ea8",
       "role": "Greenish flower buds and compound foliage",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 724273064 inside observation 395029852; exact photo license cc-by and creator Michelle W. （鍾偉瑋） match the source ZIP; SHA-256 03420eb218bc8de3101ff8702018008186dca4fd01d861a0e3d32a5c4adbd2ba verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Nekemias arborea confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "03420eb218bc8de3101ff8702018008186dca4fd01d861a0e3d32a5c4adbd2ba"
+      "sha256": "03420eb218bc8de3101ff8702018008186dca4fd01d861a0e3d32a5c4adbd2ba",
+      "display_sha256": "906c35f5eb3ea6939efba8764b3c846a0ce1c5ddba6b2816bafde82c77ce98ab",
+      "display_blob_sha": "46f8a3507a3b9b8ab1d9cf93497867c5bc2566b7",
+      "display_original_site_sha256": "03420eb218bc8de3101ff8702018008186dca4fd01d861a0e3d32a5c4adbd2ba",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nekemias-arborea/inat-photo-739046379.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "adec4e4734f8f88569ca5efde554d520b11e0538",
       "role": "Maturing berries among compound leaves",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 739046379 inside observation 402574331; exact photo license cc-by and creator Linda Jo Conn match the source ZIP; SHA-256 06aaccb9cc96e5a95299ed91db99edd8e31b00bb91e97634bdcfc6bc96cb567f verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Nekemias arborea confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "06aaccb9cc96e5a95299ed91db99edd8e31b00bb91e97634bdcfc6bc96cb567f"
+      "sha256": "06aaccb9cc96e5a95299ed91db99edd8e31b00bb91e97634bdcfc6bc96cb567f",
+      "display_sha256": "a509f715bcc9404011a0e56f4fc390e0305a7d096999b63cd71641ac218ddebf",
+      "display_blob_sha": "52e8d97c55422b3c2534b26c19d6ca0a81f9fd8f",
+      "display_original_site_sha256": "06aaccb9cc96e5a95299ed91db99edd8e31b00bb91e97634bdcfc6bc96cb567f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nekemias-arborea/inat-photo-753121004.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f84aafdce75757ed1be16a90d0ad19f3a2e2a6a1",
       "role": "Small flower clusters and foliage",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 753121004 inside observation 409586364; exact photo license cc-by and creator Linda Jo Conn match the source ZIP; SHA-256 245edc2420ef2a467cd5f1baa1becf4fe5c28d5e946cbf856f8715eca12d4165 verified against original archived bytes at 2026-11-02T20:54:03.610612+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check on Nov 2 2026; plausible plant habit; not expert specimen identification. Observation-level taxon Nekemias arborea confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "245edc2420ef2a467cd5f1baa1becf4fe5c28d5e946cbf856f8715eca12d4165"
+      "sha256": "245edc2420ef2a467cd5f1baa1becf4fe5c28d5e946cbf856f8715eca12d4165",
+      "display_sha256": "4a91a453e09e7b8283bc20bf436e1b5c22600c554ca26e8db5e78432dfa2720a",
+      "display_blob_sha": "945cd469d378ad42e18a0d78792821b07157ba7c",
+      "display_original_site_sha256": "245edc2420ef2a467cd5f1baa1becf4fe5c28d5e946cbf856f8715eca12d4165",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nekemias-arborea/inat-photo-630264299.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e52699830a94491ba05684892e789ee2b49684f9",
       "role": "Red-bronze emerging leaves and shoot tips of peppervine",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 630264299 inside observation 345810303; exact photo license cc-by-nc and creator Eaton Ekarintaragun match the source ZIP; SHA-256 cb19394e466d885f62906f11cc66d910e324f26f2f7c0fde1cb54d4101f999a4 verified against original archived bytes at 2026-11-02T21:04:43.126291+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check Nov 2 2026; plausible foliage habit and seasonal structure, not expert voucher determination. Observation-level taxon Nekemias arborea confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "cb19394e466d885f62906f11cc66d910e324f26f2f7c0fde1cb54d4101f999a4"
+      "sha256": "cb19394e466d885f62906f11cc66d910e324f26f2f7c0fde1cb54d4101f999a4",
+      "display_sha256": "6be689d55c78112043fc37f1543c01216728249ed60ce46011eee2aaed0f5741",
+      "display_blob_sha": "30f959aa8befcb8318e118f30d36ca065420030d",
+      "display_original_site_sha256": "cb19394e466d885f62906f11cc66d910e324f26f2f7c0fde1cb54d4101f999a4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nekemias-arborea/inat-photo-631869548.jpg",
@@ -134,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c81d9e6eded0eaa140e0fba7a16b198f9ef83f36",
       "role": "Red-purple seasonal compound foliage and developing vine shoots",
-      "modified": "No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
+      "modified": "Resized and recompressed web display copy; source note: No modifications; exact bytes from ZIP original SHA-256 verified against live source.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization; independently checked image-specific rights/creator, source observation taxon and original checksum; specialist morphology verification deferred.",
@@ -142,7 +167,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany archived-ZIP visual review and GitHub Actions live-source check",
       "source_review_evidence": "Live iNaturalist photo ID 631869548 inside observation 346623242; exact photo license cc-by-nc and creator Kelp match the source ZIP; SHA-256 a10aa184c87adbcf32aaf4ee67dae8c07698c911bcffc3f7abd2a565b6e64989 verified against original archived bytes at 2026-11-02T21:04:43.126291+00:00",
       "taxon_review_evidence": "Original archived in Contact-sheet sanity check Nov 2 2026; plausible foliage habit and seasonal structure, not expert voucher determination. Observation-level taxon Nekemias arborea confirmed from exact iNaturalist observation. This is a general visual sanity check, not a diagnostic species voucher.",
-      "sha256": "a10aa184c87adbcf32aaf4ee67dae8c07698c911bcffc3f7abd2a565b6e64989"
+      "sha256": "a10aa184c87adbcf32aaf4ee67dae8c07698c911bcffc3f7abd2a565b6e64989",
+      "display_sha256": "4087be5862955cce1965ed2546df8270ca074b4fb453ff380e63db87595d9553",
+      "display_blob_sha": "c74e80740a762fc32fa8db459492dbcd14f60bc3",
+      "display_original_site_sha256": "a10aa184c87adbcf32aaf4ee67dae8c07698c911bcffc3f7abd2a565b6e64989",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/nekemias-arborea/archived-aebf39476c3cb8b6.jpg",

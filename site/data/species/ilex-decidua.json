@@ -88,7 +88,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "740977cc06d36cd24866f2b5ea0759eee15c7857",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -96,7 +96,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341401381, photo 621497018, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 58ed12499acf33d0ca3e10e78b399948ffe2e81cc4a687a32389c64e89731d8b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex decidua maps to indexed species ilex-decidua; specialist morphology and BONAP range deferred.",
-      "sha256": "58ed12499acf33d0ca3e10e78b399948ffe2e81cc4a687a32389c64e89731d8b"
+      "sha256": "58ed12499acf33d0ca3e10e78b399948ffe2e81cc4a687a32389c64e89731d8b",
+      "display_sha256": "e0dea6a0028f344305fec8ea49d5a0017457f3f5b603b81c482867dc2e162ba1",
+      "display_blob_sha": "8b5cb54f81ab820e6cf6d921ef28a33d26841b19",
+      "display_original_site_sha256": "58ed12499acf33d0ca3e10e78b399948ffe2e81cc4a687a32389c64e89731d8b",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-decidua/inat-621874638.jpg",
@@ -107,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "47fea6d76f9c1a40dafcb3379fa3c980c84858db",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -115,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341588122, photo 621874638, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a6ee42c68f016b84f23dcb62d4ef22ba6b23d36ed195892941476e94dd3789f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex decidua maps to indexed species ilex-decidua; specialist morphology and BONAP range deferred.",
-      "sha256": "a6ee42c68f016b84f23dcb62d4ef22ba6b23d36ed195892941476e94dd3789f4"
+      "sha256": "a6ee42c68f016b84f23dcb62d4ef22ba6b23d36ed195892941476e94dd3789f4",
+      "display_sha256": "68e599b867888882f3a38ceae08cdf6a57aabe9d472b03fdfa01fe90f447ec23",
+      "display_blob_sha": "9a3918f98b41f82a8c378226d4cc87aea1d7126e",
+      "display_original_site_sha256": "a6ee42c68f016b84f23dcb62d4ef22ba6b23d36ed195892941476e94dd3789f4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-decidua/inat-622244684.jpg",
@@ -126,7 +136,7 @@
       "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source_blob_sha": "1d11e0e80ae2dc2ef97b596957994aaed3280811",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -134,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341770522, photo 622244684, individual license cc0, exact source photo URL. Source media SHA256 matches supplied original ZIP: c7433aba5b6e083c4252d52c84a551bd68b394a38dd8fbf7c92f57d3915184a0. Credit evidence: original user ZIP credit record.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex decidua maps to indexed species ilex-decidua; specialist morphology and BONAP range deferred.",
-      "sha256": "c7433aba5b6e083c4252d52c84a551bd68b394a38dd8fbf7c92f57d3915184a0"
+      "sha256": "c7433aba5b6e083c4252d52c84a551bd68b394a38dd8fbf7c92f57d3915184a0",
+      "display_sha256": "a28884e94b4ea3cc04d5c7d3cfd3fff5fd259c9a79ab7eae4aa9a9f499eeec41",
+      "display_blob_sha": "d188ba1a5624299ce7ff2b985f5d3c6804a48959",
+      "display_original_site_sha256": "c7433aba5b6e083c4252d52c84a551bd68b394a38dd8fbf7c92f57d3915184a0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-decidua/inat-622612518.jpg",
@@ -145,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3d02a5c32bbb4bfdaa2e86fe0a57d3ca599fe680",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -153,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341952058, photo 622612518, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fac6a75e0494a186fb495f7a9e9c4ef09c3a01cf3e8ac8d5fcf9ff58f4421f00. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex decidua maps to indexed species ilex-decidua; specialist morphology and BONAP range deferred.",
-      "sha256": "fac6a75e0494a186fb495f7a9e9c4ef09c3a01cf3e8ac8d5fcf9ff58f4421f00"
+      "sha256": "fac6a75e0494a186fb495f7a9e9c4ef09c3a01cf3e8ac8d5fcf9ff58f4421f00",
+      "display_sha256": "0a6f743e496a7ecddf917e864aa67a88f58326db2978c79f88e43e48dec58db2",
+      "display_blob_sha": "33722464d237b8d84e3a9ee03c99695269fb2f22",
+      "display_original_site_sha256": "fac6a75e0494a186fb495f7a9e9c4ef09c3a01cf3e8ac8d5fcf9ff58f4421f00",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ilex-decidua/inat-623997895.jpg",
@@ -164,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "59851c875a7880c571cddd90331f5457fe1b005f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -172,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 342636121, photo 623997895, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1c55262e93a3139ec1712a0c0fa4e5c52eb13e246b098e20e8ae64869a712086. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Ilex decidua maps to indexed species ilex-decidua; specialist morphology and BONAP range deferred.",
-      "sha256": "1c55262e93a3139ec1712a0c0fa4e5c52eb13e246b098e20e8ae64869a712086"
+      "sha256": "1c55262e93a3139ec1712a0c0fa4e5c52eb13e246b098e20e8ae64869a712086",
+      "display_sha256": "75fe672e4f76c6896a3463db650951b832a83e96e8dea99c1dae396d767c6af3",
+      "display_blob_sha": "14364013185b8f6d5f051f68dcf6d0753dc76170",
+      "display_original_site_sha256": "1c55262e93a3139ec1712a0c0fa4e5c52eb13e246b098e20e8ae64869a712086",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd5585f6b34331b90e3651ead287ab0e87726d30",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 340976429, photo 620618007, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 152f25dd22a68d2cafc8d0f0ea818a3b46829a256017f478aaec4b148c4172f1.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condalia hookeri maps to indexed species condalia-hookeri; specialist morphology and BONAP range deferred.",
-      "sha256": "152f25dd22a68d2cafc8d0f0ea818a3b46829a256017f478aaec4b148c4172f1"
+      "sha256": "152f25dd22a68d2cafc8d0f0ea818a3b46829a256017f478aaec4b148c4172f1",
+      "display_sha256": "bf2326af6a5e63c847f71715dece4ba22a22e47901f7f8725da1831b8a1cc912",
+      "display_blob_sha": "9cfce6e539728836b4944d09a942c00b7eac3d9e",
+      "display_original_site_sha256": "152f25dd22a68d2cafc8d0f0ea818a3b46829a256017f478aaec4b148c4172f1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condalia-hookeri/inat-624317452.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8b76bf5fc1d11563650ac86c143e5e6381c6369a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342802458, photo 624317452, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4ab8e44ebf24be25182f591b5beb5ba2184a0e5b5f9c4fd3d1d8b9e2a006ed01.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condalia hookeri maps to indexed species condalia-hookeri; specialist morphology and BONAP range deferred.",
-      "sha256": "4ab8e44ebf24be25182f591b5beb5ba2184a0e5b5f9c4fd3d1d8b9e2a006ed01"
+      "sha256": "4ab8e44ebf24be25182f591b5beb5ba2184a0e5b5f9c4fd3d1d8b9e2a006ed01",
+      "display_sha256": "0c2fc9dfb101a1e0b891c28eadc87a0d45bea28be049965a2cbafe0df8a825dc",
+      "display_blob_sha": "02e299bdf10b2b9e170590550d8bcdbcd3a68a34",
+      "display_original_site_sha256": "4ab8e44ebf24be25182f591b5beb5ba2184a0e5b5f9c4fd3d1d8b9e2a006ed01",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condalia-hookeri/inat-624747133.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9d1ebc7c2b813a31f1bb60e07460607851d575a4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 343016983, photo 624747133, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d1d4e898f024affe9d3dcd49957cff7c362d60e96662c9f0cb9b3b64b84c5964.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condalia hookeri maps to indexed species condalia-hookeri; specialist morphology and BONAP range deferred.",
-      "sha256": "d1d4e898f024affe9d3dcd49957cff7c362d60e96662c9f0cb9b3b64b84c5964"
+      "sha256": "d1d4e898f024affe9d3dcd49957cff7c362d60e96662c9f0cb9b3b64b84c5964",
+      "display_sha256": "e3b49e993487f41064d0271209281d11fe325432e9f0be3c05425f707012805f",
+      "display_blob_sha": "650c22efb1b5a6497697f31af5ada846600b5c21",
+      "display_original_site_sha256": "d1d4e898f024affe9d3dcd49957cff7c362d60e96662c9f0cb9b3b64b84c5964",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condalia-hookeri/inat-627738289.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f00fbcb5fedb2e555e6af0d0a42059cba63944e7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344517761, photo 627738289, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e40ce2ef5078a91a17d3532ec8a52c2bfd924671f9c1c8f65fb8df586c17905.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condalia hookeri maps to indexed species condalia-hookeri; specialist morphology and BONAP range deferred.",
-      "sha256": "8e40ce2ef5078a91a17d3532ec8a52c2bfd924671f9c1c8f65fb8df586c17905"
+      "sha256": "8e40ce2ef5078a91a17d3532ec8a52c2bfd924671f9c1c8f65fb8df586c17905",
+      "display_sha256": "d887988749df0ff4d1a4d49ca3e7009ae4655a114553350bd7b31c45b9b84a2c",
+      "display_blob_sha": "6e084b1c97268c7cdd76b38e33bb48eea5250469",
+      "display_original_site_sha256": "8e40ce2ef5078a91a17d3532ec8a52c2bfd924671f9c1c8f65fb8df586c17905",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condalia-hookeri/inat-628227345.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9ee7196e2bdc3cfc6c26f841ce711818b3e91638",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344772654, photo 628227345, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5f4258407ded84ce9cf606a64477037152cb462e0c75b0a8e7832b43ad4fd534.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Condalia hookeri maps to indexed species condalia-hookeri; specialist morphology and BONAP range deferred.",
-      "sha256": "5f4258407ded84ce9cf606a64477037152cb462e0c75b0a8e7832b43ad4fd534"
+      "sha256": "5f4258407ded84ce9cf606a64477037152cb462e0c75b0a8e7832b43ad4fd534",
+      "display_sha256": "3d22a55303134da7748087c52016467b18e452a26c6073eec278f216fbbed9c0",
+      "display_blob_sha": "f348ba82d8225cd333bfb88c2f2bbfd3f531ee0f",
+      "display_original_site_sha256": "5f4258407ded84ce9cf606a64477037152cb462e0c75b0a8e7832b43ad4fd534",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/condalia-hookeri/archived-d06fcb124efb354f.jpg",

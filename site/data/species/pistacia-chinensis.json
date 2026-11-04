@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b6320c3ad28f1fef670ee220fd8262f7fbb10c3e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 344070354, photo 626868154, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aa624dc2da2feb6c96896938f4ba6c9c7f062925a06b63b5947a35c398fab158. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pistacia chinensis maps to indexed species pistacia-chinensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "aa624dc2da2feb6c96896938f4ba6c9c7f062925a06b63b5947a35c398fab158"
+      "sha256": "aa624dc2da2feb6c96896938f4ba6c9c7f062925a06b63b5947a35c398fab158",
+      "display_sha256": "d7b801153f46e5cec77ae1acd4a9c910e97246dfb6c8788beb5355bc24580259",
+      "display_blob_sha": "7128fe03d1a111eaaea25ad7f60ec91af22d5c4a",
+      "display_original_site_sha256": "aa624dc2da2feb6c96896938f4ba6c9c7f062925a06b63b5947a35c398fab158",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pistacia-chinensis/inat-637019366.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9750a66638730297cdbdd1bd6b59fea3cc6302cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 349222297, photo 637019366, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bb07c9407002319605fd284fc802ad582fc36f6854b23eae42bab1bd6b38c3c8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pistacia chinensis maps to indexed species pistacia-chinensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "bb07c9407002319605fd284fc802ad582fc36f6854b23eae42bab1bd6b38c3c8"
+      "sha256": "bb07c9407002319605fd284fc802ad582fc36f6854b23eae42bab1bd6b38c3c8",
+      "display_sha256": "538511e69219a92ccb403a28b4894dd9c899ecb793f18f27827b66a00cc76b97",
+      "display_blob_sha": "ccdc4d903a8dc25539797fbf718d2b6ef74e008b",
+      "display_original_site_sha256": "bb07c9407002319605fd284fc802ad582fc36f6854b23eae42bab1bd6b38c3c8",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pistacia-chinensis/inat-643806941.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2fdcf0cd9c8e17cb3855784c557f8e2c928b49c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 352791928, photo 643806941, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 217a3cab4cb97ccfcaf320fb2443bcd328c3be0fcf0fb1e0ac7c8a7d11f85eec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pistacia chinensis maps to indexed species pistacia-chinensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "217a3cab4cb97ccfcaf320fb2443bcd328c3be0fcf0fb1e0ac7c8a7d11f85eec"
+      "sha256": "217a3cab4cb97ccfcaf320fb2443bcd328c3be0fcf0fb1e0ac7c8a7d11f85eec",
+      "display_sha256": "b08b4da8f54c2de29560e4cb74e44ab7a98c71688d6f9d3ac1b9326e012b4107",
+      "display_blob_sha": "91c73d4c3946672bf6dc9f29612006c8f0f18cd6",
+      "display_original_site_sha256": "217a3cab4cb97ccfcaf320fb2443bcd328c3be0fcf0fb1e0ac7c8a7d11f85eec",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pistacia-chinensis/inat-645140650.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63cf6e632b1145ed827fc56a9b639c1e0f6f3144",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 353596121, photo 645140650, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aba6157d993ada69314d47486c3d928366a4da3dfefc57b4dd3fb633c4c16cf9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pistacia chinensis maps to indexed species pistacia-chinensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "aba6157d993ada69314d47486c3d928366a4da3dfefc57b4dd3fb633c4c16cf9"
+      "sha256": "aba6157d993ada69314d47486c3d928366a4da3dfefc57b4dd3fb633c4c16cf9",
+      "display_sha256": "6603e0d4767977d7f4dfbf6d244f60f782f4e068b71959a7d1e9f9ef56f379a4",
+      "display_blob_sha": "a9b5aa0be3ede6f62e30a5ec57fab239ae5eb9fb",
+      "display_original_site_sha256": "aba6157d993ada69314d47486c3d928366a4da3dfefc57b4dd3fb633c4c16cf9",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pistacia-chinensis/inat-647873625.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e3b1967343ba82fac25faca52e8d5e194e2f00bc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355203883, photo 647873625, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cc4d6d62c00852e4dc32e6cecae71b55ad2177552a3f819b662fd19bb89bfd56. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Pistacia chinensis maps to indexed species pistacia-chinensis (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "cc4d6d62c00852e4dc32e6cecae71b55ad2177552a3f819b662fd19bb89bfd56"
+      "sha256": "cc4d6d62c00852e4dc32e6cecae71b55ad2177552a3f819b662fd19bb89bfd56",
+      "display_sha256": "9bc20c0741a353e969bad2c4f76a29225f8ddc860b410fe9f05e289f0f56a37a",
+      "display_blob_sha": "cf1f64b8ecd839bb06d61e79f7870f55e6981837",
+      "display_original_site_sha256": "cc4d6d62c00852e4dc32e6cecae71b55ad2177552a3f819b662fd19bb89bfd56",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

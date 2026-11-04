@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e404ae11f8c64b1ffea376346bc578bf9ff6b9de",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 342600391, photo 623927027, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 23459350386eda3f1e00f75a88e596d21ba64c8fe0f593e6188544a4e1ded839.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Frangula caroliniana maps to indexed species frangula-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "23459350386eda3f1e00f75a88e596d21ba64c8fe0f593e6188544a4e1ded839"
+      "sha256": "23459350386eda3f1e00f75a88e596d21ba64c8fe0f593e6188544a4e1ded839",
+      "display_sha256": "2250401c17b57003054543eeff83109055a378ae2ff0b9550d3d400c7e241c7a",
+      "display_blob_sha": "a5e404f2fcc7d835e5dd1f5a5ac4ff93e20aa091",
+      "display_original_site_sha256": "23459350386eda3f1e00f75a88e596d21ba64c8fe0f593e6188544a4e1ded839",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/frangula-caroliniana/inat-628612978.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5434f4f19e813a2c3cc5d43ace2bce24190fb3ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 344972279, photo 628612978, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e1ca5e4794f4c2cce693233bfeaa507ed1911afba768c4f9cccf830adeddcbb4.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Frangula caroliniana maps to indexed species frangula-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "e1ca5e4794f4c2cce693233bfeaa507ed1911afba768c4f9cccf830adeddcbb4"
+      "sha256": "e1ca5e4794f4c2cce693233bfeaa507ed1911afba768c4f9cccf830adeddcbb4",
+      "display_sha256": "835738c44cec78aadf7b90438503ab3c35bd566316d26b8076c34923beecbf62",
+      "display_blob_sha": "b47d7272baba6b6ddfc4880c43b0c20f67dd654a",
+      "display_original_site_sha256": "e1ca5e4794f4c2cce693233bfeaa507ed1911afba768c4f9cccf830adeddcbb4",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/frangula-caroliniana/inat-630293200.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "66933a8eb7be7f818974c5d0b88703ca81da8a07",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 345824096, photo 630293200, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: f591192ccc1e8c9643693f420d853cb9db6b4418a733f306f7d70d33829c4deb.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Frangula caroliniana maps to indexed species frangula-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "f591192ccc1e8c9643693f420d853cb9db6b4418a733f306f7d70d33829c4deb"
+      "sha256": "f591192ccc1e8c9643693f420d853cb9db6b4418a733f306f7d70d33829c4deb",
+      "display_sha256": "7398de65b8a453bf1587b346f9452c190e47a420f84f08a2be92ebba9b1e971e",
+      "display_blob_sha": "32c702bf36f3ca425114f6a93099e6eccf16f726",
+      "display_original_site_sha256": "f591192ccc1e8c9643693f420d853cb9db6b4418a733f306f7d70d33829c4deb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/frangula-caroliniana/inat-637741465.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e304191887c723db220920d4bea2c9dfb46fa29b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 349587205, photo 637741465, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e9433dbb62b7b39b227ede729401d40754b7642fdfff7f96c19da12a768a7779.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Frangula caroliniana maps to indexed species frangula-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "e9433dbb62b7b39b227ede729401d40754b7642fdfff7f96c19da12a768a7779"
+      "sha256": "e9433dbb62b7b39b227ede729401d40754b7642fdfff7f96c19da12a768a7779",
+      "display_sha256": "6093f7326f6f23f22e577b7fa36a19d35799772b04ff5c2a6fbd1c6f2c5f0941",
+      "display_blob_sha": "865523b763791506f42afc8f536700e8bbcdf1dd",
+      "display_original_site_sha256": "e9433dbb62b7b39b227ede729401d40754b7642fdfff7f96c19da12a768a7779",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/frangula-caroliniana/inat-643180695.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ad9d2f56c41414c744c93dcb98870b92b8e893a0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 352393764, photo 643180695, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c972205535008beb7d85630cfc89d0a7670e9140e99f2db77bbc7b72ef1c2250.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Frangula caroliniana maps to indexed species frangula-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "c972205535008beb7d85630cfc89d0a7670e9140e99f2db77bbc7b72ef1c2250"
+      "sha256": "c972205535008beb7d85630cfc89d0a7670e9140e99f2db77bbc7b72ef1c2250",
+      "display_sha256": "49a1d9b99c64a5ea195a995880be9cd62d7403667c5655d018e4f3e77426f860",
+      "display_blob_sha": "f07c9d2f8d84afd1b41d4f11236f9ded0a3bf991",
+      "display_original_site_sha256": "c972205535008beb7d85630cfc89d0a7670e9140e99f2db77bbc7b72ef1c2250",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/frangula-caroliniana/archived-2db21fa95831e91c.jpg",

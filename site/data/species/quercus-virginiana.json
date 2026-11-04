@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b5a74227702d96e197cdc9b9f69989757d40f8cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 341440711, photo 621576525, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b4c96fa88a532d51a39abb60725695d97d8391f99d34cfb286dd0057fdac3a82. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus virginiana maps to indexed species quercus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "b4c96fa88a532d51a39abb60725695d97d8391f99d34cfb286dd0057fdac3a82"
+      "sha256": "b4c96fa88a532d51a39abb60725695d97d8391f99d34cfb286dd0057fdac3a82",
+      "display_sha256": "e5f8f416cbb54fa0371a8e2d75a4493cb177b4eb43903f439d62af1540722fce",
+      "display_blob_sha": "12e570cad64d4799a5008b2683a275cf30526749",
+      "display_original_site_sha256": "b4c96fa88a532d51a39abb60725695d97d8391f99d34cfb286dd0057fdac3a82",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-virginiana/inat-622917056.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a6fa5f8290ae37a3c20686c70ba528638709dd93",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342101767, photo 622917056, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e84ca7bcddf90c69dc1f4f4659ad50bd5b3454dbbf47fcea4246ba597c5283ec. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus virginiana maps to indexed species quercus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "e84ca7bcddf90c69dc1f4f4659ad50bd5b3454dbbf47fcea4246ba597c5283ec"
+      "sha256": "e84ca7bcddf90c69dc1f4f4659ad50bd5b3454dbbf47fcea4246ba597c5283ec",
+      "display_sha256": "c4cb7a7dbe12d90a3d59794f7cd7149b4e0694f6d59315d97df9ca4e3b43eaec",
+      "display_blob_sha": "0b8f2d17da96971f260b556c8dfc69fdd0ebff20",
+      "display_original_site_sha256": "e84ca7bcddf90c69dc1f4f4659ad50bd5b3454dbbf47fcea4246ba597c5283ec",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-virginiana/inat-643733621.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e1f737ea7b7588f38975dcb3b69e70556c70c56f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 352744521, photo 643733621, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bc9879cee91f64a33c015deb973a0e03d2d2c9482e59f2a2da6fae250a9837f0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus virginiana maps to indexed species quercus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "bc9879cee91f64a33c015deb973a0e03d2d2c9482e59f2a2da6fae250a9837f0"
+      "sha256": "bc9879cee91f64a33c015deb973a0e03d2d2c9482e59f2a2da6fae250a9837f0",
+      "display_sha256": "7b93f8c68922c94820ce263342406f586f4f63a5ec59a5f4a536ba3a052bab2d",
+      "display_blob_sha": "77c103541b0d7ed0b67352a885a61bb4ecc2cfec",
+      "display_original_site_sha256": "bc9879cee91f64a33c015deb973a0e03d2d2c9482e59f2a2da6fae250a9837f0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-virginiana/inat-644673185.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "268abbfdda3228b89cf2a56db8d6300be81bc6f1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353299244, photo 644673185, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 352ab639ad0ed7e026718545721701df48038a588b05f8510b5ee1335ebccb8c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus virginiana maps to indexed species quercus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "352ab639ad0ed7e026718545721701df48038a588b05f8510b5ee1335ebccb8c"
+      "sha256": "352ab639ad0ed7e026718545721701df48038a588b05f8510b5ee1335ebccb8c",
+      "display_sha256": "2c6c99df79d5968bfcb2f84f268fa2aa37a4f3c2cd46e12cdc648c370644dcb8",
+      "display_blob_sha": "8241650bdf3e5c405d9ebc763b051ae21bfd94e9",
+      "display_original_site_sha256": "352ab639ad0ed7e026718545721701df48038a588b05f8510b5ee1335ebccb8c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-virginiana/inat-645263441.jpg",
@@ -159,7 +179,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6131bcfd7674ac63c7e63e2cb1aedf3bab6e72a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -167,7 +187,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 353671209, photo 645263441, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d1f75eb2173b8b2e210c8665890614abe223f4a0bfc9a73a79511c7fe47642ee. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus virginiana maps to indexed species quercus-virginiana; specialist morphology and BONAP range deferred.",
-      "sha256": "d1f75eb2173b8b2e210c8665890614abe223f4a0bfc9a73a79511c7fe47642ee"
+      "sha256": "d1f75eb2173b8b2e210c8665890614abe223f4a0bfc9a73a79511c7fe47642ee",
+      "display_sha256": "f7900a6a5c7abcbf87e88675b23740790dc6d973e378bd69aecd3def580ed79d",
+      "display_blob_sha": "35bb74086a53e4d9c3aab75887a21efe230c7160",
+      "display_original_site_sha256": "d1f75eb2173b8b2e210c8665890614abe223f4a0bfc9a73a79511c7fe47642ee",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

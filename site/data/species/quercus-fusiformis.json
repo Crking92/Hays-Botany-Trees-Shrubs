@@ -57,7 +57,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5077175c5f8eafe68a205c4fe91e49427e809e36",
       "role": "same-observation oak field view 2",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -65,7 +65,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 397906922 photo 729858815 individual CC code cc-by-nc; photographer (c) Valdez, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 5077175c5f8eafe68a205c4fe91e49427e809e36; exact image source https://www.inaturalist.org/photos/729858815",
       "taxon_review_evidence": "Original species record Quercus fusiformis linked to an original image and matching current inat photo of source taxon Quercus fusiformis. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "34f10bc3e2cf83b6df04ebfd0d0b6fa3df01b5fbfcbf1f2ece73f20a216e7e6c"
+      "sha256": "34f10bc3e2cf83b6df04ebfd0d0b6fa3df01b5fbfcbf1f2ece73f20a216e7e6c",
+      "display_sha256": "98b0e275b1d52bd212a2ae859626e338b84666450ebe2851e08de8e3a66b312a",
+      "display_blob_sha": "80540cf090ed74a6a9d7cc86e63b0c0ba930c7a4",
+      "display_original_site_sha256": "34f10bc3e2cf83b6df04ebfd0d0b6fa3df01b5fbfcbf1f2ece73f20a216e7e6c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/archived-427d29b347d40f8c.jpg",
@@ -76,7 +81,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ea376098e7eef7e52ec8cb5ebe9dc9f71f5ca6df",
       "role": "same-observation oak field view 3",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -84,7 +89,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 397906922 photo 729858831 individual CC code cc-by-nc; photographer (c) Valdez, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA ea376098e7eef7e52ec8cb5ebe9dc9f71f5ca6df; exact image source https://www.inaturalist.org/photos/729858831",
       "taxon_review_evidence": "Original species record Quercus fusiformis linked to an original image and matching current inat photo of source taxon Quercus fusiformis. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "427d29b347d40f8ca6ed9e56fee16e08ee561d5431a0d19ed6dc6731058a27ca"
+      "sha256": "427d29b347d40f8ca6ed9e56fee16e08ee561d5431a0d19ed6dc6731058a27ca",
+      "display_sha256": "7120c55aec20102e76b8dbcf62763eed4c0db9f7b6f4f47da66bee23a093f048",
+      "display_blob_sha": "afc8b329f5ee17c60db8aa87fdab4de282e43501",
+      "display_original_site_sha256": "427d29b347d40f8ca6ed9e56fee16e08ee561d5431a0d19ed6dc6731058a27ca",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/archived-576eb209acae550a.jpg",
@@ -95,7 +105,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "25b0aba319627a7947f256af74acf28f8417da1f",
       "role": "same-observation oak field view 1",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -103,7 +113,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 397906922 photo 729858813 individual CC code cc-by-nc; photographer (c) Valdez, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 25b0aba319627a7947f256af74acf28f8417da1f; exact image source https://www.inaturalist.org/photos/729858813",
       "taxon_review_evidence": "Original species record Quercus fusiformis linked to an original image and matching current inat photo of source taxon Quercus fusiformis. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "576eb209acae550aee6a7f5beca1b4e3bf80b2138fb2e5246ca67bb6e3449be6"
+      "sha256": "576eb209acae550aee6a7f5beca1b4e3bf80b2138fb2e5246ca67bb6e3449be6",
+      "display_sha256": "4081c94bade3f5327be07cca1af0b2280412ca2c8a1eecb4ce1925bc80c08ae5",
+      "display_blob_sha": "0e68cd2c0744c680e5a6875a9980923db827500d",
+      "display_original_site_sha256": "576eb209acae550aee6a7f5beca1b4e3bf80b2138fb2e5246ca67bb6e3449be6",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/archived-da9e5ffb7d723083.jpg",
@@ -114,7 +129,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bfdcd7b31c2120d7b9ad42e9cf96c369561a3c2e",
       "role": "same-observation oak field view 4",
-      "modified": "Original archived photograph; no additional modifications",
+      "modified": "Resized and recompressed web display copy; source note: Original archived photograph; no additional modifications",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -122,7 +137,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 397906922 photo 729858850 individual CC code cc-by-nc; photographer (c) Valdez, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA bfdcd7b31c2120d7b9ad42e9cf96c369561a3c2e; exact image source https://www.inaturalist.org/photos/729858850",
       "taxon_review_evidence": "Original species record Quercus fusiformis linked to an original image and matching current inat photo of source taxon Quercus fusiformis. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "da9e5ffb7d723083bffedcdc616416fbb5a0118534402040d3209588bf20c947"
+      "sha256": "da9e5ffb7d723083bffedcdc616416fbb5a0118534402040d3209588bf20c947",
+      "display_sha256": "4c5d5d81fd342871c22a5fcec1a78ae5820f90b9d8d526c560bf367b8efae36c",
+      "display_blob_sha": "65f33257a27d8621a78db60c524336bc0d283c8a",
+      "display_original_site_sha256": "da9e5ffb7d723083bffedcdc616416fbb5a0118534402040d3209588bf20c947",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/inat-622917289.jpg",
@@ -133,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0c69b2c463a7018ecd4801321f4db52ede71ffa4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +161,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342101818, photo 622917289, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2f7b89fa0051f6da84f88a6573dcfa141dd98b969973a638abe3630e15fbc185. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus fusiformis maps to indexed species quercus-fusiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "2f7b89fa0051f6da84f88a6573dcfa141dd98b969973a638abe3630e15fbc185"
+      "sha256": "2f7b89fa0051f6da84f88a6573dcfa141dd98b969973a638abe3630e15fbc185",
+      "display_sha256": "482549e1a47de9f771ac86dda6b3c352f031e457822e427a9dc8477f02050e38",
+      "display_blob_sha": "bbbdf4be7adb84a58fb069708a8a3cc98558ad9d",
+      "display_original_site_sha256": "2f7b89fa0051f6da84f88a6573dcfa141dd98b969973a638abe3630e15fbc185",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/inat-623278902.jpg",
@@ -152,7 +177,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e33eb423ece1d75e9162170bfca68a996ccd8183",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -160,7 +185,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 342282097, photo 623278902, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 52c344cfaecc56a32bad081b6f1b14dfc007be91703e5b768887ae404a042f3d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus fusiformis maps to indexed species quercus-fusiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "52c344cfaecc56a32bad081b6f1b14dfc007be91703e5b768887ae404a042f3d"
+      "sha256": "52c344cfaecc56a32bad081b6f1b14dfc007be91703e5b768887ae404a042f3d",
+      "display_sha256": "3e699c830ffdcba2569a198b0e3266f9e2a9b2576bf4321a8adf660093b8f9b3",
+      "display_blob_sha": "a0688f780eec19682661b28670d9b8cc3cae9288",
+      "display_original_site_sha256": "52c344cfaecc56a32bad081b6f1b14dfc007be91703e5b768887ae404a042f3d",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/inat-627740994.jpg",
@@ -171,7 +201,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f43762ac08b395dd5aa83af24c09d4881ecf25d7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -179,7 +209,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344519176, photo 627740994, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1e6b8e22aaa7856372e1a6ff482fcf7927f787ccf572d1c667ede554e69c3a46. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus fusiformis maps to indexed species quercus-fusiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "1e6b8e22aaa7856372e1a6ff482fcf7927f787ccf572d1c667ede554e69c3a46"
+      "sha256": "1e6b8e22aaa7856372e1a6ff482fcf7927f787ccf572d1c667ede554e69c3a46",
+      "display_sha256": "22274ed5b5a6c368b798e1dff7df540d4b8754eb0296975abc959d00f5b0614e",
+      "display_blob_sha": "5928a7386fc3a230022faa8f35a83c177d1c7cec",
+      "display_original_site_sha256": "1e6b8e22aaa7856372e1a6ff482fcf7927f787ccf572d1c667ede554e69c3a46",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/inat-628183485.jpg",
@@ -190,7 +225,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ab77e52f131a2bd68d5ed7cf31bd85b02c8dff16",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -198,7 +233,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344750019, photo 628183485, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 21bc97b69e641e58bfdd6f9325ec183d9c5b4b4f4eada1b505114b9e53495d7f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus fusiformis maps to indexed species quercus-fusiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "21bc97b69e641e58bfdd6f9325ec183d9c5b4b4f4eada1b505114b9e53495d7f"
+      "sha256": "21bc97b69e641e58bfdd6f9325ec183d9c5b4b4f4eada1b505114b9e53495d7f",
+      "display_sha256": "1daa4e2b7775b8d72ff755c69d75fb91263de8105e255d2b8fcc6f7899dfbb34",
+      "display_blob_sha": "740085b756596e3731dcb3d8da31effecab1be55",
+      "display_original_site_sha256": "21bc97b69e641e58bfdd6f9325ec183d9c5b4b4f4eada1b505114b9e53495d7f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/inat-628189415.jpg",
@@ -209,7 +249,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e5400a0318afa48e0ca9bc27f9990bc8a25426b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -217,7 +257,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 344753055, photo 628189415, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3ad4ffc86b5c9ad255bfb2b8a6930eb8f24e8263e5d107ff4677ebb6c3c7f273. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus fusiformis maps to indexed species quercus-fusiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "3ad4ffc86b5c9ad255bfb2b8a6930eb8f24e8263e5d107ff4677ebb6c3c7f273"
+      "sha256": "3ad4ffc86b5c9ad255bfb2b8a6930eb8f24e8263e5d107ff4677ebb6c3c7f273",
+      "display_sha256": "fe9b8c61700f6bcd4ef3a7d4507527cbfe366bb0f3e0e25ab5aedbb15d0b7073",
+      "display_blob_sha": "2b16685256a4b6e661445227c5e12df7e4bb34e6",
+      "display_original_site_sha256": "3ad4ffc86b5c9ad255bfb2b8a6930eb8f24e8263e5d107ff4677ebb6c3c7f273",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-fusiformis/archived-2635ad8066ed267e.jpg",

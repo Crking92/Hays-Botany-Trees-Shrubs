@@ -112,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9311e30fd5af39a654cb7749df1122841ba67062",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -120,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 374294670, photo 684115839, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: cb4decfcc054eb1da6d66e6597f2ce22843e2decf0fe3c569fbfc4f6f7decac1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus macrocarpa maps to indexed species quercus-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "cb4decfcc054eb1da6d66e6597f2ce22843e2decf0fe3c569fbfc4f6f7decac1"
+      "sha256": "cb4decfcc054eb1da6d66e6597f2ce22843e2decf0fe3c569fbfc4f6f7decac1",
+      "display_sha256": "db499cadac664d592255e8adc32e0155f3827d8d596ac009a30d019b42440268",
+      "display_blob_sha": "4ee6f4de5829a9dd75acadeffffb84bef3d9747f",
+      "display_original_site_sha256": "cb4decfcc054eb1da6d66e6597f2ce22843e2decf0fe3c569fbfc4f6f7decac1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-macrocarpa/inat-684203680.jpg",
@@ -131,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3520a459a191658d427d2673672419239db1e2ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -139,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 374336913, photo 684203680, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 946bad72eaf24fbb2cd10ca35bb930fde48b041b11bc974a78aaa3cf65273a65. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus macrocarpa maps to indexed species quercus-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "946bad72eaf24fbb2cd10ca35bb930fde48b041b11bc974a78aaa3cf65273a65"
+      "sha256": "946bad72eaf24fbb2cd10ca35bb930fde48b041b11bc974a78aaa3cf65273a65",
+      "display_sha256": "b835980dead768b5b0165994a51715440a35e568745a2db22950dece4a701371",
+      "display_blob_sha": "fa52b11e3a03579bf9e29d25f8f391100692d246",
+      "display_original_site_sha256": "946bad72eaf24fbb2cd10ca35bb930fde48b041b11bc974a78aaa3cf65273a65",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-macrocarpa/inat-692494848.jpg",
@@ -150,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "74fe10da0e144ff168dad6879e55a27e1a8e1e3a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -158,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 378623913, photo 692494848, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d307e57b2ef5a074532a259c50fc3d05e22d14c4a81396c517dd64c446803eb0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus macrocarpa maps to indexed species quercus-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "d307e57b2ef5a074532a259c50fc3d05e22d14c4a81396c517dd64c446803eb0"
+      "sha256": "d307e57b2ef5a074532a259c50fc3d05e22d14c4a81396c517dd64c446803eb0",
+      "display_sha256": "2c8e773fa8ff77b6e555b9c3b1cce221746284513207e0e5a29cde5a38d2d46b",
+      "display_blob_sha": "6d7cdc5251f46dd052c231791358023f24c9d634",
+      "display_original_site_sha256": "d307e57b2ef5a074532a259c50fc3d05e22d14c4a81396c517dd64c446803eb0",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-macrocarpa/inat-704253844.jpg",
@@ -169,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6202641bd14d98a9bae4f77b574f81d49f32a6f2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -177,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 384713383, photo 704253844, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1142956391e9dd36970e7fee3348b1b2edaba0e605ae28cc2d9a363aa7162109. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus macrocarpa maps to indexed species quercus-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "1142956391e9dd36970e7fee3348b1b2edaba0e605ae28cc2d9a363aa7162109"
+      "sha256": "1142956391e9dd36970e7fee3348b1b2edaba0e605ae28cc2d9a363aa7162109",
+      "display_sha256": "5fefb9456185858fb98319d17b29db53950ff74cd1f56c83c862d2838ebdf666",
+      "display_blob_sha": "19651ad70a114bdc49bde487f06603aeafc6ae81",
+      "display_original_site_sha256": "1142956391e9dd36970e7fee3348b1b2edaba0e605ae28cc2d9a363aa7162109",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-macrocarpa/inat-704386405.jpg",
@@ -188,7 +208,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1b1fcd45291462ebeb923983f33847d68ba30d32",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -196,7 +216,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 384780649, photo 704386405, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 97f8d3304c2f1f180bbfc912f8157143a98d15ab3fffdf864823d248bc678b60. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus macrocarpa maps to indexed species quercus-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "97f8d3304c2f1f180bbfc912f8157143a98d15ab3fffdf864823d248bc678b60"
+      "sha256": "97f8d3304c2f1f180bbfc912f8157143a98d15ab3fffdf864823d248bc678b60",
+      "display_sha256": "d510175246955a7b8b8a0ebdf70a4b76d1083b1009ad24531db51c050548a550",
+      "display_blob_sha": "810a5677375362e1b7297460fba82f961974734b",
+      "display_original_site_sha256": "97f8d3304c2f1f180bbfc912f8157143a98d15ab3fffdf864823d248bc678b60",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

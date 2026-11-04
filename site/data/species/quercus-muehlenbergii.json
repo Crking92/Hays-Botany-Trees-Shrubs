@@ -112,7 +112,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2958a5221cce9cb61dffc7f7dc7617ddf861a6e7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -120,7 +120,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 343884673, photo 626501972, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c9e3eab0f9617adaa9bed9288c6b3d8d5b651fc175b22faf6b794689aaf4f6a9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus muehlenbergii maps to indexed species quercus-muehlenbergii; specialist morphology and BONAP range deferred.",
-      "sha256": "c9e3eab0f9617adaa9bed9288c6b3d8d5b651fc175b22faf6b794689aaf4f6a9"
+      "sha256": "c9e3eab0f9617adaa9bed9288c6b3d8d5b651fc175b22faf6b794689aaf4f6a9",
+      "display_sha256": "1e09dc2d9a62fb74fb5abbae258e8c0a7af20c50d12e49b43f296c50ca9dc325",
+      "display_blob_sha": "025e536f8aee43a03bb1af079d9c32b8990d1f8b",
+      "display_original_site_sha256": "c9e3eab0f9617adaa9bed9288c6b3d8d5b651fc175b22faf6b794689aaf4f6a9",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-muehlenbergii/inat-629638779.jpg",
@@ -131,7 +136,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4acb1a69f86403e5aaeeb73787b2adcf647c7daf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -139,7 +144,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 345492813, photo 629638779, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e56b3fcfac05ea6412cafd88aecd864574e2e6d0473b7be5640e9b1d6d9c84e6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus muehlenbergii maps to indexed species quercus-muehlenbergii; specialist morphology and BONAP range deferred.",
-      "sha256": "e56b3fcfac05ea6412cafd88aecd864574e2e6d0473b7be5640e9b1d6d9c84e6"
+      "sha256": "e56b3fcfac05ea6412cafd88aecd864574e2e6d0473b7be5640e9b1d6d9c84e6",
+      "display_sha256": "334ca87dde6265a914f0943216af4af1f496b8d647608752558eea5081bb5f6d",
+      "display_blob_sha": "3050d40c5e3988f6f94ea509f53ccd2842071a67",
+      "display_original_site_sha256": "e56b3fcfac05ea6412cafd88aecd864574e2e6d0473b7be5640e9b1d6d9c84e6",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-muehlenbergii/inat-632428719.jpg",
@@ -150,7 +160,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b6e0250404af8a35cd396675bafc1995b36e87f8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -158,7 +168,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 346906272, photo 632428719, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1508d3974c360771bf48ab50705e3aa320e6d53a23b1434552b1cd260a8d5d29. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus muehlenbergii maps to indexed species quercus-muehlenbergii; specialist morphology and BONAP range deferred.",
-      "sha256": "1508d3974c360771bf48ab50705e3aa320e6d53a23b1434552b1cd260a8d5d29"
+      "sha256": "1508d3974c360771bf48ab50705e3aa320e6d53a23b1434552b1cd260a8d5d29",
+      "display_sha256": "58a95b8d3a0f53c95da20c1eddbbe7110690322cba48e7c38598b7d12b33cc06",
+      "display_blob_sha": "415e6fbcbb78fc3f7769b9a2bf37a16087480a77",
+      "display_original_site_sha256": "1508d3974c360771bf48ab50705e3aa320e6d53a23b1434552b1cd260a8d5d29",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-muehlenbergii/inat-638138959.jpg",
@@ -169,7 +184,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f137730a070d27732ba45818eb8f9fe3ab11f2c6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -177,7 +192,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 349792853, photo 638138959, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 378dd5f22fac84d9a25da3dab269c8367781837d9beaf559a77f3cd6bbc64ccb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus muehlenbergii maps to indexed species quercus-muehlenbergii; specialist morphology and BONAP range deferred.",
-      "sha256": "378dd5f22fac84d9a25da3dab269c8367781837d9beaf559a77f3cd6bbc64ccb"
+      "sha256": "378dd5f22fac84d9a25da3dab269c8367781837d9beaf559a77f3cd6bbc64ccb",
+      "display_sha256": "724326382e577c25484d4173f62b01ecf983319d4676944e64a4d20a78485e14",
+      "display_blob_sha": "4d8e339b6889d1215834237e29c48f8cd73d4e8a",
+      "display_original_site_sha256": "378dd5f22fac84d9a25da3dab269c8367781837d9beaf559a77f3cd6bbc64ccb",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/quercus-muehlenbergii/inat-638674092.jpg",
@@ -188,7 +208,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a23a8f50f73f76c77e90c7ee4a2f2cf24a97da5d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -196,7 +216,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Fagaceae–Geraniaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 350069487, photo 638674092, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 71db795ad8cd2da19c95d1b513bff8b18361dda79d6cb34e22974741f7a3127e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "32 species contact sheets inspected for obvious off-target organisms. Live source name Quercus muehlenbergii maps to indexed species quercus-muehlenbergii; specialist morphology and BONAP range deferred.",
-      "sha256": "71db795ad8cd2da19c95d1b513bff8b18361dda79d6cb34e22974741f7a3127e"
+      "sha256": "71db795ad8cd2da19c95d1b513bff8b18361dda79d6cb34e22974741f7a3127e",
+      "display_sha256": "f29f5485318e43f0ce274793e6fed32a90bddda420e91c9684b0bc5e062d8176",
+      "display_blob_sha": "7e5a4aa63d66c315bddc5c11f7bc40ed763f7d45",
+      "display_original_site_sha256": "71db795ad8cd2da19c95d1b513bff8b18361dda79d6cb34e22974741f7a3127e",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2156a3efc8e2c497e323bdb74f2c0f42cdde099e",
       "role": "Flower cluster and green leaves (general species recognition)",
-      "modified": "Unmodified original downloaded photograph",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original downloaded photograph",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorized general plant gallery publication after actual exact photo license, identity sanity and original image integrity checks.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-source photo verifier and photo-first general image reviewer",
       "source_review_evidence": "iNaturalist live observation 341381782 contains exact photo 621457362; its photo-specific license is cc-by-nc; iNaturalist open-data original bytes match user ZIP SHA256 0d1f355243495a0778a2582254911b96bb4487bf4c74b9f4ab91ac1a6f4872c5.",
       "taxon_review_evidence": "iNaturalist observation 341381782 taxon Viburnum rufidulum matches family assignment. Uploaded contact sheet was reviewed for obvious mismatched organisms; no detailed diagnostic or county nativity claims made.",
-      "sha256": "0d1f355243495a0778a2582254911b96bb4487bf4c74b9f4ab91ac1a6f4872c5"
+      "sha256": "0d1f355243495a0778a2582254911b96bb4487bf4c74b9f4ab91ac1a6f4872c5",
+      "display_sha256": "0fe200de4b0bf11b2398b584129e7cceb569787311d8045dcd02c5d6337e1088",
+      "display_blob_sha": "f163e5b740139ccf473560e96fb8e4872a354727",
+      "display_original_site_sha256": "0d1f355243495a0778a2582254911b96bb4487bf4c74b9f4ab91ac1a6f4872c5",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/viburnum-rufidulum/inat-622229420.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "40a2d7f08d45ac5ba37a2e46bbc2630e4c09a86d",
       "role": "Whole shrub and seasonal foliage (general species recognition)",
-      "modified": "Unmodified original downloaded photograph",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original downloaded photograph",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorized general plant gallery publication after actual exact photo license, identity sanity and original image integrity checks.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-source photo verifier and photo-first general image reviewer",
       "source_review_evidence": "iNaturalist live observation 341762227 contains exact photo 622229420; its photo-specific license is cc-by-nc; iNaturalist open-data original bytes match user ZIP SHA256 36ee19307d5f793fd690e9ab608ec246e4d930872c91d2313974d23fa6191fa2.",
       "taxon_review_evidence": "iNaturalist observation 341762227 taxon Viburnum rufidulum matches family assignment. Uploaded contact sheet was reviewed for obvious mismatched organisms; no detailed diagnostic or county nativity claims made.",
-      "sha256": "36ee19307d5f793fd690e9ab608ec246e4d930872c91d2313974d23fa6191fa2"
+      "sha256": "36ee19307d5f793fd690e9ab608ec246e4d930872c91d2313974d23fa6191fa2",
+      "display_sha256": "d3905561e3110a22c579e6ab2694cc2661526efa98a2e1dcad8cac039c693976",
+      "display_blob_sha": "190d9fad5d02c7736e8436155774e43a55aef80b",
+      "display_original_site_sha256": "36ee19307d5f793fd690e9ab608ec246e4d930872c91d2313974d23fa6191fa2",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/viburnum-rufidulum/inat-623932764.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "eff4ff20d4ad4c86c768c1366e968556ca3e3732",
       "role": "Tall shrub growth habit (general species recognition)",
-      "modified": "Unmodified original downloaded photograph",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original downloaded photograph",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorized general plant gallery publication after actual exact photo license, identity sanity and original image integrity checks.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-source photo verifier and photo-first general image reviewer",
       "source_review_evidence": "iNaturalist live observation 342603281 contains exact photo 623932764; its photo-specific license is cc-by-nc; iNaturalist open-data original bytes match user ZIP SHA256 64995070605c2cd88ab2b9fe8341e9d5de08d7124be4ac5d809a455018804a79.",
       "taxon_review_evidence": "iNaturalist observation 342603281 taxon Viburnum rufidulum matches family assignment. Uploaded contact sheet was reviewed for obvious mismatched organisms; no detailed diagnostic or county nativity claims made.",
-      "sha256": "64995070605c2cd88ab2b9fe8341e9d5de08d7124be4ac5d809a455018804a79"
+      "sha256": "64995070605c2cd88ab2b9fe8341e9d5de08d7124be4ac5d809a455018804a79",
+      "display_sha256": "d7bf57f1b8e51b75353898e449d16c8feb4c20054f822f896f6712fb75c35cd6",
+      "display_blob_sha": "81c1adcf517e9b2cb386b530ca515bf5ecfc089d",
+      "display_original_site_sha256": "64995070605c2cd88ab2b9fe8341e9d5de08d7124be4ac5d809a455018804a79",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/viburnum-rufidulum/inat-624079645.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3f689ef1b357c8ad5ce948b948fdf2c06a6158fe",
       "role": "White flower clusters and branches (general species recognition)",
-      "modified": "Unmodified original downloaded photograph",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original downloaded photograph",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorized general plant gallery publication after actual exact photo license, identity sanity and original image integrity checks.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-source photo verifier and photo-first general image reviewer",
       "source_review_evidence": "iNaturalist live observation 342676662 contains exact photo 624079645; its photo-specific license is cc-by-nc; iNaturalist open-data original bytes match user ZIP SHA256 105c1a08e0aec1f2101c6a0c2fa2a1757dd2987e7286452e1eeb1262d42f751c.",
       "taxon_review_evidence": "iNaturalist observation 342676662 taxon Viburnum rufidulum matches family assignment. Uploaded contact sheet was reviewed for obvious mismatched organisms; no detailed diagnostic or county nativity claims made.",
-      "sha256": "105c1a08e0aec1f2101c6a0c2fa2a1757dd2987e7286452e1eeb1262d42f751c"
+      "sha256": "105c1a08e0aec1f2101c6a0c2fa2a1757dd2987e7286452e1eeb1262d42f751c",
+      "display_sha256": "6a00ed1730cceaaeb913933adaea6441c8975eeb01a91263fa3577339a71754c",
+      "display_blob_sha": "ed0be531d70af038de6afdcc3750c250fe3ea6cf",
+      "display_original_site_sha256": "105c1a08e0aec1f2101c6a0c2fa2a1757dd2987e7286452e1eeb1262d42f751c",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/viburnum-rufidulum/inat-624309776.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c9b4407ab1ac416345266012b008840a7047c46",
       "role": "Flower clusters and opposite foliage (general species recognition)",
-      "modified": "Unmodified original downloaded photograph",
+      "modified": "Resized and recompressed web display copy; source note: Unmodified original downloaded photograph",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Standing owner authorized general plant gallery publication after actual exact photo license, identity sanity and original image integrity checks.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany exact-source photo verifier and photo-first general image reviewer",
       "source_review_evidence": "iNaturalist live observation 342799151 contains exact photo 624309776; its photo-specific license is cc-by-nc; iNaturalist open-data original bytes match user ZIP SHA256 d0d133088a483492dc3b06bcceea0084ddf1f37b16df7f119ef7ba92e21c61f5.",
       "taxon_review_evidence": "iNaturalist observation 342799151 taxon Viburnum rufidulum matches family assignment. Uploaded contact sheet was reviewed for obvious mismatched organisms; no detailed diagnostic or county nativity claims made.",
-      "sha256": "d0d133088a483492dc3b06bcceea0084ddf1f37b16df7f119ef7ba92e21c61f5"
+      "sha256": "d0d133088a483492dc3b06bcceea0084ddf1f37b16df7f119ef7ba92e21c61f5",
+      "display_sha256": "a091312d3cdc988b0fddf062453a56c4a45b4696682a34d2d56aef6ace5c0df5",
+      "display_blob_sha": "d6576186b76f06536d130063f646af994b6e5ff4",
+      "display_original_site_sha256": "d0d133088a483492dc3b06bcceea0084ddf1f37b16df7f119ef7ba92e21c61f5",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/viburnum-rufidulum/archived-075f8bce73635eb2.jpg",

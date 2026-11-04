@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c67da1e6f1ba227033f5730fa8a624ed2d052c30",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 341745415, photo 622197014, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8664763fdbb86f44f786679b84f5cf58c48e713ab8291ebaff0f8a90bbcbf689. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron radicans maps to indexed species toxicodendron-radicans (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "8664763fdbb86f44f786679b84f5cf58c48e713ab8291ebaff0f8a90bbcbf689"
+      "sha256": "8664763fdbb86f44f786679b84f5cf58c48e713ab8291ebaff0f8a90bbcbf689",
+      "display_sha256": "e0f8f59ced2a9ae7617b443b622173479107b723b0fd0d2fe01c15982c3ebe00",
+      "display_blob_sha": "56c90fe2696032c9e344bb1aeecbc6cf2e0a537b",
+      "display_original_site_sha256": "8664763fdbb86f44f786679b84f5cf58c48e713ab8291ebaff0f8a90bbcbf689",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/toxicodendron-radicans/inat-624813146.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5196eccd661242e92a33d03ce73ec527eb6cc4b3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 343055443, photo 624813146, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 45ae98163fd5b63426905be1d818668a839669f6e66bfeeab62b5fb1178febe7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron radicans maps to indexed species toxicodendron-radicans (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "45ae98163fd5b63426905be1d818668a839669f6e66bfeeab62b5fb1178febe7"
+      "sha256": "45ae98163fd5b63426905be1d818668a839669f6e66bfeeab62b5fb1178febe7",
+      "display_sha256": "f726bbdbabc3c8e685b385bf8b857cfcf88cee2361c16d914d7e3be30a420d54",
+      "display_blob_sha": "5804108fa81f3148e3cb7ba8aff7027619cc2a49",
+      "display_original_site_sha256": "45ae98163fd5b63426905be1d818668a839669f6e66bfeeab62b5fb1178febe7",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/toxicodendron-radicans/inat-628224589.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ec4b6b94e5c9b06f70bb381056068f1d642b8e63",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 344771109, photo 628224589, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e4cc8d12cbf6f43c3faea5289b65ca2a1a1fb029099b2d37fcdd8eb94d51fce1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron radicans maps to indexed species toxicodendron-radicans (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "e4cc8d12cbf6f43c3faea5289b65ca2a1a1fb029099b2d37fcdd8eb94d51fce1"
+      "sha256": "e4cc8d12cbf6f43c3faea5289b65ca2a1a1fb029099b2d37fcdd8eb94d51fce1",
+      "display_sha256": "dd611e34b7e13d1adac418a1cc9e7986bf3da22270b8ab9ccc8d1136020a081f",
+      "display_blob_sha": "56e85719f962e48bc3f34e8a1ea8dadb459bf5a0",
+      "display_original_site_sha256": "e4cc8d12cbf6f43c3faea5289b65ca2a1a1fb029099b2d37fcdd8eb94d51fce1",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/toxicodendron-radicans/inat-628612538.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2015612e2559376651ac9283d730e863735cb0e6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 344972087, photo 628612538, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 73ab88e05f28c61bca62458945afcd8335d969c0db48335b33b7a6e357d6cd29. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron radicans maps to indexed species toxicodendron-radicans (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "73ab88e05f28c61bca62458945afcd8335d969c0db48335b33b7a6e357d6cd29"
+      "sha256": "73ab88e05f28c61bca62458945afcd8335d969c0db48335b33b7a6e357d6cd29",
+      "display_sha256": "46871becb50158a53bc38a4d8a7edae4f65c35d0a1ac224b6ec142c353ba9eee",
+      "display_blob_sha": "a409f406aac5de5699a269e42fc933cd0e29d6bf",
+      "display_original_site_sha256": "73ab88e05f28c61bca62458945afcd8335d969c0db48335b33b7a6e357d6cd29",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/toxicodendron-radicans/inat-630894073.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "df1791d78d83b2439f70502ad0bb5d19a49066da",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Anacardiaceae & Apiaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 346129952, photo 630894073, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: bd6bb5788df1fd0674b8069134e5aa39d7509adc4ac9b6e7c8351cbfb380e432. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Actual original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Toxicodendron radicans maps to indexed species toxicodendron-radicans (Kew-backed synonym if necessary); specialist morphology and BONAP range deferred.",
-      "sha256": "bd6bb5788df1fd0674b8069134e5aa39d7509adc4ac9b6e7c8351cbfb380e432"
+      "sha256": "bd6bb5788df1fd0674b8069134e5aa39d7509adc4ac9b6e7c8351cbfb380e432",
+      "display_sha256": "de6d42723f9be82cbbe286deba33a1f58625a611baf6805d4fdf79af52ba4e0e",
+      "display_blob_sha": "fa58ffbe8a4539b8609f2fcaf579f88be41a64a0",
+      "display_original_site_sha256": "bd6bb5788df1fd0674b8069134e5aa39d7509adc4ac9b6e7c8351cbfb380e432",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

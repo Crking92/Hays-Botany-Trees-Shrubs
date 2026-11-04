@@ -185,7 +185,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0580735f5c5618dc4e44f0fbf4c85cee59802b3d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -193,7 +193,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 276540650, photo 496605039, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c90345062895e3482b49e0c8c500b7f12be3855dc069280fd8ee7466682c043f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle verticillata maps to indexed species hydrocotyle-verticillata; specialist morphology and BONAP range deferred.",
-      "sha256": "c90345062895e3482b49e0c8c500b7f12be3855dc069280fd8ee7466682c043f"
+      "sha256": "c90345062895e3482b49e0c8c500b7f12be3855dc069280fd8ee7466682c043f",
+      "display_sha256": "1578f84b011c3e6e972c5437dbe3ac8f999aedb2a2cd07859187c0d2dcfac8bb",
+      "display_blob_sha": "b7095385167ff4aee264a20186c423688668d851",
+      "display_original_site_sha256": "c90345062895e3482b49e0c8c500b7f12be3855dc069280fd8ee7466682c043f",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-verticillata/inat-635339558.jpg",
@@ -204,7 +209,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "98ab9a8920a547430d325bd49c7ceb137be1c2b2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -212,7 +217,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 348372100, photo 635339558, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ffe9e4d057634141e1aa776b93d15e95f642f29297e86cac46bd5a1fc23c4f93. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle verticillata maps to indexed species hydrocotyle-verticillata; specialist morphology and BONAP range deferred.",
-      "sha256": "ffe9e4d057634141e1aa776b93d15e95f642f29297e86cac46bd5a1fc23c4f93"
+      "sha256": "ffe9e4d057634141e1aa776b93d15e95f642f29297e86cac46bd5a1fc23c4f93",
+      "display_sha256": "b10fc6de6685d0b181dba07360e0ad1828cb8c6adfb2ddac9a0ddbf6f3224f47",
+      "display_blob_sha": "0c601e928baee5214bbdf298d0c3e9d7c587f75c",
+      "display_original_site_sha256": "ffe9e4d057634141e1aa776b93d15e95f642f29297e86cac46bd5a1fc23c4f93",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-verticillata/inat-647282286.jpg",
@@ -223,7 +233,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ff08ec4047666075c7a246b177e9169cebf9795b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -231,7 +241,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 354850431, photo 647282286, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4c8dcd80bb48f7c15d604062fe80cada07aa1b0cd896fa3152c0d307454dda72. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle verticillata maps to indexed species hydrocotyle-verticillata; specialist morphology and BONAP range deferred.",
-      "sha256": "4c8dcd80bb48f7c15d604062fe80cada07aa1b0cd896fa3152c0d307454dda72"
+      "sha256": "4c8dcd80bb48f7c15d604062fe80cada07aa1b0cd896fa3152c0d307454dda72",
+      "display_sha256": "4ab919bb969563b2bd98936513e30980b3cf378db70e45e35ce15e4442b0860c",
+      "display_blob_sha": "57124b133b4531039aef1226c002b7b3f7722f6f",
+      "display_original_site_sha256": "4c8dcd80bb48f7c15d604062fe80cada07aa1b0cd896fa3152c0d307454dda72",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-verticillata/inat-648830348.jpg",
@@ -242,7 +257,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ca8cd8b8150047343cbd82bc0fd55418dfc0c5d9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -250,7 +265,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 355789070, photo 648830348, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b02a9bb7c69e122336c235c528f6f181c538b90c63489c7d7bca625284f8ee6a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle verticillata maps to indexed species hydrocotyle-verticillata; specialist morphology and BONAP range deferred.",
-      "sha256": "b02a9bb7c69e122336c235c528f6f181c538b90c63489c7d7bca625284f8ee6a"
+      "sha256": "b02a9bb7c69e122336c235c528f6f181c538b90c63489c7d7bca625284f8ee6a",
+      "display_sha256": "818f8cbbc2c9130718f69a1d63f18cbfe7d54d3d167a308b347b16c1501ce85f",
+      "display_blob_sha": "c2dbd51c09cc812e95c1ec7c799b877a488281dd",
+      "display_original_site_sha256": "b02a9bb7c69e122336c235c528f6f181c538b90c63489c7d7bca625284f8ee6a",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hydrocotyle-verticillata/inat-677482058.jpg",
@@ -261,7 +281,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "66bb9bbffdc00567b1b490c8169d870d941a2b03",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -269,7 +289,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Apodanthaceae–Araliaceae original ZIP source verifier",
       "source_review_evidence": "Live iNaturalist observation 361491107, photo 677482058, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98b35c7ad39f85d376b3c8110734d26794ed3414ddfcfb982fe10b235be6cda3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Three original ZIP contact sheets reviewed for basic botanical identity and useful whole-plant and morphology coverage. Live source name Hydrocotyle verticillata maps to indexed species hydrocotyle-verticillata; specialist morphology and BONAP range deferred.",
-      "sha256": "98b35c7ad39f85d376b3c8110734d26794ed3414ddfcfb982fe10b235be6cda3"
+      "sha256": "98b35c7ad39f85d376b3c8110734d26794ed3414ddfcfb982fe10b235be6cda3",
+      "display_sha256": "a24a89677b72f5ac6ea937be0400b39b47d76611e37854cd7908ea6d849db7ef",
+      "display_blob_sha": "4ce11bd2dcd1a932cb411d912fe8a189fbf74081",
+      "display_original_site_sha256": "98b35c7ad39f85d376b3c8110734d26794ed3414ddfcfb982fe10b235be6cda3",
+      "display_original_archive_commit": "7530e36d3973fcbab82bc41f6e9770c7fd57a366",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
