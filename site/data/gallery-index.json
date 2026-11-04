@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 128,
-  "photo_count": 606,
+  "photo_count": 607,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -246,7 +246,7 @@
       "first_src": "media/juglans-major/juglans-major-provisional-face.jpg"
     },
     "juglans-microcarpa": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/juglans-microcarpa/archived-524f896fc45b85c6.jpg"
     },
     "juglans-nigra": {

@@ -168,6 +168,25 @@
       "source_review_evidence": "Live iNaturalist observation 358752045, photo 654458357, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf54eb4caf3f4539ef6924fa57246d467fd72bd733f6556a367c698d7c930763. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Juglans microcarpa maps to indexed species juglans-microcarpa; specialist morphology and BONAP range deferred.",
       "sha256": "bf54eb4caf3f4539ef6924fa57246d467fd72bd733f6556a367c698d7c930763"
+    },
+    {
+      "src": "media/juglans-microcarpa/archived-30207c4441edd74d.jpg",
+      "creator": "Jim (jimmex)",
+      "source_page": "https://www.inaturalist.org/photos/436522536",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "3dd86effc4c0d3637cee544c6169ed9da29fb197",
+      "role": "Whole multi-stem shrub/small-tree habit in rocky habitat",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Original observation 244695767 exact photo 436522536, current individual CC0 photo-level rights, matching image fingerprint 0, original archived individual image-sources.csv names creator Jim (jimmex); current photo attribution supplies only generic no-rights-reserved text; historical creator was retained, not asserted as current online attribution; archived source SHA 3dd86effc4c0d3637cee544c6169ed9da29fb197; exact image source https://www.inaturalist.org/photos/436522536",
+      "taxon_review_evidence": "Original species record Juglans microcarpa linked to an original image and matching current inat-cc0 photo of source taxon Juglans microcarpa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "30207c4441edd74d2aa4482288a1195f338563e266c58c7b7204d5ee3de96e57"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

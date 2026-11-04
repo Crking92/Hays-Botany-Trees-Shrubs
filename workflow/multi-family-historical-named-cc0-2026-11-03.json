@@ -1,0 +1,43 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_HISTORICAL_NAMED_CC0_2026-11-03",
+  "checked_at": "2026-11-04T00:06:15.670549+00:00",
+  "source_files": 320,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 319
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "juglans-microcarpa",
+      "family": "Juglandaceae",
+      "filename": "01-habit-multistem-small-tree.jpg",
+      "original_path": "content/taxa/Juglandaceae/Juglans/juglans-microcarpa/images/01-habit-multistem-small-tree.jpg",
+      "archive_path": "migration/private-original-photo-holds/Juglandaceae/Juglans/juglans-microcarpa/images/01-habit-multistem-small-tree.jpg",
+      "git_blob_sha": "3dd86effc4c0d3637cee544c6169ed9da29fb197",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Jim (jimmex)",
+      "license": "CC0 1.0",
+      "source_page": "https://www.inaturalist.org/photos/436522536",
+      "taxon": "Juglans microcarpa",
+      "src": "media/juglans-microcarpa/archived-30207c4441edd74d.jpg",
+      "sha256": "30207c4441edd74d2aa4482288a1195f338563e266c58c7b7204d5ee3de96e57"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}
