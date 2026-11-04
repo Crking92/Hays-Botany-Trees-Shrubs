@@ -1,4 +1,4 @@
-name: Recover verified Commons CC BY photos held on HTTP 429
+name: Verify exact historically held public-domain botanical Commons images
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 530e2598324ea30ee48f81e75fa459c10affc29e
+          ref: 2e15681e2c1e545379d304c58052df2f9bf3bc86
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
