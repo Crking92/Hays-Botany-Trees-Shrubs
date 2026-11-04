@@ -279,8 +279,8 @@
       "genus": "Diospyros",
       "scientific_name": "Diospyros texana",
       "common_name": "Texas Persimmon",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "diospyros-virginiana",
@@ -288,7 +288,7 @@
       "genus": "Diospyros",
       "scientific_name": "Diospyros virginiana",
       "common_name": "American persimmon",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -297,7 +297,7 @@
       "genus": "Elaeagnus",
       "scientific_name": "Elaeagnus angustifolia",
       "common_name": "Russian olive",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -306,8 +306,8 @@
       "genus": "Arbutus",
       "scientific_name": "Arbutus xalapensis",
       "common_name": "Texas madrone",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "vaccinium-arboreum",
@@ -315,7 +315,7 @@
       "genus": "Vaccinium",
       "scientific_name": "Vaccinium arboreum",
       "common_name": "Sparkleberry / farkleberry",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

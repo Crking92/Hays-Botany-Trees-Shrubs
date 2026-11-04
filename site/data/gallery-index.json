@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 126,
-  "photo_count": 581,
+  "photo_species": 128,
+  "photo_count": 606,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -126,23 +126,23 @@
       "first_src": "media/cornus-drummondii/cornus-drummondii-white-fruit-commons.jpg"
     },
     "diospyros-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/diospyros-texana/inat-621275062.jpg"
     },
     "diospyros-virginiana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/diospyros-virginiana/archived-6ff9eaca876c5dcc.jpg"
     },
     "elaeagnus-angustifolia": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/elaeagnus-angustifolia/archived-9bfbeed0b3cdfe6b.jpg"
     },
     "arbutus-xalapensis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/arbutus-xalapensis/inat-622639442.jpg"
     },
     "vaccinium-arboreum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/vaccinium-arboreum/archived-557e39039c1235aa.jpg"
     },
     "quercus-alba": {
