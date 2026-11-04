@@ -138,6 +138,25 @@
       "source_review_evidence": "Live observation 44066525 explicitly lists exact photo 69871706; individual photo license cc-by-nc and source photographer checked; original iNaturalist photo SHA256 matches the user ZIP value 63c97ba20ec5c706c99fc3e7a8c4890e277c0e8e92cf77a30332d023a6d7ac0f.",
       "taxon_review_evidence": "Basic general plant recognition checked on source ZIP contact sheet, with live source observation taxon ulmus rubra; specialized anatomy and BONAP county range certification deferred.",
       "sha256": "63c97ba20ec5c706c99fc3e7a8c4890e277c0e8e92cf77a30332d023a6d7ac0f"
+    },
+    {
+      "src": "media/ulmus-rubra/archived-55107451bd5ba8a1.jpg",
+      "creator": "Phyzome",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_rubra_flower_buds.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "e5df2a6d681f9b9c0e08aa9a91658c9a3c75b952",
+      "role": "reddish flower buds — scale hair macro still needed",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY-SA 3.0 independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/5/50/Ulmus_rubra_flower_buds.jpg; image fingerprint distance 0; archived source SHA e5df2a6d681f9b9c0e08aa9a91658c9a3c75b952; exact image source https://commons.wikimedia.org/wiki/File:Ulmus_rubra_flower_buds.jpg",
+      "taxon_review_evidence": "Original species record Ulmus rubra linked to an original image and matching current commons photo of source taxon Ulmus rubra. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "55107451bd5ba8a10f0d98515815c2c58a12d1d3557f649eb8859078d1c4b68c"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

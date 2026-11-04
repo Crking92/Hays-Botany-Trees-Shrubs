@@ -1,9 +1,9 @@
 {
   "repository": "Crking92/Hays-Botany-Trees-Shrubs",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T01:05:31.320802+00:00",
+  "checked_at": "2026-11-04T01:09:41.159476+00:00",
   "source_files": 320,
-  "historical_cc0_deed_holds": 3,
+  "historical_cc0_deed_holds": 4,
   "selection_window": 15,
   "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
@@ -12,28 +12,28 @@
     "commons": 1
   },
   "skipped_or_previously_published": {
-    "not_a_prior_cc0_deed_hold": 317,
-    "previous_cc0_recheck_decision_preserved": 2
+    "not_a_prior_cc0_deed_hold": 316,
+    "previous_cc0_recheck_decision_preserved": 3
   },
   "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "ribes-aureum",
-      "family": "Grossulariaceae",
-      "filename": "commons-ribes-aureum.jpg",
-      "original_path": "content/taxa/Grossulariaceae/Ribes/ribes-aureum/images/commons-ribes-aureum.jpg",
-      "archive_path": "migration/private-original-photo-holds/Grossulariaceae/Ribes/ribes-aureum/images/commons-ribes-aureum.jpg",
-      "git_blob_sha": "5f64ef8bc1d0a138f92e7caf72036156f2b408f4",
+      "species_id": "ulmus-rubra",
+      "family": "Ulmaceae",
+      "filename": "ulmus-rubra-flower-buds.jpg",
+      "original_path": "content/taxa/Ulmaceae/Ulmus/ulmus-rubra/images/ulmus-rubra-flower-buds.jpg",
+      "archive_path": "migration/private-original-photo-holds/Ulmaceae/Ulmus/ulmus-rubra/images/ulmus-rubra-flower-buds.jpg",
+      "git_blob_sha": "e5df2a6d681f9b9c0e08aa9a91658c9a3c75b952",
       "lane": "commons",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "Ivengo(RUS)",
-      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Ribes_aureum.jpg",
-      "taxon": "Ribes aureum",
-      "src": "media/ribes-aureum/archived-248d9fcfad135640.jpg",
-      "sha256": "248d9fcfad135640f725600d1d8c683932dda9950001347276a9113e3220fe69"
+      "creator": "Phyzome",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ulmus_rubra_flower_buds.jpg",
+      "taxon": "Ulmus rubra",
+      "src": "media/ulmus-rubra/archived-55107451bd5ba8a1.jpg",
+      "sha256": "55107451bd5ba8a10f0d98515815c2c58a12d1d3557f649eb8859078d1c4b68c"
     }
   ],
   "previous_batches": [
@@ -76,11 +76,35 @@
           "sha256": "557e39039c1235aa4d8f02166cf6dbeab49be84dcda2dead7f81077b628e8454"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-04T01:05:31.320802+00:00",
+      "selected_candidates": 1,
+      "new_installed": 1,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "ribes-aureum",
+          "family": "Grossulariaceae",
+          "filename": "commons-ribes-aureum.jpg",
+          "original_path": "content/taxa/Grossulariaceae/Ribes/ribes-aureum/images/commons-ribes-aureum.jpg",
+          "archive_path": "migration/private-original-photo-holds/Grossulariaceae/Ribes/ribes-aureum/images/commons-ribes-aureum.jpg",
+          "git_blob_sha": "5f64ef8bc1d0a138f92e7caf72036156f2b408f4",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Ivengo(RUS)",
+          "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Ribes_aureum.jpg",
+          "taxon": "Ribes aureum",
+          "src": "media/ribes-aureum/archived-248d9fcfad135640.jpg",
+          "sha256": "248d9fcfad135640f725600d1d8c683932dda9950001347276a9113e3220fe69"
+        }
+      ]
     }
   ],
-  "batch_number": 2,
+  "batch_number": 3,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 3,
+  "cumulative_installed": 4,
   "cumulative_held_reviewed": 0
 }

@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 131,
-  "photo_count": 617,
+  "photo_count": 618,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -474,7 +474,7 @@
       "first_src": "media/ulmus-parvifolia/ulmus-parvifolia-bark.jpg"
     },
     "ulmus-rubra": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/ulmus-rubra/inat-131173740.jpeg"
     },
     "boehmeria-cylindrica": {
