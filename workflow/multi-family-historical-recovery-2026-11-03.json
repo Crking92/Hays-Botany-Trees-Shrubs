@@ -1756,5 +1756,18 @@
     "Wikimedia current image license URL unsupported https://creativecommons.org/licenses/by/3.0/de/deed.en/": 2
   },
   "cumulative_installed": 73,
-  "cumulative_held_reviewed": 49
+  "cumulative_held_reviewed": 49,
+  "owner_20261103_hold_closures": {
+    "policy": "Keep unverified or taxon-mismatched photos off all public family sites; owner requested no further retry. Preserve original provenance for audit; do not delete source files.",
+    "records": [
+      {
+        "git_blob_sha": "7631311af37ba4ce6de69610e644569aa5103235",
+        "species_id": "ulmus-rubra",
+        "filename": "ulmus-rubra-leaf.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Exact Commons photographer and license evidence not verified for original Ulmus rubra image",
+        "original_archived_preserved": true
+      }
+    ]
+  }
 }
