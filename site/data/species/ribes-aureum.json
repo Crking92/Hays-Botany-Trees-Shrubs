@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 345358228, photo 629372545, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6d7518133f4fd6de04399b9a3db56206a6021546127b53828c24e902ec26df37. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Ribes aureum maps to indexed species ribes-aureum; specialist morphology and BONAP range deferred.",
       "sha256": "6d7518133f4fd6de04399b9a3db56206a6021546127b53828c24e902ec26df37"
+    },
+    {
+      "src": "media/ribes-aureum/archived-248d9fcfad135640.jpg",
+      "creator": "Ivengo(RUS)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ribes_aureum.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "5f64ef8bc1d0a138f92e7caf72036156f2b408f4",
+      "role": "Provisional flowers and foliage for shrub recognition; fruit and twig details missing.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific PUBLIC DOMAIN (AUTHOR RELEASED) independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/7/7b/Ribes_aureum.jpg; image fingerprint distance 0; archived source SHA 5f64ef8bc1d0a138f92e7caf72036156f2b408f4; exact image source https://commons.wikimedia.org/wiki/File:Ribes_aureum.jpg",
+      "taxon_review_evidence": "Original species record Ribes aureum linked to an original image and matching current commons photo of source taxon Ribes aureum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "248d9fcfad135640f725600d1d8c683932dda9950001347276a9113e3220fe69"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

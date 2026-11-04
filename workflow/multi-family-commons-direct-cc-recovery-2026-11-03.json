@@ -1,60 +1,86 @@
 {
   "repository": "Crking92/Hays-Botany-Trees-Shrubs",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-03T18:38:46.843181+00:00",
+  "checked_at": "2026-11-04T01:05:31.320802+00:00",
   "source_files": 320,
-  "historical_cc0_deed_holds": 2,
+  "historical_cc0_deed_holds": 3,
   "selection_window": 15,
-  "candidate_pool_with_usable_source_identifiers": 2,
+  "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 2,
+  "selected_candidates": 1,
   "selected_by_lane": {
-    "commons": 2
+    "commons": 1
   },
   "skipped_or_previously_published": {
-    "not_a_prior_cc0_deed_hold": 318
+    "not_a_prior_cc0_deed_hold": 317,
+    "previous_cc0_recheck_decision_preserved": 2
   },
-  "new_installed": 2,
+  "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "koeberlinia-spinosa",
-      "family": "Koeberliniaceae",
-      "filename": "commons-koeberlinia-spinosa-alex-abair.jpg",
-      "original_path": "content/taxa/Koeberliniaceae/Koeberlinia/koeberlinia-spinosa/images/commons-koeberlinia-spinosa-alex-abair.jpg",
-      "archive_path": "migration/private-original-photo-holds/Koeberliniaceae/Koeberlinia/koeberlinia-spinosa/images/commons-koeberlinia-spinosa-alex-abair.jpg",
-      "git_blob_sha": "f8ee63311212b0da7f73ecb5f70402de56ff0fc2",
+      "species_id": "ribes-aureum",
+      "family": "Grossulariaceae",
+      "filename": "commons-ribes-aureum.jpg",
+      "original_path": "content/taxa/Grossulariaceae/Ribes/ribes-aureum/images/commons-ribes-aureum.jpg",
+      "archive_path": "migration/private-original-photo-holds/Grossulariaceae/Ribes/ribes-aureum/images/commons-ribes-aureum.jpg",
+      "git_blob_sha": "5f64ef8bc1d0a138f92e7caf72036156f2b408f4",
       "lane": "commons",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "Alex Abair",
-      "license": "CC BY 4.0",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Koeberlinia_spinosa_12747630.jpg",
-      "taxon": "Koeberlinia spinosa",
-      "src": "media/koeberlinia-spinosa/archived-d2130651ac33a348.jpg",
-      "sha256": "d2130651ac33a3480bd36f66eceb4165ceaa27ec843d24baa0d2cbbe8d067e52"
-    },
-    {
-      "species_id": "vaccinium-arboreum",
-      "family": "Ericaceae",
-      "filename": "commons-vaccinium-arboreum.jpg",
-      "original_path": "content/taxa/Ericaceae/Vaccinium/vaccinium-arboreum/images/commons-vaccinium-arboreum.jpg",
-      "archive_path": "migration/private-original-photo-holds/Ericaceae/Vaccinium/vaccinium-arboreum/images/commons-vaccinium-arboreum.jpg",
-      "git_blob_sha": "ab024b2b0fb4afed02a63fc9aeee95f83f522cc6",
-      "lane": "commons",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "sonnia hill",
-      "license": "CC BY 2.0",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Vaccinium_arboreum_with_persistent_fruit.jpg",
-      "taxon": "Vaccinium arboreum",
-      "src": "media/vaccinium-arboreum/archived-557e39039c1235aa.jpg",
-      "sha256": "557e39039c1235aa4d8f02166cf6dbeab49be84dcda2dead7f81077b628e8454"
+      "creator": "Ivengo(RUS)",
+      "license": "PUBLIC DOMAIN (AUTHOR RELEASED)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ribes_aureum.jpg",
+      "taxon": "Ribes aureum",
+      "src": "media/ribes-aureum/archived-248d9fcfad135640.jpg",
+      "sha256": "248d9fcfad135640f725600d1d8c683932dda9950001347276a9113e3220fe69"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-03T18:38:46.843181+00:00",
+      "selected_candidates": 2,
+      "new_installed": 2,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "koeberlinia-spinosa",
+          "family": "Koeberliniaceae",
+          "filename": "commons-koeberlinia-spinosa-alex-abair.jpg",
+          "original_path": "content/taxa/Koeberliniaceae/Koeberlinia/koeberlinia-spinosa/images/commons-koeberlinia-spinosa-alex-abair.jpg",
+          "archive_path": "migration/private-original-photo-holds/Koeberliniaceae/Koeberlinia/koeberlinia-spinosa/images/commons-koeberlinia-spinosa-alex-abair.jpg",
+          "git_blob_sha": "f8ee63311212b0da7f73ecb5f70402de56ff0fc2",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Alex Abair",
+          "license": "CC BY 4.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Koeberlinia_spinosa_12747630.jpg",
+          "taxon": "Koeberlinia spinosa",
+          "src": "media/koeberlinia-spinosa/archived-d2130651ac33a348.jpg",
+          "sha256": "d2130651ac33a3480bd36f66eceb4165ceaa27ec843d24baa0d2cbbe8d067e52"
+        },
+        {
+          "species_id": "vaccinium-arboreum",
+          "family": "Ericaceae",
+          "filename": "commons-vaccinium-arboreum.jpg",
+          "original_path": "content/taxa/Ericaceae/Vaccinium/vaccinium-arboreum/images/commons-vaccinium-arboreum.jpg",
+          "archive_path": "migration/private-original-photo-holds/Ericaceae/Vaccinium/vaccinium-arboreum/images/commons-vaccinium-arboreum.jpg",
+          "git_blob_sha": "ab024b2b0fb4afed02a63fc9aeee95f83f522cc6",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "sonnia hill",
+          "license": "CC BY 2.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Vaccinium_arboreum_with_persistent_fruit.jpg",
+          "taxon": "Vaccinium arboreum",
+          "src": "media/vaccinium-arboreum/archived-557e39039c1235aa.jpg",
+          "sha256": "557e39039c1235aa4d8f02166cf6dbeab49be84dcda2dead7f81077b628e8454"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 2,
+  "cumulative_installed": 3,
   "cumulative_held_reviewed": 0
 }
