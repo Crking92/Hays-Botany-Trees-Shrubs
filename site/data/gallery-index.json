@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 130,
-  "photo_count": 609,
+  "photo_species": 131,
+  "photo_count": 611,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -110,8 +110,8 @@
       "first_src": "media/valeriana-amarella/archived-9bc9e7ea74fa8271.jpg"
     },
     "valeriana-woodsiana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/valeriana-woodsiana/archived-71f6813f7ba28b93.jpg"
     },
     "mortonia-greggii": {
       "count": 1,
@@ -378,7 +378,7 @@
       "first_src": "media/thamnosma-texana/inat-621755404.jpg"
     },
     "zanthoxylum-clava-herculis-subsp-fruticosum": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/zanthoxylum-clava-herculis-subsp-fruticosum/inat-622589747.jpg"
     },
     "phoradendron-leucarpum": {

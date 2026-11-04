@@ -243,8 +243,8 @@
       "genus": "Valeriana",
       "scientific_name": "Valeriana woodsiana",
       "common_name": "Beaked corn salad",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "mortonia-greggii",
@@ -846,7 +846,7 @@
       "genus": "Zanthoxylum",
       "scientific_name": "Zanthoxylum clava-herculis subsp. fruticosum",
       "common_name": "Texas Hercules-club",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

@@ -1,0 +1,60 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_HISTORICAL_KEW_FOLLOWUP_B_B_2026-11-03",
+  "checked_at": "2026-11-04T00:12:23.797377+00:00",
+  "source_files": 320,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "inat": 2
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 316,
+    "already_public_identical_bytes": 2
+  },
+  "new_installed": 2,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "valeriana-woodsiana",
+      "family": "Caprifoliaceae",
+      "filename": "inat-126205311.jpg",
+      "original_path": "content/taxa/Caprifoliaceae/Valeriana/valeriana-woodsiana/images/inat-126205311.jpg",
+      "archive_path": "migration/private-original-photo-holds/Caprifoliaceae/Valeriana/valeriana-woodsiana/images/inat-126205311.jpg",
+      "git_blob_sha": "e092b613a2c3d4b6c26858c51e9eead02460e858",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Paul Marcum",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/126205311",
+      "taxon": "Valerianella radiata",
+      "src": "media/valeriana-woodsiana/archived-71f6813f7ba28b93.jpg",
+      "sha256": "71f6813f7ba28b93aa55c005808f9b575903d628041316b0a4e35c4217e53ea9"
+    },
+    {
+      "species_id": "zanthoxylum-clava-herculis-subsp-fruticosum",
+      "family": "Rutaceae",
+      "filename": "inat-41660169.jpg",
+      "original_path": "content/taxa/Rutaceae/Zanthoxylum/zanthoxylum-clava-herculis-subsp-fruticosum/images/inat-41660169.jpg",
+      "archive_path": "migration/private-original-photo-holds/Rutaceae/Zanthoxylum/zanthoxylum-clava-herculis-subsp-fruticosum/images/inat-41660169.jpg",
+      "git_blob_sha": "7ee03cf9f485dbedc24d64d37b0d14d5f022763f",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Annabelle Corboy",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/41660169",
+      "taxon": "Zanthoxylum hirsutum",
+      "src": "media/zanthoxylum-clava-herculis-subsp-fruticosum/archived-973ab4a3ee2b2095.jpg",
+      "sha256": "973ab4a3ee2b20952b55b987a8ce5e9a51a2e2afbc0bfbb05cfc41602fe592a0"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 2,
+  "cumulative_held_reviewed": 0
+}

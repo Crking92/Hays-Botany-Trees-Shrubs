@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 400269546, photo 734484691, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 96de93832f298a3b0c411042cf0b6acb420643d986df916b1680fbe7c7093706.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Zanthoxylum hirsutum maps to indexed species zanthoxylum-clava-herculis-subsp-fruticosum; specialist morphology and BONAP range deferred.",
       "sha256": "96de93832f298a3b0c411042cf0b6acb420643d986df916b1680fbe7c7093706"
+    },
+    {
+      "src": "media/zanthoxylum-clava-herculis-subsp-fruticosum/archived-973ab4a3ee2b2095.jpg",
+      "creator": "Annabelle Corboy",
+      "source_page": "https://www.inaturalist.org/photos/41660169",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "7ee03cf9f485dbedc24d64d37b0d14d5f022763f",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 26817838 photo 41660169 individual CC code cc-by-nc; photographer (c) Annabelle Corboy, some rights reserved (CC BY-NC); image dHash difference 0; exact name synonym confirmed by Kew: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77175410-1; archived source SHA 7ee03cf9f485dbedc24d64d37b0d14d5f022763f; exact image source https://www.inaturalist.org/photos/41660169",
+      "taxon_review_evidence": "Original species record Zanthoxylum clava-herculis subsp. fruticosum linked to an original image and matching current inat photo of source taxon Zanthoxylum hirsutum. Synonym crosschecked with Kew POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77175410-1. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "973ab4a3ee2b20952b55b987a8ce5e9a51a2e2afbc0bfbb05cfc41602fe592a0"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
