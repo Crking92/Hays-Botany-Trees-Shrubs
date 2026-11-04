@@ -73,11 +73,27 @@ def local_audit():
                     sid + ": published photo differs from its archived Git blob")
             for key in ("creator", "source_page", "license", "license_url", "role"):
                 require(bool(str(photo.get(key) or "").strip()), sid + ": absent credit field " + key)
-            require(bool(ALLOWED.fullmatch(photo["license"])),
-                    sid + ": unknown/non-public photo license: " + photo["license"])
+            # Keep the archived approval evidence for unusual historical rights,
+            # rather than wrongly rejecting an already-cleared, exact-source photo.
+            label=photo["license"]
+            historical_pd=(
+                label=="PUBLIC DOMAIN (AUTHOR RELEASED)"
+                and photo.get("license_url")=="https://creativecommons.org/publicdomain/mark/1.0/"
+                and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:")
+                and "PUBLIC DOMAIN (AUTHOR RELEASED)" in str(photo.get("source_review_evidence") or "")
+            )
+            owner_permission=(
+                label=="OWNER PUBLIC DISPLAY PERMISSION"
+                and photo.get("creator")=="Glass Root Garden"
+                and photo.get("site_display_only") is True
+                and photo.get("public_reuse") is False
+                and "GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION" in str(photo.get("source_review_evidence") or "")
+            )
+            require(bool(ALLOWED.fullmatch(label)) or historical_pd or owner_permission,
+                    sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": gallery links to private-rights-review image")
-            nc = photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+            nc = photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0","OWNER PUBLIC DISPLAY PERMISSION"}
             require(photo.get("noncommercial_only") is nc,
                     sid + ": CC BY-NC restriction flag does not match rights")
             if nc:

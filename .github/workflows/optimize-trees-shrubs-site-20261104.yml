@@ -71,3 +71,5 @@ jobs:
         run: |
           gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" >/dev/null || true
           gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/verify-existing-site-gallery.yml/dispatches" -f ref=main >/dev/null
+
+# Rerun with exact-source historical author-public-domain and owner-display verification.
