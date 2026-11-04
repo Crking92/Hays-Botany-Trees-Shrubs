@@ -1,0 +1,118 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_HISTORICAL_NAMED_INDIVIDUAL_CC_2026-11-03",
+  "checked_at": "2026-11-04T02:56:30.759416+00:00",
+  "source_files": 320,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 6,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 6,
+  "selected_by_lane": {
+    "inat": 6
+  },
+  "skipped_or_previously_published": {
+    "original_historical_review_preserved": 122,
+    "already_public_identical_bytes": 170,
+    "no_specific_named_cc_license_and_author": 21,
+    "no_matching_per_image_csv_row": 1
+  },
+  "new_installed": 4,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "quercus-fusiformis",
+      "family": "Fagaceae",
+      "filename": "01-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-fusiformis/images/01-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-fusiformis/images/01-curated-reference.jpg",
+      "git_blob_sha": "26c56472603effe13278d7bc4a1b166defe53c65",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Donovan Moxley",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/28671325",
+      "taxon": "Quercus fusiformis",
+      "src": "media/quercus-fusiformis/archived-2635ad8066ed267e.jpg",
+      "sha256": "2635ad8066ed267e531d33d602fbbb9a6de3411d1523c13cf8b88538afa73fe4"
+    },
+    {
+      "species_id": "quercus-sinuata-var-breviloba",
+      "family": "Fagaceae",
+      "filename": "01-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-sinuata-var-breviloba/images/01-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-sinuata-var-breviloba/images/01-curated-reference.jpg",
+      "git_blob_sha": "8b0e406325514922b3f617f8ea79bac586c943e5",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Original named species card does not match assigned species ID"
+    },
+    {
+      "species_id": "quercus-sinuata-var-breviloba",
+      "family": "Fagaceae",
+      "filename": "02-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-sinuata-var-breviloba/images/02-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-sinuata-var-breviloba/images/02-curated-reference.jpg",
+      "git_blob_sha": "42f499e5c150f526e4c5abf19b92efe531d5b22a",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Original named species card does not match assigned species ID"
+    },
+    {
+      "species_id": "quercus-stellata",
+      "family": "Fagaceae",
+      "filename": "01-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-stellata/images/01-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-stellata/images/01-curated-reference.jpg",
+      "git_blob_sha": "b2bb546b5dae3cd351e0b620f3f60a61dfe89bd8",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "paddymcg",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/49138496",
+      "taxon": "Quercus stellata",
+      "src": "media/quercus-stellata/archived-d6232f9e4b082816.jpg",
+      "sha256": "d6232f9e4b0828165116c0355808664e6a1249c1a79e0e6bfa7380d275514371"
+    },
+    {
+      "species_id": "quercus-stellata",
+      "family": "Fagaceae",
+      "filename": "02-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-stellata/images/02-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-stellata/images/02-curated-reference.jpg",
+      "git_blob_sha": "b536c7f0994c208ecf8e20bcc0e81773b0d4b538",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "drewe",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/66322185",
+      "taxon": "Quercus stellata",
+      "src": "media/quercus-stellata/archived-ae9841728dc74f29.jpg",
+      "sha256": "ae9841728dc74f2927435bde20ba10f7a98d83d40e5d9afd776830dc0e36c9cc"
+    },
+    {
+      "species_id": "quercus-vaseyana",
+      "family": "Fagaceae",
+      "filename": "02-curated-reference.jpg",
+      "original_path": "content/taxa/Fagaceae/Quercus/quercus-vaseyana/images/02-curated-reference.jpg",
+      "archive_path": "migration/private-original-photo-holds/Fagaceae/Quercus/quercus-vaseyana/images/02-curated-reference.jpg",
+      "git_blob_sha": "bb9d403456df2abfbd8ab41c9f7b01dcf0f169ef",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Curren Frasch",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/366749105",
+      "taxon": "Quercus vaseyana",
+      "src": "media/quercus-vaseyana/archived-f3a9b8a8e9e14d6d.jpg",
+      "sha256": "f3a9b8a8e9e14d6d0f8c4deabb1d456761e2d793d002f9d6cde3b0f8cd8c375b"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Original named species card does not match assigned species ID": 2
+  },
+  "cumulative_installed": 4,
+  "cumulative_held_reviewed": 2
+}
