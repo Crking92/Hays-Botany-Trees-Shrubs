@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 133,
-  "photo_count": 791,
+  "photo_count": 796,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 6,
@@ -22,7 +22,7 @@
       "first_src": "media/rhus-aromatica/01-flowers.jpg"
     },
     "rhus-copallinum-var-lanceolata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/rhus-copallinum-var-lanceolata/01-compound-leaf-habit.jpg"
     },
     "rhus-microphylla": {
