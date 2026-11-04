@@ -73,3 +73,5 @@ jobs:
           gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/verify-existing-site-gallery.yml/dispatches" -f ref=main >/dev/null
 
 # Rerun with exact-source historical author-public-domain and owner-display verification.
+
+# Retry with exact Commons photo source and federal copyright section 105 evidence.

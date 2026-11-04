@@ -89,7 +89,14 @@ def local_audit():
                 and photo.get("public_reuse") is False
                 and "GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION" in str(photo.get("source_review_evidence") or "")
             )
-            require(bool(ALLOWED.fullmatch(label)) or historical_pd or owner_permission,
+            federal_public_domain=(
+                label=="PUBLIC DOMAIN (U.S. FEDERAL WORK)"
+                and photo.get("license_url")=="https://www.copyright.gov/title17/92chap1.html#105"
+                and photo.get("source_page","").startswith("https://commons.wikimedia.org/wiki/File:")
+                and "PUBLIC DOMAIN (U.S. FEDERAL WORK)" in str(photo.get("source_review_evidence") or "")
+                and bool(photo.get("creator"))
+            )
+            require(bool(ALLOWED.fullmatch(label)) or historical_pd or federal_public_domain or owner_permission,
                     sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": gallery links to private-rights-review image")
