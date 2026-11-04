@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 132,
-  "photo_count": 705,
+  "photo_species": 133,
+  "photo_count": 716,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -58,15 +58,15 @@
       "first_src": "media/ilex-vomitoria/01-leaves-fruit.jpg"
     },
     "hydrocotyle-bonariensis": {
-      "count": 0,
-      "first_src": null
+      "count": 6,
+      "first_src": "media/hydrocotyle-bonariensis/archived-2fab073a20a4c030.jpg"
     },
     "hydrocotyle-umbellata": {
       "count": 6,
       "first_src": "media/hydrocotyle-umbellata/archived-19bff58519c694e1.jpg"
     },
     "hydrocotyle-verticillata": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/hydrocotyle-verticillata/hydrocotyle-verticillata-ton-rulkens-leaves.jpg"
     },
     "celtis-laevigata": {
