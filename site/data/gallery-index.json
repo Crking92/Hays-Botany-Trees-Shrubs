@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
-  "photo_species": 128,
-  "photo_count": 607,
+  "photo_species": 130,
+  "photo_count": 609,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -42,8 +42,8 @@
       "first_src": "media/toxicodendron-radicans/archived-7a42f644f109b9f2.jpg"
     },
     "toxicodendron-radicans-subsp-rydbergii": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/toxicodendron-radicans-subsp-rydbergii/archived-c0d0cb3c3f766263.jpg"
     },
     "ilex-decidua": {
       "count": 3,
@@ -106,8 +106,8 @@
       "first_src": "media/symphoricarpos-orbiculatus/archived-ce279516dfe195dc.jpg"
     },
     "valeriana-amarella": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/valeriana-amarella/archived-9bc9e7ea74fa8271.jpg"
     },
     "valeriana-woodsiana": {
       "count": 0,

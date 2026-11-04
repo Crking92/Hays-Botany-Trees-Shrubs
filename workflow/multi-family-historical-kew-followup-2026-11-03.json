@@ -1,0 +1,60 @@
+{
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "batch_key": "MULTIFAMILY_HISTORICAL_KEW_FOLLOWUP_2026-11-03",
+  "checked_at": "2026-11-04T00:07:36.396430+00:00",
+  "source_files": 320,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "inat": 2
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 316,
+    "unreviewed_taxonomic_mismatch": 2
+  },
+  "new_installed": 2,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "toxicodendron-radicans-subsp-rydbergii",
+      "family": "Anacardiaceae",
+      "filename": "inat-600851525.jpg",
+      "original_path": "content/taxa/Anacardiaceae/Toxicodendron/toxicodendron-radicans-subsp-rydbergii/images/inat-600851525.jpg",
+      "archive_path": "migration/private-original-photo-holds/Anacardiaceae/Toxicodendron/toxicodendron-radicans-subsp-rydbergii/images/inat-600851525.jpg",
+      "git_blob_sha": "cf072e00b611d9d17eae617c70bc6665049f3036",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Sequoia Janirella Wrens",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/600851525",
+      "taxon": "Toxicodendron rydbergii",
+      "src": "media/toxicodendron-radicans-subsp-rydbergii/archived-c0d0cb3c3f766263.jpg",
+      "sha256": "c0d0cb3c3f766263a5ccb899870e459e365b1310683548518c1aa1092be9a6d6"
+    },
+    {
+      "species_id": "valeriana-amarella",
+      "family": "Caprifoliaceae",
+      "filename": "inat-7237652.jpg",
+      "original_path": "content/taxa/Caprifoliaceae/Valeriana/valeriana-amarella/images/inat-7237652.jpg",
+      "archive_path": "migration/private-original-photo-holds/Caprifoliaceae/Valeriana/valeriana-amarella/images/inat-7237652.jpg",
+      "git_blob_sha": "57ef83ae4b6bf2365126c7df9a74cecb082f4c09",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Chuck Sexton",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/7237652",
+      "taxon": "Valerianella amarella",
+      "src": "media/valeriana-amarella/archived-9bc9e7ea74fa8271.jpg",
+      "sha256": "9bc9e7ea74fa8271b53c9b0070eb98a212f99b3878795822104d12001ab21276"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 2,
+  "cumulative_held_reviewed": 0
+}
