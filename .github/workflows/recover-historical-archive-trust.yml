@@ -1,4 +1,5 @@
 name: Bulk reuse of trusted archived source-photo records
+# 2026-11-04 batch-recovery retry: use existing source/license checks and family publisher lock
 on:
   push:
     branches: [main]
