@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 133,
-  "photo_count": 723,
+  "photo_count": 753,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -46,27 +46,27 @@
       "first_src": "media/toxicodendron-radicans-subsp-rydbergii/archived-c0d0cb3c3f766263.jpg"
     },
     "ilex-decidua": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/ilex-decidua/01-summer-leaf-twig.jpg"
     },
     "ilex-opaca": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/ilex-opaca/ilex-opaca-provisional-face.jpg"
     },
     "ilex-vomitoria": {
-      "count": 7,
+      "count": 12,
       "first_src": "media/ilex-vomitoria/01-leaves-fruit.jpg"
     },
     "hydrocotyle-bonariensis": {
-      "count": 6,
+      "count": 11,
       "first_src": "media/hydrocotyle-bonariensis/archived-2fab073a20a4c030.jpg"
     },
     "hydrocotyle-umbellata": {
-      "count": 6,
+      "count": 11,
       "first_src": "media/hydrocotyle-umbellata/archived-19bff58519c694e1.jpg"
     },
     "hydrocotyle-verticillata": {
-      "count": 6,
+      "count": 11,
       "first_src": "media/hydrocotyle-verticillata/hydrocotyle-verticillata-ton-rulkens-leaves.jpg"
     },
     "celtis-laevigata": {
