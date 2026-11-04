@@ -100,7 +100,7 @@ def local_audit():
                     sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": gallery links to private-rights-review image")
-            nc = photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0","OWNER PUBLIC DISPLAY PERMISSION"}
+            nc = photo["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
             require(photo.get("noncommercial_only") is nc,
                     sid + ": CC BY-NC restriction flag does not match rights")
             if nc:

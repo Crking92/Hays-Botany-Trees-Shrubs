@@ -77,3 +77,5 @@ jobs:
 # Retry with exact Commons photo source and federal copyright section 105 evidence.
 
 # Exact-source Creative Commons 2.0 France photos are supported in historical gallery audit.
+
+# Keep owner-specific site display permission separate from Creative Commons NC flags.
