@@ -10,8 +10,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/schinus-terebinthifolia/archived-2670e79049f4713c.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/626401570",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "bcdc273c8d5de2e11d143af28cf80540a52ce4ca",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 343833269 photo 626401570 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA bcdc273c8d5de2e11d143af28cf80540a52ce4ca; exact image source https://www.inaturalist.org/photos/626401570",
+      "taxon_review_evidence": "Original species record Schinus terebinthifolia linked to an original image and matching current inat photo of source taxon Schinus terebinthifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "2670e79049f4713cac7e65c24abbefc2a88a6144cea327bc7ae0e3f6d25b6dee"
+    },
+    {
+      "src": "media/schinus-terebinthifolia/archived-2f4387191301a779.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/626401530",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "fdd08be4e424942d4cf42bab74d9280a7ff483ad",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 343833269 photo 626401530 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA fdd08be4e424942d4cf42bab74d9280a7ff483ad; exact image source https://www.inaturalist.org/photos/626401530",
+      "taxon_review_evidence": "Original species record Schinus terebinthifolia linked to an original image and matching current inat photo of source taxon Schinus terebinthifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "2f4387191301a779061184dff05f2ae51565ff46539221bec7e8076a0ff9250b"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "525ea605ddd9fdb85abac82971785514bbd5efe2f69ac289af47ffb296714622",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -72,8 +72,8 @@
       "genus": "Schinus",
       "scientific_name": "Schinus terebinthifolia",
       "common_name": "Brazilian peppertree",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "toxicodendron-radicans",
@@ -531,7 +531,7 @@
       "genus": "Carya",
       "scientific_name": "Carya illinoinensis",
       "common_name": "Pecan",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -585,7 +585,7 @@
       "genus": "Lindera",
       "scientific_name": "Lindera benzoin",
       "common_name": "Spicebush",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -603,7 +603,7 @@
       "genus": "Melia",
       "scientific_name": "Melia azedarach",
       "common_name": "Chinaberry",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -630,7 +630,7 @@
       "genus": "Morus",
       "scientific_name": "Morus microphylla",
       "common_name": "Texas mulberry",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -693,7 +693,7 @@
       "genus": "Frangula",
       "scientific_name": "Frangula caroliniana",
       "common_name": "Carolina buckthorn",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -855,7 +855,7 @@
       "genus": "Phoradendron",
       "scientific_name": "Phoradendron leucarpum",
       "common_name": "American mistletoe",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1116,7 +1116,7 @@
       "genus": "Viburnum",
       "scientific_name": "Viburnum rufidulum",
       "common_name": "Rusty blackhaw",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
