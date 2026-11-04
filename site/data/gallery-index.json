@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 131,
-  "photo_count": 618,
+  "photo_count": 648,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -70,27 +70,27 @@
       "first_src": "media/hydrocotyle-verticillata/hydrocotyle-verticillata-ton-rulkens-leaves.jpg"
     },
     "celtis-laevigata": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/celtis-laevigata/01-whole-tree.jpg"
     },
     "celtis-lindheimeri": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/celtis-lindheimeri/celtis-lindheimeri-provisional-face.jpg"
     },
     "celtis-pallida": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/celtis-pallida/01-plant-reference.jpg"
     },
     "celtis-reticulata": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/celtis-reticulata/01-field-form.jpg"
     },
     "lonicera-albiflora": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/lonicera-albiflora/01-texas-honeysuckle-live.jpg"
     },
     "lonicera-japonica": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/lonicera-japonica/01-japanese-honeysuckle-axillary-flowers.jpg"
     },
     "lonicera-sempervirens": {
