@@ -96,7 +96,17 @@ def local_audit():
                 and "PUBLIC DOMAIN (U.S. FEDERAL WORK)" in str(photo.get("source_review_evidence") or "")
                 and bool(photo.get("creator"))
             )
-            require(bool(ALLOWED.fullmatch(label)) or historical_pd or federal_public_domain or owner_permission,
+            # Legacy Creative Commons ported licenses (e.g. CC BY-SA 3.0 RS)
+            # must match their exact regional Creative Commons URL.
+            regional_match=re.fullmatch(r"CC (BY(?:-NC)?(?:-SA)?) (2\\.0|2\\.5|3\\.0) ([A-Z]{2})",label)
+            regional_cc=bool(regional_match) and (
+                photo.get("license_url")==
+                "https://creativecommons.org/licenses/"+
+                regional_match.group(1).lower()+"/"+
+                regional_match.group(2)+"/"+
+                regional_match.group(3).lower()+"/"
+            )
+            require(bool(ALLOWED.fullmatch(label)) or regional_cc or historical_pd or federal_public_domain or owner_permission,
                     sid + ": unknown/non-public photo license: " + label)
             require(not photo.get("private_rights_review_only"),
                     sid + ": gallery links to private-rights-review image")

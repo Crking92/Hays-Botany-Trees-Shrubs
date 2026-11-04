@@ -79,3 +79,5 @@ jobs:
 # Exact-source Creative Commons 2.0 France photos are supported in historical gallery audit.
 
 # Keep owner-specific site display permission separate from Creative Commons NC flags.
+
+# Support documented regional Creative Commons licenses with exact CC license URL matches.
