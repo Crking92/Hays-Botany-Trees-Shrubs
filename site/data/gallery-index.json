@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 131,
-  "photo_count": 648,
+  "photo_count": 668,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 1,
@@ -94,7 +94,7 @@
       "first_src": "media/lonicera-japonica/01-japanese-honeysuckle-axillary-flowers.jpg"
     },
     "lonicera-sempervirens": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/lonicera-sempervirens/01-coral-honeysuckle-flower-and-vine.jpg"
     },
     "symphoricarpos-albus": {
@@ -102,7 +102,7 @@
       "first_src": "media/symphoricarpos-albus/archived-7bd86db54899788d.jpg"
     },
     "symphoricarpos-orbiculatus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/symphoricarpos-orbiculatus/archived-ce279516dfe195dc.jpg"
     },
     "valeriana-amarella": {
@@ -114,11 +114,11 @@
       "first_src": "media/valeriana-woodsiana/archived-71f6813f7ba28b93.jpg"
     },
     "mortonia-greggii": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/mortonia-greggii/archived-cbb6712de9225155.jpg"
     },
     "schaefferia-cuneifolia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/schaefferia-cuneifolia/archived-8a73e43b29f54722.jpg"
     },
     "cornus-drummondii": {
