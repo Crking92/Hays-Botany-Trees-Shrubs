@@ -3,22 +3,22 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 133,
   "photo_species": 133,
-  "photo_count": 758,
+  "photo_count": 791,
   "entries": {
     "liquidambar-styraciflua": {
       "count": 6,
       "first_src": "media/liquidambar-styraciflua/archived-d7a638b40019f2d6.jpg"
     },
     "cotinus-obovatus": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/cotinus-obovatus/cotinus-obovatus-obovate-leaves-commons.jpg"
     },
     "pistacia-chinensis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/pistacia-chinensis/archived-dbf1ef474e697085.jpg"
     },
     "rhus-aromatica": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/rhus-aromatica/01-flowers.jpg"
     },
     "rhus-copallinum-var-lanceolata": {
@@ -26,19 +26,19 @@
       "first_src": "media/rhus-copallinum-var-lanceolata/01-compound-leaf-habit.jpg"
     },
     "rhus-microphylla": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/rhus-microphylla/rhus-microphylla-provisional-face.jpg"
     },
     "rhus-virens": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/rhus-virens/01-habit.jpg"
     },
     "schinus-terebinthifolia": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/schinus-terebinthifolia/archived-2670e79049f4713c.jpg"
     },
     "toxicodendron-radicans": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/toxicodendron-radicans/archived-7a42f644f109b9f2.jpg"
     },
     "toxicodendron-radicans-subsp-rydbergii": {
