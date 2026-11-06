@@ -52,7 +52,7 @@ for row in idx["entries"]:
         assert path.is_file() and path.stat().st_size>500,src
         content=path.read_bytes()
         assert content.startswith((b"\xff\xd8\xff",b"\x89PNG\r\n\x1a\n",b"RIFF")),src
-        assert hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()==p["source_blob_sha"],src
+        assert hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()==p.get("display_blob_sha",p["source_blob_sha"]),src
         approved.add(path.resolve())
         total+=1
 assert total==g["photo_count"],"Gallery total out of sync with published cards"
