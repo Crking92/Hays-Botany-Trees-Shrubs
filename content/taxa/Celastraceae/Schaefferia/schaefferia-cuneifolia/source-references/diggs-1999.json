@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "schaefferia-cuneifolia",
+  "inventory_scientific_name": "Schaefferia cuneifolia",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "source_file": null,
+    "status": "NO_DIRECT_TREATMENT_LOCATED"
+  },
+  "historical_synonyms_documented": [],
+  "morphology_documented": {
+    "growth_habit": "Shrub primarily in dry shrubland biome (Kew POWO general ecology)"
+  },
+  "secondary_sources": [
+    {
+      "name": "Kew POWO",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:162755-1",
+      "status": "TAXONOMY_AND_GENERAL_GROWTH_FORM_ONLY"
+    }
+  ],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No named 1999 regional flora treatment located",
+    "Kew POWO accepts S. cuneifolia; treats Mortonia aspera as heterotypic synonym",
+    "Kew says native range west and south Texas to northern and western Mexico; does not establish Hays county"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SOURCE_GAP_OR_SECONDARY_PARTIAL_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
