@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "lonicera-sempervirens",
+  "inventory_scientific_name": "Lonicera sempervirens",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      510
+    ],
+    "original_treatment_name": "Lonicera sempervirens L.",
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY_VERIFIED"
+  },
+  "historical_synonyms_documented": [],
+  "morphology_documented": {
+    "growth_habit": "Evergreen, glabrous, twining vine",
+    "stems": "Young stems glabrous or nearly so",
+    "leaves": "Opposite, sessile or subsessile, ovate to elliptic or obovate, 3–6(–7) cm long × 2–4 cm wide; subleathery, obtuse to acute apically, often glaucous beneath; upper 1–2 or more pairs perfoliate",
+    "flowers": "Terminal whorls, tubular corolla 25–50 mm long by genus key; usually red outside and orange inside, shallow lobes nearly equal",
+    "fruit": "Red to reddish-orange berries 6–10 mm diameter",
+    "habitat": "Stream banks, hillside woods; also cultivated",
+    "phenology": "Mar–Apr"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Compare L. albiflora's 12–18 mm creamy white corollas",
+    "Corolla numerical range comes from genus key, not individual species paragraph"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "HISTORICAL_FLORA_VERIFIED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
