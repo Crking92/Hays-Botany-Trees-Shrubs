@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "ailanthus-altissima",
+  "inventory_scientific_name": "Ailanthus altissima",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      1015
+    ],
+    "original_treatment_name": "Ailanthus altissima (Mill.) Swingle",
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_TREATMENT_VARIETY_OR_FAMILY_MENTION"
+  },
+  "morphology_documented": {
+    "habit": "Fast-growing tree to 20 m, root-sprouting colonies, brittle branches",
+    "leaves": "Alternate pinnate leaves with up to 27 leaflets, unpleasant smell, otherwise entire leaflets with basal teeth and glands",
+    "flowers": "Many small yellow-green flowers in terminal panicles, mainly unisexual, male flowers strong-smelling",
+    "fruit": "Twisted one-seeded winged mericarps 3–5 cm, 2–5 per fruit, red-tinted with age",
+    "habitat": "Cultivated/escaped in disturbance",
+    "flowering": "April"
+  },
+  "source_scope_note": "Historic taxonomic rank maintained; comparative key traits or family-only descriptions not automatically promoted to accepted species level.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Introduced from China; flora reports allelopathy and potential skin irritation, not native"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_HISTORICAL_SOURCE_RECORDED_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive species source references only; no original records, photos, credits or galleries changed"
+}
