@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "liquidambar-styraciflua",
+  "inventory_scientific_name": "Liquidambar styraciflua",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      737
+    ],
+    "original_treatment_name": "Liquidambar styraciflua L.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf"
+  },
+  "morphology_documented": {
+    "habit": "Monoecious tree to 40 m or more",
+    "stems": "Small branches often with corky ridges; often exudes gum",
+    "leaves": "Alternate, simple, deciduous; blade to ca. 18 cm long and 12 cm wide; deeply palmately 5–7-lobed, acuminate lobes usually serrate; crushed leaves fragrant; petioles to 12 cm",
+    "flowers": "Unisexual, apetalous; staminate flowers in bracteate globose masses on racemes to 6 cm; pistillate flowers in peduncled globose heads",
+    "fruit": "Woody globose clusters to 3 cm diameter of 2-beaked capsules",
+    "habitat": "Wet areas, low or rich woods",
+    "flowering": "Mar–May"
+  },
+  "source_scope_note": "Only traits documented in cited flora; null/omitted traits not inferred. Genus-key traits indicated where relevant.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical flora places genus with Hamamelidaceae/Altingioideae; current repo uses Altingiaceae",
+    "Flora says mainly eastern Texas and cultivated farther west; this is not county-level BONAP evidence"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_flora": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_TEXT_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record; original species.json, photos, credits, and galleries unchanged"
+}
