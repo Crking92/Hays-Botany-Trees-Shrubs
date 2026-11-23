@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "nekemias-arborea",
+  "inventory_scientific_name": "Nekemias arborea",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      1066
+    ],
+    "original_treatment_name": "Ampelopsis arborea (L.) Koehne",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "SOURCE_TEXT_TAXONOMIC_SCOPE_INSPECTED"
+  },
+  "morphology_documented": {
+    "historical_ampelopsis_arborea": {
+      "habit": "Woody, bushy to moderately high-climbing vine",
+      "leaves": "Usually (9–)11–34 or more leaflets; oblong-elliptic dark-green coarsely toothed lobed or unlobed, up to 3–7 cm",
+      "habitat": "Stream bottoms, fence lines, disturbed ground",
+      "flowering": "Late Jun–Jul"
+    }
+  },
+  "source_scope_note": "Historical varieties and synonyms preserved by original names; measurements never automatically transferred to different modern taxon concepts.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historic Ampelopsis arborea concept maps to inventory Nekemias arborea; taxonomic combination not updated in original flora",
+    "Retain explicit original genus before modern name change"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_FLORA_EXTRACTED_MODERN_TAXONOMY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive source record; existing gallery, pictures, credits and species files unchanged"
+}
