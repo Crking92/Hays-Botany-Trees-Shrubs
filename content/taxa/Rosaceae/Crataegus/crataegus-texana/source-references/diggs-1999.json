@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "crataegus-texana",
+  "inventory_scientific_name": "Crataegus texana",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "historical_synonyms_documented": [],
+    "source_file": null,
+    "status": "NO_DIRECT_SPECIES_TREATMENT_LOCATED"
+  },
+  "morphology_documented": {},
+  "secondary_sources": [
+    {
+      "name": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416358",
+      "status": "SPECIES_CHARACTER_EXCERPT_VERIFIED",
+      "morphology": {
+        "flowers": "About 20 stamens with pink to purple anthers",
+        "fruit": "Red-fruited complex"
+      }
+    },
+    {
+      "name": "Kew POWO",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:724380-1",
+      "status": "ACCEPTED_TAXON_CHECKED"
+    }
+  ],
+  "source_scope_note": "Genus/key traits explicitly identified; modern secondary evidence separately cited; no unsupported species characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Named Crataegus texana treatment not located in 1999 flora; genus account warns strong hybridization, polyploidy, apomixis and leaf variability",
+    "FNA treats C. texana as provisional complex with pink to purple anthers, 20 stamens and red fruits; no direct 1999 attribution",
+    "POWO accepts C. texana and lists C. mollis var. texana in nomenclatural synonymy, requiring concept care"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "REGIONAL_SOURCE_GAP_SECONDARY_PARTIAL_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive file; existing species records, photographs, credits and galleries unchanged"
+}
