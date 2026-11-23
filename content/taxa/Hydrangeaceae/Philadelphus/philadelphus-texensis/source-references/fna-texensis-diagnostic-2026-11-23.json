@@ -1,0 +1,33 @@
+{
+  "record_type": "targeted_secondary_source_morphology",
+  "date": "2026-11-23",
+  "inventory_name": "Philadelphus texensis",
+  "source_title": "Flora of North America, Philadelphus texensis treatment and varietal key",
+  "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101962",
+  "source_evidence_note": "Exact species page indexed; only the traits captured in indexed FNA treatment and linked varietal snippets are transcribed here, not a complete treatment.",
+  "documented_flower_chars": {
+    "sepals": "2.5–5.5 × 1–2.5 mm",
+    "petals": "White, 8–10(–14) × 3.5–5(–10.5) mm",
+    "stamens": "(11–)14–16(–24)",
+    "style": "1, club-shaped, 1.9–3(–3.5) mm"
+  },
+  "varieties": {
+    "texensis": {
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250102017",
+      "leaf_blade_cm": "(1–)1.6–3.3(–4.7) × (0.5–)0.6–1(–2.3)",
+      "abaxial_hairs": "Strigose 0.4–0.8 mm, plus underlying layer of white, fine, tightly coiled-crisped hairs"
+    },
+    "ernestii": {
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250102018",
+      "leaf_blade_cm": "(1–)1.9–3(–4.1) × (0.4–)0.5–1.1(–1.8)",
+      "abaxial_hairs": "Strigose 0.2–0.5(–0.7) mm, lacking underlying white finely coiled-crisped hairs"
+    }
+  },
+  "status": "PARTIAL_FNA_MORPHOLOGY_EXTRACTED; source_name_conflict_preserved",
+  "next_actions": [
+    "Check full FNA treatment or 2016 Henrickson revision for remaining details before treating this as complete",
+    "Keep diagnostic hair characters assigned to the correct variety; do not transfer them to whole species"
+  ],
+  "bonap": "DEFERRED",
+  "preservation": "Additive-only: no species or photo changes"
+}
