@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "ungnadia-speciosa",
+  "inventory_scientific_name": "Ungnadia speciosa",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      982
+    ],
+    "original_treatment_name": "Ungnadia speciosa Endl.",
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_TREATMENT_VARIETY_OR_FAMILY_MENTION"
+  },
+  "morphology_documented": {
+    "habit": "Shrub or small tree, rarely reaches 10 m",
+    "leaves": "Usually (3–)5–9 glabrous strongly veined ovate-lanceolate leaflets, terminal ones sometimes partially fused",
+    "flowers": "Fragrant before or with foliage; four or five rose-pink/purple petals, hairy claw, seven to ten stamens with red anthers",
+    "fruit": "Three-lobed capsule 3.5–5 cm, pale green sometimes reddish, glossy dark seeds 10–15 mm",
+    "habitat": "Limestone rocky sites",
+    "flowering": "April"
+  },
+  "source_scope_note": "Historic taxonomic rank maintained; comparative key traits or family-only descriptions not automatically promoted to accepted species level.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Despite name Mexican buckeye, it differs from Aesculus by alternate pinnate rather than opposite palmately compound leaves",
+    "Historical source marks seeds poisonous"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_HISTORICAL_SOURCE_RECORDED_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive species source references only; no original records, photos, credits or galleries changed"
+}
