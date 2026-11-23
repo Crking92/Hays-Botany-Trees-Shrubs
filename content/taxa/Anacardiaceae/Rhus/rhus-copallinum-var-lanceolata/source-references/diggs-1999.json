@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "rhus-copallinum-var-lanceolata",
+  "inventory_scientific_name": "Rhus copallinum var. lanceolata",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      234
+    ],
+    "original_treatment_name": "Rhus lanceolata (A. Gray) Britton",
+    "historical_synonyms_documented": [
+      "Rhus copallinum L. var. lanceolata A. Gray"
+    ],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf"
+  },
+  "morphology_documented": {
+    "habit": "Large shrub or small tree to 10 m",
+    "leaves": "Pinnately compound; leaf rachis winged, rachis plus wings usually <3.5 mm across; 13–19 linear-lanceolate leaflets, 4–9 times as long as wide, usually strongly falcate, usually glabrous",
+    "flowers": "Dense subsessile pyramidal panicles",
+    "habitat": "Limestone",
+    "flowering": "Jul–Aug"
+  },
+  "source_scope_note": "Only traits documented in cited flora; null/omitted traits not inferred. Genus-key traits indicated where relevant.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Explicit historical rank conflict: Diggs 1999 recognizes R. lanceolata at species rank but lists R. copallinum var. lanceolata in synonymy; preserve current index concept pending authoritative modern taxonomic crosswalk",
+    "Not to be confused with flora's R. copallinum var. latifolia (rachis+wings on some leaves >4 mm; leaflets 7–17, 2–4× as long as wide)"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_flora": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_TEXT_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record; original species.json, photos, credits, and galleries unchanged"
+}
