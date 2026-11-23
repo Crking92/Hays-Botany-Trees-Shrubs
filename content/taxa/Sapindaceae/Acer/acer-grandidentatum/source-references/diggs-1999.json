@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "acer-grandidentatum",
+  "inventory_scientific_name": "Acer grandidentatum",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      219
+    ],
+    "original_treatment_name": "Acer grandidentatum Nutt. var. sinuosum (Rehder) Little",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "HISTORICAL_TREATMENT_OR_COMPARATOR_INSPECTED"
+  },
+  "morphology_documented": {
+    "historic_variety_only": {
+      "flowers": "Petal-less flowers as leaves expand or after",
+      "fruit": "U-shaped sinus of paired samaras; wings to ~31 mm",
+      "habitat": "Limestone canyons on Edwards Plateau and Lampasas Cut Plain"
+    }
+  },
+  "source_scope_note": "Historical rank and source scope retained; genus, species, variety and comparator traits not conflated.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical variety not equivalent to entirety of accepted species; old A. saccharum var. sinuosum and var. floridanum concepts disputed"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_regional": "PENDING"
+  },
+  "verification_status": "PRIMARY_OR_COMPARATOR_RECORDED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research only; original species, images, credits and galleries untouched"
+}
