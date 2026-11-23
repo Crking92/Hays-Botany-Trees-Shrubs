@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "quercus-sinuata-var-breviloba",
+  "inventory_scientific_name": "Quercus sinuata var. breviloba",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      718
+    ],
+    "original_treatment_name": "Quercus sinuata Walter var. breviloba (Torr.) C.H. Müll.",
+    "historical_synonyms_documented": [
+      "Quercus san-sabeana Buckley",
+      "Quercus breviloba (Torr.) Sarg."
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "SOURCE_TEXT_AND_KEY_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Shrub to small often multitrunked tree, generally to 6(–12) m, can form thickets",
+    "habitat": "Limestone outcrops and rocky uplands, especially Austin Chalk, Cross Timbers, Edwards Plateau",
+    "comparison": "Q. sinuata var. sinuata is a much larger bottomland tree; historical varieties differ in habit and habitat"
+  },
+  "source_scope_note": "Historical species treatments and explicitly identified genus/key characteristics only; missing morphology not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Specific leaf and acorn measurements are not provided in the direct 1999 species account",
+    "Modern varietal recognition must be crosschecked independently"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_FLORA_EXTRACTED_SECONDARY_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record only, original species and photo/credits/gallery unchanged"
+}
