@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "symphoricarpos-albus",
+  "inventory_scientific_name": "Symphoricarpos albus",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "source_file": null,
+    "status": "NO_DIRECT_TREATMENT_LOCATED"
+  },
+  "historical_synonyms_documented": [],
+  "morphology_documented": {},
+  "secondary_sources": [],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No explicit Symphoricarpos albus species treatment located in uploaded 1999 flora",
+    "Generic account identifies Symphoricarpos as deciduous shrubs, but no species measurements were extracted",
+    "Do not transfer S. orbiculatus coral-red fruit and 3–5 mm corolla measurements to snowberry without its own source"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SOURCE_GAP_OR_SECONDARY_PARTIAL_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
