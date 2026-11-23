@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "koeberlinia-spinosa",
+  "inventory_scientific_name": "Koeberlinia spinosa",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "source_file": null,
+    "status": "SPECIES_TREATMENT_NOT_LOCATED"
+  },
+  "morphology_documented": {},
+  "secondary_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=220007142",
+      "status": "REFERENCE_ONLY_FULL_TEXT_UNAVAILABLE"
+    },
+    {
+      "source": "Virginia Tech Dendrology",
+      "url": "https://dendro.cnre.vt.edu/dendrology/syllabus/factsheet.cfm?ID=521",
+      "status": "REFERENCE_FOUND"
+    }
+  ],
+  "source_scope_note": "Genus and key details explicitly noted; where historical flora lacks a species treatment, morphology is limited to independently named secondary sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No named species account in supplied 1999 regional flora; do not misattribute key traits to it",
+    "Flora of North America treatment located but not inspected in full; detailed botanical morphology remains a source hold",
+    "Do not infer Hays nativity from US-level native status"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "REGIONAL_SOURCE_GAP_WITH_SECONDARY_CHECK",
+  "review_date": "2026-11-23",
+  "preservation": "Additive, original taxon records, photos, attribution and site unchanged"
+}
