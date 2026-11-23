@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "ilex-decidua",
+  "inventory_scientific_name": "Ilex decidua",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      270
+    ],
+    "original_treatment_name": "Ilex decidua Walter",
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf"
+  },
+  "morphology_documented": {
+    "habit": "Deciduous shrub or small tree (Ilex genus description)",
+    "bark": "Mostly smooth light-gray bark (genus)",
+    "leaves": "Alternate simple; larger flowering branch blades spatulate, oblanceolate or obovate, long-tapering base, pubescent along lower midrib; blades to 80 × 45 mm; petioles 2–11 mm",
+    "flowers": "Small, axillary, frequently unisexual, usually 4–5-merous (genus description)",
+    "fruit": "Bright red or orange drupaceous fruit to approximately 7.5 mm diameter, often persistent on leafless winter branches",
+    "habitat": "Rock outcrops, ravines, disturbed areas",
+    "flowering": "Mar–May"
+  },
+  "additional_source": null,
+  "source_scope_note": "Genus-level traits are expressly indicated; absent species details not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Compare evergreen I. vomitoria with shorter petioles, evergreen leaves and different blade base"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "REGIONAL_PRIMARY_TEXT_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, photos, credits and galleries unchanged"
+}
