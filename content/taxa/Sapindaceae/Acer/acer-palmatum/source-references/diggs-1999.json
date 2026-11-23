@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "acer-palmatum",
+  "inventory_scientific_name": "Acer palmatum",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "historical_synonyms_documented": [],
+    "source_file": null,
+    "status": "NO_DIRECT_SPECIES_TREATMENT"
+  },
+  "morphology_documented": {},
+  "source_scope_note": "Historical rank and source scope retained; genus, species, variety and comparator traits not conflated.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No direct species treatment found in 1999 historical regional flora; introduced ornamental, secondary data and local-origin verification pending"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_regional": "PENDING"
+  },
+  "verification_status": "HISTORICAL_SOURCE_GAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research only; original species, images, credits and galleries untouched"
+}
