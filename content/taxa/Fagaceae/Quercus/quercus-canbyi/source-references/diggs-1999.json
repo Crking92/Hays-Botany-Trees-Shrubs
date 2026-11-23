@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "quercus-canbyi",
+  "inventory_scientific_name": "Quercus canbyi",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "NO_SPECIES_TREATMENT_LOCATED"
+  },
+  "morphology_documented": {},
+  "source_scope_note": "Species vs genus/key-level characters distinguished in text; no undocumented characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No direct species treatment located in the uploaded 1999 flora",
+    "Existing family record treats this as non-project-native landscaping comparison; preserve status without inventing historical description",
+    "Modern taxonomy and range corroboration still required"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_woody_flora": "PENDING"
+  },
+  "verification_status": "REGIONAL_SOURCE_GAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record, existing species cards, original media, credits and galleries unchanged"
+}
