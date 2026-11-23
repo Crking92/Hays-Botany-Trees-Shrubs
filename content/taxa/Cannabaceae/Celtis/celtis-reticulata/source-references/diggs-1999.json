@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "celtis-reticulata",
+  "inventory_scientific_name": "Celtis reticulata",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      1038
+    ],
+    "original_treatment_name": "Celtis laevigata Willd. var. reticulata Torr.",
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY_VERIFIED"
+  },
+  "historical_synonyms_documented": [],
+  "morphology_documented": {
+    "growth_habit": "Small to medium-large tree (Celtis laevigata broad concept); variety-specific height not documented",
+    "bark": "Gray, smooth or warty-roughened (broad Celtis laevigata treatment)",
+    "leaves": "Leaf blades 2–4.5(–7) cm, thick and stiff; dark green above, pale beneath with prominent raised reticulate veins and pubescence; upper surface usually harshly scabrous, base cordate to sometimes oblique, mature apex obtuse to acute",
+    "flowers": "Small; both staminate and perfect flowers (broad C. laevigata account)",
+    "fruit": "Rounded drupes usually (5–)8–10 mm diameter, dark red to reddish black on pedicels longer than subtending petioles",
+    "habitat": "Regional distribution mostly western half of Texas; precise habitat for this variety not independently stated",
+    "phenology": "Late Mar–mid-Apr"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Diggs 1999 recognizes C. laevigata var. reticulata; specifically notes Sherman-Broyles et al. 1997 recognize it as separate species C. reticulata",
+    "Historical Ulmaceae family now routed to Cannabaceae",
+    "Do not generalize variation in var. texana to this current species"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "HISTORICAL_FLORA_VERIFIED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
