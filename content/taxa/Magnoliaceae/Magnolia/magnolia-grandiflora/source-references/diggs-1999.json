@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "magnolia-grandiflora",
+  "inventory_scientific_name": "Magnolia grandiflora",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "source_file": null,
+    "status": "SPECIES_TREATMENT_NOT_LOCATED"
+  },
+  "morphology_documented": {},
+  "secondary_sources": [
+    {
+      "source": "USDA Forest Service Silvics of North America",
+      "url": "https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/magnolia/grandiflora.htm",
+      "status": "RANGE_AND_GENERAL_HABIT_SEARCH_EXCERPT",
+      "morphology": {
+        "habit": "Evergreen tree with large white fragrant flowers and leathery leaves"
+      }
+    },
+    {
+      "source": "Smithsonian Gardens",
+      "url": "https://gardens.si.edu/collections/explore/object/ofeo-sg_2018-1073A",
+      "status": "GENERAL_BOTANICAL_CHARACTERS",
+      "morphology": {
+        "fruit": "Cone-like aggregate fruit; spiral arrangement of floral organs"
+      }
+    }
+  ],
+  "source_scope_note": "Genus and key details explicitly noted; where historical flora lacks a species treatment, morphology is limited to independently named secondary sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No named species account located in the provided north-central Texas flora; do not assign its absent species traits to Diggs",
+    "USDA Forest Service documents natural southern magnolia distribution in southeastern Texas; planted central Texas trees are not proof of BONAP Hays presence"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "REGIONAL_SOURCE_GAP_WITH_SECONDARY_CHECK",
+  "review_date": "2026-11-23",
+  "preservation": "Additive, original taxon records, photos, attribution and site unchanged"
+}
