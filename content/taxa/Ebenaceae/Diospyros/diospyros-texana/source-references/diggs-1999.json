@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "diospyros-texana",
+  "inventory_scientific_name": "Diospyros texana",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      578,
+      579
+    ],
+    "original_treatment_name": "Diospyros texana Scheele",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "PRIMARY_SOURCE_TREATMENT_OR_KEY_EXTRACTED"
+  },
+  "morphology_documented": {
+    "habit": "Tree to ca. 30 m tall as printed in 1999 flora; unusually high figure requires independent corroboration",
+    "bark": "Grayish, approximately smooth, peeling in thin layers (species key)",
+    "leaves": "Alternate, simple, entire (genus); 2–5 cm long, nearly sessile and persistently pubescent (species key and treatment)",
+    "flowers": "Axillary, drooping, urn- to bell-shaped, imperfectly unisexual; genus: usually 4-merous pale corolla, inferior staminate flowers smaller than pistillate",
+    "fruit": "Black berry ca. 2 cm diameter, pubescent ovary and fruit, edible when ripe",
+    "habitat": "Rocky woods, slopes, open areas, streams",
+    "flowering": "Feb–Jun"
+  },
+  "source_scope_note": "Species vs genus/key-level characters distinguished in text; no undocumented characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Source printed height 'to ca. 30 m' differs from common field descriptions; exact value preserved but flagged rather than silently normalized",
+    "Species key separates American persimmon by glabrous mature leaves, larger fruits, dark furrowed bark"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_woody_flora": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record, existing species cards, original media, credits and galleries unchanged"
+}
