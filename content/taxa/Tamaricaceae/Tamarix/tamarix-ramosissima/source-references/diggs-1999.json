@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "tamarix-ramosissima",
+  "inventory_scientific_name": "Tamarix ramosissima",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      1034,
+      1035
+    ],
+    "original_treatment_name": "Tamarix ramosissima Ledeb.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_SPECIES_AND_KEY_TEXT_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Much-branched shrub or small tree (genus); reddish-brown bark (species)",
+    "leaves": "Small alternate sessile scales, ovate, acute to acuminate (genus and key)",
+    "flowers": "Five-parted pinkish or pale flowers in clustered spicate racemes; obovate petals persistent, staminal filaments inserted beneath disk near margin (key)",
+    "fruit": "Capsule with hairy-tufted seeds (genus)",
+    "habitat": "Sand and silt along rivers, reservoirs and disturbed land; escaped cultivation",
+    "flowering": "Jun–Jul and Oct"
+  },
+  "source_scope_note": "Direct species-level details separated from genus/key information; absent historical treatments not filled by unsupported inference.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Flora warns T. chinensis and T. ramosissima can be difficult to distinguish; possible hybridization",
+    "Species introduced from Eurasia; not Hays native"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_tree_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record only; photos, credits, species records and published site unchanged"
+}
