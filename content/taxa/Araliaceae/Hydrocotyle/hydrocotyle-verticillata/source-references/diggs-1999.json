@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "hydrocotyle-verticillata",
+  "inventory_scientific_name": "Hydrocotyle verticillata",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      255
+    ],
+    "original_treatment_name": "Hydrocotyle verticillata Thunb.",
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf"
+  },
+  "morphology_documented": {
+    "habit": "Glabrous creeping perennial rooting at nodes (genus)",
+    "leaves": "Peltate leaf blades to about 6 cm diameter with 8–14 shallow lobes; petioles to 35 cm",
+    "flowers": "Interrupted inflorescence bearing whorls of 2–15 flowers; tiny white to yellow-green flowers (genus)",
+    "fruit": "Flora's var. verticillata: sessile or subsessile fruit, inflorescence often bifurcate; var. triradiata: pedicellate fruit with pedicels 1–10 mm and inflorescence rarely bifurcate",
+    "habitat": "Wet places",
+    "flowering": "May–Oct"
+  },
+  "additional_source": null,
+  "source_scope_note": "Genus-level traits are expressly indicated; absent species details not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "1999 flora separates varieties verticillata and triradiata; modern treatment may assign triradiata differently; verify before applying diagnostic distinction to contemporary species"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "REGIONAL_PRIMARY_TEXT_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, photos, credits and galleries unchanged"
+}
