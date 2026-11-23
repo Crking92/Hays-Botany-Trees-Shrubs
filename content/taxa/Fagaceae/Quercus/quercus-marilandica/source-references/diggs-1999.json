@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "quercus-marilandica",
+  "inventory_scientific_name": "Quercus marilandica",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      716
+    ],
+    "original_treatment_name": "Quercus marilandica Münchh.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "REGIONAL_TEXT_OR_KEY_EXTRACTED"
+  },
+  "morphology_documented": {
+    "habit": "Small to large tree, usually smaller westward, often coarse and densely branched toward base",
+    "leaves": "Narrow at base, wedge- to club-shaped overall, nearly entire to three shallow apical lobes, rarely basal lateral lobes",
+    "habitat": "Chiefly upland on sandy, occasionally gravelly or silty soils"
+  },
+  "regional_flora_key_traits": {
+    "fruit": "Second-autumn acorn maturity (red/black oak group-level key)"
+  },
+  "secondary_source_traits": null,
+  "secondary_sources": [],
+  "source_scope_note": "Species, genus-key and secondary-source material separated; blank traits are not inferred from existing site data.",
+  "unresolved_taxonomy_or_source_notes": [
+    "The source's generic red-oak-group bristle tips and second-season acorns are group-level traits, not species description"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record only; originals, prior morphology, photos, source credits, galleries unchanged"
+}
