@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "malus-ioensis",
+  "inventory_scientific_name": "Malus ioensis",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "historical_synonyms_documented": [],
+    "source_file": null,
+    "status": "NO_NAMED_SPECIES_TREATMENT_LOCATED"
+  },
+  "morphology_documented": {},
+  "secondary_sources": [
+    {
+      "name": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416820",
+      "status": "SPECIES_TREATMENT_SEARCH_EXCERPT",
+      "morphology": {
+        "leaves": "Vigorous-shoot blades 3–9(–12) × 1.5–4(–6) cm, often lobed, underside tomentose; flowering-shoot blades 2–5 × 1–2 cm, elliptic-ovate, underside generally tomentose",
+        "twigs": "Deciduous stipules 3–8 mm; leaves folded lengthwise in bud"
+      }
+    },
+    {
+      "name": "Kew POWO",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:150119-2",
+      "status": "ACCEPTED_SPECIES_RANGE_CHECK"
+    }
+  ],
+  "source_scope_note": "Species-level and key-level traits distinguished; modern secondary traits stay attributed to their own sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No direct species treatment in Diggs 1999; Malus only in family narrative",
+    "Flora of North America describes leaf heteromorphy between vigorous and flowering shoots; these are independent modern traits",
+    "Native range of central/north-central US does not establish Hays County nativity"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SOURCE_GAP_MODERN_SECONDARY_ONLY",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research only, species JSON and photo/attribution/gallery assets unchanged"
+}
