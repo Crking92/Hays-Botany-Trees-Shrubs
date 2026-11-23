@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "valeriana-woodsiana",
+  "inventory_scientific_name": "Valeriana woodsiana",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      1046
+    ],
+    "original_treatment_name": "Valerianella woodsiana (Torr. & A. Gray) Walp.",
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY_VERIFIED"
+  },
+  "historical_synonyms_documented": [
+    "Fedia woodsiana Torr. & A. Gray"
+  ],
+  "morphology_documented": {
+    "growth_habit": "Annual herb 15–50 cm tall (annual from historical Valerianella genus)",
+    "stems": "Often pubescent along stem angles",
+    "leaves": "Simple, opposite, mostly sessile and sometimes clasping, entire or with few basal teeth (genus)",
+    "flowers": "Small terminal head-like cymes; corollas only 0.6–2 mm across under historical key",
+    "fruit": "Mature fruits broadly elliptic to nearly round; two sterile locules divergent, combined wider than fertile locule (historical key); mature fruit required for separation",
+    "habitat": "Damp ground especially sandy soil",
+    "phenology": "Apr–May"
+  },
+  "secondary_sources": [
+    {
+      "name": "Kew POWO",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77185698-1",
+      "status": "ACCEPTED_NAME_AND_SYNONYM_CONFIRMED"
+    }
+  ],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical Valerianaceae; Kew accepts name in Caprifoliaceae",
+    "Diggs notes V. woodsiana distinguishable from V. radiata primarily by fruit characters and taxon limits uncertain; Kew now puts Valerianella radiata under Valeriana woodsiana, so historical species separation must not be treated as a verified contemporary taxon distinction"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "HISTORICAL_FLORA_VERIFIED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
