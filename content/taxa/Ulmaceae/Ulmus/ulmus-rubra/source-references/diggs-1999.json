@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "ulmus-rubra",
+  "inventory_scientific_name": "Ulmus rubra",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      1039,
+      1040
+    ],
+    "original_treatment_name": "Ulmus rubra Muhl.",
+    "historical_synonyms_documented": [
+      "Ulmus fulva Michx."
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_SPECIES_AND_KEY_TEXT_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Medium-size deciduous tree",
+    "leaves": "Alternate, asymmetrical, doubly serrate, strongly sandpapery above, densely soft hairy beneath (key)",
+    "buds": "Long yellowish or rusty hairs (genus key)",
+    "flowers": "Small, spring",
+    "fruit": "Nearly round or broadly elliptic samara 10–20 mm long, hairy over seed but margin glabrous (key)",
+    "habitat": "Stream bottoms",
+    "flowering": "Mar"
+  },
+  "source_scope_note": "Direct species-level details separated from genus/key information; absent historical treatments not filled by unsupported inference.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Distinguish from U. americana by rough upper and soft-pubescent lower leaf, hairy bud and samara center",
+    "Historical synonym U. fulva retained"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_tree_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record only; photos, credits, species records and published site unchanged"
+}
