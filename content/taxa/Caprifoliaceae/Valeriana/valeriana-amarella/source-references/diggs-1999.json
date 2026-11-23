@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "valeriana-amarella",
+  "inventory_scientific_name": "Valeriana amarella",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      1044
+    ],
+    "original_treatment_name": "Valerianella amarella (Lindh. ex Engelm.) Krok",
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY_VERIFIED"
+  },
+  "historical_synonyms_documented": [
+    "Fedia amarella Lindh. ex Engelm."
+  ],
+  "morphology_documented": {
+    "growth_habit": "Annual herb 15–30 cm tall (annual from historical Valerianella genus)",
+    "stems": "Glabrous stem; leaf bases can bear paired hair tufts (genus key)",
+    "leaves": "Simple, opposite, sessile except lowest, often clasping, entire or with few basal teeth/lobes (genus)",
+    "flowers": "Small head-like leafy-bracted terminal cymes; flowers relatively conspicuous, many open together and overtop small bracts; white funnel-shaped corollas 3–4.5 mm across",
+    "fruit": "Dry one-seeded fruits usually <3 mm long (genus); two sterile locules much smaller than fertile locule; shallow narrow or inconspicuous intervening groove; key describes broad ovate to round fruits with minute hooked hairs",
+    "habitat": "Bare limestone outcrops, Austin Chalk Blackland Prairie",
+    "phenology": "Late Mar–May"
+  },
+  "secondary_sources": [
+    {
+      "name": "Kew POWO",
+      "url": "https://powo.science.kew.org/taxon/77184176-1",
+      "status": "ACCEPTED_NAME_AND_HOMOTYPIC_SYNONYM_CONFIRMED"
+    }
+  ],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical family Valerianaceae, current Caprifoliaceae; historical genus Valerianella is accepted as Valeriana in current POWO species concept",
+    "Flora's fruit characters require actual mature fruit to confirm, not inferred from flowers"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "HISTORICAL_FLORA_VERIFIED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
