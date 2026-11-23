@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "prunus-serotina",
+  "inventory_scientific_name": "Prunus serotina",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      950
+    ],
+    "original_treatment_name": "Prunus serotina Ehrh.",
+    "historical_synonyms_documented": [
+      "Prunus serotina subsp. eximia (Small) McVaugh"
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_TREATMENT_OR_KEY_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Deciduous tree 10–15(–30) m",
+    "leaves": "Blades 3.5–15 × 2–5 cm; historically recognized varieties differ in pubescence, tooth density, petiole length",
+    "flowers": "Elongate racemes (4–)6–15 cm with white petals 2.5–6 mm",
+    "fruit": "Drupes 0.7–1(–1.2) cm, red becoming purple-black",
+    "habitat": "Var. eximia historically associated with Edwards Plateau; var. serotina with more eastern/Red River habitats",
+    "flowering": "Mar–Apr"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Species-level and key-level traits distinguished; modern secondary traits stay attributed to their own sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical var. eximia often has nearly glabrous leaf underside, ~5 teeth/cm margin and ~12–20 mm petioles on second floral leaf; var. serotina often midrib hair mustache, ~7 teeth/cm, shorter petioles",
+    "The 1999 source prints author Ehrend. in extracted text but taxonomic authority is normally Ehrh.; verify against original typography and keep nomenclatural issue open",
+    "Wilted foliage can be cyanogenic; flora mentions livestock hazard, not a recommendation for handling"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research only, species JSON and photo/attribution/gallery assets unchanged"
+}
