@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "lindera-benzoin",
+  "inventory_scientific_name": "Lindera benzoin",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      784,
+      786
+    ],
+    "original_treatment_name": "Lindera benzoin (L.) Blume var. pubescens (E.J. Palmer & Steyerm.) Rehder",
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_SPECIES_OR_KEY_EVIDENCE"
+  },
+  "morphology_documented": {
+    "habit": "Dioecious or polygamo-dioecious much-branched shrub or small tree to ca. 5 m",
+    "twigs": "Young branches pubescent, brownish; flowers precede foliage (genus key)",
+    "leaves": "Aromatic entire obovate, elliptic or ovate blades (4–)6–15 × 2–6 cm, tapering or cuneate basally, pubescent and glaucous beneath; petioles ca. 10 mm",
+    "flowers": "Nearly sessile clusters at nodes along branchlets or tips; fragrant; 6 yellow sepals; pistillate flowers have ca. 12–18 reduced stamens",
+    "fruit": "Red drupe 6–10 × 3–7 mm on 3–5 mm pedicel",
+    "habitat": "Rich streamside woods",
+    "flowering": "Mar–Apr"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Genus and key details explicitly noted; where historical flora lacks a species treatment, morphology is limited to independently named secondary sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical treatment specifically var. pubescens, not necessarily whole species concept",
+    "Flora Lauraceae key contrasts unlobed pinnately veined Lindera leaves with often-lobed Sassafras"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive, original taxon records, photos, attribution and site unchanged"
+}
