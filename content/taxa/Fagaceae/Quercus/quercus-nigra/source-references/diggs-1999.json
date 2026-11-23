@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "quercus-nigra",
+  "inventory_scientific_name": "Quercus nigra",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      718
+    ],
+    "original_treatment_name": "Quercus nigra L.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "REGIONAL_TEXT_OR_KEY_EXTRACTED"
+  },
+  "morphology_documented": {
+    "habit": "Large tree",
+    "bark": "Dark gray to blackish; smooth on upper trunk",
+    "habitat": "Stream-bottom woods"
+  },
+  "regional_flora_key_traits": null,
+  "secondary_source_traits": null,
+  "secondary_sources": [],
+  "source_scope_note": "Species, genus-key and secondary-source material separated; blank traits are not inferred from existing site data.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Specific leaf shape and acorn dimensions not provided in brief 1999 species paragraph; existing learner key not overwritten",
+    "Flora reports eastern Texas occurrences, not Hays BONAP proof"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record only; originals, prior morphology, photos, source credits, galleries unchanged"
+}
