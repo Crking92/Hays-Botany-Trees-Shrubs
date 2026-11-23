@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "styrax-platanifolius",
+  "inventory_scientific_name": "Styrax platanifolius",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      1034
+    ],
+    "original_treatment_name": "Styrax platanifolius Engelm. ex Torr.",
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_TREATMENT_VARIETY_OR_FAMILY_MENTION"
+  },
+  "morphology_documented": {
+    "habit": "Much-branched deciduous shrub or small tree to ~4 m",
+    "leaves": "Alternate simple reticulate-veined, roundish to broadly ovate blades up to 10 × 10 cm, slightly lobed or angled, basal base truncate to weakly heart-shaped",
+    "flowers": "Drooping axillary 3–5-flowered racemes, often appearing terminal; white united-at-base petals 12–15 × 4–6 mm, ten stamens",
+    "fruit": "Round capsule ~7–8 mm with three apical valves, generally one seed",
+    "habitat": "Limestone streams, Edwards Plateau endemic",
+    "flowering": "April–May"
+  },
+  "source_scope_note": "Historic taxonomic rank maintained; comparative key traits or family-only descriptions not automatically promoted to accepted species level.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Regional account records Bell and Burnet counties, but does not establish BONAP Hays county native status"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_HISTORICAL_SOURCE_RECORDED_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive species source references only; no original records, photos, credits or galleries changed"
+}
