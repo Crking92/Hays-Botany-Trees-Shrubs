@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "hydrocotyle-bonariensis",
+  "inventory_scientific_name": "Hydrocotyle bonariensis",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "species_treatment_status": "NOT_LOCATED_IN_SUPPLIED_REGIONAL_FLORA"
+  },
+  "morphology_documented": {
+    "habit": "No verified species-level morphology extracted from 1999 flora; the genus account describes glabrous creeping, node-rooting wet-ground or shallow-water perennials"
+  },
+  "additional_source": null,
+  "source_scope_note": "Genus-level traits are expressly indicated; absent species details not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Species not located in supplied 1999 regional flora; genus-level characters must not be passed off as species-specific",
+    "1999 flora places Hydrocotyle in Apiaceae; current routing assigns Araliaceae",
+    "Varietal concept around H. verticillata var. triradiata needs modern taxonomic crosswalk and reproductive comparison"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SOURCE_GAP_SECONDARY_PARTIAL_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, photos, credits and galleries unchanged"
+}
