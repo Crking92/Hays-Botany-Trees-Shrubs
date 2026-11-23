@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "morus-alba",
+  "inventory_scientific_name": "Morus alba",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      831,
+      832
+    ],
+    "original_treatment_name": "Morus alba L.",
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_SPECIES_OR_KEY_EVIDENCE"
+  },
+  "morphology_documented": {
+    "habit": "Deciduous small tree to ca. 15 m",
+    "leaves": "Alternate, simple, up to 20 cm long; usually variable lobing, nearly glabrous except small hair tufts at abaxial vein axils; mostly smooth mature blades (genus key)",
+    "flowers": "Unisexual flowers borne on separate catkin-like inflorescences (genus)",
+    "fruit": "Mulberry-type multiple fruits usually white or pinkish (genus key), ripe fruits edible",
+    "habitat": "Cultivated and naturalized in limestone thickets and disturbed yards",
+    "flowering": "Early–mid Apr"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Genus and key details explicitly noted; where historical flora lacks a species treatment, morphology is limited to independently named secondary sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical flora identifies eastern Asian origin; non-native",
+    "Fruit color is not independently diagnostic without leaf pubescence and mature structures; purple/black-fruited M. alba also occurs in some populations"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive, original taxon records, photos, attribution and site unchanged"
+}
