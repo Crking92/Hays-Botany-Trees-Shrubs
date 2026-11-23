@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "rhus-aromatica",
+  "inventory_scientific_name": "Rhus aromatica",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      232
+    ],
+    "original_treatment_name": "Rhus aromatica Aiton var. serotina (Greene) Rehder",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf"
+  },
+  "morphology_documented": {
+    "habit": "Shrub to ca. 2 m, creeping stem bases forming loose clumps",
+    "leaves": "Palmately 3-foliate; terminal leaflet 25–60 mm long, narrowed and often pointed at apex; leaflets usually pubescent below and margins usually ciliate; fragrant when bruised",
+    "flowers": "Terminal dense head-like or irregular clusters; yellow petals; flowering before leaves or with unfolding leaves",
+    "habitat": "Sandy woods and ravines",
+    "flowering": "Mar"
+  },
+  "source_scope_note": "Only traits documented in cited flora; null/omitted traits not inferred. Genus-key traits indicated where relevant.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Infraspecific original flora identification is var. serotina; rank/concept reconciliation needed",
+    "Flora key compares R. trilobata, whose terminal leaflet is usually 15–33 mm long and abruptly narrowed or truncate"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_flora": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_TEXT_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record; original species.json, photos, credits, and galleries unchanged"
+}
