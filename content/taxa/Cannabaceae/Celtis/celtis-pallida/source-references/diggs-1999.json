@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "celtis-pallida",
+  "inventory_scientific_name": "Celtis pallida",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "source_file": null,
+    "status": "NO_DIRECT_TREATMENT_LOCATED"
+  },
+  "historical_synonyms_documented": [],
+  "morphology_documented": {},
+  "secondary_sources": [
+    {
+      "name": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500335",
+      "status": "IDENTIFIED_BUT_TREATMENT_NOT_FULLY_EXTRACTED"
+    },
+    {
+      "name": "USDA GRIN",
+      "url": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=101691",
+      "status": "TAXON_NAME_CROSSCHECK"
+    }
+  ],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No species treatment located under Celtis pallida in the supplied 1999 flora; no morphology attributed to that source",
+    "FNA treats Celtis pallida; Celtis ehrenbergiana is used inconsistently in taxonomic references, requiring name concept review"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SOURCE_GAP_OR_SECONDARY_PARTIAL_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
