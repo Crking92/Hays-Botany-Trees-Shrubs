@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_authoritative_alternate_treatment",
+  "scientific_name": "Philadelphus lewisii Pursh",
+  "date": "2026-11-23",
+  "reason": "The 1999 North Central Texas flora has no direct species treatment; do not reuse its Philadelphus pubescens measurements",
+  "source": {
+    "title": "Flora of North America, Philadelphus lewisii",
+    "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101928"
+  },
+  "source_reported_morphology": {
+    "habit": "Shrub, 15–40 dm tall",
+    "stems": "Erect to ascending, bark often reddish and exfoliating; axillary buds hidden in pouches",
+    "leaves": "Petiole 1–6 mm, blades broadly lanceolate to ovate or elliptic, 1.5–10 × 1–5 cm, margins entire to variably toothed",
+    "inflorescences": "Usually cymose racemes or cymose panicles, (1–)7–49 flowers; sometimes flowers solitary",
+    "flowers": "Four white petals, 5–20(–25) × 4–15 mm; stamens 25–40(–50)",
+    "fruits": "Obconic to obovoid capsules, 7–11 × 5–7 mm; tailed seeds ca. 3 mm",
+    "phenology": "Flowers May–July, fruits June–September within the FNA treatment's range",
+    "habitat": "Cliffs, rocky slopes, stream banks, pine woodland and forest settings within its reported range"
+  },
+  "taxon_scope": "FNA accepts broadly circumscribed P. lewisii; do not transfer features to P. texensis or P. pubescens",
+  "decision": "1999 regional treatment absent, alternate primary flora treatment located and summarized",
+  "verification_status": "FNA_TREATMENT_DOCUMENTED_SPECIES_NOT_YET_INTEGRATED",
+  "cautions": [
+    "FNA treatment's flowering dates are not Hays County phenology",
+    "No BONAP or county-level distribution audit has been performed",
+    "Local native status and appropriateness of inventory inclusion are separate deferred questions"
+  ],
+  "bonap": "DEFERRED",
+  "preservation": "Additive research file only; no species, photographs or public galleries changed"
+}
