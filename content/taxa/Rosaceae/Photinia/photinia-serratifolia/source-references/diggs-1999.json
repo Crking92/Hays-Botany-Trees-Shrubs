@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "photinia-serratifolia",
+  "inventory_scientific_name": "Photinia serratifolia",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      946
+    ],
+    "original_treatment_name": "Photinia serratifolia (Desf.) Kalkman",
+    "historical_synonyms_documented": [
+      "Photinia serrulata Lindl."
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_TREATMENT_OR_KEY_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Evergreen shrub or tree to about 12 m",
+    "leaves": "Simple oblong leathery leaves to 20 cm, serrate; dark green above, yellowish-green below, reddish when emerging; petiole 2–3 cm",
+    "flowers": "White five-parted flowers 6–8 mm across in 10–16 cm panicles",
+    "fruit": "Globose red fruit 5–6 mm diameter",
+    "habitat": "Cultivated, escaping especially on sandy soils",
+    "flowering": "Late spring through summer"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Species-level and key-level traits distinguished; modern secondary traits stay attributed to their own sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Flora documents introduction from East Asia (China, Taiwan, Japan, Sumatra), not native to project target",
+    "Retain P. serrulata as historical synonym"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research only, species JSON and photo/attribution/gallery assets unchanged"
+}
