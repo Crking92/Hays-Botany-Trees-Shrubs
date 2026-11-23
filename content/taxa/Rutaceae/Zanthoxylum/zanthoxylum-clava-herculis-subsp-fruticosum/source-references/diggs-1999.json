@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "zanthoxylum-clava-herculis-subsp-fruticosum",
+  "inventory_scientific_name": "Zanthoxylum clava-herculis subsp. fruticosum",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      973,
+      974
+    ],
+    "original_treatment_name": "Zanthoxylum clava-herculis L. (species-level only)",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_TREATMENT_OR_COMPARATOR_INSPECTED"
+  },
+  "morphology_documented": {
+    "historical_species_level_only": {
+      "habit": "Shrub to tree 1.5–7 m",
+      "stems": "Older bark cushion-based spines; younger spines curved (genus)",
+      "leaves": "Odd-pinnate gland-dotted; 9–17 leaflets 3.5–9 cm on flowering shoots (genus key)",
+      "flowers": "Inflorescences 6–15 cm, basal quarter to half flowerless; ovaries generally 1",
+      "fruit": "Follicles with glossy black seed (genus)",
+      "habitat": "Rocky or sandy soils",
+      "flowering": "Apr–early May"
+    }
+  },
+  "source_scope_note": "Historical rank and source scope retained; genus, species, variety and comparator traits not conflated.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No specific subsp. fruticosum treatment; no subspecies traits inferred",
+    "Comparison with Z. hirsutum features fewer smaller leaflets and shorter flower clusters; hybridization reported"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_regional": "PENDING"
+  },
+  "verification_status": "PRIMARY_OR_COMPARATOR_RECORDED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research only; original species, images, credits and galleries untouched"
+}
