@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "schinus-terebinthifolia",
+  "inventory_scientific_name": "Schinus terebinthifolia",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "species_treatment_status": "NOT_LOCATED_IN_SUPPLIED_REGIONAL_FLORA"
+  },
+  "morphology_documented": {
+    "habit": "Shrub or small tree to 13 m, with short trunk and numerous long arching intertwined branches",
+    "leaves": "Evergreen alternate odd-pinnate compound leaves; 3–11 sessile oblong to elliptic leaflets 2.5–5 cm long, usually toothed; reddish often winged petiole; aromatic resinous crushed foliage",
+    "flowers": "Dioecious; small white 5-petaled flowers about 2 mm across in axillary panicles",
+    "fruit": "Globose drupe approximately 6 mm across, green becoming red"
+  },
+  "additional_source": {
+    "name": "Florida Natural Areas Inventory",
+    "url": "https://www.fnai.org/species-communities/invasives/invasives-print?ID=146",
+    "scope": "Taxon-specific facts from named secondary source; no BONAP county inference"
+  },
+  "source_scope_note": "Genus-level traits are expressly indicated; absent species details not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Not located as a species treatment in supplied 1999 flora; source is Florida Natural Areas Inventory, not a Texas-specific description",
+    "Introduced South American species, no native Hays designation"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SOURCE_GAP_SECONDARY_PARTIAL_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, photos, credits and galleries unchanged"
+}
