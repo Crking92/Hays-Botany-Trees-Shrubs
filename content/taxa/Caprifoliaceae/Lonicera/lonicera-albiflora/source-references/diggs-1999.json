@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "lonicera-albiflora",
+  "inventory_scientific_name": "Lonicera albiflora",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      508
+    ],
+    "original_treatment_name": "Lonicera albiflora Torr. & A. Gray",
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY_VERIFIED"
+  },
+  "historical_synonyms_documented": [
+    "Lonicera albiflora var. dumosa (A. Gray) Rehder"
+  ],
+  "morphology_documented": {
+    "growth_habit": "Evergreen low shrubby vine with arching to twining branches",
+    "stems": "Young stems glabrous or rarely sparsely pubescent",
+    "leaves": "Opposite, sessile or subsessile; elliptic to ovate, suborbicular, rhombic or obovate; (1.5–)2–4(–6.5) cm long, ± leathery, usually rounded apex; upper face gray-green or yellow-green, lower face variously glaucous; typically terminal pair perfoliate",
+    "flowers": "Terminal creamy white corollas 12–18 mm long (genus key); flowers in terminal heads or whorls (genus key)",
+    "fruit": "Reddish-orange berry 5–15 mm diameter",
+    "habitat": "Limestone outcrops, Blackland Prairie Austin Chalk to western Texas",
+    "phenology": "Apr–May"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Compare L. sempervirens with longer 25–50 mm usually colorful corollas",
+    "Compare L. japonica with separate uppermost leaves and mostly axillary paired flowers"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "HISTORICAL_FLORA_VERIFIED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
