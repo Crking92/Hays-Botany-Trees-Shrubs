@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "rhus-microphylla",
+  "inventory_scientific_name": "Rhus microphylla",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      234
+    ],
+    "original_treatment_name": "Rhus microphylla Engelm. ex A. Gray",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf"
+  },
+  "morphology_documented": {
+    "habit": "Much-branched shrub, rarely small tree, to ca. 5 m, usually much smaller",
+    "stems": "Branches often somewhat spinescent (genus key)",
+    "leaves": "Pinnately compound; (3–)5–9 small leaflets <2 cm long and <6 mm wide, sessile, pilose; rachis winged",
+    "flowers": "Appearing before leaves, rarely with them",
+    "habitat": "Dry open areas",
+    "flowering": "Apr(–May)"
+  },
+  "source_scope_note": "Only traits documented in cited flora; null/omitted traits not inferred. Genus-key traits indicated where relevant.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Key states small leaflet dimensions and branches often spinescent; do not infer true spines on every specimen"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_flora": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_TEXT_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record; original species.json, photos, credits, and galleries unchanged"
+}
