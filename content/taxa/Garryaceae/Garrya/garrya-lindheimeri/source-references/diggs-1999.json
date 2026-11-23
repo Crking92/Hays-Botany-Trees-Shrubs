@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "garrya-lindheimeri",
+  "inventory_scientific_name": "Garrya lindheimeri",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      723
+    ],
+    "original_treatment_name": "Garrya ovata Benth. subsp. lindheimeri (Torr.) Dahling",
+    "historical_synonyms_documented": [
+      "Garrya lindheimeri Torr."
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "SOURCE_TEXT_AND_KEY_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Dioecious evergreen shrub or occasional small tree 1–4 m tall",
+    "leaves": "Opposite, petiolate, entire; oblong-elliptic to ovate or obovate, 4.5–8 × 2.5–5 cm; lower face densely curled or crinkly pubescent, gray-white to gray-green",
+    "flowers": "Branched, fasciculate, hanging racemes; flowers lack petals; pedicellate staminate flowers with 4 stamens; pistillate flowers essentially sessile, with inferior ovaries",
+    "fruit": "Blue glaucous globose drupe 6–10 mm diameter",
+    "habitat": "Rocky slopes and bottoms in juniper-oak woodland, Edwards Plateau/Lampasas Cut Plain",
+    "flowering": "Mar–early Apr"
+  },
+  "source_scope_note": "Historical species treatments and explicitly identified genus/key characteristics only; missing morphology not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Flora places current indexed species under subspecies of G. ovata; modern taxon acceptance needs verification",
+    "Flora names Burnet and Williamson localities, not independently confirmed BONAP Hays distribution"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_FLORA_EXTRACTED_SECONDARY_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record only, original species and photo/credits/gallery unchanged"
+}
