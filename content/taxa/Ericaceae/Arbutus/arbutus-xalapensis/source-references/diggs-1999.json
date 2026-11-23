@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "arbutus-xalapensis",
+  "inventory_scientific_name": "Arbutus xalapensis",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      582,
+      583
+    ],
+    "original_treatment_name": "Arbutus xalapensis Kunth",
+    "historical_synonyms_documented": [
+      "Arbutus texana Buckley",
+      "Arbutus xalapensis var. texana (Buckley) A. Gray"
+    ],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "PRIMARY_SOURCE_TREATMENT_OR_KEY_EXTRACTED"
+  },
+  "morphology_documented": {
+    "habit": "Small evergreen tree or rarely arborescent shrub, 4–6(–10 or more) m tall",
+    "bark": "Pinkish to brick red, peeling off in large smooth flakes, exposing distinctive bare branches",
+    "leaves": "Alternate, evergreen, leathery, ovate to oval or oblong-elliptic, to 10 cm long × 45 mm wide; entire to serrate; glabrate with age",
+    "flowers": "Panicles, perfect flowers, 5 pinkish-white calyx lobes; urn-shaped white or pink-tinged corolla ca. 7 mm; 10 included stamens, 1.5 mm anthers with paired reflexed spurs, opening through terminal pores",
+    "fruit": "Roughened/tuberculate spherical fleshy berry 7.5–9 mm diameter, red to yellowish-red",
+    "habitat": "Rocky wooded hills, slopes, canyons and plains",
+    "flowering": "Feb–Apr"
+  },
+  "source_scope_note": "Species vs genus/key-level characters distinguished in text; no undocumented characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical A. texana and var. texana subsumed under A. xalapensis by flora following Sørensen 1995",
+    "Flora cites a small number of Travis County observations; not BONAP county verification"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_woody_flora": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record, existing species cards, original media, credits and galleries unchanged"
+}
