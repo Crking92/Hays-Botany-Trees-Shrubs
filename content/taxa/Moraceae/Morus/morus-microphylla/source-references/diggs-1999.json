@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "morus-microphylla",
+  "inventory_scientific_name": "Morus microphylla",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      831,
+      832
+    ],
+    "original_treatment_name": "Morus microphylla Buckley",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY"
+  },
+  "morphology_documented": {
+    "habit": "Shrub or small tree to ca. 7 m",
+    "leaves": "Mature leaf blades 7 cm or shorter, distinctly rough with short stiff hairs on both surfaces; petioles usually under 1 cm (genus key)",
+    "flowers": "Unisexual, borne in catkin-like inflorescences (genus)",
+    "fruit": "Edible mulberry-like multiple fruit (genus)",
+    "habitat": "Rocky slopes",
+    "flowering": "Apr"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Genus/key traits explicitly identified; modern secondary evidence separately cited; no unsupported species characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "The short scabrous leaf blades distinguish this species from M. alba and M. rubra in the 1999 key",
+    "Texas distribution requires county-level BONAP checking"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive file; existing species records, photographs, credits and galleries unchanged"
+}
