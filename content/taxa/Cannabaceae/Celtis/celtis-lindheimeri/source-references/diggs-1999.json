@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "celtis-lindheimeri",
+  "inventory_scientific_name": "Celtis lindheimeri",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "species_treatment_status": "NOT_LOCATED_IN_SUPPLIED_REGIONAL_FLORA"
+  },
+  "morphology_documented": {
+    "habit": "Tree (FNA Celtis genus; no species traits extracted here)"
+  },
+  "additional_source": {
+    "name": "Plants of the World Online / USDA GRIN",
+    "url": "https://powo.science.kew.org/taxon/305661-2",
+    "scope": "Taxon-specific facts from named secondary source; no BONAP county inference"
+  },
+  "source_scope_note": "Genus-level traits are expressly indicated; absent species details not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No direct named species treatment located in supplied Diggs 1999 flora",
+    "Taxonomic conflict: Kew POWO recognizes Celtis lindheimeri; USDA GRIN reports it as synonym of Celtis reticulata; need verify species concept and FNA diagnosis before attaching precise leaf traits",
+    "Old flora's Celtis laevigata var. reticulata must not automatically be transferred to this indexed species"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SOURCE_GAP_SECONDARY_PARTIAL_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, photos, credits and galleries unchanged"
+}
