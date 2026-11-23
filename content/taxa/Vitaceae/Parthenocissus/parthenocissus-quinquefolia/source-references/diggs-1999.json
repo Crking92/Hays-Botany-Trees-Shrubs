@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "parthenocissus-quinquefolia",
+  "inventory_scientific_name": "Parthenocissus quinquefolia",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      1068
+    ],
+    "original_treatment_name": "Parthenocissus quinquefolia (L.) Planch.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "SOURCE_TEXT_TAXONOMIC_SCOPE_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Deciduous high-climbing vine, red fall foliage",
+    "tendrils": "Branched, terminal adhesive disks",
+    "leaves": "Usually 5–6 thin herbaceous leaflets, each to 15 × 5 cm",
+    "flowers": "Numerous, about 25–200 per inflorescence",
+    "fruit": "Berry 5–9 mm diameter with 1–3(–4) seeds, seeds about 3.5–4 mm",
+    "habitat": "Creeks and wooded habitats",
+    "flowering": "May–Jul"
+  },
+  "source_scope_note": "Historical varieties and synonyms preserved by original names; measurements never automatically transferred to different modern taxon concepts.",
+  "unresolved_taxonomy_or_source_notes": [
+    "1999 source contrasts poison ivy dermatitis; Virginia creeper itself not the same skin-allergy plant, but fruits are potentially toxic",
+    "Check leaflet shape/texture, not leaflet count alone"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_FLORA_EXTRACTED_MODERN_TAXONOMY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive source record; existing gallery, pictures, credits and species files unchanged"
+}
