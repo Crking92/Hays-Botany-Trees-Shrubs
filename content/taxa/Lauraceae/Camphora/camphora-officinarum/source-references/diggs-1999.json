@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "camphora-officinarum",
+  "inventory_scientific_name": "Camphora officinarum",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "source_file": null,
+    "status": "SPECIES_TREATMENT_NOT_LOCATED"
+  },
+  "morphology_documented": {},
+  "secondary_sources": [
+    {
+      "source": "Kew POWO; Flora of Tropical East Africa cited under Cinnamomum camphora",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77328940-1/general-information",
+      "status": "TAXON_AND_SECONDARY_MORPHOLOGY_EXTRACTED",
+      "morphology": {
+        "habit": "Much-branched tree 6–12 m (Flora of Tropical East Africa description)",
+        "leaves": "Alternate ovate to ovate-elliptic, 5–11 × 2–6 cm; acuminate tip, cuneate base; glands in axils of principal nerves",
+        "flowers": "Small yellow or white flowers in panicles",
+        "fruit": "Small black fleshy fruit"
+      }
+    }
+  ],
+  "source_scope_note": "Genus and key details explicitly noted; where historical flora lacks a species treatment, morphology is limited to independently named secondary sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No named treatment in 1999 regional flora; generic Lauraceae comments mention Cinnamomum camphor but are not a species treatment",
+    "Kew POWO accepts Camphora officinarum; Cinnamomum camphora is its synonym",
+    "Kew gives indigenous range in parts of eastern Asia, so not local Texas-native plant"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "REGIONAL_SOURCE_GAP_WITH_SECONDARY_CHECK",
+  "review_date": "2026-11-23",
+  "preservation": "Additive, original taxon records, photos, attribution and site unchanged"
+}
