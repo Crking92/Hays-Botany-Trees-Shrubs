@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "ilex-opaca",
+  "inventory_scientific_name": "Ilex opaca",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      270
+    ],
+    "original_treatment_name": "Ilex opaca Aiton",
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf"
+  },
+  "morphology_documented": {
+    "habit": "Evergreen tree (species context)",
+    "bark": "Mostly smooth light-gray bark (genus character, not species-tested)",
+    "leaves": "Large evergreen coriaceous simple leaves to 12 × 6 cm; usually conspicuously spinose-dentate, sometimes almost entire",
+    "flowers": "Small axillary, frequently unisexual, often 4–5-merous (genus only)",
+    "fruit": "Drupe-like berry (genus only)",
+    "habitat": "Flora indicates southeastern and eastern Texas just east of its north-central Texas coverage"
+  },
+  "additional_source": null,
+  "source_scope_note": "Genus-level traits are expressly indicated; absent species details not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Species mentioned rather than presented in full regional treatment; no source-supported flowering period or height on this page"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "REGIONAL_PRIMARY_TEXT_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, photos, credits and galleries unchanged"
+}
