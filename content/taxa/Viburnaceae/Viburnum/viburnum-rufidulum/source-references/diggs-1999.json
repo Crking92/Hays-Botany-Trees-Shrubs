@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "viburnum-rufidulum",
+  "inventory_scientific_name": "Viburnum rufidulum",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      511
+    ],
+    "original_treatment_name": "Viburnum rufidulum Raf.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "HISTORICAL_SOURCE_TREATMENT_EXTRACTED"
+  },
+  "morphology_documented": {
+    "habit": "Deciduous shrub or small tree to 10 m",
+    "leaves": "Opposite simple finely toothed elliptic-lanceolate to roundish blades; rusty reddish hairs on petiole and underside midrib",
+    "flowers": "Many small white rotating or shallow funnel-shaped corollas in dense terminal compound umbels",
+    "fruit": "Blue-black glaucous one-seeded drupes 10–15 mm",
+    "habitat": "Rocky or sandy woodland",
+    "flowering": "Apr"
+  },
+  "source_scope_note": "Historical variety and comparator limits explicit; no morphology automatically assigned beyond source taxon concept.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Rust-colored hair on petioles and underside midrib is helpful for field images",
+    "Historic Caprifoliaceae/Adoxaceae placement, inventory Viburnaceae"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_floras": "PENDING"
+  },
+  "verification_status": "SOURCE_FIRST_PASS_DONE_TAXONOMY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive only; species records, pictures, credits and gallery unchanged"
+}
