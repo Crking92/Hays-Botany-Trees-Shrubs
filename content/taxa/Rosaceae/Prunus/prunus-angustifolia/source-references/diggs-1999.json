@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "prunus-angustifolia",
+  "inventory_scientific_name": "Prunus angustifolia",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      949
+    ],
+    "original_treatment_name": "Prunus angustifolia Marshall",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_TREATMENT_OR_KEY_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Shrub, rarely a small tree, to about 4 m",
+    "twigs": "Usually zigzag branchlets, sometimes with spine-tipped shoots",
+    "leaves": "Blades 2–6(–8) cm and folded lengthwise",
+    "flowers": "Compact umbels of 2–4 flowers expanding with foliage; petals white to cream 3.5–6 mm; calyces without glands",
+    "fruit": "Red or yellow drupes 2–2.5 cm long",
+    "habitat": "Sandy open woods, roadsides, fence lines",
+    "flowering": "Late Feb–early Apr"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Species-level and key-level traits distinguished; modern secondary traits stay attributed to their own sources.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical state-wide e 2/3 Texas description does not certify local Hays County nativity",
+    "Habit and flower clusters distinguish from Mexican plum"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research only, species JSON and photo/attribution/gallery assets unchanged"
+}
