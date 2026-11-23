@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_taxonomy_and_source_gap_reconciliation",
+  "date": "2026-11-23",
+  "species_id": "philadelphus-texensis",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "decision": "1999_FLORA_GAP_RESOLVED_BY_ALTERNATE_TREATMENT; TAXONOMIC_CONCEPT_DISAGREEMENT_RETAINED",
+  "findings": [
+    {
+      "issue": "No direct P. texensis treatment in 1999 North Central Texas flora",
+      "result": "Flora of North America includes a named Philadelphus texensis treatment, including varieties; use this alternate treatment for source-backed morphology rather than substituting P. pubescens.",
+      "evidence": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101962"
+    },
+    {
+      "issue": "Conflicting accepted-name treatments",
+      "result": "Kew POWO recognizes Philadelphus texensis and P. texensis var. ernestii, treating Philadelphus ernestii as a synonym of var. ernestii. ITIS (Hydrangeaceae update 2011) instead reports P. texensis as a synonym of P. ernestii. Preserve the repository's P. texensis name and the source disagreement; do not automatically merge species or varieties.",
+      "evidence": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77159226-1",
+        "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=24445"
+      ]
+    },
+    {
+      "issue": "Hays-area observation does not prove wild population",
+      "result": "Purola Preserve records P. texensis as deliberately introduced from a University of Texas rare-plant project; do not treat this as a wild nativity record.",
+      "evidence": "https://w3.biosci.utexas.edu/prc/HaysFlora/pages/PHTE3.html"
+    }
+  ],
+  "still_needed": [
+    "Extract morphology directly from FNA P. texensis treatment and attribute any varietal characters to the applicable variety.",
+    "If needed, reconcile P. texensis versus P. ernestii using original 2016 taxonomic revision, retaining differing source concepts."
+  ],
+  "bonap_county_distribution": "DEFERRED_BY_PROJECT_OWNER",
+  "preservation": "Additive research record only; species.json, photos, rights, and site unchanged"
+}
