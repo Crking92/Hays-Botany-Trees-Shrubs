@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "parthenocissus-heptaphylla",
+  "inventory_scientific_name": "Parthenocissus heptaphylla",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      1068
+    ],
+    "original_treatment_name": "Parthenocissus heptaphylla (Buckley) Britton ex Small",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "SOURCE_TEXT_TAXONOMIC_SCOPE_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Climbing vine up to about 10 m with long forked tendrils",
+    "leaves": "Usually 7 leaflets sometimes 5–6; individual leaflets usually 3–5(–6) × 2(–3) cm, relatively thick and fleshy, glossy above",
+    "fruit": "Berry about 1 cm diameter containing 1–4 seeds",
+    "habitat": "Climbs vegetation on rocky or sandy sites; Edwards Plateau and Lampasas Cut Plain",
+    "flowering": "Apr–May (possibly later)"
+  },
+  "source_scope_note": "Historical varieties and synonyms preserved by original names; measurements never automatically transferred to different modern taxon concepts.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Flora describes endemic Edwards Plateau/Lampasas Cut Plain concept; BONAP county-target record remains separate",
+    "Compared with P. quinquefolia: usually 7 small thick leaflets rather than 5–6 larger thinner ones"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_FLORA_EXTRACTED_MODERN_TAXONOMY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive source record; existing gallery, pictures, credits and species files unchanged"
+}
