@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "ribes-aureum",
+  "inventory_scientific_name": "Ribes aureum",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      732,
+      733
+    ],
+    "original_treatment_name": "Ribes aureum Pursh var. villosum DC.",
+    "historical_synonyms_documented": [
+      "Ribes odoratum H. Wendl."
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "SOURCE_TEXT_AND_KEY_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Erect unarmed shrub to about 2 m",
+    "leaves": "Alternate simple 3–5-lobed leaves 3–8 cm broad, lobes often toothed",
+    "flowers": "Usually nodding racemes of 3–10 fragrant five-parted flowers; yellow calyx with tubular portion 10–15 mm, petals yellow to red, inferior ovary",
+    "fruit": "Ovoid to globose berry 7–10 mm, yellowish becoming black",
+    "habitat": "Rocky slopes and sandy bluffs",
+    "flowering": "Feb–May"
+  },
+  "source_scope_note": "Historical species treatments and explicitly identified genus/key characteristics only; missing morphology not inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "1999 flora's taxon is specifically var. villosum, and its characters must not automatically represent all accepted varieties of Ribes aureum",
+    "Flora's occurrence relies on cited vegetation-area report; not direct Hays county record"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_woody_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_FLORA_EXTRACTED_SECONDARY_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record only, original species and photo/credits/gallery unchanged"
+}
