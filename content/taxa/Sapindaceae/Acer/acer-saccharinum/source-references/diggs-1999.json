@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "acer-saccharinum",
+  "inventory_scientific_name": "Acer saccharinum",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      220
+    ],
+    "original_treatment_name": "Acer saccharinum L.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "HISTORICAL_TREATMENT_OR_COMPARATOR_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Deciduous tree of low woods, lakeshores and stream banks",
+    "leaves": "Deeply five-lobed with sharp V-shaped sinuses and coarsely toothed lobes",
+    "flowers": "Apetalous greenish/reddish flowers before or with leaves",
+    "fruit": "Paired samara with V-shaped sinus, lengths to 50(–60) mm",
+    "flowering": "Feb(?)–Mar"
+  },
+  "source_scope_note": "Historical rank and source scope retained; genus, species, variety and comparator traits not conflated.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Regional flora treats Texas plants as introduced and eastern North American native range; do not infer Hays nativity"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_regional": "PENDING"
+  },
+  "verification_status": "PRIMARY_OR_COMPARATOR_RECORDED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research only; original species, images, credits and galleries untouched"
+}
