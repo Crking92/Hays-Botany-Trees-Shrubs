@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "quercus-polymorpha",
+  "inventory_scientific_name": "Quercus polymorpha",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "NO_EXPLICIT_SPECIES_TREATMENT_LOCATED"
+  },
+  "morphology_documented": {},
+  "regional_flora_key_traits": null,
+  "secondary_source_traits": null,
+  "secondary_sources": [
+    {
+      "title": "Texas A&M Forest Service, Mexican white oak",
+      "url": "https://texastreeid.tfs.tamu.edu/content/TreeDetails/?id=105",
+      "status": "DISTRIBUTION_VERIFIED"
+    },
+    {
+      "title": "Flora of North America, Quercus polymorpha",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501074",
+      "status": "PARTIAL_SEARCH_EXCERPT"
+    },
+    {
+      "title": "Kew POWO, Quercus polymorpha",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:296607-1",
+      "status": "STATE_RANGE_CROSSCHECK"
+    }
+  ],
+  "source_scope_note": "Species, genus-key and secondary-source material separated; blank traits are not inferred from existing site data.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No direct Quercus polymorpha treatment in supplied 1999 flora",
+    "Naturally occurring U.S. occurrence documented by Texas A&M in Val Verde County near Devils River; cultivated Central Texas trees must not be treated as evidence for local BONAP nativity",
+    "FNA and Kew recognize Texas occurrence at state scale, not Hays or west/north adjacent county target area"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SECONDARY_OR_SOURCE_GAP_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record only; originals, prior morphology, photos, source credits, galleries unchanged"
+}
