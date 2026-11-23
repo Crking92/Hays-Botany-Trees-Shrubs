@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "quercus-michauxii",
+  "inventory_scientific_name": "Quercus michauxii",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [],
+    "original_treatment_name": null,
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "NO_EXPLICIT_SPECIES_TREATMENT_LOCATED"
+  },
+  "morphology_documented": {},
+  "regional_flora_key_traits": null,
+  "secondary_source_traits": {
+    "leaves": "Felty hairs on abaxial surface (FNA search excerpt)",
+    "fruit": "Relatively large acorn cups with loose scales having attenuate-acute tips (FNA search excerpt)"
+  },
+  "secondary_sources": [
+    {
+      "title": "Flora of North America, Quercus michauxii",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=233501061",
+      "status": "SEARCH_EXCERPT_PARTIAL"
+    },
+    {
+      "title": "USDA Forest Service, Silvics of North America — Swamp Chestnut Oak",
+      "url": "https://research.fs.usda.gov/silvics/swamp-chestnut-oak",
+      "status": "REFERENCE_IDENTIFIED"
+    }
+  ],
+  "source_scope_note": "Species, genus-key and secondary-source material separated; blank traits are not inferred from existing site data.",
+  "unresolved_taxonomy_or_source_notes": [
+    "No treatment located under Quercus michauxii in supplied regional flora",
+    "FNA text search explicitly highlights felty abaxial leaf hairs and relatively large acorn cups with loose attenuate-acute cup scales; rest of FNA page unavailable",
+    "Texas-wide range in POWO cannot establish Hays target-zone presence"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "SECONDARY_OR_SOURCE_GAP_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record only; originals, prior morphology, photos, source credits, galleries unchanged"
+}
