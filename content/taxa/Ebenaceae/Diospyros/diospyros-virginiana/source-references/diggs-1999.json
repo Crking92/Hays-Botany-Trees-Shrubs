@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "diospyros-virginiana",
+  "inventory_scientific_name": "Diospyros virginiana",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      578,
+      579
+    ],
+    "original_treatment_name": "Diospyros virginiana L.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "PRIMARY_SOURCE_TREATMENT_OR_KEY_EXTRACTED"
+  },
+  "morphology_documented": {
+    "habit": "Shrub or small tree to ca. 16 m",
+    "bark": "Dark brown to blackish, furrowed bark (species key)",
+    "leaves": "Alternate, simple, entire (genus), mature blade nearly glabrous; blades usually 6–15 cm long (species key)",
+    "flowers": "Usually axillary and imperfectly unisexual, urn- to bell-shaped (genus)",
+    "fruit": "Berry to 5 cm in diameter; orange or reddish-orange ripe fruit (species key), fall ripening, may persist to January",
+    "habitat": "Woods, old fields, clearings",
+    "flowering": "Apr–Jun"
+  },
+  "source_scope_note": "Species vs genus/key-level characters distinguished in text; no undocumented characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Contrast D. texana: black 2 cm hairy fruits versus larger orange fruit; bark and leaves differ"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_woody_flora": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record, existing species cards, original media, credits and galleries unchanged"
+}
