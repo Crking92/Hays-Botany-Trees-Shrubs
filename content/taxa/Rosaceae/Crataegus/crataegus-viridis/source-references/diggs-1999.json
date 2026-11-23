@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "crataegus-viridis",
+  "inventory_scientific_name": "Crataegus viridis",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      944
+    ],
+    "original_treatment_name": "Crataegus viridis L.",
+    "historical_synonyms_documented": [
+      "Crataegus anamesa Sarg.",
+      "Crataegus antiplasta Sarg.",
+      "Crataegus glabriuscula Sarg."
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY"
+  },
+  "morphology_documented": {
+    "habit": "Small tree 3–6(–12) m, branchlets thorny or sometimes nearly thornless",
+    "leaves": "Variable sometimes asymmetrical, hair tufts in main vein axils on lower surface",
+    "flowers": "White 5-petaled (genus), ca. 12–15 mm across",
+    "fruit": "Round red to orange-red pomes 5–8 mm across",
+    "habitat": "Stream bottoms, fields and slopes",
+    "flowering": "Late Mar–Apr",
+    "fruiting": "Sep–Nov"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Genus/key traits explicitly identified; modern secondary evidence separately cited; no unsupported species characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Flora genus account cautions to compare short-shoot mature leaves, not variable elongating current-season long-shoot leaves",
+    "Genus has many taxonomic complexes; verify any unusual specimen with fruit, flower and branch traits"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive file; existing species records, photographs, credits and galleries unchanged"
+}
