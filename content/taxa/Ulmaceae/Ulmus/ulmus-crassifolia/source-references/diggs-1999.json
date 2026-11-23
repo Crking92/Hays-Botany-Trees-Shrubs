@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "ulmus-crassifolia",
+  "inventory_scientific_name": "Ulmus crassifolia",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      1039,
+      1040
+    ],
+    "original_treatment_name": "Ulmus crassifolia Nutt.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "HISTORICAL_SPECIES_AND_KEY_TEXT_INSPECTED"
+  },
+  "morphology_documented": {
+    "habit": "Deciduous elm, often on uplands or lowlands",
+    "leaves": "Relatively thick and stiff, blunt to subacute, harshly sandpapery above, usually doubly serrate (genus key)",
+    "twigs": "Some with corky wings, some without (key)",
+    "fruit": "Oblong samara ca. 10 mm long",
+    "flowering": "Autumn"
+  },
+  "source_scope_note": "Direct species-level details separated from genus/key information; absent historical treatments not filled by unsupported inference.",
+  "unresolved_taxonomy_or_source_notes": [
+    "1999 flora emphasizes this is the only native Texas elm in its treatment that flowers in fall",
+    "Contrast with Ulmus alata (spring blooms, acuter, smoother leaves)",
+    "Historical flora discusses prairie invasion with fire suppression; not proof of Hays native status without county check"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "regional_tree_floras": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record only; photos, credits, species records and published site unchanged"
+}
