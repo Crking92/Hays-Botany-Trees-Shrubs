@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "lonicera-japonica",
+  "inventory_scientific_name": "Lonicera japonica",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, Lipscomb & O'Kennon",
+    "year": 1999,
+    "printed_pages": [
+      508
+    ],
+    "original_treatment_name": "Lonicera japonica Thunb.",
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY_VERIFIED"
+  },
+  "historical_synonyms_documented": [],
+  "morphology_documented": {
+    "growth_habit": "Evergreen trailing or twining vine",
+    "stems": "Young stems usually densely pubescent, occasionally nearly glabrous",
+    "leaves": "Opposite and short-petioled; oblong-ovate or oblong-lanceolate, juvenile leaves often pinnatifid; uppermost leaves separate",
+    "flowers": "Fragrant corollas 25–40 mm long, creamy-white or purple-tinged, becoming yellow then brownish; tube externally pubescent; at least two lobes of upper lip united more than halfway; flowers primarily axillary in pairs (genus key)",
+    "fruit": "Black berry 5–8 mm diameter",
+    "habitat": "Cultivated, escaped in disturbed areas, woods and thickets; native to Asia",
+    "phenology": "Mar–Jul"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Species vs. genus or key-level characters distinguished in each entry. No missing traits inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historical flora identifies this as introduced and potentially invasive",
+    "The present flora's 25–40 mm corolla range differs from pre-existing uncited project key values near 45–57 mm; keep this numeric conflict explicit pending source comparison"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "HISTORICAL_FLORA_VERIFIED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive record; original species.json, media, credits and galleries unchanged"
+}
