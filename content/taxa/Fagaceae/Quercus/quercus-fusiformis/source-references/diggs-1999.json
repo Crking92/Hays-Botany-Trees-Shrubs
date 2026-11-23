@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "quercus-fusiformis",
+  "inventory_scientific_name": "Quercus fusiformis",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      712,
+      713,
+      716
+    ],
+    "original_treatment_name": "Quercus fusiformis Small",
+    "historical_synonyms_documented": [
+      "Quercus virginiana Mill. var. fusiformis (Small) Sarg."
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "PRIMARY_SOURCE_TREATMENT_OR_KEY_EXTRACTED"
+  },
+  "morphology_documented": {
+    "habit": "Evergreen shrub to large tree, can spread through root sprouts",
+    "leaves": "Alternate simple evergreen leathery leaves (genus); blades generally broad near base and rounded basally, rather than cuneate like Q. virginiana",
+    "flowers": "Spring, monoecious; drooping staminate catkins and pistillate short spikes (genus)",
+    "fruit": "Fusiform acorns (17–)20–30(–33) mm long, generally longer than wide, acute tip, usually extend more than half their length beyond the cup",
+    "habitat": "Limestone outcrops and well-drained, generally xeric habitats"
+  },
+  "source_scope_note": "Species vs genus/key-level characters distinguished in text; no undocumented characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Historic synonym Q. virginiana var. fusiformis; flora recognizes separate species but discusses extensive hybridization and introgression",
+    "Q. virginiana comparison has usually ovoid, round-ended acorns 15–20(–25) mm long, versus longer fusiform acorns here"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "secondary_source_checks": {
+    "flora_of_north_america": "PENDING",
+    "texas_woody_flora": "PENDING"
+  },
+  "verification_status": "PRIMARY_SOURCE_VERIFIED_SECONDARY_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive research record, existing species cards, original media, credits and galleries unchanged"
+}
