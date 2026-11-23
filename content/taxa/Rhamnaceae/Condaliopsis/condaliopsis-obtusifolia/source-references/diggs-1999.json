@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "condaliopsis-obtusifolia",
+  "inventory_scientific_name": "Condaliopsis obtusifolia",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      936
+    ],
+    "original_treatment_name": "Ziziphus obtusifolia (Hook. ex Torr. & A. Gray) A. Gray",
+    "historical_synonyms_documented": [
+      "Condalia obtusifolia (Hook. ex Torr. & A. Gray) Weberb."
+    ],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY"
+  },
+  "morphology_documented": {
+    "habit": "Densely and rigidly branched thorny shrub to ca. 2 m",
+    "branches": "Glaucous gray or whitish waxy bloom on branchlets",
+    "leaves": "Small and variable, usually below 4 cm; oblong, elliptic or nearly linear; entire or faintly blunt-toothed, obtuse or notched apex, glabrous, gray-green",
+    "flowers": "Small clustered or short axillary racemes, petals ca. 1 mm and falling early",
+    "habitat": "Rocky or sandy ground, mainly western Texas",
+    "flowering": "April and after rainfall"
+  },
+  "secondary_sources": [
+    {
+      "name": "Kew POWO",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:717172-1",
+      "status": "ACCEPTED_NAME_AND_SYNONYM_CHECKED"
+    }
+  ],
+  "source_scope_note": "Genus/key traits explicitly identified; modern secondary evidence separately cited; no unsupported species characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "2026 POWO accepts Condaliopsis obtusifolia; 1999 Diggs uses Ziziphus obtusifolia; other sources still recognize Ziziphus, so preserve provenance",
+    "Difference from Condalia hookeri: gray-glaucous twigs, petals present, small variable leaves vs non-glaucous branches and petal-less flowers"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive file; existing species records, photographs, credits and galleries unchanged"
+}
