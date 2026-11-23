@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "record_type": "authoritative_botanical_source_extraction",
+  "repository": "Crking92/Hays-Botany-Trees-Shrubs",
+  "inventory_species_id": "platanus-occidentalis",
+  "inventory_scientific_name": "Platanus occidentalis",
+  "source": {
+    "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+    "authors": "Diggs, G. M. Jr.; Lipscomb, B. L.; O'Kennon, R. J.",
+    "year": 1999,
+    "printed_pages": [
+      888
+    ],
+    "original_treatment_name": "Platanus occidentalis L.",
+    "historical_synonyms_documented": [],
+    "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+    "status": "DIRECT_HISTORICAL_TREATMENT_OR_KEY"
+  },
+  "morphology_documented": {
+    "habit": "Broad-headed deciduous tree",
+    "bark": "Smooth or flaking bark mottled white tan and green",
+    "leaves": "Alternate large simple leaf blades to ca. 35 × 35 cm, palmately lobed or coarsely toothed, petiole hollow at base and enclosing axillary bud; initially stellate-hairy, sparsely hairy with age",
+    "twigs": "Large connate stipules encircle twig and drop as leaves expand",
+    "flowers": "Staminate and pistillate in separate drooping spherical heads on same tree, long-peduncled",
+    "fruit": "Pistillate fruit heads 3–4 cm diameter, each small indehiscent one-seeded fruit with basal tuft of tan hairs",
+    "habitat": "Stream bottoms",
+    "flowering": "Late Mar–early Apr"
+  },
+  "secondary_sources": [],
+  "source_scope_note": "Genus/key traits explicitly identified; modern secondary evidence separately cited; no unsupported species characters inferred.",
+  "unresolved_taxonomy_or_source_notes": [
+    "Flora warns planted sycamores more frequent than wild specimens at some localities",
+    "Axillary bud enclosed by petiole base is useful unique field character"
+  ],
+  "bonap_county_distribution": {
+    "status": "NOT_YET_VERIFIED",
+    "local_target_zone_result": null,
+    "evidence_url": null
+  },
+  "verification_status": "PRIMARY_SOURCE_EXTRACTED_MODERN_AND_BONAP_PENDING",
+  "review_date": "2026-11-23",
+  "preservation": "Additive file; existing species records, photographs, credits and galleries unchanged"
+}
