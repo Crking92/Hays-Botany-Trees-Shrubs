@@ -1,0 +1,18 @@
+{
+  "record_type": "targeted_taxonomic_reconciliation",
+  "date": "2026-11-24",
+  "inventory_name": "Garrya lindheimeri Torr.",
+  "historical_name_in_floral_treatment": "Garrya ovata subsp. lindheimeri (Torr.) Dahling",
+  "historical_floral_source": "Shinners & Mahler's Illustrated Flora of North Central Texas (1999), printed page 723",
+  "modern_authority": "Kew Plants of the World Online; Flora of North America vol. 12 (2016) as followed by Kew",
+  "modern_accepted_name": "Garrya lindheimeri Torr.",
+  "taxonomic_decision": "RESOLVED: Kew treats G. ovata subsp. lindheimeri as a homotypic synonym of accepted species G. lindheimeri. Retain source name and measurements associated with 1999 species concept; avoid silently applying characteristics of other G. ovata forms.",
+  "sources": [
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:107490-2",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:880960-1"
+  ],
+  "remaining_scope": "Any specimen-level or identification characters need independent morphology verification; no county-range judgment made",
+  "status": "HISTORICAL_NAME_CROSSWALK_RESOLVED",
+  "bonap_county_distribution": "DEFERRED",
+  "preservation": "Research-only additive file; existing taxonomy/photographs/credits untouched"
+}
